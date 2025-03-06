@@ -356,14 +356,14 @@
             ]
         },
         {
-            "title": "Abercrombie & Fitch Co. Reports Fourth Quarter and Full Year Results",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037317/0/en/Abercrombie-Fitch-Co-Reports-Fourth-Quarter-and-Full-Year-Results.html",
-            "time_published": "20250305T123000",
+            "title": "Martinrea International Inc. Reports Year End and Fourth Quarter Results and Announces Dividend",
+            "url": "https://www.globenewswire.com/news-release/2025/03/06/3038678/0/en/Martinrea-International-Inc-Reports-Year-End-and-Fourth-Quarter-Results-and-Announces-Dividend.html",
+            "time_published": "20250306T220100",
             "authors": [
-                "Abercrombie & Fitch Management Co."
+                "Martinrea International Inc."
             ],
-            "summary": "NEW ALBANY, Ohio, March 05, 2025 ( GLOBE NEWSWIRE ) -- Abercrombie & Fitch Co. ( NYSE: ANF ) today announced results for the thirteen week fourth quarter and fifty-two week year ended February 1, 2025. These compare to results for the fourteen week fourth quarter and fifty-three week year ended ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/a9d54a34-dfff-4812-b4d4-8c8e44c90445",
+            "summary": "TORONTO, March 06, 2025 ( GLOBE NEWSWIRE ) -- Martinrea International Inc. ( TSX : MRE ) , a diversified and global automotive supplier engaged in the design, development and manufacturing of highly engineered, value-added Lightweight Structures and Propulsion Systems, today announced the ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/b942f0a7-03f6-45d9-8b9e-c68370448257",
             "source": "GlobeNewswire",
             "category_within_source": "n/a",
             "source_domain": "www.globenewswire.com",
@@ -374,38 +374,153 @@
                 },
                 {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
+                    "relevance_score": "0.158519"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.980716"
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
                 },
                 {
                     "topic": "Earnings",
                     "relevance_score": "1.0"
                 },
                 {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.451494"
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
                 }
             ],
-            "overall_sentiment_score": 0.155931,
-            "overall_sentiment_label": "Somewhat-Bullish",
+            "overall_sentiment_score": 0.13733,
+            "overall_sentiment_label": "Neutral",
             "ticker_sentiment": [
                 {
-                    "ticker": "ANF",
-                    "relevance_score": "0.092876",
-                    "ticker_sentiment_score": "-0.041979",
+                    "ticker": "META",
+                    "relevance_score": "0.007478",
+                    "ticker_sentiment_score": "0.123464",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "CURN",
-                    "relevance_score": "0.053153",
-                    "ticker_sentiment_score": "-0.06801",
+                    "ticker": "MRETF",
+                    "relevance_score": "0.052307",
+                    "ticker_sentiment_score": "0.083961",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.037375",
+                    "ticker_sentiment_score": "0.0369",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.037375",
+                    "ticker_sentiment_score": "0.048662",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.037375",
+                    "ticker_sentiment_score": "0.048662",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.014955",
+                    "ticker_sentiment_score": "0.00858",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.037375",
+                    "ticker_sentiment_score": "0.048662",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Martinrea International Inc. Reports Year End and Fourth Quarter Results and Announces Dividend",
+            "url": "https://www.benzinga.com/pressreleases/25/03/g44181190/martinrea-international-inc-reports-year-end-and-fourth-quarter-results-and-announces-dividend",
+            "time_published": "20250306T220100",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "TORONTO, March 06, 2025 ( GLOBE NEWSWIRE ) -- Martinrea International Inc. ( TSX : MRE ) , a diversified and global automotive supplier engaged in the design, development and manufacturing of highly engineered, value-added Lightweight Structures and Propulsion Systems, today announced the ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.118697,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.007065",
+                    "ticker_sentiment_score": "0.123073",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MRETF",
+                    "relevance_score": "0.091644",
+                    "ticker_sentiment_score": "0.126267",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.035314",
+                    "ticker_sentiment_score": "0.035655",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:UYU",
+                    "relevance_score": "0.035314",
+                    "ticker_sentiment_score": "0.061783",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:MXN",
+                    "relevance_score": "0.035314",
+                    "ticker_sentiment_score": "0.061783",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.014129",
+                    "ticker_sentiment_score": "0.009369",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.035314",
+                    "ticker_sentiment_score": "0.061783",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -2326,34 +2441,6 @@
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
-        },
-        {
-            "title": "Abercrombie & Fitch shares fall after star retailer posts weak guidance for year ahead",
-            "url": "https://www.cnbc.com/2025/03/05/abercrombie-fitch-anf-q4-2024-earnings.html",
-            "time_published": "20250305T125618",
-            "authors": [],
-            "summary": "Abercrombie & Fitch's business may be leveling out after two years of explosive growth.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Business",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.904684"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                }
-            ],
-            "overall_sentiment_score": 0.202239,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": []
         }
     ]
 }
