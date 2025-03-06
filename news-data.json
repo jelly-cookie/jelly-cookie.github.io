@@ -63,83 +63,6 @@
             "ticker_sentiment": []
         },
         {
-            "title": "Best Buy  ( BBY )  Q4 2025 Earnings Call Transcript",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/03/04/best-buy-bby-q4-2025-earnings-call-transcript/",
-            "time_published": "20250304T213022",
-            "authors": [
-                "Motley Fool Transcribing"
-            ],
-            "summary": "BBY earnings call for the period ending December 31, 2024.",
-            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.280221,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BBY",
-                    "relevance_score": "0.142169",
-                    "ticker_sentiment_score": "0.179305",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.004204",
-                    "ticker_sentiment_score": "0.143283",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BCS",
-                    "relevance_score": "0.004204",
-                    "ticker_sentiment_score": "0.112016",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.004204",
-                    "ticker_sentiment_score": "0.112016",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NTDOF",
-                    "relevance_score": "0.004204",
-                    "ticker_sentiment_score": "0.131876",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
             "title": "Victoria's Secret & Co. Reports Fourth Quarter 2024 Results",
             "url": "https://www.globenewswire.com/news-release/2025/03/05/3037774/0/en/Victoria-s-Secret-Co-Reports-Fourth-Quarter-2024-Results.html",
             "time_published": "20250305T211500",
@@ -573,42 +496,56 @@
             ]
         },
         {
-            "title": "China boosts budget deficit target to 'around 4%' of gross domestic product in a rare move",
-            "url": "https://www.cnbc.com/2025/03/05/china-reportedly-targets-fiscal-budget-deficit-at-4percent-of-gdp.html",
-            "time_published": "20250305T004000",
-            "authors": [],
-            "summary": "China on Wednesday announced plans to raise its fiscal deficit to around 4% of gross domestic product, a rare increase that marks a meaningful shift in policy.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Finance",
-            "source_domain": "www.cnbc.com",
+            "title": "Trade deficit hits record high in January as companies import goods to avoid tariffs",
+            "url": "https://www.marketwatch.com/story/trade-deficit-soars-to-record-high-in-january-b94b5c42",
+            "time_published": "20250306T144200",
+            "authors": [
+                "Greg Robb"
+            ],
+            "summary": "The U.S. international trade deficit widened 34% in January to $131.4 billion, the Commerce Department said Thursday. It's the widest deficit going back to the start of the series in 1992.",
+            "banner_image": "https://images.mktw.net/im-98393810?width=1260&height=840",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
             "topics": [
                 {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
+                    "relevance_score": "0.158519"
                 }
             ],
-            "overall_sentiment_score": -0.087061,
-            "overall_sentiment_label": "Neutral",
+            "overall_sentiment_score": -0.27917,
+            "overall_sentiment_label": "Somewhat-Bearish",
             "ticker_sentiment": []
         },
         {
-            "title": "Target  ( TGT )  Q4 2024 Earnings Call Transcript",
-            "url": "https://www.fool.com/earnings/call-transcripts/2025/03/04/target-tgt-q4-2024-earnings-call-transcript/",
-            "time_published": "20250304T213015",
+            "title": "Toro's Q1 Sales Miss Expectations, Weighed Down by Material Costs and Promotions - Toro  ( NYSE:TTC ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/03/44166258/toros-q1-sales-miss-expectations-weighed-down-by-material-costs-and-promotions",
+            "time_published": "20250306T144007",
             "authors": [
-                "Motley Fool Transcribing"
+                "Lekha Gupta"
             ],
-            "summary": "TGT earnings call for the period ending December 31, 2024.",
-            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
+            "summary": "Toro reports Q1 sales decline 1% Y/Y to $995M, missing consensus; EPS beats estimates at $0.65. The company reaffirms FY25 sales growth of 0%-1%, with adjusted EPS outlook of $4.25-$4.40.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/Bloomington--Mn---usa---August-12--2015-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
             "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.94762"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.905476"
+                },
                 {
                     "topic": "Technology",
                     "relevance_score": "0.333333"
@@ -616,77 +553,33 @@
                 {
                     "topic": "Finance",
                     "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
                 }
             ],
-            "overall_sentiment_score": 0.342432,
+            "overall_sentiment_score": 0.208176,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "SHOP",
-                    "relevance_score": "0.001998",
-                    "ticker_sentiment_score": "0.077756",
+                    "ticker": "TTC",
+                    "relevance_score": "0.350564",
+                    "ticker_sentiment_score": "-0.012703",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "META",
-                    "relevance_score": "0.001998",
-                    "ticker_sentiment_score": "0.1407",
+                    "ticker": "IVZ",
+                    "relevance_score": "0.072435",
+                    "ticker_sentiment_score": "0.235273",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "INSM",
+                    "relevance_score": "0.072435",
+                    "ticker_sentiment_score": "0.09462",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "C",
-                    "relevance_score": "0.001998",
-                    "ticker_sentiment_score": "0.029285",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ULTA",
-                    "relevance_score": "0.003996",
-                    "ticker_sentiment_score": "0.121932",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SBUX",
-                    "relevance_score": "0.005994",
-                    "ticker_sentiment_score": "0.115137",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.001998",
-                    "ticker_sentiment_score": "0.030813",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "WRBY",
-                    "relevance_score": "0.001998",
-                    "ticker_sentiment_score": "0.109017",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "AWON",
-                    "relevance_score": "0.001998",
-                    "ticker_sentiment_score": "0.142445",
+                    "ticker": "UBER",
+                    "relevance_score": "0.072435",
+                    "ticker_sentiment_score": "0.09462",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -726,6 +619,95 @@
                     "ticker": "MPNGY",
                     "relevance_score": "0.075874",
                     "ticker_sentiment_score": "0.083856",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 BlackRock Mutual Funds to Accumulate for Long-Term Gains",
+            "url": "https://www.zacks.com/stock/news/2426476/3-blackrock-mutual-funds-to-accumulate-for-long-term-gains",
+            "time_published": "20250306T131800",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Invest in BlackRock mutual funds like BMCAX, BDMAX and MDBAX that have given impressive returns in the past and are expected to do the same in 2025 and beyond.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f8/614.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.247213,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.048075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.049043",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.048075",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.078482",
+                    "ticker_sentiment_score": "0.050644",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.047107",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.049043",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCZ",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.047107",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
