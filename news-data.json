@@ -427,73 +427,30 @@
             ]
         },
         {
-            "title": "Trump's Congressional Address: Taps Elon Musk For Government Overhaul, Revives 'Drill Baby Drill' For Energy Boom - Apple  ( NASDAQ:AAPL ) , Oracle  ( NYSE:ORCL ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/03/44133368/trumps-congressional-address-taps-elon-musk-for-government-overhaul-revives-drill-baby-drill-for",
-            "time_published": "20250305T032619",
+            "title": "Friday could be critical for investors, with a jobs report and a Powell speech",
+            "url": "https://www.marketwatch.com/story/friday-could-be-a-critical-day-for-investors-with-a-high-stakes-jobs-report-and-a-powell-speech-74d133c3",
+            "time_published": "20250306T154500",
             "authors": [
-                "Kaustubh Bagalkote"
+                "Joy Wiltermuth"
             ],
-            "summary": "President Donald Trump delivered a wide-ranging congressional address that touched on critical economic issues, with particular emphasis on electric vehicles, energy production, and government efficiency.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Trumps-Frustration.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
+            "summary": "U.S. stocks are falling, leaving the Nasdaq on the cusp of a correction.",
+            "banner_image": "https://images.mktw.net/im-69674135?width=1260&height=840",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
             "topics": [
                 {
                     "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
                     "relevance_score": "0.310843"
                 },
                 {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
                 }
             ],
-            "overall_sentiment_score": 0.247575,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "ORCL",
-                    "relevance_score": "0.160099",
-                    "ticker_sentiment_score": "0.156021",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.160099",
-                    "ticker_sentiment_score": "0.156021",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.160099",
-                    "ticker_sentiment_score": "0.078036",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "SFTBF",
-                    "relevance_score": "0.160099",
-                    "ticker_sentiment_score": "0.156021",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSM",
-                    "relevance_score": "0.160099",
-                    "ticker_sentiment_score": "0.156021",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
+            "overall_sentiment_score": -0.214355,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": []
         },
         {
             "title": "Trade deficit hits record high in January as companies import goods to avoid tariffs",
@@ -580,6 +537,65 @@
                     "ticker": "UBER",
                     "relevance_score": "0.072435",
                     "ticker_sentiment_score": "0.09462",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Quanex to Report Q1 Earnings: What Could Drive the Results?",
+            "url": "https://www.zacks.com/stock/news/2426514/quanex-to-report-q1-earnings-what-could-drive-the-results",
+            "time_published": "20250306T135500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "NX is expected to have a muted start to fiscal 2025, with lower volumes weighing on performance.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/52/1129.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.132586,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NX",
+                    "relevance_score": "0.151778",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWI",
+                    "relevance_score": "0.076236",
+                    "ticker_sentiment_score": "0.126496",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROCK",
+                    "relevance_score": "0.076236",
+                    "ticker_sentiment_score": "-0.049289",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MAS",
+                    "relevance_score": "0.076236",
+                    "ticker_sentiment_score": "-0.039894",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -2390,63 +2406,6 @@
                     "relevance_score": "0.263942",
                     "ticker_sentiment_score": "0.239337",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "CK Hutchison leads Hong Kong stock surge as trade-war jitters ease",
-            "url": "https://www.scmp.com/business/china-business/article/3301087/ck-hutchison-leads-rise-hong-kong-stocks-chinas-npc-opens-trade-war-jitters-ease",
-            "time_published": "20250305T022731",
-            "authors": [
-                "Zhang Shidong"
-            ],
-            "summary": "CK jumped after agreeing to sell assets worth US$23 billion including ports near the Panama Canal.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/05/f6d0a56b-f954-4b7b-8ce6-aca8cced9ab8_0bc89732.jpg?itok=2UJsNJIQ&v=1741141648",
-            "source": "South China Morning Post",
-            "category_within_source": "Business",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.048603,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BABA",
-                    "relevance_score": "0.123526",
-                    "ticker_sentiment_score": "0.143546",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CKHUF",
-                    "relevance_score": "0.244109",
-                    "ticker_sentiment_score": "0.08474",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NMR",
-                    "relevance_score": "0.123526",
-                    "ticker_sentiment_score": "-0.223403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "MS",
-                    "relevance_score": "0.123526",
-                    "ticker_sentiment_score": "-0.223403",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                },
-                {
-                    "ticker": "TCTZF",
-                    "relevance_score": "0.123526",
-                    "ticker_sentiment_score": "0.143546",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
