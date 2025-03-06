@@ -692,6 +692,102 @@
             ]
         },
         {
+            "title": "Chinese tech firms from Huawei to Inspur push 'all-in-one' DeepSeek AI servers",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3301347/chinese-tech-firms-huawei-inspur-push-all-one-deepseek-ai-servers",
+            "time_published": "20250306T130009",
+            "authors": [
+                "Xinmei Shen"
+            ],
+            "summary": "More than 30 Chinese server manufacturers now produce machines embedded with DeepSeek's AI models.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/9bafa37b-bce5-4fd3-a601-c69cde7cc8aa_d642b21c.jpg?itok=YQN9RLSI&v=1741261654",
+            "source": "South China Morning Post",
+            "category_within_source": "Money",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.167899,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LNVGF",
+                    "relevance_score": "0.102668",
+                    "ticker_sentiment_score": "0.110322",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.102668",
+                    "ticker_sentiment_score": "-0.048522",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.051441",
+                    "ticker_sentiment_score": "0.04498",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CNICF",
+                    "relevance_score": "0.051441",
+                    "ticker_sentiment_score": "0.011968",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Global bonds sell off as investors react to Trump's tariffs and a German 'paradigm shift'",
+            "url": "https://www.cnbc.com/2025/03/06/bond-yields-rise-globally-german-bunds-continue-selloff.html",
+            "time_published": "20250306T124355",
+            "authors": [],
+            "summary": "Government bonds were selling off all over the world on Thursday, with German borrowing costs hovering at multi-decade highs.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.007196,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.03786",
+                    "ticker_sentiment_score": "-0.131579",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.150592",
+                    "ticker_sentiment_score": "0.020711",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Alibaba Expands AI Push With New QwQ-32B Model Taking on DeepSeek In China's AI Race - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
             "url": "https://www.benzinga.com/25/03/44162389/alibaba-expands-ai-push-with-new-qwq-32b-model-taking-on-deepseek-in-chinas-ai-race",
             "time_published": "20250306T120559",
@@ -2387,116 +2483,6 @@
                     "ticker": "CURN",
                     "relevance_score": "0.036587",
                     "ticker_sentiment_score": "0.019512",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "CFPB Drops Zelle Fraud Reimbursement Case Against JPMorgan, Wells Fargo - Bank of America  ( NYSE:BAC ) , JPMorgan Chase  ( NYSE:JPM ) ",
-            "url": "https://www.benzinga.com/news/legal/25/03/44122330/cfpb-drops-zelle-fraud-reimbursement-case-against-jpmorgan-wells-fargo",
-            "time_published": "20250304T193619",
-            "authors": [
-                "Hayden Buckfire"
-            ],
-            "summary": "The CFPB dropped a lawsuit against Zelle, JPMorgan, Bank of America and Wells Fargo on Tuesday. The lawsuit alleged the banks did not sufficiently protect customers from fraud on Zelle. Every week, our Whisper Index uncovers five overlooked stocks with big breakout potential.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Digital-Banking-Network--Internet-Paymen.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.156118,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.370143",
-                    "ticker_sentiment_score": "-0.430496",
-                    "ticker_sentiment_label": "Bearish"
-                },
-                {
-                    "ticker": "WFC",
-                    "relevance_score": "0.370143",
-                    "ticker_sentiment_score": "-0.430496",
-                    "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Donald Trump's Bitcoin, XRP, Cardano Reserve Proposal Drives Wedge In Crypto Industry",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44120900/donald-trumps-bitcoin-xrp-cardano-reserve-proposal-drives-wedge-in-crypto-industry",
-            "time_published": "20250304T185147",
-            "authors": [
-                "Murtuza Merchant"
-            ],
-            "summary": "DOGE's $1 trillion spending cut goal clashes with the reserve, fueling criticism from fiscal conservatives in 2025. Bitcoin surged to $92,000 after Trump's March announcement, but critics see benefits skewed to wealthy investors. Every week, our Whisper Index uncovers five overlooked stocks with ...",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Trump-crypto.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.576289"
-                }
-            ],
-            "overall_sentiment_score": -0.009879,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOX",
-                    "relevance_score": "0.039483",
-                    "ticker_sentiment_score": "-0.123362",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.344074",
-                    "ticker_sentiment_score": "0.042447",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.118064",
-                    "ticker_sentiment_score": "0.140806",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:SOL",
-                    "relevance_score": "0.118064",
-                    "ticker_sentiment_score": "0.092626",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:ADA",
-                    "relevance_score": "0.07887",
-                    "ticker_sentiment_score": "0.126981",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CRYPTO:XRP",
-                    "relevance_score": "0.118064",
-                    "ticker_sentiment_score": "0.092626",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
