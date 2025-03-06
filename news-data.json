@@ -1,3 +1,2505 @@
 {
-    "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "All negative economic data is 'Biden data' and Trump will fix the economy, Commerce chief Lutnick says",
+            "url": "https://www.cnbc.com/2025/03/05/trump-commerce-chief-lutnick-blames-biden-for-economy.html",
+            "time_published": "20250305T163441",
+            "authors": [],
+            "summary": "The stock market dropped sharply in recent days as investors worried about the effects of new tariffs on Canada and Mexico by President Trump.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.107894,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOX",
+                    "relevance_score": "0.050359",
+                    "ticker_sentiment_score": "-0.071424",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What economists get wrong about tariff wars",
+            "url": "https://www.ft.com/content/61f289b7-a953-4067-a8a3-9bb1ba7f16da",
+            "time_published": "20250305T102209",
+            "authors": [],
+            "summary": "The history of global trade challenges Ricardo's enduring economic theory ...",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0930761-08fe-49f7-a821-7fd199c7aa44.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Economy",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.099567,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Best Buy  ( BBY )  Q4 2025 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/03/04/best-buy-bby-q4-2025-earnings-call-transcript/",
+            "time_published": "20250304T213022",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "BBY earnings call for the period ending December 31, 2024.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.280221,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.142169",
+                    "ticker_sentiment_score": "0.179305",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.004204",
+                    "ticker_sentiment_score": "0.143283",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.004204",
+                    "ticker_sentiment_score": "0.112016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.004204",
+                    "ticker_sentiment_score": "0.112016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.004204",
+                    "ticker_sentiment_score": "0.131876",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Victoria's Secret & Co. Reports Fourth Quarter 2024 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037774/0/en/Victoria-s-Secret-Co-Reports-Fourth-Quarter-2024-Results.html",
+            "time_published": "20250305T211500",
+            "authors": [
+                "VS Service Company",
+                "LLC"
+            ],
+            "summary": "Fourth quarter comparable sales increase 5%Operating Income and EPS exceed expectationsProvides initial full year and first quarter 2025 guidance ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/93a4cb1c-d249-4760-a280-6cd41d66b24c",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999594"
+                }
+            ],
+            "overall_sentiment_score": 0.312298,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "VSCO",
+                    "relevance_score": "0.136113",
+                    "ticker_sentiment_score": "0.255685",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Trump's 'U.S. DOGE Service' Claims $65B In Savings-Experts Call It 'Smoke And Mirrors' Amid Resignations",
+            "url": "https://www.benzinga.com/news/25/03/44143475/trumps-u-s-doge-service-claims-65b-in-savings-experts-call-it-smoke-and-mirrors-amid-resignations",
+            "time_published": "20250305T151912",
+            "authors": [
+                "LaToya Scott"
+            ],
+            "summary": "Elon Musk is backing a bold idea: a $5,000 refund for American taxpayers. Sounds great, but there's a catch-Congress isn't on board, and since they control federal spending, it's unclear how this could actually happen as reported by Business Insider.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/What-Happened_2.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.140645,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.06211",
+                    "ticker_sentiment_score": "0.281446",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "When it comes to Social Security 'fraud,' Trump will have to put up or shut up",
+            "url": "https://www.marketwatch.com/story/when-it-comes-to-social-security-fraud-trump-will-have-to-put-up-or-shut-up-289f3c53",
+            "time_published": "20250305T151400",
+            "authors": [
+                "Brett Arends"
+            ],
+            "summary": "20 million fake numbers? Show us the money.",
+            "banner_image": "https://images.mktw.net/im-33522306?width=1260&height=840",
+            "source": "MarketWatch",
+            "category_within_source": "Top Stories",
+            "source_domain": "www.marketwatch.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.03452,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "China widens fiscal window to step up spending, counteract US tariffs",
+            "url": "https://www.scmp.com/economy/policy/article/3301182/china-widens-fiscal-window-step-spending-counteract-us-tariffs",
+            "time_published": "20250305T140009",
+            "authors": [
+                "Ji Siqi"
+            ],
+            "summary": "An increase to China's fiscal deficit ratio, its highest ceiling ever, indicates more spending and a more 'proactive' policy are in store.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/05/b77c2bc0-7b0f-4bb8-8993-ae27253d5bda_5c24d01e.jpg?itok=HBUzL3ja&v=1741170722",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.136446,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCQEF",
+                    "relevance_score": "0.042496",
+                    "ticker_sentiment_score": "-0.012867",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.084871",
+                    "ticker_sentiment_score": "0.118436",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Germany's fiscal U-turn could be a 'game changer' for the country's sluggish economy, analysts say",
+            "url": "https://www.cnbc.com/2025/03/05/germanys-fiscal-u-turn-could-be-a-game-changer-for-the-countrys-sluggish-economy-analysts-say.html",
+            "time_published": "20250305T130444",
+            "authors": [],
+            "summary": "Leaders of the likely incoming coalition government announced plans to reform the debt brake and create a special investment fund.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Economy",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                }
+            ],
+            "overall_sentiment_score": 0.057812,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.038843",
+                    "ticker_sentiment_score": "0.016647",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.077593",
+                    "ticker_sentiment_score": "0.080481",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Abercrombie & Fitch Co. Reports Fourth Quarter and Full Year Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037317/0/en/Abercrombie-Fitch-Co-Reports-Fourth-Quarter-and-Full-Year-Results.html",
+            "time_published": "20250305T123000",
+            "authors": [
+                "Abercrombie & Fitch Management Co."
+            ],
+            "summary": "NEW ALBANY, Ohio, March 05, 2025 ( GLOBE NEWSWIRE ) -- Abercrombie & Fitch Co. ( NYSE: ANF ) today announced results for the thirteen week fourth quarter and fifty-two week year ended February 1, 2025. These compare to results for the fourteen week fourth quarter and fifty-three week year ended ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/a9d54a34-dfff-4812-b4d4-8c8e44c90445",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980716"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.155931,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ANF",
+                    "relevance_score": "0.092876",
+                    "ticker_sentiment_score": "-0.041979",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.053153",
+                    "ticker_sentiment_score": "-0.06801",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "THOR Industries Announces Second Quarter Fiscal 2025 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037245/0/en/THOR-Industries-Announces-Second-Quarter-Fiscal-2025-Results.html",
+            "time_published": "20250305T113000",
+            "authors": [
+                "Thor Industries"
+            ],
+            "summary": "POISED FOR A MARKET RETURN ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/d692e53a-d76c-4a2f-bedc-a7053dbd63bd",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.917436"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.204609,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.013764",
+                    "ticker_sentiment_score": "0.080924",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "THO",
+                    "relevance_score": "0.08244",
+                    "ticker_sentiment_score": "0.159188",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.013764",
+                    "ticker_sentiment_score": "0.02131",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "As President Trump's Tariffs Take Effect, Should You Really Buy Stocks? Here's What History Says.",
+            "url": "https://www.fool.com/investing/2025/03/05/as-trumps-tariffs-launch-should-you-buy-stocks/",
+            "time_published": "20250305T104000",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "The past couple of weeks have been tough for investors. All three major benchmarks -- the S&P 500 ( SNPINDEX: ^GSPC ) , the Dow Jones Industrial Average ( DJINDICES: ^DJI ) , and the Nasdaq Composite ( NASDAQINDEX: ^IXIC ) -- have dropped, halting at least temporarily what looked like unstoppable ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809943%2Fgettyimages-2184114255-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.048649,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.123951",
+                    "ticker_sentiment_score": "0.035427",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.041466",
+                    "ticker_sentiment_score": "-0.024867",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trump's Congressional Address: Taps Elon Musk For Government Overhaul, Revives 'Drill Baby Drill' For Energy Boom - Apple  ( NASDAQ:AAPL ) , Oracle  ( NYSE:ORCL ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/03/44133368/trumps-congressional-address-taps-elon-musk-for-government-overhaul-revives-drill-baby-drill-for",
+            "time_published": "20250305T032619",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "President Donald Trump delivered a wide-ranging congressional address that touched on critical economic issues, with particular emphasis on electric vehicles, energy production, and government efficiency.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Trumps-Frustration.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.247575,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ORCL",
+                    "relevance_score": "0.160099",
+                    "ticker_sentiment_score": "0.156021",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.160099",
+                    "ticker_sentiment_score": "0.156021",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.160099",
+                    "ticker_sentiment_score": "0.078036",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.160099",
+                    "ticker_sentiment_score": "0.156021",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.160099",
+                    "ticker_sentiment_score": "0.156021",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "China boosts budget deficit target to 'around 4%' of gross domestic product in a rare move",
+            "url": "https://www.cnbc.com/2025/03/05/china-reportedly-targets-fiscal-budget-deficit-at-4percent-of-gdp.html",
+            "time_published": "20250305T004000",
+            "authors": [],
+            "summary": "China on Wednesday announced plans to raise its fiscal deficit to around 4% of gross domestic product, a rare increase that marks a meaningful shift in policy.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Finance",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": -0.087061,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Target  ( TGT )  Q4 2024 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/03/04/target-tgt-q4-2024-earnings-call-transcript/",
+            "time_published": "20250304T213015",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "TGT earnings call for the period ending December 31, 2024.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.342432,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.001998",
+                    "ticker_sentiment_score": "0.077756",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.001998",
+                    "ticker_sentiment_score": "0.1407",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.001998",
+                    "ticker_sentiment_score": "0.029285",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ULTA",
+                    "relevance_score": "0.003996",
+                    "ticker_sentiment_score": "0.121932",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.005994",
+                    "ticker_sentiment_score": "0.115137",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.001998",
+                    "ticker_sentiment_score": "0.030813",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WRBY",
+                    "relevance_score": "0.001998",
+                    "ticker_sentiment_score": "0.109017",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.001998",
+                    "ticker_sentiment_score": "0.142445",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Alibaba Expands AI Push With New QwQ-32B Model Taking on DeepSeek In China's AI Race - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
+            "url": "https://www.benzinga.com/25/03/44162389/alibaba-expands-ai-push-with-new-qwq-32b-model-taking-on-deepseek-in-chinas-ai-race",
+            "time_published": "20250306T120559",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Alibaba launches QwQ-32B AI model, rivaling DeepSeek's R1, as China ramps up AI and tech investments. Alibaba commits $53B to cloud and AI, expanding its AI leadership amid growing government support and market competition. Every week, our Whisper Index uncovers five overlooked stocks with big ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/In-This-Photo-Illustration--The-Qwen-ali.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.232888,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.795641",
+                    "ticker_sentiment_score": "0.320966",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Burlington Stores, Inc. Reports Fourth Quarter and Full Year 2024 Earnings",
+            "url": "https://www.globenewswire.com/news-release/2025/03/06/3038048/0/en/Burlington-Stores-Inc-Reports-Fourth-Quarter-and-Full-Year-2024-Earnings.html",
+            "time_published": "20250306T114500",
+            "authors": [
+                "Burlington Coat Factory Warehouse Corporation"
+            ],
+            "summary": "BURLINGTON, N.J., March 06, 2025 ( GLOBE NEWSWIRE ) -- Burlington Stores, Inc. ( NYSE: BURL ) , a nationally recognized off-price retailer of high-quality, branded apparel, footwear, accessories, and merchandise for the home at everyday low prices, today announced its results for the 13 weeks ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/dde2965f-3740-4129-adc4-fbe2d360beff",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.459462"
+                }
+            ],
+            "overall_sentiment_score": 0.214431,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BURL",
+                    "relevance_score": "0.056169",
+                    "ticker_sentiment_score": "0.048954",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Chinese ratings agency downgrades Thailand over crime, economic prospects",
+            "url": "https://www.scmp.com/economy/china-economy/article/3301316/chinese-credit-ratings-firm-downgrades-thailand-over-crime-scandals-and-economic-prospects",
+            "time_published": "20250306T100029",
+            "authors": [
+                "Ralph Jennings"
+            ],
+            "summary": "High-profile incidents including the abduction of a Chinese actor threaten to tarnish Thailand's image as a tourist hotspot.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/a388dd60-8505-4851-99da-4fd1b04bd166_2eb42a1d.jpg?itok=_tqPfYnl&v=1741253046",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": -0.115621,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.063594",
+                    "ticker_sentiment_score": "-0.35115",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Is the Stock Market Going to Crash? A New Fed Forecast Offers a Big  ( and Ominous )  Clue.",
+            "url": "https://www.fool.com/investing/2025/03/06/is-stock-market-going-to-crash-fed-forecast-clue/",
+            "time_published": "20250306T095100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Excluding the COVID-19 pandemic, this would mark a first for the U.S. economy since 2009.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809814%2Fbear-market-stock-chart-quarter-report-financial-metrics-invest-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.972193"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999986"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.058057,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.036365",
+                    "ticker_sentiment_score": "-0.163392",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Automobile retail sales drop 7 pc in Feb amid slowing demand: FADA - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/automobile-retail-sales-drop-7-pc-in-feb-amid-slowing-demand-fada/118757049",
+            "time_published": "20250306T090433",
+            "authors": [
+                "ETCFO"
+            ],
+            "summary": "Automobile retail sales in India fell by 7% in February, with declines across passenger vehicles, two-wheelers, commercial vehicles, and tractors. Dealers raised concerns over inventory management and emphasized the need for aligning wholesale allocations with demand to protect their viability.",
+            "banner_image": "https://etimg.etb2bimg.com/thumb/msid-118757049,imgsize-39584,width-1200,height=765,overlay-etcfo/economy/automobile-retail-sales-drop-7-pc-in-feb-amid-slowing-demand-fada.jpg",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.200474,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CVGI",
+                    "relevance_score": "0.080458",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Macroscope | What could force Trump to back down? Markets, if they wake up",
+            "url": "https://www.scmp.com/opinion/world-opinion/article/3301249/what-could-force-trump-back-down-markets-if-they-wake",
+            "time_published": "20250306T083009",
+            "authors": [
+                "Nicholas Spiro"
+            ],
+            "summary": "Higher inflation, a sharp slowdown or both point to a much bleaker outlook for the US than markets anticipated when Trump won the election.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/076ee558-a87d-4dd5-99d8-3d50a40cfe13_a4751e19.jpg?itok=EXCaDisQ&v=1741243947",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999955"
+                }
+            ],
+            "overall_sentiment_score": -0.093507,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.041975",
+                    "ticker_sentiment_score": "-0.085126",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Tyson, Molson Coors Beverage, Primo Brands, Lancaster and Utz Brands",
+            "url": "https://www.zacks.com/stock/news/2426353/the-zacks-analyst-blog-tyson-molson-coors-beverage-primo-brands-lancaster-and-utz-brands",
+            "time_published": "20250306T081000",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "Tyson, Molson Coors Beverage, Primo Brands, Lancaster and Utz Brands are included in this Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/23/2376.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99793"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.260711,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LANC",
+                    "relevance_score": "0.165598",
+                    "ticker_sentiment_score": "0.116101",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PRMB",
+                    "relevance_score": "0.21956",
+                    "ticker_sentiment_score": "0.142871",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TAP",
+                    "relevance_score": "0.21956",
+                    "ticker_sentiment_score": "0.203994",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UTZ",
+                    "relevance_score": "0.246167",
+                    "ticker_sentiment_score": "0.142039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ICNB",
+                    "relevance_score": "0.027795",
+                    "ticker_sentiment_score": "0.243513",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.246167",
+                    "ticker_sentiment_score": "0.369798",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/03/06/3037935/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+            "time_published": "20250306T070000",
+            "authors": [
+                "NB Private Equity Partners Limited"
+            ],
+            "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                }
+            ],
+            "overall_sentiment_score": 0.236207,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NBPVF",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.192875",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights NVIDIA, Vertiv and Palantir",
+            "url": "https://www.zacks.com/stock/news/2426342/zacks-investment-ideas-feature-highlights-nvidia-vertiv-and-palantir",
+            "time_published": "20250306T070000",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "NVIDIA, Vertiv and Palantir have been highlighted in this Investment Ideas article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ad/522.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.962106"
+                }
+            ],
+            "overall_sentiment_score": 0.397187,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.345809",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "VRT",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.342134",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Earnings Trends Highlights: Target and Best Buy",
+            "url": "https://www.zacks.com/stock/news/2426340/zacks-earnings-trends-highlights-target-and-best-buy",
+            "time_published": "20250306T064700",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Target and Best Buy have been highlighted in this Earnings Trends article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.172667,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.264351",
+                    "ticker_sentiment_score": "0.156096",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.264351",
+                    "ticker_sentiment_score": "0.036143",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Alibaba Soars 7% On AI Push As China Pledges To 'Vigorously Boost' Spending - Hang Seng Reaches 2-Year High - Alibaba Gr Hldgs  ( NYSE:BABA ) , Alibaba Gr Hldgs  ( OTC:BABAF ) ",
+            "url": "https://www.benzinga.com/25/03/44158266/alibaba-jumps-7-on-deepseek-rival-launch-as-china-pledges-to-vigorously-boost-consumption-hang-seng-hits-2-year-h",
+            "time_published": "20250306T044254",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Hong Kong stocks surged Thursday morning, with the Hang Seng Index climbing 2.5% to 24,183.07, reaching its highest level since January 2022 and extending its year-to-date gains to 23.37%.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/Investor-Caution-in-Asia.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.206731,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.312158",
+                    "ticker_sentiment_score": "0.322181",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.106541",
+                    "ticker_sentiment_score": "0.060502",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIDU",
+                    "relevance_score": "0.211191",
+                    "ticker_sentiment_score": "0.149865",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MPNGY",
+                    "relevance_score": "0.211191",
+                    "ticker_sentiment_score": "0.149865",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Palantir's Head Of Defense Warns Of China's War Preparations: 'We're Not Taking It Seriously' - Tesla  ( NASDAQ:TSLA ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/03/44157866/palantirs-head-of-defense-warns-of-chinas-war-preparations-were-not-taking-it-seriously",
+            "time_published": "20250306T031512",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Palantir Technologies Inc. PLTR Head of Defense and former Congressman Mike Gallagher is sounding alarms about China's military intentions, warning that the U.S. is failing to adequately prepare for potential conflict.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/PalantirShibuya--Tokyo--Japan---March-5-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.014604,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SCGLF",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "-0.088084",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.396574",
+                    "ticker_sentiment_score": "-0.054938",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.204936",
+                    "ticker_sentiment_score": "0.160587",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Investors spy the dawn of a tectonic shift away from US markets - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/investors-spy-the-dawn-of-a-tectonic-shift-away-from-us-markets/118747162",
+            "time_published": "20250306T023642",
+            "authors": [
+                "ETCFO"
+            ],
+            "summary": "A significant global trade war and China's emergence as a tech leader are prompting a shift in global investment away from the U.S. While China deployed more stimulus to mitigate the impact of U.S. tariffs, Europe proposes a massive fiscal overhaul.",
+            "banner_image": "https://st.etb2bimg.com/Themes/Release/theme4/images/bar-codes/cfo_barcode.png?mod=2846",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999956"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.074849,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.030943",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "STT",
+                    "relevance_score": "0.046363",
+                    "ticker_sentiment_score": "0.030943",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.183895",
+                    "ticker_sentiment_score": "0.047465",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trump exempts some automakers from Canada, Mexico tariffs for one month - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/trump-exempts-some-automakers-from-canada-mexico-tariffs-for-one-month/118747110",
+            "time_published": "20250306T023124",
+            "authors": [
+                "ETCFO"
+            ],
+            "summary": "U.S. President Donald Trump will exempt automakers from 25% tariffs on Canada and Mexico for one month, contingent on free trade rule compliance. While negotiations continue, this move provides a temporary boost to auto stocks.",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.0,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.141102",
+                    "ticker_sentiment_score": "0.111308",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.03545",
+                    "ticker_sentiment_score": "-0.162913",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Retail Earnings in a High-Tariff Economy",
+            "url": "https://www.zacks.com/commentary/2426283/analyzing-retail-earnings-in-a-high-tariff-economy",
+            "time_published": "20250305T233000",
+            "authors": [
+                "Sheraz Mian"
+            ],
+            "summary": "Several big-box retail operators have recently reported quarterly results, though headlines about tariffs have been stealing the thunder. What should investors know?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/4f/96087.jpg?v=1618932874",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.151764,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.286002",
+                    "ticker_sentiment_score": "0.166052",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.286002",
+                    "ticker_sentiment_score": "0.038497",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Analyzing Retail Earnings in a High-Tariff Economy",
+            "url": "https://www.zacks.com/commentary/2426318/analyzing-retail-earnings-in-a-high-tariff-economy",
+            "time_published": "20250305T232600",
+            "authors": [
+                "Sheraz Mian"
+            ],
+            "summary": "Several big-box retail operators have recently reported quarterly results, though headlines about tariffs have been stealing the thunder. What should investors know?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/4f/96087.jpg?v=1618932874",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.151764,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.286002",
+                    "ticker_sentiment_score": "0.166052",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.286002",
+                    "ticker_sentiment_score": "0.038497",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "NN, Inc. Reports Fourth Quarter and Full Year 2024 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037785/0/en/NN-Inc-Reports-Fourth-Quarter-and-Full-Year-2024-Results.html",
+            "time_published": "20250305T212500",
+            "authors": [
+                "NN",
+                "Inc."
+            ],
+            "summary": "NN delivers performance as expected in first full year of transformation ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/bf2f92b9-9714-4fdc-a0c0-7f216f42e1bb",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.143479,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NNBR",
+                    "relevance_score": "0.066567",
+                    "ticker_sentiment_score": "0.07449",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PSIX",
+                    "relevance_score": "0.011107",
+                    "ticker_sentiment_score": "0.019109",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Rigetti Computing Reports Fourth Quarter and Full-Year 2024 Results - Rigetti Computing  ( NASDAQ:RGTIW ) , Rigetti Computing  ( NASDAQ:RGTI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/03/g44151688/rigetti-computing-reports-fourth-quarter-and-full-year-2024-results",
+            "time_published": "20250305T210556",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "BERKELEY, Calif., March 05, 2025 ( GLOBE NEWSWIRE ) -- Rigetti Computing, Inc. RGTI ( \"Rigetti\" or the \"Company\" ) , a pioneer in full-stack quantum-classical computing, today announced its financial results for the fourth quarter and year ended December 31, 2024.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.997902"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.201843,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.017407",
+                    "ticker_sentiment_score": "0.050269",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.034806",
+                    "ticker_sentiment_score": "0.163548",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RGTI",
+                    "relevance_score": "0.034806",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRIN",
+                    "relevance_score": "0.017407",
+                    "ticker_sentiment_score": "0.189415",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "QUCCF",
+                    "relevance_score": "0.069545",
+                    "ticker_sentiment_score": "0.097136",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Rigetti Computing Reports Fourth Quarter and Full-Year 2024 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037766/0/en/Rigetti-Computing-Reports-Fourth-Quarter-and-Full-Year-2024-Results.html",
+            "time_published": "20250305T210500",
+            "authors": [
+                "LLC",
+                "Rigetti & Co"
+            ],
+            "summary": "BERKELEY, Calif., March 05, 2025 ( GLOBE NEWSWIRE ) -- Rigetti Computing, Inc. ( Nasdaq: RGTI ) ( \"Rigetti\" or the \"Company\" ) , a pioneer in full-stack quantum-classical computing, today announced its financial results for the fourth quarter and year ended December 31, 2024. • Revenues for the ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/de17fedb-5fda-4717-bc87-9cd957ccf9e8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995015"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.197277,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.017942",
+                    "ticker_sentiment_score": "0.053367",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.035875",
+                    "ticker_sentiment_score": "0.149352",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RGTI",
+                    "relevance_score": "0.035875",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TRIN",
+                    "relevance_score": "0.017942",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QUCCF",
+                    "relevance_score": "0.071677",
+                    "ticker_sentiment_score": "0.101441",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ice Cube And The 'Hollyweed Queen' Bet Big On Premium Cannabis With Fryday Kush",
+            "url": "https://www.benzinga.com/markets/cannabis/25/03/44150766/ice-cube-and-the-hollyweed-queen-bet-big-on-premium-cannabis-with-fryday-kush",
+            "time_published": "20250305T202613",
+            "authors": [
+                "Javier Hasse"
+            ],
+            "summary": "Ice Cube and Priscilla Vilchis partner to launch Fryday Kush, focusing on premium cannabis strains. Fryday Kush avoids common celebrity-brand pitfalls by prioritizing quality, direct involvement and branding. Our government trade tracker caught Pelosi's 169% AI winner.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/FAV-PrisICECUBE.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.131327,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "NTG Nordic Transport Group Annual Report for 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037673/0/en/NTG-Nordic-Transport-Group-Annual-Report-for-2024.html",
+            "time_published": "20250305T180500",
+            "authors": [
+                "NTG Nordic Transport Group A/S"
+            ],
+            "summary": "Company announcement no. 2 - 2505 March ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/991628be-ac71-4f7e-a0cb-38a90402c687",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.684621"
+                }
+            ],
+            "overall_sentiment_score": 0.244972,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.066598",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "These Are the 8 Best Artificial Intelligence  ( AI )  Growth Stocks to Buy as President Trump's Tariffs Take Effect, According to Dan Ives",
+            "url": "https://www.fool.com/investing/2025/03/05/these-are-the-8-best-artificial-intelligence-ai-gr/",
+            "time_published": "20250305T162100",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Analyzing trends in the stock market can serve as a pretty good proxy for the general psyche of investors. Since Donald Trump's presidential victory on Nov. 5, the stock market has moved in just about every direction.In the immediate weeks after the election, the Nasdaq Composite ( NASDAQINDEX: ...",
+            "banner_image": "https://media.ycharts.com/charts/53866355b14c7f142efb54432f99ec6f.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.992549"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.202677,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.136693",
+                    "ticker_sentiment_score": "0.170485",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.102741",
+                    "ticker_sentiment_score": "0.097425",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.102741",
+                    "ticker_sentiment_score": "0.208735",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Are These AI Stocks On Sale?",
+            "url": "https://www.zacks.com/commentary/2425619/are-these-ai-stocks-on-sale",
+            "time_published": "20250305T161500",
+            "authors": [
+                "Derek Lewis"
+            ],
+            "summary": "The AI trade has gone sideways over recent weeks, with companies involved in the frenzy facing notable selling pressure. But is it an opportunity?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f8/14626.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.962106"
+                }
+            ],
+            "overall_sentiment_score": 0.389128,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.350109",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "VRT",
+                    "relevance_score": "0.377142",
+                    "ticker_sentiment_score": "0.341082",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Abercrombie & Fitch shares fall after star retailer posts weak guidance for year ahead",
+            "url": "https://www.cnbc.com/2025/03/05/abercrombie-fitch-anf-q4-2024-earnings.html",
+            "time_published": "20250305T125618",
+            "authors": [],
+            "summary": "Abercrombie & Fitch's business may be leveling out after two years of explosive growth.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Business",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.202239,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "5 Defensive Stocks to Buy for a Safe Portfolio Amid Extreme Volatility",
+            "url": "https://www.zacks.com/stock/news/2425726/5-defensive-stocks-to-buy-for-a-safe-portfolio-amid-extreme-volatility",
+            "time_published": "20250305T122200",
+            "authors": [
+                "Nalak Das"
+            ],
+            "summary": "We have narrowed our search to five consumer staples stocks with strong growth potential in the next 2-3 months. These are: TSN, TAP, PRMB, LANC, UTZ.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/23/2376.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.989041"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.263343,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LANC",
+                    "relevance_score": "0.148915",
+                    "ticker_sentiment_score": "0.147963",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PRMB",
+                    "relevance_score": "0.207317",
+                    "ticker_sentiment_score": "0.184168",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TAP",
+                    "relevance_score": "0.207317",
+                    "ticker_sentiment_score": "0.243864",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "UTZ",
+                    "relevance_score": "0.236109",
+                    "ticker_sentiment_score": "0.171664",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ICNB",
+                    "relevance_score": "0.029951",
+                    "ticker_sentiment_score": "0.245101",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.236109",
+                    "ticker_sentiment_score": "0.431019",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Should You Buy the Dip in Palantir Stock?",
+            "url": "https://www.fool.com/investing/2025/03/05/should-you-buy-the-dip-in-palantir-stock/",
+            "time_published": "20250305T122000",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Over the last year, shares of enterprise software company Palantir Technologies ( NASDAQ: PLTR ) have climbed by as much as 408%. While this suggests overwhelmingly bullish sentiment toward the company, more recent trends show a different picture.From Feb. 14 through Mar. 3, Palantir stock fell ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809437%2Fgettyimages-525328659.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.173363,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.055751",
+                    "ticker_sentiment_score": "0.158003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.11123",
+                    "ticker_sentiment_score": "0.135783",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market News for Mar 5, 2025",
+            "url": "https://www.zacks.com/stock/news/2425640/stock-market-news-for-mar-5-2025",
+            "time_published": "20250305T083500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "U.S. stock markets continued their sild for second successive days after a choppy session.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8d/2673.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995077"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.177721,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.123209",
+                    "ticker_sentiment_score": "-0.088841",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trump-Announced Crypto Reserve Will Include These Coins, But One Name Has Made Investors Exceptionally Rich Over 5 Years - Grayscale Ethereum Mini Trust  ( ETH )  Common units of fractional undivided beneficial interest  ( ARCA:ETH ) ",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44135017/trump-announced-crypto-reserve-will-include-these-coins-but-one-name-has-made-investors-ex",
+            "time_published": "20250305T073453",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "President Donald Trump's announcement of a strategic cryptocurrency reserve marked a tectonic shift in U.S. fiscal policy, contrasting with the restrictive approach of the previous Joe Biden administration.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/Trumps-Frustration.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.23095,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "0.508524",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.416844",
+                    "ticker_sentiment_score": "0.330649",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.416844",
+                    "ticker_sentiment_score": "0.522651",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:XRP",
+                    "relevance_score": "0.416844",
+                    "ticker_sentiment_score": "0.522651",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037124/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+            "time_published": "20250305T070000",
+            "authors": [
+                "NB Private Equity Partners Limited"
+            ],
+            "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                }
+            ],
+            "overall_sentiment_score": 0.236207,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NBPVF",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.192875",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Trump's Says 'Little Disturbance' Possible Due To Tariffs In Speech To Congress As GM, Tesla, Energy Stocks Lift In After-Hours Trading: 'Auto Industry To Absolutely Boom' - Apple  ( NASDAQ:AAPL ) , BP  ( NYSE:BP ) ",
+            "url": "https://www.benzinga.com/markets/equities/25/03/44133917/trumps-says-little-disturbance-possible-due-to-tariffs-in-speech-to-congress-as-gm-tesla-energy-",
+            "time_published": "20250305T051857",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "President Donald Trump's congressional address triggered significant after-hours market movements across a wide range of stocks. Taiwan Semiconductor Mfg. Co. TSM rose 0.77% to $181.38, while Apple Inc. AAPL increased 0.72% to $237.63. Oracle Corp.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/Trade-And-Other-Key-Themes.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.329034,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.239337",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.169318",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.169318",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.169318",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SMCI",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.239337",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "OKE",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.561151",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "SLB",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "0.375884",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ORCL",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.239337",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DJT",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "0.375884",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.263942",
+                    "ticker_sentiment_score": "0.239337",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "CK Hutchison leads Hong Kong stock surge as trade-war jitters ease",
+            "url": "https://www.scmp.com/business/china-business/article/3301087/ck-hutchison-leads-rise-hong-kong-stocks-chinas-npc-opens-trade-war-jitters-ease",
+            "time_published": "20250305T022731",
+            "authors": [
+                "Zhang Shidong"
+            ],
+            "summary": "CK jumped after agreeing to sell assets worth US$23 billion including ports near the Panama Canal.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/05/f6d0a56b-f954-4b7b-8ce6-aca8cced9ab8_0bc89732.jpg?itok=2UJsNJIQ&v=1741141648",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.048603,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "0.143546",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CKHUF",
+                    "relevance_score": "0.244109",
+                    "ticker_sentiment_score": "0.08474",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NMR",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "-0.223403",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "-0.223403",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "0.143546",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Wells Fargo  ( WFC )  Stock? - Wells Fargo  ( NYSE:WFC ) ",
+            "url": "https://www.benzinga.com/news/25/03/44126272/whats-going-on-with-wells-fargo-wfc-stock-2",
+            "time_published": "20250304T211648",
+            "authors": [
+                "Henry Khederian"
+            ],
+            "summary": "Wells Fargo shares fell 4.8% to $73.30 on Tuesday. Investor anxiety over U.S. tariffs on Mexico and Canada rattled financial markets. Every week, our Whisper Index uncovers five overlooked stocks with big breakout potential. Get the latest picks today before they gain traction.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Wells-Fargo.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.241727,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.694939",
+                    "ticker_sentiment_score": "0.18028",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The S&P 500 Is Falling Over Concerns About President Trump's Tariffs. History Says the Stock Market Will Do This Next.",
+            "url": "https://www.fool.com/investing/2025/03/04/sp-500-falling-trumps-tariffs-stock-market-do-next/",
+            "time_published": "20250304T205400",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) closed at a record high of 6,144 on Feb. 19. But the benchmark index has since declined more than 5%. Concerns about how trade policy will impact the already shaky U.S. economy have factored heavily into that rapid drawdown.President Donald Trump's tariffs on ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809906%2Fmarket-red-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.196095,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.058188",
+                    "ticker_sentiment_score": "0.049017",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "BioPorto A/S announces Jens Due Olsen as a Board of Directors candidate intending to appoint Jens Due Olsen as Chair, along with updates on other candidates",
+            "url": "https://www.globenewswire.com/news-release/2025/03/04/3036906/0/en/BioPorto-A-S-announces-Jens-Due-Olsen-as-a-Board-of-Directors-candidate-intending-to-appoint-Jens-Due-Olsen-as-Chair-along-with-updates-on-other-candidates.html",
+            "time_published": "20250304T202800",
+            "authors": [
+                "BioPorto A/S"
+            ],
+            "summary": "March 4, 2025Announcement no. ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b9686d8c-3706-4a6c-b22a-ae722c122c21",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.15557,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NIPNF",
+                    "relevance_score": "0.036587",
+                    "ticker_sentiment_score": "-0.005804",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CURN",
+                    "relevance_score": "0.036587",
+                    "ticker_sentiment_score": "0.019512",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "CFPB Drops Zelle Fraud Reimbursement Case Against JPMorgan, Wells Fargo - Bank of America  ( NYSE:BAC ) , JPMorgan Chase  ( NYSE:JPM ) ",
+            "url": "https://www.benzinga.com/news/legal/25/03/44122330/cfpb-drops-zelle-fraud-reimbursement-case-against-jpmorgan-wells-fargo",
+            "time_published": "20250304T193619",
+            "authors": [
+                "Hayden Buckfire"
+            ],
+            "summary": "The CFPB dropped a lawsuit against Zelle, JPMorgan, Bank of America and Wells Fargo on Tuesday. The lawsuit alleged the banks did not sufficiently protect customers from fraud on Zelle. Every week, our Whisper Index uncovers five overlooked stocks with big breakout potential.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Digital-Banking-Network--Internet-Paymen.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.156118,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.370143",
+                    "ticker_sentiment_score": "-0.430496",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.370143",
+                    "ticker_sentiment_score": "-0.430496",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Donald Trump's Bitcoin, XRP, Cardano Reserve Proposal Drives Wedge In Crypto Industry",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44120900/donald-trumps-bitcoin-xrp-cardano-reserve-proposal-drives-wedge-in-crypto-industry",
+            "time_published": "20250304T185147",
+            "authors": [
+                "Murtuza Merchant"
+            ],
+            "summary": "DOGE's $1 trillion spending cut goal clashes with the reserve, fueling criticism from fiscal conservatives in 2025. Bitcoin surged to $92,000 after Trump's March announcement, but critics see benefits skewed to wealthy investors. Every week, our Whisper Index uncovers five overlooked stocks with ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Trump-crypto.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": -0.009879,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOX",
+                    "relevance_score": "0.039483",
+                    "ticker_sentiment_score": "-0.123362",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.344074",
+                    "ticker_sentiment_score": "0.042447",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.140806",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:SOL",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.092626",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.07887",
+                    "ticker_sentiment_score": "0.126981",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:XRP",
+                    "relevance_score": "0.118064",
+                    "ticker_sentiment_score": "0.092626",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
 }
