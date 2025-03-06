@@ -27,10 +27,15 @@ jobs:
 
       - name: Fetch News Data
         run: |
-          curl -X GET "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&topics=economy_fiscal&apikey=${{ secrets.ALPHA_VANTAGE_API_KEY }}" > public/news-data.json
-          echo "Fetched news data at $(date)"
+          mkdir -p public
+          if [[ -z "${{ secrets.ALPHA_VANTAGE_API_KEY }}" ]]; then
+            echo "API key is missing! Skipping fetch..."
+          else
+            curl -X GET "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&topics=economy_fiscal&apikey=${{ secrets.ALPHA_VANTAGE_API_KEY }}" > public/news-data.json
+            echo "Fetched news data at $(date)"
+          fi
 
-      - name: Build
+      - name: Build Project
         run: npm run build
         env:
           CI: false
