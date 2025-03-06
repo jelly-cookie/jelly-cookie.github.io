@@ -110,26 +110,6 @@
             ]
         },
         {
-            "title": "What economists get wrong about tariff wars",
-            "url": "https://www.ft.com/content/61f289b7-a953-4067-a8a3-9bb1ba7f16da",
-            "time_published": "20250305T102209",
-            "authors": [],
-            "summary": "The history of global trade challenges Ricardo's enduring economic theory ...",
-            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0930761-08fe-49f7-a821-7fd199c7aa44.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-            "source": "Financial Times",
-            "category_within_source": "Economy",
-            "source_domain": "www.ft.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.451494"
-                }
-            ],
-            "overall_sentiment_score": 0.099567,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
             "title": "JD.com  ( JD )  Q4 2024 Earnings Call Transcript",
             "url": "https://www.fool.com/earnings/call-transcripts/2025/03/06/jdcom-jd-q4-2024-earnings-call-transcript/",
             "time_published": "20250306T161512",
@@ -542,6 +522,78 @@
                     "ticker": "NVDA",
                     "relevance_score": "0.041466",
                     "ticker_sentiment_score": "-0.024867",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin price rebound breaks down before key level is hit - Here is why",
+            "url": "https://cointelegraph.com/news/bitcoin-price-rebound-breaks-down-before-key-level-is-hit-here-is-why",
+            "time_published": "20250306T203000",
+            "authors": [
+                "Marcel Pechman"
+            ],
+            "summary": "Bitcoin's upside appears to be capped by recession risks, geopolitics and investors' anxiety over Friday's crypto summit at the White House ...",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01956cc8-320e-711b-b6ac-884be4c05dc5",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.036619,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.684036",
+                    "ticker_sentiment_score": "0.015434",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The pivotal February jobs report is out Friday. Here's what to expect",
+            "url": "https://www.cnbc.com/2025/03/06/the-pivotal-february-jobs-report-is-out-friday-heres-what-to-expect.html",
+            "time_published": "20250306T202447",
+            "authors": [],
+            "summary": "Markets will get another snapshot into the health of the labor market when the BLS releases its February nonfarm payrolls report Friday.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Economy",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.01689,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "-0.015005",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -2358,47 +2410,6 @@
                     "ticker": "PLTR",
                     "relevance_score": "0.11123",
                     "ticker_sentiment_score": "0.135783",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Stock Market News for Mar 5, 2025",
-            "url": "https://www.zacks.com/stock/news/2425640/stock-market-news-for-mar-5-2025",
-            "time_published": "20250305T083500",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "U.S. stock markets continued their sild for second successive days after a choppy session.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8d/2673.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.995077"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.177721,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "INTC",
-                    "relevance_score": "0.123209",
-                    "ticker_sentiment_score": "-0.088841",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
