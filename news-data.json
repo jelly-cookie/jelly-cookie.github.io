@@ -547,6 +547,63 @@
             ]
         },
         {
+            "title": "Analyst Takes Down Abercrombie & Fitch Price Forecast By 34% Despite Being Bullish - Here's Why - Abercrombie & Fitch  ( NYSE:ANF ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44174580/analyst-takes-down-abercrombie-fitch-price-forecast-by-34-despite-being-bullish-her",
+            "time_published": "20250306T182814",
+            "authors": [
+                "Shivani Kumaresan"
+            ],
+            "summary": "Abercrombie & Fitch plans 100 new store openings in FY25. FY25 sales growth forecasted at 3%-5%, with 70 basis point FX headwind. Get 5 stock picks identified before their biggest breakouts, identified by the same system that spotted Insmed, Sprouts, and Uber before their 20%+ gains.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/Philadelphia--Pennsylvania--May-19-2018-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.274259,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ANF",
+                    "relevance_score": "0.558244",
+                    "ticker_sentiment_score": "0.189325",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "INSM",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.095089",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.095089",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Friday could be critical for investors, with a jobs report and a Powell speech",
             "url": "https://www.marketwatch.com/story/friday-could-be-a-critical-day-for-investors-with-a-high-stakes-jobs-report-and-a-powell-speech-74d133c3",
             "time_published": "20250306T154500",
@@ -2343,61 +2400,6 @@
                     "relevance_score": "0.123209",
                     "ticker_sentiment_score": "-0.088841",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Trump-Announced Crypto Reserve Will Include These Coins, But One Name Has Made Investors Exceptionally Rich Over 5 Years - Grayscale Ethereum Mini Trust  ( ETH )  Common units of fractional undivided beneficial interest  ( ARCA:ETH ) ",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44135017/trump-announced-crypto-reserve-will-include-these-coins-but-one-name-has-made-investors-ex",
-            "time_published": "20250305T073453",
-            "authors": [
-                "Aniket Verma"
-            ],
-            "summary": "President Donald Trump's announcement of a strategic cryptocurrency reserve marked a tectonic shift in U.S. fiscal policy, contrasting with the restrictive approach of the previous Joe Biden administration.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/Trumps-Frustration.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Blockchain",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.23095,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CRYPTO:BTC",
-                    "relevance_score": "0.535653",
-                    "ticker_sentiment_score": "0.508524",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ETH",
-                    "relevance_score": "0.416844",
-                    "ticker_sentiment_score": "0.330649",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:ADA",
-                    "relevance_score": "0.416844",
-                    "ticker_sentiment_score": "0.522651",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "CRYPTO:XRP",
-                    "relevance_score": "0.416844",
-                    "ticker_sentiment_score": "0.522651",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
