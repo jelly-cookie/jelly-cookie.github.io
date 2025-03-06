@@ -411,117 +411,184 @@
             ]
         },
         {
-            "title": "THOR Industries Announces Second Quarter Fiscal 2025 Results",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037245/0/en/THOR-Industries-Announces-Second-Quarter-Fiscal-2025-Results.html",
-            "time_published": "20250305T113000",
+            "title": "Why Whirlpool Stock Tumbled This Week",
+            "url": "https://www.fool.com/investing/2025/03/06/why-whirlpool-stock-tumbled-this-week/",
+            "time_published": "20250306T212524",
             "authors": [
-                "Thor Industries"
+                "Howard Smith"
             ],
-            "summary": "POISED FOR A MARKET RETURN ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/d692e53a-d76c-4a2f-bedc-a7053dbd63bd",
+            "summary": "Companies can be impacted in different ways by tariffs, like those that are being announced by the Trump administration. Some domestic manufacturers, including steelmakers, may benefit as commodity prices rise. Others will see costs increase on raw materials or products being imported as part of ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/810212/tariffs-implied-by-importexport-signs-over-map-of-us.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.060532,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WHR",
+                    "relevance_score": "0.689652",
+                    "ticker_sentiment_score": "-0.049996",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.115232",
+                    "ticker_sentiment_score": "0.044938",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "LBMC Experts Highlight 2025 Technology Industry Trends",
+            "url": "https://www.benzinga.com/pressreleases/25/03/g44179908/lbmc-experts-highlight-2025-technology-industry-trends",
+            "time_published": "20250306T212317",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Nashville, Tenn., March 06, 2025 ( GLOBE NEWSWIRE ) -- Business executives in the technology and healthcare IT industries confront both new potential and problems in the areas of cybersecurity, audit, taxation, and AI-driven business intelligence as 2025 approaches.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.252572,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Comstock Announces Full Year 2024 Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/06/3038640/0/en/Comstock-Announces-Full-Year-2024-Results.html",
+            "time_published": "20250306T211500",
+            "authors": [
+                "Comstock Inc."
+            ],
+            "summary": "VIRGINIA CITY, Nev., March 06, 2025 ( GLOBE NEWSWIRE ) -- Comstock Inc. ( NYSE: LODE ) ( \"Comstock,\" \"our\" and the \"Company\" ) , today announced its full year 2024 results, 2024 summary achievements, and our 2025 business outlook.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/23ea433d-b7af-4e94-8100-d1933b728e02",
             "source": "GlobeNewswire",
             "category_within_source": "n/a",
             "source_domain": "www.globenewswire.com",
             "topics": [
                 {
                     "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
+                    "relevance_score": "0.451494"
                 },
                 {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
+                    "relevance_score": "0.158519"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.917436"
-                },
-                {
-                    "topic": "Manufacturing",
                     "relevance_score": "1.0"
                 },
                 {
                     "topic": "Earnings",
-                    "relevance_score": "1.0"
+                    "relevance_score": "0.955357"
                 },
                 {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.310843"
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
                 }
             ],
-            "overall_sentiment_score": 0.204609,
+            "overall_sentiment_score": 0.258714,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "CURN",
-                    "relevance_score": "0.013764",
-                    "ticker_sentiment_score": "0.080924",
+                    "ticker": "CMMMF",
+                    "relevance_score": "0.021303",
+                    "ticker_sentiment_score": "0.056537",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "THO",
-                    "relevance_score": "0.08244",
-                    "ticker_sentiment_score": "0.159188",
+                    "ticker": "GOOG",
+                    "relevance_score": "0.010652",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MPC",
+                    "relevance_score": "0.021303",
+                    "ticker_sentiment_score": "0.188212",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.013764",
-                    "ticker_sentiment_score": "0.02131",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
         {
-            "title": "As President Trump's Tariffs Take Effect, Should You Really Buy Stocks? Here's What History Says.",
-            "url": "https://www.fool.com/investing/2025/03/05/as-trumps-tariffs-launch-should-you-buy-stocks/",
-            "time_published": "20250305T104000",
+            "title": "US crypto reserve could boost Bitcoin market cap by $460B - Research",
+            "url": "https://cointelegraph.com/news/us-crypto-reserve-could-boost-bitcoin-market-cap-by-460-b-research",
+            "time_published": "20250306T205901",
             "authors": [
-                "Adria Cimino"
+                "Alex O’Donnell"
             ],
-            "summary": "The past couple of weeks have been tough for investors. All three major benchmarks -- the S&P 500 ( SNPINDEX: ^GSPC ) , the Dow Jones Industrial Average ( DJINDICES: ^DJI ) , and the Nasdaq Composite ( NASDAQINDEX: ^IXIC ) -- have dropped, halting at least temporarily what looked like unstoppable ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809943%2Fgettyimages-2184114255-1200x800-5b2df79.jpg&op=resize&w=700",
-            "source": "Motley Fool",
+            "summary": "The market is still assigning a relatively low probability to the creation of a national crypto reserve, Sygnum Bank's head of research said.",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2024-12/0193b732-2731-7e3d-82b9-293cf8f9b991",
+            "source": "Cointelegraph",
             "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
+            "source_domain": "cointelegraph.com",
             "topics": [
                 {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.682689"
-                },
-                {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
+                    "relevance_score": "0.158519"
                 },
                 {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "0.5"
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.744043"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.838487"
+                    "relevance_score": "0.495866"
                 }
             ],
-            "overall_sentiment_score": 0.048649,
-            "overall_sentiment_label": "Neutral",
+            "overall_sentiment_score": 0.199314,
+            "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "TGT",
-                    "relevance_score": "0.123951",
-                    "ticker_sentiment_score": "0.035427",
-                    "ticker_sentiment_label": "Neutral"
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.630286",
+                    "ticker_sentiment_score": "0.497963",
+                    "ticker_sentiment_label": "Bullish"
                 },
                 {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.041466",
-                    "ticker_sentiment_score": "-0.024867",
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.235062",
+                    "ticker_sentiment_score": "0.353209",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.158",
+                    "ticker_sentiment_score": "0.142876",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -2287,132 +2354,6 @@
             "overall_sentiment_score": 0.202239,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": []
-        },
-        {
-            "title": "5 Defensive Stocks to Buy for a Safe Portfolio Amid Extreme Volatility",
-            "url": "https://www.zacks.com/stock/news/2425726/5-defensive-stocks-to-buy-for-a-safe-portfolio-amid-extreme-volatility",
-            "time_published": "20250305T122200",
-            "authors": [
-                "Nalak Das"
-            ],
-            "summary": "We have narrowed our search to five consumer staples stocks with strong growth potential in the next 2-3 months. These are: TSN, TAP, PRMB, LANC, UTZ.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/23/2376.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.989041"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.263343,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LANC",
-                    "relevance_score": "0.148915",
-                    "ticker_sentiment_score": "0.147963",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PRMB",
-                    "relevance_score": "0.207317",
-                    "ticker_sentiment_score": "0.184168",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TAP",
-                    "relevance_score": "0.207317",
-                    "ticker_sentiment_score": "0.243864",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UTZ",
-                    "relevance_score": "0.236109",
-                    "ticker_sentiment_score": "0.171664",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "ICNB",
-                    "relevance_score": "0.029951",
-                    "ticker_sentiment_score": "0.245101",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSN",
-                    "relevance_score": "0.236109",
-                    "ticker_sentiment_score": "0.431019",
-                    "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Should You Buy the Dip in Palantir Stock?",
-            "url": "https://www.fool.com/investing/2025/03/05/should-you-buy-the-dip-in-palantir-stock/",
-            "time_published": "20250305T122000",
-            "authors": [
-                "Adam Spatacco"
-            ],
-            "summary": "Over the last year, shares of enterprise software company Palantir Technologies ( NASDAQ: PLTR ) have climbed by as much as 408%. While this suggests overwhelmingly bullish sentiment toward the company, more recent trends show a different picture.From Feb. 14 through Mar. 3, Palantir stock fell ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809437%2Fgettyimages-525328659.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.108179"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.173363,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.055751",
-                    "ticker_sentiment_score": "0.158003",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.11123",
-                    "ticker_sentiment_score": "0.135783",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
         }
     ]
 }
