@@ -26,13 +26,27 @@ jobs:
         run: npm ci
 
       - name: Fetch News Data
+        continue-on-error: true  # Continue workflow even if this step fails
         run: |
           mkdir -p public
           if [[ -z "${{ secrets.ALPHA_VANTAGE_API_KEY }}" ]]; then
-            echo "API key is missing! Skipping fetch..."
+            echo "API key is missing! Keeping existing data if available..."
+            if [ ! -f public/news-data.json ]; then
+              echo '{"feed": []}' > public/news-data.json
+            fi
           else
-            curl -X GET "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&topics=economy_fiscal&apikey=${{ secrets.ALPHA_VANTAGE_API_KEY }}" > public/news-data.json
-            echo "Fetched news data at $(date)"
+            # Create a temporary file for the new data
+            if curl -f -X GET "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&topics=economy_fiscal&apikey=${{ secrets.ALPHA_VANTAGE_API_KEY }}" > public/news-data.temp.json; then
+              # If curl succeeds, replace the old file with the new one
+              mv public/news-data.temp.json public/news-data.json
+              echo "Successfully fetched news data at $(date)"
+            else
+              echo "Failed to fetch news data. Keeping existing data if available..."
+              rm -f public/news-data.temp.json
+              if [ ! -f public/news-data.json ]; then
+                echo '{"feed": []}' > public/news-data.json
+              fi
+            fi
           fi
 
       - name: Build Project
