@@ -692,6 +692,45 @@
             ]
         },
         {
+            "title": "JD.com nearly triples quarterly profit on back of revived consumer spending",
+            "url": "https://www.scmp.com/tech/big-tech/article/3301362/jdcom-nearly-triples-quarterly-profit-back-revived-consumer-spending",
+            "time_published": "20250306T133329",
+            "authors": [
+                "Coco Feng"
+            ],
+            "summary": "JD.com reported a better-than-expected profit of 9.9 billion yuan in the fourth quarter, up from 3.4 billion yuan a year ago.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/23c66ba3-5183-4df6-9764-5b732bd25fd5_ae554873.jpg?itok=3UV26Ot7&v=1741268005",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.337663,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.075874",
+                    "ticker_sentiment_score": "0.083856",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MPNGY",
+                    "relevance_score": "0.075874",
+                    "ticker_sentiment_score": "0.083856",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "NXP Semiconductors Announces Quarterly Dividend - NXP Semiconductors  ( NASDAQ:NXPI ) ",
             "url": "https://www.benzinga.com/pressreleases/25/03/g44163364/nxp-semiconductors-announces-quarterly-dividend",
             "time_published": "20250306T130055",
@@ -2426,51 +2465,6 @@
                     "relevance_score": "0.123526",
                     "ticker_sentiment_score": "0.143546",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "What's Going On With Wells Fargo  ( WFC )  Stock? - Wells Fargo  ( NYSE:WFC ) ",
-            "url": "https://www.benzinga.com/news/25/03/44126272/whats-going-on-with-wells-fargo-wfc-stock-2",
-            "time_published": "20250304T211648",
-            "authors": [
-                "Henry Khederian"
-            ],
-            "summary": "Wells Fargo shares fell 4.8% to $73.30 on Tuesday. Investor anxiety over U.S. tariffs on Mexico and Canada rattled financial markets. Every week, our Whisper Index uncovers five overlooked stocks with big breakout potential. Get the latest picks today before they gain traction.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/04/Wells-Fargo.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.967645"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.241727,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WFC",
-                    "relevance_score": "0.694939",
-                    "ticker_sentiment_score": "0.18028",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
