@@ -692,6 +692,43 @@
             ]
         },
         {
+            "title": "NXP Semiconductors Announces Quarterly Dividend - NXP Semiconductors  ( NASDAQ:NXPI ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/03/g44163364/nxp-semiconductors-announces-quarterly-dividend",
+            "time_published": "20250306T130055",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "EINDHOVEN, The Netherlands, March 06, 2025 ( GLOBE NEWSWIRE ) -- As part of its ongoing capital return program, NXP Semiconductors N.V. NXPI today announced that its board of directors has approved the payment of an interim dividend.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.158569,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.215702",
+                    "ticker_sentiment_score": "0.398979",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
             "title": "Chinese tech firms from Huawei to Inspur push 'all-in-one' DeepSeek AI servers",
             "url": "https://www.scmp.com/tech/tech-trends/article/3301347/chinese-tech-firms-huawei-inspur-push-all-one-deepseek-ai-servers",
             "time_published": "20250306T130009",
@@ -739,6 +776,40 @@
                     "relevance_score": "0.051441",
                     "ticker_sentiment_score": "0.011968",
                     "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "NXP Semiconductors Announces Quarterly Dividend",
+            "url": "https://www.globenewswire.com/news-release/2025/03/06/3038159/0/en/NXP-Semiconductors-Announces-Quarterly-Dividend.html",
+            "time_published": "20250306T130000",
+            "authors": [
+                "Inc.",
+                "NXP USA"
+            ],
+            "summary": "EINDHOVEN, The Netherlands, March 06, 2025 ( GLOBE NEWSWIRE ) -- As part of its ongoing capital return program, NXP Semiconductors N.V. ( NASDAQ: NXPI ) today announced that its board of directors has approved the payment of an interim dividend.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/b322f93e-3c07-46bd-b6aa-4e0e8e88eb00",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.146908,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NXPI",
+                    "relevance_score": "0.184246",
+                    "ticker_sentiment_score": "0.369622",
+                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         },
@@ -2400,90 +2471,6 @@
                     "relevance_score": "0.694939",
                     "ticker_sentiment_score": "0.18028",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "The S&P 500 Is Falling Over Concerns About President Trump's Tariffs. History Says the Stock Market Will Do This Next.",
-            "url": "https://www.fool.com/investing/2025/03/04/sp-500-falling-trumps-tariffs-stock-market-do-next/",
-            "time_published": "20250304T205400",
-            "authors": [
-                "Trevor Jennewine"
-            ],
-            "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) closed at a record high of 6,144 on Feb. 19. But the benchmark index has since declined more than 5%. Concerns about how trade policy will impact the already shaky U.S. economy have factored heavily into that rapid drawdown.President Donald Trump's tariffs on ...",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809906%2Fmarket-red-1.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.682689"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.839681"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.196095,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GS",
-                    "relevance_score": "0.058188",
-                    "ticker_sentiment_score": "0.049017",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "BioPorto A/S announces Jens Due Olsen as a Board of Directors candidate intending to appoint Jens Due Olsen as Chair, along with updates on other candidates",
-            "url": "https://www.globenewswire.com/news-release/2025/03/04/3036906/0/en/BioPorto-A-S-announces-Jens-Due-Olsen-as-a-Board-of-Directors-candidate-intending-to-appoint-Jens-Due-Olsen-as-Chair-along-with-updates-on-other-candidates.html",
-            "time_published": "20250304T202800",
-            "authors": [
-                "BioPorto A/S"
-            ],
-            "summary": "March 4, 2025Announcement no. ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b9686d8c-3706-4a6c-b22a-ae722c122c21",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.15557,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NIPNF",
-                    "relevance_score": "0.036587",
-                    "ticker_sentiment_score": "-0.005804",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.036587",
-                    "ticker_sentiment_score": "0.019512",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
