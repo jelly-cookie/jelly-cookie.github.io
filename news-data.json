@@ -4,6 +4,73 @@
     "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
     "feed": [
         {
+            "title": "Retailers Warn Of Price Increases Due To Trump Tariffs As Consumer Health Concerns Persist - Target  ( NYSE:TGT ) ",
+            "url": "https://www.benzinga.com/government/regulations/25/03/44171377/retailers-warn-of-price-increases-due-to-trump-tariffs-as-consumer-health-concerns-persist",
+            "time_published": "20250306T165243",
+            "authors": [
+                "Adam Eckert"
+            ],
+            "summary": "Target warns that February sales were weak and says it expects to see a \"meaningful\" decline in profits in the first quarter. Best Buy says price increases are \"highly likely\" due to Trump's tariffs.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/St--Paul---Aug-19--2011-the-Target-Bulls.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                }
+            ],
+            "overall_sentiment_score": -0.03651,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BBY",
+                    "relevance_score": "0.301686",
+                    "ticker_sentiment_score": "-0.011085",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.412619",
+                    "ticker_sentiment_score": "0.031876",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INSM",
+                    "relevance_score": "0.06179",
+                    "ticker_sentiment_score": "0.094014",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBER",
+                    "relevance_score": "0.06179",
+                    "ticker_sentiment_score": "0.094014",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "All negative economic data is 'Biden data' and Trump will fix the economy, Commerce chief Lutnick says",
             "url": "https://www.cnbc.com/2025/03/05/trump-commerce-chief-lutnick-blames-biden-for-economy.html",
             "time_published": "20250305T163441",
@@ -61,6 +128,59 @@
             "overall_sentiment_score": 0.099567,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": []
+        },
+        {
+            "title": "JD.com  ( JD )  Q4 2024 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/03/06/jdcom-jd-q4-2024-earnings-call-transcript/",
+            "time_published": "20250306T161512",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "JD earnings call for the period ending December 31, 2024.",
+            "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.455285,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.006322",
+                    "ticker_sentiment_score": "0.217391",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.006322",
+                    "ticker_sentiment_score": "0.142137",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JDLGF",
+                    "relevance_score": "0.063158",
+                    "ticker_sentiment_score": "0.249018",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
         },
         {
             "title": "Victoria's Secret & Co. Reports Fourth Quarter 2024 Results",
@@ -2278,134 +2398,6 @@
                     "relevance_score": "0.416844",
                     "ticker_sentiment_score": "0.522651",
                     "ticker_sentiment_label": "Bullish"
-                }
-            ]
-        },
-        {
-            "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037124/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-            "time_published": "20250305T070000",
-            "authors": [
-                "NB Private Equity Partners Limited"
-            ],
-            "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-            "banner_image": "",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.803643"
-                }
-            ],
-            "overall_sentiment_score": 0.236207,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NBPVF",
-                    "relevance_score": "0.136499",
-                    "ticker_sentiment_score": "0.192875",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Trump's Says 'Little Disturbance' Possible Due To Tariffs In Speech To Congress As GM, Tesla, Energy Stocks Lift In After-Hours Trading: 'Auto Industry To Absolutely Boom' - Apple  ( NASDAQ:AAPL ) , BP  ( NYSE:BP ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/03/44133917/trumps-says-little-disturbance-possible-due-to-tariffs-in-speech-to-congress-as-gm-tesla-energy-",
-            "time_published": "20250305T051857",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "President Donald Trump's congressional address triggered significant after-hours market movements across a wide range of stocks. Taiwan Semiconductor Mfg. Co. TSM rose 0.77% to $181.38, while Apple Inc. AAPL increased 0.72% to $237.63. Oracle Corp.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/Trade-And-Other-Key-Themes.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Energy & Transportation",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                }
-            ],
-            "overall_sentiment_score": 0.329034,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "AAPL",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.239337",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.169318",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "F",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.169318",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.169318",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "SMCI",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.239337",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "OKE",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.561151",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "SLB",
-                    "relevance_score": "0.133841",
-                    "ticker_sentiment_score": "0.375884",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "ORCL",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.239337",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "DJT",
-                    "relevance_score": "0.133841",
-                    "ticker_sentiment_score": "0.375884",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.263942",
-                    "ticker_sentiment_score": "0.239337",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
