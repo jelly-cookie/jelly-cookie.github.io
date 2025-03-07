@@ -180,6 +180,63 @@
             "ticker_sentiment": []
         },
         {
+            "title": "Big Tech Discounts Investors Can Buy Now  ( GOOGL, AMZN, META ) ",
+            "url": "https://www.zacks.com/commentary/2427504/big-tech-discounts-investors-can-buy-now-googl-amzn-meta",
+            "time_published": "20250307T193300",
+            "authors": [
+                "Ethan Feller"
+            ],
+            "summary": "Yes market corrections are scary, but they also create opportunity. Amazon, Alphabet and Meta Platforms are now trading at historical discounts ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986714"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999917"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.311141,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.103035",
+                    "ticker_sentiment_score": "0.106643",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.170878",
+                    "ticker_sentiment_score": "0.201645",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.270149",
+                    "ticker_sentiment_score": "0.185242",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Broaden Your ETF Exposure With These 3 Overlooked Funds - iShares MSCI EAFE Value ETF  ( BATS:EFV ) , Johnson & Johnson  ( NYSE:JNJ ) ",
             "url": "https://www.benzinga.com/markets/25/03/44188017/broaden-your-etf-exposure-with-these-3-overlooked-funds",
             "time_published": "20250307T174424",
@@ -2640,43 +2697,6 @@
                     "ticker": "CVGI",
                     "relevance_score": "0.080458",
                     "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Macroscope | What could force Trump to back down? Markets, if they wake up",
-            "url": "https://www.scmp.com/opinion/world-opinion/article/3301249/what-could-force-trump-back-down-markets-if-they-wake",
-            "time_published": "20250306T083009",
-            "authors": [
-                "Nicholas Spiro"
-            ],
-            "summary": "Higher inflation, a sharp slowdown or both point to a much bleaker outlook for the US than markets anticipated when Trump won the election.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/076ee558-a87d-4dd5-99d8-3d50a40cfe13_a4751e19.jpg?itok=EXCaDisQ&v=1741243947",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.838487"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999955"
-                }
-            ],
-            "overall_sentiment_score": -0.093507,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.041975",
-                    "ticker_sentiment_score": "-0.085126",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
