@@ -38,7 +38,18 @@ jobs:
         run: |
           # news-data.json이 없는 경우 기본 데이터 생성
           [ -f public/news-data.json ] || echo '{"feed": []}' > public/news-data.json
+          
+          # sitemap.xml 날짜 업데이트
+          current_date=$(date +%Y-%m-%d)
+          sed -i "s/<lastmod>.*<\/lastmod>/<lastmod>$current_date<\/lastmod>/g" public/sitemap.xml
+          
           npm run build
+          
+          # 빌드 후 sitemap.xml과 robots.txt가 build 폴더에 있는지 확인
+          if [ ! -f build/sitemap.xml ] || [ ! -f build/robots.txt ]; then
+            echo "Copying missing files to build directory..."
+            cp -f public/sitemap.xml public/robots.txt build/ 2>/dev/null || true
+          fi
         env:
           CI: false
 
