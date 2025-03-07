@@ -154,6 +154,53 @@
             ]
         },
         {
+            "title": "Why C3.ai Stock Lost 25% in February",
+            "url": "https://www.fool.com/investing/2025/03/07/why-c3ai-stock-lost-25-in-february/",
+            "time_published": "20250307T164557",
+            "authors": [
+                "Jeremy Bowman"
+            ],
+            "summary": "C3.ai ( NYSE: AI ) was among the losers last month, as shares of the artificial intelligence ( AI ) -focused software-as-a-service ( SaaS ) company fell on a weakening macroeconomic environment and an earnings report that didn't seem to live up to investor expectations.By the end of the month, ...",
+            "banner_image": "https://media.ycharts.com/charts/1abf1c999f78b7a9fae773a5e3e46cf7.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.007407,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "-0.015879",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "-0.121281",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Palantir Delivers AI-Powered Battle Stations To US Army, Stock Now Comparable To Tesla Circa 2015: Analyst - Palantir Technologies  ( NASDAQ:PLTR ) ",
             "url": "https://www.benzinga.com/government/regulations/25/03/44190445/palantir-delivers-ai-powered-battle-stations-to-us-army-stock-now-comparable-to-tesla-circ",
             "time_published": "20250307T142157",
@@ -2658,53 +2705,6 @@
                     "relevance_score": "0.31482",
                     "ticker_sentiment_score": "0.342134",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Zacks Earnings Trends Highlights: Target and Best Buy",
-            "url": "https://www.zacks.com/stock/news/2426340/zacks-earnings-trends-highlights-target-and-best-buy",
-            "time_published": "20250306T064700",
-            "authors": [
-                "Zacks Equity Research"
-            ],
-            "summary": "Target and Best Buy have been highlighted in this Earnings Trends article.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.796627"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.172667,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BBY",
-                    "relevance_score": "0.264351",
-                    "ticker_sentiment_score": "0.156096",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TGT",
-                    "relevance_score": "0.264351",
-                    "ticker_sentiment_score": "0.036143",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
