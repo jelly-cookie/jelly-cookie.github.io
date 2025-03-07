@@ -71,45 +71,6 @@
             ]
         },
         {
-            "title": "All negative economic data is 'Biden data' and Trump will fix the economy, Commerce chief Lutnick says",
-            "url": "https://www.cnbc.com/2025/03/05/trump-commerce-chief-lutnick-blames-biden-for-economy.html",
-            "time_published": "20250305T163441",
-            "authors": [],
-            "summary": "The stock market dropped sharply in recent days as investors worried about the effects of new tariffs on Canada and Mexico by President Trump.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Top News",
-            "source_domain": "www.cnbc.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.769861"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.451494"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.107894,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "FOX",
-                    "relevance_score": "0.050359",
-                    "ticker_sentiment_score": "-0.071424",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
             "title": "JD.com  ( JD )  Q4 2024 Earnings Call Transcript",
             "url": "https://www.fool.com/earnings/call-transcripts/2025/03/06/jdcom-jd-q4-2024-earnings-call-transcript/",
             "time_published": "20250306T161512",
@@ -205,6 +166,47 @@
                     "relevance_score": "0.136113",
                     "ticker_sentiment_score": "0.255685",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Outside In | To its trading partners, the US is suddenly a predatory rogue state",
+            "url": "https://www.scmp.com/opinion/world-opinion/article/3301369/its-trading-partners-us-suddenly-predatory-rogue-state",
+            "time_published": "20250307T083009",
+            "authors": [
+                "David Dodwell"
+            ],
+            "summary": "Trump's dogmatic commitment to his tariff-driven policy will force others to adapt - by reducing their reliance on, and engagement with, the US.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/06/6e2d65a5-dec6-446e-b0ed-f854b4cf77b6_d3082453.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Economy",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.034554,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.042346",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
