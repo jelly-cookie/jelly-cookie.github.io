@@ -276,81 +276,125 @@
             "ticker_sentiment": []
         },
         {
-            "title": "China widens fiscal window to step up spending, counteract US tariffs",
-            "url": "https://www.scmp.com/economy/policy/article/3301182/china-widens-fiscal-window-step-spending-counteract-us-tariffs",
-            "time_published": "20250305T140009",
+            "title": "Bitcoin Price Slides as Crypto Market Reacts to Trump's Strategic Reserve Order",
+            "url": "https://decrypt.co/309035/bitcoin-price-slides-as-crypto-market-reacts-to-trumps-strategic-reserve-order",
+            "time_published": "20250307T013058",
             "authors": [
-                "Ji Siqi"
+                "Sebastian Sinclair"
             ],
-            "summary": "An increase to China's fiscal deficit ratio, its highest ceiling ever, indicates more spending and a more 'proactive' policy are in store.",
-            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/05/b77c2bc0-7b0f-4bb8-8993-ae27253d5bda_5c24d01e.jpg?itok=HBUzL3ja&v=1741170722",
-            "source": "South China Morning Post",
-            "category_within_source": "Economy",
-            "source_domain": "www.scmp.com",
+            "summary": "Bitcoin fell 5.7% to just under $85,000 as investors reacted to Trump's executive order establishing a Strategic Bitcoin Reserve.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/10/bitcoin-btc-closeup-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
             "topics": [
                 {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
+                    "relevance_score": "0.158519"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
+                    "relevance_score": "0.650727"
                 }
             ],
-            "overall_sentiment_score": 0.136446,
+            "overall_sentiment_score": -0.069827,
             "overall_sentiment_label": "Neutral",
             "ticker_sentiment": [
                 {
-                    "ticker": "MCQEF",
-                    "relevance_score": "0.042496",
-                    "ticker_sentiment_score": "-0.012867",
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.76367",
+                    "ticker_sentiment_score": "-0.015852",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "SCBFF",
-                    "relevance_score": "0.084871",
-                    "ticker_sentiment_score": "0.118436",
-                    "ticker_sentiment_label": "Neutral"
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "-0.185756",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "-0.185756",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.104683",
+                    "ticker_sentiment_score": "-0.185756",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         },
         {
-            "title": "Germany's fiscal U-turn could be a 'game changer' for the country's sluggish economy, analysts say",
-            "url": "https://www.cnbc.com/2025/03/05/germanys-fiscal-u-turn-could-be-a-game-changer-for-the-countrys-sluggish-economy-analysts-say.html",
-            "time_published": "20250305T130444",
-            "authors": [],
-            "summary": "Leaders of the likely incoming coalition government announced plans to reform the debt brake and create a special investment fund.",
-            "banner_image": null,
-            "source": "CNBC",
-            "category_within_source": "Economy",
-            "source_domain": "www.cnbc.com",
+            "title": "Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/25/03/44183216/elizabeth-warren-wants-to-know-from-elon-musk-mark-zuckerberg-and-jeff-bezos-how-much-they-spent-lobbying-for-pot",
+            "time_published": "20250307T002837",
+            "authors": [
+                "Shivdeep Dhaliwal"
+            ],
+            "summary": "On Thursday, Sen. Elizabeth Warren ( D-Mass. ) called out five tech giants, alleging they could gain $75 billion in tax benefits due to their close ties with the Trump administration. What Happened: In a post on X, Warren pointed out that Tesla Inc. TSLA, Amazon.com Inc. AMZN, Meta Platforms ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/Elizabeth-Warren-Accuses-Federal-Reserve.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
             "topics": [
                 {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
+                    "relevance_score": "0.158519"
                 },
                 {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.918141"
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
                 }
             ],
-            "overall_sentiment_score": 0.057812,
-            "overall_sentiment_label": "Neutral",
+            "overall_sentiment_score": 0.155813,
+            "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "BAC",
-                    "relevance_score": "0.038843",
-                    "ticker_sentiment_score": "0.016647",
+                    "ticker": "GOOG",
+                    "relevance_score": "0.191929",
+                    "ticker_sentiment_score": "0.040563",
                     "ticker_sentiment_label": "Neutral"
                 },
                 {
-                    "ticker": "FOREX:EUR",
-                    "relevance_score": "0.077593",
-                    "ticker_sentiment_score": "0.080481",
+                    "ticker": "META",
+                    "relevance_score": "0.191929",
+                    "ticker_sentiment_score": "0.040563",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.28442",
+                    "ticker_sentiment_score": "0.092719",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.28442",
+                    "ticker_sentiment_score": "0.092719",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.191929",
+                    "ticker_sentiment_score": "0.067908",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
