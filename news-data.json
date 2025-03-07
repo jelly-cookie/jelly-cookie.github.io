@@ -124,48 +124,87 @@
             ]
         },
         {
-            "title": "Victoria's Secret & Co. Reports Fourth Quarter 2024 Results",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037774/0/en/Victoria-s-Secret-Co-Reports-Fourth-Quarter-2024-Results.html",
-            "time_published": "20250305T211500",
+            "title": "Innovative Food Holdings, Inc. Reports Financial Results for Fourth Quarter and Fiscal Year 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/03/07/3038916/0/en/Innovative-Food-Holdings-Inc-Reports-Financial-Results-for-Fourth-Quarter-and-Fiscal-Year-2024.html",
+            "time_published": "20250307T130000",
             "authors": [
-                "VS Service Company",
-                "LLC"
+                "Innovative Food Holdings"
             ],
-            "summary": "Fourth quarter comparable sales increase 5%Operating Income and EPS exceed expectationsProvides initial full year and first quarter 2025 guidance ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/93a4cb1c-d249-4760-a280-6cd41d66b24c",
+            "summary": "INNOVATIVE FOOD HOLDINGS, INC. REPORTS FINANCIAL RESULTS FOR FOURTH QUARTER AND FISCAL YEAR ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/73df232a-0dfe-42ff-892e-08e0ff0c2ac4",
             "source": "GlobeNewswire",
             "category_within_source": "n/a",
             "source_domain": "www.globenewswire.com",
             "topics": [
                 {
                     "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
                     "relevance_score": "0.310843"
                 },
                 {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
                 },
                 {
                     "topic": "Financial Markets",
-                    "relevance_score": "0.451494"
+                    "relevance_score": "0.986564"
                 },
                 {
                     "topic": "Earnings",
-                    "relevance_score": "0.999594"
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.495866"
                 }
             ],
-            "overall_sentiment_score": 0.312298,
+            "overall_sentiment_score": 0.256629,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Brera Holdings Adds Famed Global Economist Dr. Arthur B. Laffer to Its All-Star Advisory Board",
+            "url": "https://www.globenewswire.com/news-release/2025/03/07/3038910/0/en/Brera-Holdings-Adds-Famed-Global-Economist-Dr-Arthur-B-Laffer-to-Its-All-Star-Advisory-Board.html",
+            "time_published": "20250307T130000",
+            "authors": [
+                "Brera Holdings PLC"
+            ],
+            "summary": "The creator of supply-side economics and the Laffer Curve joins Luxury Executive Massimo Ferragamo, MLS Founder and World Cup Director Alan Rothenberg, Sports Business Leaders Paul Tosetti and Marshall Geller, and Football Icon Giuseppe Rossi on Brera's Advisory Board ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/1820d3c3-56d2-4d8e-9360-8c450f9eba49/dr-arthur-b-laffer.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.276342,
             "overall_sentiment_label": "Somewhat-Bullish",
             "ticker_sentiment": [
                 {
-                    "ticker": "VSCO",
-                    "relevance_score": "0.136113",
-                    "ticker_sentiment_score": "0.255685",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
+                    "ticker": "MANU",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.079177",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BREA",
+                    "relevance_score": "0.156207",
+                    "ticker_sentiment_score": "0.139352",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
@@ -2618,66 +2657,6 @@
                     "ticker": "TGT",
                     "relevance_score": "0.286002",
                     "ticker_sentiment_score": "0.038497",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "NN, Inc. Reports Fourth Quarter and Full Year 2024 Results",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037785/0/en/NN-Inc-Reports-Fourth-Quarter-and-Full-Year-2024-Results.html",
-            "time_published": "20250305T212500",
-            "authors": [
-                "NN",
-                "Inc."
-            ],
-            "summary": "NN delivers performance as expected in first full year of transformation ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/bf2f92b9-9714-4fdc-a0c0-7f216f42e1bb",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Macro",
-                    "relevance_score": "0.158519"
-                }
-            ],
-            "overall_sentiment_score": 0.143479,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NNBR",
-                    "relevance_score": "0.066567",
-                    "ticker_sentiment_score": "0.07449",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PSIX",
-                    "relevance_score": "0.011107",
-                    "ticker_sentiment_score": "0.019109",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
