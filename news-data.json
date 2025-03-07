@@ -124,6 +124,71 @@
             ]
         },
         {
+            "title": "Palantir Delivers AI-Powered Battle Stations To US Army, Stock Now Comparable To Tesla Circa 2015: Analyst - Palantir Technologies  ( NASDAQ:PLTR ) ",
+            "url": "https://www.benzinga.com/government/regulations/25/03/44190445/palantir-delivers-ai-powered-battle-stations-to-us-army-stock-now-comparable-to-tesla-circ",
+            "time_published": "20250307T142157",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Palantir delivers AI-powered mobile battle stations to the U.S. Army under a $178 million deal. Palantir expands its defense role as government contracts surge with AI integration. Our government trade tracker caught Pelosi's 169% AI winner. Discover how to track all 535 Congress member stock ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Palantir-Technologies-Inc--PLTR.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.174398,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SCGLF",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "0.099908",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NOC",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "0.174486",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LHX",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.324495",
+                    "ticker_sentiment_score": "-0.185871",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
             "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
             "url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44189657/chinas-market-rebound-is-the-npc-meeting-a-turning-point-for-investors",
             "time_published": "20250307T134924",
@@ -2661,59 +2726,6 @@
                     "relevance_score": "0.204936",
                     "ticker_sentiment_score": "0.160587",
                     "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Investors spy the dawn of a tectonic shift away from US markets - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/investors-spy-the-dawn-of-a-tectonic-shift-away-from-us-markets/118747162",
-            "time_published": "20250306T023642",
-            "authors": [
-                "ETCFO"
-            ],
-            "summary": "A significant global trade war and China's emergence as a tech leader are prompting a shift in global investment away from the U.S. While China deployed more stimulus to mitigate the impact of U.S. tariffs, Europe proposes a massive fiscal overhaul.",
-            "banner_image": "https://st.etb2bimg.com/Themes/Release/theme4/images/bar-codes/cfo_barcode.png?mod=2846",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999956"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.074849,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.046363",
-                    "ticker_sentiment_score": "0.030943",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "STT",
-                    "relevance_score": "0.046363",
-                    "ticker_sentiment_score": "0.030943",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.183895",
-                    "ticker_sentiment_score": "0.047465",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
