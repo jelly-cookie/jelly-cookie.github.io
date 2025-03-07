@@ -209,6 +209,338 @@
             ]
         },
         {
+            "title": "Alliance Witan PLC - Final Results",
+            "url": "https://www.globenewswire.com/news-release/2025/03/07/3038750/0/en/Alliance-Witan-PLC-Final-Results.html",
+            "time_published": "20250307T070000",
+            "authors": [
+                "Alliance Witan PLC"
+            ],
+            "summary": "Alliance Witan PLC ( 'the Company' ) LEI: ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998947"
+                }
+            ],
+            "overall_sentiment_score": 0.22056,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ALK",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.040927",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PPERY",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NRG",
+                    "relevance_score": "0.008388",
+                    "ticker_sentiment_score": "0.076209",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACRFF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.097594",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AVGO",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.068245",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NCBDF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.076846",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CSGP",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FHI",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.040927",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVO",
+                    "relevance_score": "0.012582",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HDB",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.029223",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXON",
+                    "relevance_score": "0.008388",
+                    "ticker_sentiment_score": "0.055848",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FNV",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.029991",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.016776",
+                    "ticker_sentiment_score": "0.112464",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.020969",
+                    "ticker_sentiment_score": "0.125838",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.016776",
+                    "ticker_sentiment_score": "0.105953",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AA",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.040927",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.029353",
+                    "ticker_sentiment_score": "0.094548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COO",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EG",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RDDT",
+                    "relevance_score": "0.008388",
+                    "ticker_sentiment_score": "0.071925",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VPGLF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.04078",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSCI",
+                    "relevance_score": "0.046111",
+                    "ticker_sentiment_score": "0.109355",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHMDF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.076846",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCK",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.076846",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CMSQF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.047104",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AEP",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.040927",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "-0.052384",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DEO",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "-0.052384",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GEN",
+                    "relevance_score": "0.008388",
+                    "ticker_sentiment_score": "0.126443",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RINIF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.076846",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KYCCF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.288301",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ROP",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.288301",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TGOPF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AZN",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TMO",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNPS",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.081701",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.012582",
+                    "ticker_sentiment_score": "0.052336",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NSRGF",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.068245",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.004102",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.004194",
+                    "ticker_sentiment_score": "0.044745",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+            "url": "https://www.globenewswire.com/news-release/2025/03/07/3038748/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+            "time_published": "20250307T070000",
+            "authors": [
+                "NB Private Equity Partners Limited"
+            ],
+            "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                }
+            ],
+            "overall_sentiment_score": 0.236207,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NBPVF",
+                    "relevance_score": "0.136499",
+                    "ticker_sentiment_score": "0.192875",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Trump backs off Mexico, Canada tariffs after market blowback - ETCFO",
             "url": "https://cfo.economictimes.indiatimes.com/news/economy/trump-backs-off-mexico-canada-tariffs-after-market-blowback/118773374",
             "time_published": "20250307T030121",
@@ -2397,114 +2729,6 @@
                     "relevance_score": "0.066598",
                     "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "These Are the 8 Best Artificial Intelligence  ( AI )  Growth Stocks to Buy as President Trump's Tariffs Take Effect, According to Dan Ives",
-            "url": "https://www.fool.com/investing/2025/03/05/these-are-the-8-best-artificial-intelligence-ai-gr/",
-            "time_published": "20250305T162100",
-            "authors": [
-                "Adam Spatacco"
-            ],
-            "summary": "Analyzing trends in the stock market can serve as a pretty good proxy for the general psyche of investors. Since Donald Trump's presidential victory on Nov. 5, the stock market has moved in just about every direction.In the immediate weeks after the election, the Nasdaq Composite ( NASDAQINDEX: ...",
-            "banner_image": "https://media.ycharts.com/charts/53866355b14c7f142efb54432f99ec6f.png",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.992549"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.202677,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.136693",
-                    "ticker_sentiment_score": "0.170485",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.102741",
-                    "ticker_sentiment_score": "0.097425",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.102741",
-                    "ticker_sentiment_score": "0.208735",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Are These AI Stocks On Sale?",
-            "url": "https://www.zacks.com/commentary/2425619/are-these-ai-stocks-on-sale",
-            "time_published": "20250305T161500",
-            "authors": [
-                "Derek Lewis"
-            ],
-            "summary": "The AI trade has gone sideways over recent weeks, with companies involved in the frenzy facing notable selling pressure. But is it an opportunity?",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f8/14626.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.214378"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.962106"
-                }
-            ],
-            "overall_sentiment_score": 0.389128,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.377142",
-                    "ticker_sentiment_score": "0.350109",
-                    "ticker_sentiment_label": "Bullish"
-                },
-                {
-                    "ticker": "VRT",
-                    "relevance_score": "0.377142",
-                    "ticker_sentiment_score": "0.341082",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
