@@ -209,51 +209,6 @@
             ]
         },
         {
-            "title": "Trump's 'U.S. DOGE Service' Claims $65B In Savings-Experts Call It 'Smoke And Mirrors' Amid Resignations",
-            "url": "https://www.benzinga.com/news/25/03/44143475/trumps-u-s-doge-service-claims-65b-in-savings-experts-call-it-smoke-and-mirrors-amid-resignations",
-            "time_published": "20250305T151912",
-            "authors": [
-                "LaToya Scott"
-            ],
-            "summary": "Elon Musk is backing a bold idea: a $5,000 refund for American taxpayers. Sounds great, but there's a catch-Congress isn't on board, and since they control federal spending, it's unclear how this could actually happen as reported by Business Insider.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/What-Happened_2.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "IPO",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.108179"
-                }
-            ],
-            "overall_sentiment_score": 0.140645,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "WMT",
-                    "relevance_score": "0.06211",
-                    "ticker_sentiment_score": "0.281446",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
             "title": "Trump backs off Mexico, Canada tariffs after market blowback - ETCFO",
             "url": "https://cfo.economictimes.indiatimes.com/news/economy/trump-backs-off-mexico-canada-tariffs-after-market-blowback/118773374",
             "time_published": "20250307T030121",
@@ -291,6 +246,54 @@
                     "relevance_score": "0.05133",
                     "ticker_sentiment_score": "0.175454",
                     "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Beating Trumponomics - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/policy/beating-trumponomics/118772462",
+            "time_published": "20250307T021417",
+            "authors": [
+                "Amol Dethe",
+                "ETCFO"
+            ],
+            "summary": "Trump's tariff policies, intended to reinforce US economic dominance, have instead triggered uncertainty, alienated allies, and encouraged global realignments. Canada and Mexico, key US trading partners, are reassessing their economic dependence on the US. While geography makes trade with the US ...",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Top Stories",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.03908,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.034039",
+                    "ticker_sentiment_score": "-0.16017",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.068016",
+                    "ticker_sentiment_score": "-0.12499",
+                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         },
