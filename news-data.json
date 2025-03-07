@@ -170,6 +170,88 @@
             ]
         },
         {
+            "title": "Mullen Group Ltd. Announces Renewal of Normal Course Issuer Bid for Shares and Approval of Normal Course Issuer Bid for Debentures",
+            "url": "https://www.globenewswire.com/news-release/2025/03/07/3038815/0/en/Mullen-Group-Ltd-Announces-Renewal-of-Normal-Course-Issuer-Bid-for-Shares-and-Approval-of-Normal-Course-Issuer-Bid-for-Debentures.html",
+            "time_published": "20250307T110000",
+            "authors": [
+                "Mullen Group Ltd"
+            ],
+            "summary": "OKOTOKS, Alberta, March 07, 2025 ( GLOBE NEWSWIRE ) -- ( TSX: MTL ) Mullen Group Ltd. ( \"Mullen Group\" and/or the \"Corporation\" ) announced today that it has received approval from the Toronto Stock Exchange ( the \"Exchange\" ) for the renewal of its normal course issuer bid for the common shares ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/a77187b1-6cef-400a-b65f-d6c9479b1b84",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.997405"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.162645,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MLLGF",
+                    "relevance_score": "0.282234",
+                    "ticker_sentiment_score": "0.050852",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "European  ( fund flow )  Exceptionalism",
+            "url": "https://www.ft.com/content/4990eacc-b66b-4da8-999b-9d5c5c26feae",
+            "time_published": "20250307T100830",
+            "authors": [
+                "Robin Wigglesworth"
+            ],
+            "summary": "Say the word Alphaville . . .",
+            "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F504a2df0-fb32-11ef-a239-43f39f49f1ed-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "source": "Financial Times",
+            "category_within_source": "Markets",
+            "source_domain": "www.ft.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999701"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.149021,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.030053",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Outside In | To its trading partners, the US is suddenly a predatory rogue state",
             "url": "https://www.scmp.com/opinion/world-opinion/article/3301369/its-trading-partners-us-suddenly-predatory-rogue-state",
             "time_published": "20250307T083009",
@@ -2663,73 +2745,6 @@
                     "ticker": "QUCCF",
                     "relevance_score": "0.071677",
                     "ticker_sentiment_score": "0.101441",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Ice Cube And The 'Hollyweed Queen' Bet Big On Premium Cannabis With Fryday Kush",
-            "url": "https://www.benzinga.com/markets/cannabis/25/03/44150766/ice-cube-and-the-hollyweed-queen-bet-big-on-premium-cannabis-with-fryday-kush",
-            "time_published": "20250305T202613",
-            "authors": [
-                "Javier Hasse"
-            ],
-            "summary": "Ice Cube and Priscilla Vilchis partner to launch Fryday Kush, focusing on premium cannabis strains. Fryday Kush avoids common celebrity-brand pitfalls by prioritizing quality, direct involvement and branding. Our government trade tracker caught Pelosi's 169% AI winner.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/FAV-PrisICECUBE.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.266143"
-                }
-            ],
-            "overall_sentiment_score": 0.131327,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
-        },
-        {
-            "title": "NTG Nordic Transport Group Annual Report for 2024",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037673/0/en/NTG-Nordic-Transport-Group-Annual-Report-for-2024.html",
-            "time_published": "20250305T180500",
-            "authors": [
-                "NTG Nordic Transport Group A/S"
-            ],
-            "summary": "Company announcement no. 2 - 2505 March ...",
-            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/991628be-ac71-4f7e-a0cb-38a90402c687",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.161647"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Mergers & Acquisitions",
-                    "relevance_score": "0.684621"
-                }
-            ],
-            "overall_sentiment_score": 0.244972,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CURN",
-                    "relevance_score": "0.066598",
-                    "ticker_sentiment_score": "0.0",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
