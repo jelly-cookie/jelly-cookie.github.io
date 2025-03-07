@@ -154,6 +154,52 @@
             ]
         },
         {
+            "title": "NI Holdings, Inc. Reports Results for Fourth Quarter and Year Ended December 31, 2024",
+            "url": "https://www.globenewswire.com/news-release/2025/03/07/3039247/0/en/NI-Holdings-Inc-Reports-Results-for-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
+            "time_published": "20250307T211500",
+            "authors": [
+                "NI Holdings",
+                "Inc."
+            ],
+            "summary": "FARGO, N.D., March 07, 2025 ( GLOBE NEWSWIRE ) -- NI Holdings, Inc. ( \"NI Holdings,\" or the \"Company,\" NASDAQ: NODK ) announced today results for the year ended December 31, 2024.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/a7940618-62ff-429f-ad8f-923b2e9dab1d",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999612"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.219094,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NODK",
+                    "relevance_score": "0.308246",
+                    "ticker_sentiment_score": "0.02203",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Powell Stresses Patience As Fed Navigates Market Uncertainty, Trade Turmoil",
             "url": "https://www.benzinga.com/news/25/03/44203241/powell-stresses-patience-as-fed-navigates-market-uncertainty-trade-turmoil",
             "time_published": "20250307T202202",
@@ -2657,47 +2703,6 @@
                     "relevance_score": "0.036365",
                     "ticker_sentiment_score": "-0.163392",
                     "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Automobile retail sales drop 7 pc in Feb amid slowing demand: FADA - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/automobile-retail-sales-drop-7-pc-in-feb-amid-slowing-demand-fada/118757049",
-            "time_published": "20250306T090433",
-            "authors": [
-                "ETCFO"
-            ],
-            "summary": "Automobile retail sales in India fell by 7% in February, with declines across passenger vehicles, two-wheelers, commercial vehicles, and tractors. Dealers raised concerns over inventory management and emphasized the need for aligning wholesale allocations with demand to protect their viability.",
-            "banner_image": "https://etimg.etb2bimg.com/thumb/msid-118757049,imgsize-39584,width-1200,height=765,overlay-etcfo/economy/automobile-retail-sales-drop-7-pc-in-feb-amid-slowing-demand-fada.jpg",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.200474,
-            "overall_sentiment_label": "Somewhat-Bearish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "CVGI",
-                    "relevance_score": "0.080458",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
                 }
             ]
         }
