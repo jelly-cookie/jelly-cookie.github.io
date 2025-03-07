@@ -124,6 +124,100 @@
             ]
         },
         {
+            "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
+            "url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44189657/chinas-market-rebound-is-the-npc-meeting-a-turning-point-for-investors",
+            "time_published": "20250307T134924",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "Technical strategist sees China's stimulus push boosting ETFs like MCHI, KWEB, CHIX and KFVG amid economic shifts. Investor optimism grows as Chinese stocks rally, with MSCI China Index up 16.1% YTD-key ETFs in focus. Our government trade tracker caught Pelosi's 169% AI winner.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Etf-Investment-Concept--Etf-Stock-Option.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999975"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.283501,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "0.359016",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "LPLA",
+                    "relevance_score": "0.055236",
+                    "ticker_sentiment_score": "0.054864",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CIH",
+                    "relevance_score": "0.110209",
+                    "ticker_sentiment_score": "0.18031",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "2 Incredible AI Defense Stocks Worth Buying and Holding Forever",
+            "url": "https://www.fool.com/investing/2025/03/07/2-incredible-ai-defense-stocks-worth-buying-and-ho/",
+            "time_published": "20250307T133000",
+            "authors": [
+                "George Budwell"
+            ],
+            "summary": "Artificial intelligence ( AI ) has transformed from a behind-the-scenes technology to an essential part of our daily experience. While earlier AI milestones -- like DeepMind's AlphaGo victory over the world Go champion in 2016 -- created temporary public interest, they didn't fundamentally change ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810188%2Fgettyimages-2162363632.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.415144,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.158868",
+                    "ticker_sentiment_score": "0.311089",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "Innovative Food Holdings, Inc. Reports Financial Results for Fourth Quarter and Fiscal Year 2024",
             "url": "https://www.globenewswire.com/news-release/2025/03/07/3038916/0/en/Innovative-Food-Holdings-Inc-Reports-Financial-Results-for-Fourth-Quarter-and-Fiscal-Year-2024.html",
             "time_published": "20250307T130000",
@@ -204,6 +298,109 @@
                     "ticker": "BREA",
                     "relevance_score": "0.156207",
                     "ticker_sentiment_score": "0.139352",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Large-Cap Value Mutual Funds to Build a Solid Portfolio",
+            "url": "https://www.zacks.com/stock/news/2427100/3-large-cap-value-mutual-funds-to-build-a-solid-portfolio",
+            "time_published": "20250307T123800",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Invest in large-cap value funds like DAGVX, PEYAX and ABVAX to preserve your capital and generate future returns.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e9/88506.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.176321,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CSCO",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.048708",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.048708",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.049687",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.048708",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.049687",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ABBV",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.049687",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.049687",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.086245",
+                    "ticker_sentiment_score": "0.052338",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
@@ -2516,147 +2713,6 @@
                     "ticker": "FOREX:USD",
                     "relevance_score": "0.183895",
                     "ticker_sentiment_score": "0.047465",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Trump exempts some automakers from Canada, Mexico tariffs for one month - ETCFO",
-            "url": "https://cfo.economictimes.indiatimes.com/news/economy/trump-exempts-some-automakers-from-canada-mexico-tariffs-for-one-month/118747110",
-            "time_published": "20250306T023124",
-            "authors": [
-                "ETCFO"
-            ],
-            "summary": "U.S. President Donald Trump will exempt automakers from 25% tariffs on Canada and Mexico for one month, contingent on free trade rule compliance. While negotiations continue, this move provides a temporary boost to auto stocks.",
-            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-            "source": "Economic Times",
-            "category_within_source": "Economy",
-            "source_domain": "cfo.economictimes.indiatimes.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.684621"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.0,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "GM",
-                    "relevance_score": "0.141102",
-                    "ticker_sentiment_score": "0.111308",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "FOREX:USD",
-                    "relevance_score": "0.03545",
-                    "ticker_sentiment_score": "-0.162913",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Analyzing Retail Earnings in a High-Tariff Economy",
-            "url": "https://www.zacks.com/commentary/2426283/analyzing-retail-earnings-in-a-high-tariff-economy",
-            "time_published": "20250305T233000",
-            "authors": [
-                "Sheraz Mian"
-            ],
-            "summary": "Several big-box retail operators have recently reported quarterly results, though headlines about tariffs have been stealing the thunder. What should investors know?",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/4f/96087.jpg?v=1618932874",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.151764,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BBY",
-                    "relevance_score": "0.286002",
-                    "ticker_sentiment_score": "0.166052",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TGT",
-                    "relevance_score": "0.286002",
-                    "ticker_sentiment_score": "0.038497",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Analyzing Retail Earnings in a High-Tariff Economy",
-            "url": "https://www.zacks.com/commentary/2426318/analyzing-retail-earnings-in-a-high-tariff-economy",
-            "time_published": "20250305T232600",
-            "authors": [
-                "Sheraz Mian"
-            ],
-            "summary": "Several big-box retail operators have recently reported quarterly results, though headlines about tariffs have been stealing the thunder. What should investors know?",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/4f/96087.jpg?v=1618932874",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Retail & Wholesale",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.360215"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.151764,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BBY",
-                    "relevance_score": "0.286002",
-                    "ticker_sentiment_score": "0.166052",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TGT",
-                    "relevance_score": "0.286002",
-                    "ticker_sentiment_score": "0.038497",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
