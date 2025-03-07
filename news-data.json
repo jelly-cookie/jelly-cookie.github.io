@@ -170,6 +170,94 @@
             ]
         },
         {
+            "title": "Palantir Stock Sell-Off: Is Now the Time to Buy the Dip?",
+            "url": "https://www.fool.com/investing/2025/03/07/palantir-stock-sell-off-is-now-the-time-to-buy-the/",
+            "time_published": "20250307T120000",
+            "authors": [
+                "Keithen Drury"
+            ],
+            "summary": "Artificial intelligence ( AI ) stocks haven't fared well over the past few weeks. Many of the most prominent AI stocks tumbled, which may lead many investors to wonder if now is a great time to scoop up some of these dominant companies.Palantir Technologies ( NASDAQ: PLTR ) hasn't escaped this ...",
+            "banner_image": "https://media.ycharts.com/charts/4ed3150d428639c0a2d21863f3339789.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.82617"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999606"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.231583,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.097655",
+                    "ticker_sentiment_score": "-0.025586",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Donald Trump's 'Crypto Summit' Is A 'Critical Moment,' Experts Say - Coinbase Global  ( NASDAQ:COIN ) ",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44187394/donald-trumps-crypto-summit-is-a-critical-moment-experts-say",
+            "time_published": "20250307T115355",
+            "authors": [
+                "Murtuza Merchant"
+            ],
+            "summary": "The White House Crypto Summit could shape U.S. blockchain regulation, influencing builders, investors and global financial markets. They say clear summit guidelines will speed up crypto industry progress and development. Every week, our Whisper Index uncovers five overlooked stocks with big ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Cryptocurrency-Photo-by-CMP-NZ-on-Shutte.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                }
+            ],
+            "overall_sentiment_score": 0.356737,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.132817",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.077343",
+                    "ticker_sentiment_score": "0.071847",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Mullen Group Ltd. Announces Renewal of Normal Course Issuer Bid for Shares and Approval of Normal Course Issuer Bid for Debentures",
             "url": "https://www.globenewswire.com/news-release/2025/03/07/3038815/0/en/Mullen-Group-Ltd-Announces-Renewal-of-Normal-Course-Issuer-Bid-for-Shares-and-Approval-of-Normal-Course-Issuer-Bid-for-Debentures.html",
             "time_published": "20250307T110000",
@@ -2590,161 +2678,6 @@
                     "ticker": "PSIX",
                     "relevance_score": "0.011107",
                     "ticker_sentiment_score": "0.019109",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Rigetti Computing Reports Fourth Quarter and Full-Year 2024 Results - Rigetti Computing  ( NASDAQ:RGTIW ) , Rigetti Computing  ( NASDAQ:RGTI ) ",
-            "url": "https://www.benzinga.com/pressreleases/25/03/g44151688/rigetti-computing-reports-fourth-quarter-and-full-year-2024-results",
-            "time_published": "20250305T210556",
-            "authors": [
-                "Globe Newswire"
-            ],
-            "summary": "BERKELEY, Calif., March 05, 2025 ( GLOBE NEWSWIRE ) -- Rigetti Computing, Inc. RGTI ( \"Rigetti\" or the \"Company\" ) , a pioneer in full-stack quantum-classical computing, today announced its financial results for the fourth quarter and year ended December 31, 2024.",
-            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-            "source": "Benzinga",
-            "category_within_source": "News",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.997902"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.201843,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.017407",
-                    "ticker_sentiment_score": "0.050269",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.034806",
-                    "ticker_sentiment_score": "0.163548",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.034806",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TRIN",
-                    "relevance_score": "0.017407",
-                    "ticker_sentiment_score": "0.189415",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "QUCCF",
-                    "relevance_score": "0.069545",
-                    "ticker_sentiment_score": "0.097136",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Rigetti Computing Reports Fourth Quarter and Full-Year 2024 Results",
-            "url": "https://www.globenewswire.com/news-release/2025/03/05/3037766/0/en/Rigetti-Computing-Reports-Fourth-Quarter-and-Full-Year-2024-Results.html",
-            "time_published": "20250305T210500",
-            "authors": [
-                "LLC",
-                "Rigetti & Co"
-            ],
-            "summary": "BERKELEY, Calif., March 05, 2025 ( GLOBE NEWSWIRE ) -- Rigetti Computing, Inc. ( Nasdaq: RGTI ) ( \"Rigetti\" or the \"Company\" ) , a pioneer in full-stack quantum-classical computing, today announced its financial results for the fourth quarter and year ended December 31, 2024. • Revenues for the ...",
-            "banner_image": "https://ml.globenewswire.com/Resource/Download/de17fedb-5fda-4717-bc87-9cd957ccf9e8",
-            "source": "GlobeNewswire",
-            "category_within_source": "n/a",
-            "source_domain": "www.globenewswire.com",
-            "topics": [
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.995015"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.333333"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                }
-            ],
-            "overall_sentiment_score": 0.197277,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "MSFT",
-                    "relevance_score": "0.017942",
-                    "ticker_sentiment_score": "0.053367",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.035875",
-                    "ticker_sentiment_score": "0.149352",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "RGTI",
-                    "relevance_score": "0.035875",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TRIN",
-                    "relevance_score": "0.017942",
-                    "ticker_sentiment_score": "0.0",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "QUCCF",
-                    "relevance_score": "0.071677",
-                    "ticker_sentiment_score": "0.101441",
                     "ticker_sentiment_label": "Neutral"
                 }
             ]
