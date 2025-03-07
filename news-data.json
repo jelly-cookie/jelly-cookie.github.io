@@ -154,6 +154,49 @@
             ]
         },
         {
+            "title": "Broaden Your ETF Exposure With These 3 Overlooked Funds - iShares MSCI EAFE Value ETF  ( BATS:EFV ) , Johnson & Johnson  ( NYSE:JNJ ) ",
+            "url": "https://www.benzinga.com/markets/25/03/44188017/broaden-your-etf-exposure-with-these-3-overlooked-funds",
+            "time_published": "20250307T174424",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "Volatility is surging, with the VIX \"fear\" index climbing to its highest level so far in 2025 as of March 3. Investors have been spooked by an inverted yield curve in Treasury rates and corresponding concerns about a potential recession, as well as uncertainty surrounding tariffs by the Trump ...",
+            "banner_image": "https://www.marketbeat.com/logos/articles/med_20250304100712_broaden-your-etf-exposure-with-these-3-overlooked.jpg",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999975"
+                }
+            ],
+            "overall_sentiment_score": 0.286298,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
             "title": "Why C3.ai Stock Lost 25% in February",
             "url": "https://www.fool.com/investing/2025/03/07/why-c3ai-stock-lost-25-in-february/",
             "time_published": "20250307T164557",
@@ -2657,53 +2700,6 @@
                     "ticker": "NBPVF",
                     "relevance_score": "0.136499",
                     "ticker_sentiment_score": "0.192875",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                }
-            ]
-        },
-        {
-            "title": "Zacks Investment Ideas feature highlights NVIDIA, Vertiv and Palantir",
-            "url": "https://www.zacks.com/stock/news/2426342/zacks-investment-ideas-feature-highlights-nvidia-vertiv-and-palantir",
-            "time_published": "20250306T070000",
-            "authors": [
-                "Zacks Investment Research"
-            ],
-            "summary": "NVIDIA, Vertiv and Palantir have been highlighted in this Investment Ideas article.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ad/522.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.316726"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.962106"
-                }
-            ],
-            "overall_sentiment_score": 0.397187,
-            "overall_sentiment_label": "Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "NVDA",
-                    "relevance_score": "0.31482",
-                    "ticker_sentiment_score": "0.345809",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "VRT",
-                    "relevance_score": "0.31482",
-                    "ticker_sentiment_score": "0.342134",
                     "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
