@@ -71,6 +71,36 @@
             ]
         },
         {
+            "title": "3 Large-Cap Value Funds to Buy Amid Sinking Consumer Confidence",
+            "url": "https://www.zacks.com/stock/news/2427283/3-large-cap-value-funds-to-buy-amid-sinking-consumer-confidence",
+            "time_published": "20250307T144900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Large-cap value funds like NOIEX, DODGX and TCLCX are a safe bet as sinking consumer confidence is leading to market volatility.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d9/554.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999365"
+                }
+            ],
+            "overall_sentiment_score": 0.088177,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
             "title": "JD.com  ( JD )  Q4 2024 Earnings Call Transcript",
             "url": "https://www.fool.com/earnings/call-transcripts/2025/03/06/jdcom-jd-q4-2024-earnings-call-transcript/",
             "time_published": "20250306T161512",
@@ -185,6 +215,59 @@
                     "relevance_score": "0.324495",
                     "ticker_sentiment_score": "-0.185871",
                     "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "3 Original Auto Equipment Stocks to Consider Amid High Tariffs",
+            "url": "https://www.zacks.com/commentary/2427118/3-original-auto-equipment-stocks-to-consider-amid-high-tariffs",
+            "time_published": "20250307T135700",
+            "authors": [
+                "Lavina Shahu"
+            ],
+            "summary": "Amid tariff-related uncertainty, auto equipment stocks like AXL, ALSN & ADNT are set to gain from their expanding footprints, acquisitions and continued innovation.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/02/28697.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99246"
+                }
+            ],
+            "overall_sentiment_score": 0.240899,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ALSN",
+                    "relevance_score": "0.131463",
+                    "ticker_sentiment_score": "0.14427",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXL",
+                    "relevance_score": "0.131463",
+                    "ticker_sentiment_score": "0.14427",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ADNT",
+                    "relevance_score": "0.22792",
+                    "ticker_sentiment_score": "0.208865",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         },
@@ -2622,110 +2705,6 @@
                     "relevance_score": "0.264351",
                     "ticker_sentiment_score": "0.036143",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Alibaba Soars 7% On AI Push As China Pledges To 'Vigorously Boost' Spending - Hang Seng Reaches 2-Year High - Alibaba Gr Hldgs  ( NYSE:BABA ) , Alibaba Gr Hldgs  ( OTC:BABAF ) ",
-            "url": "https://www.benzinga.com/25/03/44158266/alibaba-jumps-7-on-deepseek-rival-launch-as-china-pledges-to-vigorously-boost-consumption-hang-seng-hits-2-year-h",
-            "time_published": "20250306T044254",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Hong Kong stocks surged Thursday morning, with the Hang Seng Index climbing 2.5% to 24,183.07, reaching its highest level since January 2022 and extending its year-to-date gains to 23.37%.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/Investor-Caution-in-Asia.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": 0.206731,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BABA",
-                    "relevance_score": "0.312158",
-                    "ticker_sentiment_score": "0.322181",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TCTZF",
-                    "relevance_score": "0.106541",
-                    "ticker_sentiment_score": "0.060502",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "BIDU",
-                    "relevance_score": "0.211191",
-                    "ticker_sentiment_score": "0.149865",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "MPNGY",
-                    "relevance_score": "0.211191",
-                    "ticker_sentiment_score": "0.149865",
-                    "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "Palantir's Head Of Defense Warns Of China's War Preparations: 'We're Not Taking It Seriously' - Tesla  ( NASDAQ:TSLA ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
-            "url": "https://www.benzinga.com/markets/equities/25/03/44157866/palantirs-head-of-defense-warns-of-chinas-war-preparations-were-not-taking-it-seriously",
-            "time_published": "20250306T031512",
-            "authors": [
-                "Kaustubh Bagalkote"
-            ],
-            "summary": "Palantir Technologies Inc. PLTR Head of Defense and former Congressman Mike Gallagher is sounding alarms about China's military intentions, warning that the U.S. is failing to adequately prepare for potential conflict.",
-            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/05/PalantirShibuya--Tokyo--Japan---March-5-.jpeg?width=1200&height=800&fit=crop",
-            "source": "Benzinga",
-            "category_within_source": "Markets",
-            "source_domain": "www.benzinga.com",
-            "topics": [
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.538269"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Technology",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": -0.014604,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "SCGLF",
-                    "relevance_score": "0.103331",
-                    "ticker_sentiment_score": "-0.088084",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PLTR",
-                    "relevance_score": "0.396574",
-                    "ticker_sentiment_score": "-0.054938",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TSLA",
-                    "relevance_score": "0.204936",
-                    "ticker_sentiment_score": "0.160587",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
                 }
             ]
         }
