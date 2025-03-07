@@ -154,6 +154,47 @@
             ]
         },
         {
+            "title": "President Trump Wants To Replace Income Tax With Tariffs, National Economic Council Director Kevin Hassett Says - SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/news/econ-s/25/03/44205662/president-trump-wants-to-replace-income-tax-with-tariffs-national-economic-council-director-kevin-has",
+            "time_published": "20250307T213941",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "President Donald Trump wants to replace income tax revenue with tariff revenue, says NEC Director Kevin Hassett. Tax Foundation projects that potential tariff revenues would make up only a small fraction of total U.S. individual income tax collections.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Trump-Just-Made-English-Americas-Nationa.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.165479,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.07887",
+                    "ticker_sentiment_score": "0.173957",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
             "title": "NI Holdings, Inc. Reports Results for Fourth Quarter and Year Ended December 31, 2024",
             "url": "https://www.globenewswire.com/news-release/2025/03/07/3039247/0/en/NI-Holdings-Inc-Reports-Results-for-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
             "time_published": "20250307T211500",
@@ -2658,51 +2699,6 @@
                     "relevance_score": "0.063594",
                     "ticker_sentiment_score": "-0.35115",
                     "ticker_sentiment_label": "Bearish"
-                }
-            ]
-        },
-        {
-            "title": "Is the Stock Market Going to Crash? A New Fed Forecast Offers a Big  ( and Ominous )  Clue.",
-            "url": "https://www.fool.com/investing/2025/03/06/is-stock-market-going-to-crash-fed-forecast-clue/",
-            "time_published": "20250306T095100",
-            "authors": [
-                "Sean Williams"
-            ],
-            "summary": "Excluding the COVID-19 pandemic, this would mark a first for the U.S. economy since 2009.",
-            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F809814%2Fbear-market-stock-chart-quarter-report-financial-metrics-invest-getty.jpg&op=resize&w=700",
-            "source": "Motley Fool",
-            "category_within_source": "n/a",
-            "source_domain": "www.fool.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.972193"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.999986"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "0.310843"
-                },
-                {
-                    "topic": "Finance",
-                    "relevance_score": "1.0"
-                }
-            ],
-            "overall_sentiment_score": -0.058057,
-            "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": [
-                {
-                    "ticker": "BAC",
-                    "relevance_score": "0.036365",
-                    "ticker_sentiment_score": "-0.163392",
-                    "ticker_sentiment_label": "Somewhat-Bearish"
                 }
             ]
         }
