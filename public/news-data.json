@@ -154,6 +154,32 @@
             ]
         },
         {
+            "title": "Powell Stresses Patience As Fed Navigates Market Uncertainty, Trade Turmoil",
+            "url": "https://www.benzinga.com/news/25/03/44203241/powell-stresses-patience-as-fed-navigates-market-uncertainty-trade-turmoil",
+            "time_published": "20250307T202202",
+            "authors": [
+                "Henry Khederian"
+            ],
+            "summary": "Federal Reserve Chair Jerome Powell is taking a measured approach, carefully assessing the impact of President Donald Trump's policies. Speaking Friday at an event hosted by the University of Chicago, Powell reassures that the U.S. economy remains stable.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Federal-Reserve-Chair-Jerome-Powell.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.169256,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
             "title": "Broaden Your ETF Exposure With These 3 Overlooked Funds - iShares MSCI EAFE Value ETF  ( BATS:EFV ) , Johnson & Johnson  ( NYSE:JNJ ) ",
             "url": "https://www.benzinga.com/markets/25/03/44188017/broaden-your-etf-exposure-with-these-3-overlooked-funds",
             "time_published": "20250307T174424",
@@ -2652,85 +2678,6 @@
                     "relevance_score": "0.041975",
                     "ticker_sentiment_score": "-0.085126",
                     "ticker_sentiment_label": "Neutral"
-                }
-            ]
-        },
-        {
-            "title": "The Zacks Analyst Blog Tyson, Molson Coors Beverage, Primo Brands, Lancaster and Utz Brands",
-            "url": "https://www.zacks.com/stock/news/2426353/the-zacks-analyst-blog-tyson-molson-coors-beverage-primo-brands-lancaster-and-utz-brands",
-            "time_published": "20250306T081000",
-            "authors": [
-                "Zacks Investment Research"
-            ],
-            "summary": "Tyson, Molson Coors Beverage, Primo Brands, Lancaster and Utz Brands are included in this Analyst Blog.",
-            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/23/2376.jpg",
-            "source": "Zacks Commentary",
-            "category_within_source": "n/a",
-            "source_domain": "www.zacks.com",
-            "topics": [
-                {
-                    "topic": "Economy - Monetary",
-                    "relevance_score": "0.576289"
-                },
-                {
-                    "topic": "Economy - Fiscal",
-                    "relevance_score": "0.158519"
-                },
-                {
-                    "topic": "Financial Markets",
-                    "relevance_score": "0.99793"
-                },
-                {
-                    "topic": "Manufacturing",
-                    "relevance_score": "0.5"
-                },
-                {
-                    "topic": "Earnings",
-                    "relevance_score": "1.0"
-                },
-                {
-                    "topic": "Real Estate & Construction",
-                    "relevance_score": "0.5"
-                }
-            ],
-            "overall_sentiment_score": 0.260711,
-            "overall_sentiment_label": "Somewhat-Bullish",
-            "ticker_sentiment": [
-                {
-                    "ticker": "LANC",
-                    "relevance_score": "0.165598",
-                    "ticker_sentiment_score": "0.116101",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "PRMB",
-                    "relevance_score": "0.21956",
-                    "ticker_sentiment_score": "0.142871",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "TAP",
-                    "relevance_score": "0.21956",
-                    "ticker_sentiment_score": "0.203994",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "UTZ",
-                    "relevance_score": "0.246167",
-                    "ticker_sentiment_score": "0.142039",
-                    "ticker_sentiment_label": "Neutral"
-                },
-                {
-                    "ticker": "ICNB",
-                    "relevance_score": "0.027795",
-                    "ticker_sentiment_score": "0.243513",
-                    "ticker_sentiment_label": "Somewhat-Bullish"
-                },
-                {
-                    "ticker": "TSN",
-                    "relevance_score": "0.246167",
-                    "ticker_sentiment_score": "0.369798",
-                    "ticker_sentiment_label": "Bullish"
                 }
             ]
         }
