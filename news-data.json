@@ -254,26 +254,45 @@
             ]
         },
         {
-            "title": "When it comes to Social Security 'fraud,' Trump will have to put up or shut up",
-            "url": "https://www.marketwatch.com/story/when-it-comes-to-social-security-fraud-trump-will-have-to-put-up-or-shut-up-289f3c53",
-            "time_published": "20250305T151400",
+            "title": "Trump backs off Mexico, Canada tariffs after market blowback - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/trump-backs-off-mexico-canada-tariffs-after-market-blowback/118773374",
+            "time_published": "20250307T030121",
             "authors": [
-                "Brett Arends"
+                "ETCFO"
             ],
-            "summary": "20 million fake numbers? Show us the money.",
-            "banner_image": "https://images.mktw.net/im-33522306?width=1260&height=840",
-            "source": "MarketWatch",
-            "category_within_source": "Top Stories",
-            "source_domain": "www.marketwatch.com",
+            "summary": "US President Donald Trump on Thursday delayed some tariffs targeting Canada and Mexico -- leading Ottawa to halt an upcoming wave of countermeasures -- in moves that bring reprieve to companies and consumers after blowback on financial markets.",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
             "topics": [
                 {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
                     "topic": "Economy - Fiscal",
-                    "relevance_score": "0.310843"
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
                 }
             ],
-            "overall_sentiment_score": 0.03452,
+            "overall_sentiment_score": -0.00971,
             "overall_sentiment_label": "Neutral",
-            "ticker_sentiment": []
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.05133",
+                    "ticker_sentiment_score": "0.175454",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
         },
         {
             "title": "Bitcoin Price Slides as Crypto Market Reacts to Trump's Strategic Reserve Order",
