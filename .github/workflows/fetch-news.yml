@@ -1,14 +1,12 @@
-name: Fetch News and Deploy
+name: Fetch News Data
 
 on:
   schedule:
     - cron: '*/30 * * * *'  # Run every 30 minutes
   workflow_dispatch:  # Allow manual trigger
-  push:
-    branches: [ main ]  # Also run on push to main branch
 
 jobs:
-  build-and-deploy:
+  fetch-news:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -26,9 +24,16 @@ jobs:
         run: npm ci
 
       - name: Fetch News Data
-        continue-on-error: true  # API 요청 실패해도 워크플로우 계속 실행
+        id: fetch-news
         run: |
           mkdir -p public
+          
+          # 기존 데이터 백업
+          if [ -f public/news-data.json ]; then
+            cp public/news-data.json public/news-data.json.bak
+          else
+            echo '{"feed": []}' > public/news-data.json.bak
+          fi
           
           # API 키가 없을 경우 기존 데이터 유지
           if [[ -z "${{ secrets.ALPHA_VANTAGE_API_KEY }}" ]]; then
@@ -49,14 +54,20 @@ jobs:
           # news-data.json이 없으면 기본 JSON 생성
           [ -f public/news-data.json ] || echo '{"feed": []}' > public/news-data.json
 
-      - name: Build Project
-        run: npm run build
-        env:
-          CI: false
+          # 데이터 변경 여부 확인
+          if cmp -s public/news-data.json public/news-data.json.bak; then
+            echo "no_changes=true" >> $GITHUB_OUTPUT
+            echo "📝 No changes detected in news data"
+          else
+            echo "no_changes=false" >> $GITHUB_OUTPUT
+            echo "📝 Changes detected in news data"
+          fi
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          commit_message: "Deploy and update news data: $(date)"
+      - name: Commit and Push if Changed
+        if: steps.fetch-news.outputs.no_changes != 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/news-data.json
+          git commit -m "Update news data: $(date)"
+          git push

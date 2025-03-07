@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jelly-cookie.github.io/sitemap.xml
