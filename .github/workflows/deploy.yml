@@ -2,9 +2,9 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # main 브랜치에 push될 때
+    branches: [ main ]
   workflow_run:
-    workflows: ["Fetch News Data"]  # Fetch News Data 워크플로우가 완료된 후
+    workflows: ["Fetch News Data"]
     types:
       - completed
     branches: [main]
@@ -16,14 +16,12 @@ jobs:
       - name: Checkout Main Branch
         uses: actions/checkout@v3
         with:
-          ref: main
-          fetch-depth: 0
+          fetch-depth: 0  # 모든 브랜치 정보 가져오기
 
-      - name: Checkout News Data Branch
+      - name: Fetch news-data.json from news-data Branch
         run: |
           git fetch origin news-data
-          git checkout news-data -- public/news-data.json
-          git reset HEAD  # 인덱스에서 제거하여 main 브랜치에 영향 없음
+          git checkout origin/news-data -- public/news-data.json
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -36,10 +34,8 @@ jobs:
 
       - name: Build Project
         run: |
-          # sitemap.xml 날짜 업데이트
           current_date=$(date +%Y-%m-%d)
           sed -i "s/<lastmod>.*<\/lastmod>/<lastmod>$current_date<\/lastmod>/g" public/sitemap.xml
-          
           npm run build
 
       - name: Deploy to GitHub Pages
