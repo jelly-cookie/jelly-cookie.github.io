@@ -22,6 +22,8 @@ jobs:
         run: |
           git fetch origin news-data
           git checkout origin/news-data -- public/news-data.json
+          mkdir -p build/
+          cp public/news-data.json build/
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
