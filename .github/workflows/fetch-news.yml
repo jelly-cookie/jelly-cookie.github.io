@@ -29,6 +29,7 @@ jobs:
         run: npm run fetch-news
         env:
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+          GOOGLE_CLOUD_PROJECT: ${{ secrets.GOOGLE_CLOUD_PROJECT }}
 
       - name: Checkout news-data branch
         uses: actions/checkout@v3
