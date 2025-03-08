@@ -29,7 +29,7 @@ jobs:
 
       - name: Upload News Data as Artifact
         if: success() || failure()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: news-data
           path: public/news-data.json
