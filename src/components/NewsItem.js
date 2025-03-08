@@ -32,8 +32,8 @@ function NewsItem({ news }) {
     try {
       if (navigator.share) {
         await navigator.share({
-          title: news.title,
-          text: `${news.title} - ${news.source}`,
+          title: news.translatedTitle || news.title,
+          text: `${news.translatedTitle || news.title} - ${news.source}`,
           url: news.url
         });
       } else {
@@ -115,7 +115,7 @@ function NewsItem({ news }) {
                 mb: 1,
               }}
             >
-              {news.title}
+              {news.translatedTitle || news.title}
             </Typography>
             <Box sx={{ display: 'flex', gap: 1, flexWrap: 'wrap', mb: 1 }}>
               <Typography variant="body2" color="text.secondary">
