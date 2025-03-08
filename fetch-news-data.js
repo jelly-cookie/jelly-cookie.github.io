@@ -51,10 +51,10 @@ async function fetchNewsData() {
 
     if (oldData === newData) {
       console.log("📝 No changes detected in news data.");
-      process.exit(0);
+      process.exit(2);
     } else {
       console.log("📝 Changes detected in news data.");
-      process.exit(2); // GitHub Actions에서 변경 감지 여부 확인 가능
+      process.exit(0); // GitHub Actions에서 변경 감지 여부 확인 가능
     }
   } catch (error) {
     console.error("❌ Error fetching news data:", error);
