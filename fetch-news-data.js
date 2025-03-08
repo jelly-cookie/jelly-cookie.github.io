@@ -1,6 +1,11 @@
-const fs = require("fs");
-const path = require("path");
-const fetch = require("node-fetch");
+import fetch from "node-fetch";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+// __dirname을 사용 가능하게 설정 (ESM에서는 기본적으로 없음)
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const NEWS_DATA_PATH = path.join(__dirname, "public/news-data.json");
 const BACKUP_PATH = path.join(__dirname, "public/news-data.json.bak");
