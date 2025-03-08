@@ -18,7 +18,10 @@ const API_KEY = process.env.ALPHA_VANTAGE_API_KEY || "";
 const GOOGLE_CLOUD_PROJECT = process.env.GOOGLE_CLOUD_PROJECT || "";
 
 // Google Cloud Translation 클라이언트 생성
-const translator = new Translate({ projectId: GOOGLE_CLOUD_PROJECT });
+const translate = new Translate({
+  projectId: GOOGLE_CLOUD_PROJECT,
+  credentials: JSON.parse(process.env.GOOGLE_APPLICATION_CREDENTIALS)
+});
 
 // 폴더 생성
 if (!fs.existsSync("public")) {
@@ -45,7 +48,7 @@ if (!GOOGLE_CLOUD_PROJECT) {
 // Google 번역 함수
 async function translateText(text, targetLang = "ko") {
   try {
-    let [translations] = await translator.translate(text, targetLang);
+    let [translations] = await translate.translate(text, targetLang);
     return translations;
   } catch (error) {
     console.error("❌ Error translating text:", error);
