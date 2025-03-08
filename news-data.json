@@ -68,7 +68,8 @@
           "ticker_sentiment_score": "0.094014",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "소매업체, 트럼프 관세로 인한 가격 인상 경고, 소비자 건강 우려 지속 - Target (NYSE:TGT)"
     },
     {
       "title": "3 Large-Cap Value Funds to Buy Amid Sinking Consumer Confidence",
@@ -98,7 +99,8 @@
       ],
       "overall_sentiment_score": 0.088177,
       "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
     },
     {
       "title": "JD.com  ( JD )  Q4 2024 Earnings Call Transcript",
@@ -151,7 +153,8 @@
           "ticker_sentiment_score": "0.249018",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
       "title": "Macroscope | For China's belt and road, the best days are still to come",
@@ -177,7 +180,8 @@
       ],
       "overall_sentiment_score": 0.13777,
       "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "매크로스코프 | 중국의 일대일로, 최고의 날은 아직 오지 않았다"
     },
     {
       "title": "President Trump Wants To Replace Income Tax With Tariffs, National Economic Council Director Kevin Hassett Says - SPDR S&P 500  ( ARCA:SPY ) ",
@@ -218,7 +222,8 @@
           "ticker_sentiment_score": "0.173957",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "트럼프 대통령, 소득세를 관세로 대체하고 싶어한다고 국가경제위원회 위원장 케빈 하셋이 밝힘 - SPDR S&P 500 ( ARCA:SPY )"
     },
     {
       "title": "NI Holdings, Inc. Reports Results for Fourth Quarter and Year Ended December 31, 2024",
@@ -264,7 +269,8 @@
           "ticker_sentiment_score": "0.02203",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "NI Holdings, Inc.는 2024년 12월 31일로 마감된 4분기 및 연도 실적을 보고합니다."
     },
     {
       "title": "Powell Stresses Patience As Fed Navigates Market Uncertainty, Trade Turmoil",
@@ -290,7 +296,8 @@
       ],
       "overall_sentiment_score": 0.169256,
       "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "파월, 연준이 시장 불확실성과 무역 혼란을 헤쳐나가는 동안 인내심을 강조"
     },
     {
       "title": "Big Tech Discounts Investors Can Buy Now  ( GOOGL, AMZN, META ) ",
@@ -347,7 +354,8 @@
           "ticker_sentiment_score": "0.185242",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "빅테크 할인 투자자들이 지금 살 수 있습니다 ( GOOGL, AMZN, META )"
     },
     {
       "title": "Broaden Your ETF Exposure With These 3 Overlooked Funds - iShares MSCI EAFE Value ETF  ( BATS:EFV ) , Johnson & Johnson  ( NYSE:JNJ ) ",
@@ -390,7 +398,8 @@
           "ticker_sentiment_score": "0.0",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "이 3가지 간과된 펀드로 ETF 노출을 확대하세요 - iShares MSCI EAFE Value ETF(BATS:EFV), Johnson & Johnson(NYSE:JNJ)"
     },
     {
       "title": "Carter's Stock Dips 6.6% Post Q4 Earnings: Time to Buy or Stay Put?",
@@ -453,7 +462,8 @@
           "ticker_sentiment_score": "0.120744",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "카터 주가, 4분기 실적 발표 후 6.6% 하락: 매수할 때인가, 아니면 현재 상태를 유지할 때인가?"
     },
     {
       "title": "Why C3.ai Stock Lost 25% in February",
@@ -500,7 +510,8 @@
           "ticker_sentiment_score": "-0.121281",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "C3.ai 주가가 2월에 25% 하락한 이유"
     },
     {
       "title": "Palantir Delivers AI-Powered Battle Stations To US Army, Stock Now Comparable To Tesla Circa 2015: Analyst - Palantir Technologies  ( NASDAQ:PLTR ) ",
@@ -565,7 +576,8 @@
           "ticker_sentiment_score": "-0.185871",
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
-      ]
+      ],
+      "translatedTitle": "Palantir, 미 육군에 AI 기반 전투 스테이션 제공, 현재 주가는 테슬라와 비슷한 수준, 2015년경: 분석가 - Palantir Technologies ( NASDAQ:PLTR )"
     },
     {
       "title": "3 Original Auto Equipment Stocks to Consider Amid High Tariffs",
@@ -618,7 +630,8 @@
           "ticker_sentiment_score": "0.208865",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -675,7 +688,8 @@
           "ticker_sentiment_score": "0.18031",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "중국 시장 반등: 전인대 회의가 투자자들에게 전환점이 될 것인가? - iShares China Large-Cap ETF (ARCA:FXI), KraneShares Trust KraneShares CSI China Internet ETF (ARCA:KWEB)"
     },
     {
       "title": "2 Incredible AI Defense Stocks Worth Buying and Holding Forever",
@@ -712,7 +726,8 @@
           "ticker_sentiment_score": "0.311089",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "영원히 사고 보유할 만한 놀라운 AI 방어 주식 2종"
     },
     {
       "title": "Innovative Food Holdings, Inc. Reports Financial Results for Fourth Quarter and Fiscal Year 2024",
@@ -750,7 +765,8 @@
       ],
       "overall_sentiment_score": 0.256629,
       "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "Innovative Food Holdings, Inc. 4분기 및 2024 회계연도 재무 결과 보고"
     },
     {
       "title": "Brera Holdings Adds Famed Global Economist Dr. Arthur B. Laffer to Its All-Star Advisory Board",
@@ -797,7 +813,8 @@
           "ticker_sentiment_score": "0.139352",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Brera Holdings, 유명 글로벌 경제학자 Dr. Arthur B. Laffer를 올스타 자문 위원회에 추가"
     },
     {
       "title": "3 Large-Cap Value Mutual Funds to Build a Solid Portfolio",
@@ -900,7 +917,8 @@
           "ticker_sentiment_score": "0.052338",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "견고한 포트폴리오를 구축하기 위한 3대형 가치 뮤추얼펀드"
     },
     {
       "title": "Palantir Stock Sell-Off: Is Now the Time to Buy the Dip?",
@@ -941,7 +959,8 @@
           "ticker_sentiment_score": "-0.025586",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "팔란티르 주식 매도: 지금이 하락장에서 매수할 때일까?"
     },
     {
       "title": "Donald Trump's 'Crypto Summit' Is A 'Critical Moment,' Experts Say - Coinbase Global  ( NASDAQ:COIN ) ",
@@ -988,7 +1007,8 @@
           "ticker_sentiment_score": "0.071847",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "도널드 트럼프의 '암호화폐 정상회담'은 '중요한 순간'이라고 전문가들이 말하다 - Coinbase Global ( NASDAQ:COIN )"
     },
     {
       "title": "Mullen Group Ltd. Announces Renewal of Normal Course Issuer Bid for Shares and Approval of Normal Course Issuer Bid for Debentures",
@@ -1029,7 +1049,8 @@
           "ticker_sentiment_score": "0.050852",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Mullen Group Ltd., 주식에 대한 정상적인 발행인 입찰 갱신 및 사채에 대한 정상적인 발행인 입찰 승인 발표"
     },
     {
       "title": "European  ( fund flow )  Exceptionalism",
@@ -1070,7 +1091,8 @@
           "ticker_sentiment_score": "0.030053",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "유럽(자금흐름) 예외주의"
     },
     {
       "title": "Outside In | To its trading partners, the US is suddenly a predatory rogue state",
@@ -1111,7 +1133,8 @@
           "ticker_sentiment_score": "0.0",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "외부에서 내부로 | 무역 파트너에게 미국은 갑자기 약탈적인 불량 국가가 되었습니다."
     },
     {
       "title": "Alliance Witan PLC - Final Results",
@@ -1410,7 +1433,8 @@
           "ticker_sentiment_score": "0.044745",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Alliance Witan PLC - 최종 결과"
     },
     {
       "title": "NB Private Equity Partners Announces Transaction in Own Shares",
@@ -1443,7 +1467,8 @@
           "ticker_sentiment_score": "0.192875",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
     },
     {
       "title": "Trump backs off Mexico, Canada tariffs after market blowback - ETCFO",
@@ -1484,7 +1509,8 @@
           "ticker_sentiment_score": "0.175454",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "트럼프, 시장 반발에 멕시코·캐나다 관세 철회 - ETCFO"
     },
     {
       "title": "Beating Trumponomics - ETCFO",
@@ -1532,7 +1558,8 @@
           "ticker_sentiment_score": "-0.12499",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "트럼프경제학을 이기다 - ETCFO"
     },
     {
       "title": "Bitcoin Price Slides as Crypto Market Reacts to Trump's Strategic Reserve Order",
@@ -1587,7 +1614,8 @@
           "ticker_sentiment_score": "-0.185756",
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
-      ]
+      ],
+      "translatedTitle": "트럼프의 전략적 비축 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
     },
     {
       "title": "Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
@@ -1656,7 +1684,8 @@
           "ticker_sentiment_score": "0.067908",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "엘리자베스 워런, 일론 머스크, 마크 주커버그, 제프 베조스에게 '잠재적 횡재' 로비에 얼마나 많은 돈을 썼는지 알고 싶어 - 기술 대기업들이 트럼프 행정부와 '친근히 지내려 한다'고 비난 - Apple ( NASDAQ:AAPL ) , Amazon.com ( NASDAQ:AMZN )"
     },
     {
       "title": "Martinrea International Inc. Reports Year End and Fourth Quarter Results and Announces Dividend",
@@ -1741,7 +1770,8 @@
           "ticker_sentiment_score": "0.048662",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Martinrea International Inc. 연말 및 4분기 실적 보고 및 배당금 발표"
     },
     {
       "title": "Martinrea International Inc. Reports Year End and Fourth Quarter Results and Announces Dividend",
@@ -1826,7 +1856,8 @@
           "ticker_sentiment_score": "0.061783",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Martinrea International Inc. 연말 및 4분기 실적 보고 및 배당금 발표"
     },
     {
       "title": "Why Whirlpool Stock Tumbled This Week",
@@ -1865,7 +1896,8 @@
           "ticker_sentiment_score": "0.044938",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "이번 주에 Whirlpool 주식이 폭락한 이유"
     },
     {
       "title": "LBMC Experts Highlight 2025 Technology Industry Trends",
@@ -1899,7 +1931,8 @@
       ],
       "overall_sentiment_score": 0.252572,
       "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "LBMC 전문가, 2025년 기술 산업 동향 강조"
     },
     {
       "title": "Comstock Announces Full Year 2024 Results",
@@ -1960,7 +1993,8 @@
           "ticker_sentiment_score": "0.188212",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "Comstock, 2024년 전체 연도 실적 발표"
     },
     {
       "title": "US crypto reserve could boost Bitcoin market cap by $460B - Research",
@@ -2009,7 +2043,8 @@
           "ticker_sentiment_score": "0.142876",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "미국 암호화폐 보유액, 비트코인 시가총액 4600억 달러까지 증가할 수 있다 - Research"
     },
     {
       "title": "Bitcoin price rebound breaks down before key level is hit - Here is why",
@@ -2042,7 +2077,8 @@
           "ticker_sentiment_score": "0.015434",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "비트코인 가격 반등이 주요 수준에 도달하기 전에 붕괴된 이유는 다음과 같습니다."
     },
     {
       "title": "The pivotal February jobs report is out Friday. Here's what to expect",
@@ -2081,7 +2117,8 @@
           "ticker_sentiment_score": "-0.015005",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "중요한 2월 일자리 보고서가 금요일에 나옵니다. 다음은 예상할 수 있는 내용입니다."
     },
     {
       "title": "Analyst Takes Down Abercrombie & Fitch Price Forecast By 34% Despite Being Bullish - Here's Why - Abercrombie & Fitch  ( NYSE:ANF ) ",
@@ -2138,7 +2175,8 @@
           "ticker_sentiment_score": "0.095089",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "분석가, 강세에도 불구하고 Abercrombie & Fitch 가격 예측치를 34%나 낮춤 - 이유는 다음과 같습니다 - Abercrombie & Fitch ( NYSE:ANF )"
     },
     {
       "title": "Friday could be critical for investors, with a jobs report and a Powell speech",
@@ -2164,7 +2202,8 @@
       ],
       "overall_sentiment_score": -0.214355,
       "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "금요일은 일자리 보고서와 파월 연설로 투자자들에게 중요한 날이 될 수 있습니다."
     },
     {
       "title": "Trade deficit hits record high in January as companies import goods to avoid tariffs",
@@ -2186,7 +2225,8 @@
       ],
       "overall_sentiment_score": -0.27917,
       "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": []
+      "ticker_sentiment": [],
+      "translatedTitle": "1월 무역적자, 관세 회피 위해 기업들이 상품 수입으로 사상 최고치 기록"
     },
     {
       "title": "Toro's Q1 Sales Miss Expectations, Weighed Down by Material Costs and Promotions - Toro  ( NYSE:TTC ) ",
@@ -2253,7 +2293,8 @@
           "ticker_sentiment_score": "0.09462",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Toro의 1분기 매출은 재료비와 프로모션으로 인해 기대치에 못 미쳐 - Toro ( NYSE:TTC )"
     },
     {
       "title": "Quanex to Report Q1 Earnings: What Could Drive the Results?",
@@ -2312,7 +2353,8 @@
           "ticker_sentiment_score": "-0.039894",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Quanex가 1분기 실적을 보고합니다. 어떤 요인이 결과를 좌우할까요?"
     },
     {
       "title": "JD.com nearly triples quarterly profit on back of revived consumer spending",
@@ -2351,7 +2393,8 @@
           "ticker_sentiment_score": "0.083856",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "JD.com, 소비자 지출 회복으로 분기 이익 3배 가까이 증가"
     },
     {
       "title": "3 BlackRock Mutual Funds to Accumulate for Long-Term Gains",
@@ -2440,7 +2483,8 @@
           "ticker_sentiment_score": "0.047107",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "장기적 이익을 위해 축적할 3개의 BlackRock 뮤추얼 펀드"
     },
     {
       "title": "NXP Semiconductors Announces Quarterly Dividend - NXP Semiconductors  ( NASDAQ:NXPI ) ",
@@ -2477,7 +2521,8 @@
           "ticker_sentiment_score": "0.398979",
           "ticker_sentiment_label": "Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "NXP Semiconductors, 분기별 배당금 발표 - NXP Semiconductors ( NASDAQ:NXPI )"
     },
     {
       "title": "Chinese tech firms from Huawei to Inspur push 'all-in-one' DeepSeek AI servers",
@@ -2528,7 +2573,8 @@
           "ticker_sentiment_score": "0.011968",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Huawei부터 Inspur까지 중국 기술 회사, '올인원' DeepSeek AI 서버 출시"
     },
     {
       "title": "NXP Semiconductors Announces Quarterly Dividend",
@@ -2562,7 +2608,8 @@
           "ticker_sentiment_score": "0.369622",
           "ticker_sentiment_label": "Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "NXP Semiconductors, 분기별 배당금 발표"
     },
     {
       "title": "Global bonds sell off as investors react to Trump's tariffs and a German 'paradigm shift'",
@@ -2607,7 +2654,8 @@
           "ticker_sentiment_score": "0.020711",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "투자자들이 트럼프의 관세와 독일의 '패러다임 전환'에 반응하면서 세계 채권 매도"
     },
     {
       "title": "Alibaba Expands AI Push With New QwQ-32B Model Taking on DeepSeek In China's AI Race - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
@@ -2640,7 +2688,8 @@
           "ticker_sentiment_score": "0.320966",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
-      ]
+      ],
+      "translatedTitle": "알리바바, 중국 AI 경쟁에서 DeepSeek에 도전하는 새로운 QwQ-32B 모델로 AI 추진 확대 - Alibaba Gr Hldgs (NYSE:BABA)"
     },
     {
       "title": "Burlington Stores, Inc. Reports Fourth Quarter and Full Year 2024 Earnings",
@@ -2689,7 +2738,8 @@
           "ticker_sentiment_score": "0.048954",
           "ticker_sentiment_label": "Neutral"
         }
-      ]
+      ],
+      "translatedTitle": "Burlington Stores, Inc. 2024년 4분기 및 연간 수익 보고"
     }
   ]
 }
