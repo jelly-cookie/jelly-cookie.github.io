@@ -40,6 +40,10 @@ async function fetchNewsData() {
       console.warn("⚠️ API response does not contain 'feed'. Keeping existing data.");
       process.exit(1);
     }
+    if (data.feed.length === 0) {
+      console.warn("⚠️ API response does not contain 'feed'. Keeping existing data.");
+      process.exit(1);
+    }
 
     // 데이터 저장
     fs.writeFileSync(NEWS_DATA_PATH, JSON.stringify(data, null, 2));
