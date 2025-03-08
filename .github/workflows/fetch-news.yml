@@ -9,11 +9,11 @@ jobs:
   fetch-news:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout news-data Branch
+      - name: Checkout main branch
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          ref: news-data  # ✅ `news-data` 브랜치를 체크아웃
+          ref: main  # main 브랜치에서 스크립트 실행
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -30,6 +30,15 @@ jobs:
         env:
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
 
+      - name: Checkout news-data branch
+        uses: actions/checkout@v3
+        with:
+          ref: news-data  # 데이터 저장을 위해 news-data 브랜치로 전환
+
+      - name: Copy generated data
+        run: |
+          cp public/news-data.json .
+          
       - name: Commit and Push Changes to news-data Branch
         run: |
           git config --global user.email "github-actions@github.com"
