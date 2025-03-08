@@ -8,8 +8,6 @@ on:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -44,20 +42,9 @@ jobs:
             exit 1
           fi
 
-          # 데이터 변경 여부 확인
-          if cmp -s public/news-data.json public/news-data.json.bak; then
-            echo "no_changes=true" >> $GITHUB_OUTPUT
-            echo "📝 No changes detected in news data"
-          else
-            echo "no_changes=false" >> $GITHUB_OUTPUT
-            echo "📝 Changes detected in news data"
-          fi
-
-      - name: Commit and Push if Changed
-        if: steps.fetch-news.outputs.no_changes != 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add public/news-data.json
-          git commit -m "Update news data: $(date)"
-          git push
+      - name: Upload News Data as Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: news-data
+          path: public/news-data.json
+          
