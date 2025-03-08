@@ -1,6 +1,6 @@
-import fs from "fs";
-import path from "path";
-import fetch from "node-fetch";
+const fs = require("fs");
+const path = require("path");
+const fetch = require("node-fetch");
 
 const NEWS_DATA_PATH = path.join(__dirname, "public/news-data.json");
 const BACKUP_PATH = path.join(__dirname, "public/news-data.json.bak");
