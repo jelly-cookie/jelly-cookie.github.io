@@ -157,6 +157,62 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Nigeria's new crypto tax policies may not drive the revenue it needs",
+      "url": "https://cointelegraph.com/news/nigeria-crypto-tax-revenue",
+      "time_published": "20250308T140000",
+      "authors": [
+        "Cath Jenkin"
+      ],
+      "summary": "As Nigeria grapples with economic challenges, the government is set to introduce a tax on cryptocurrency transactions. This move appears to be an effort to tap into the burgeoning digital economy and the informal sector.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01957087-b952-7c7a-9048-d3c1ef56b93f",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.972193"
+        }
+      ],
+      "overall_sentiment_score": 0.081618,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "0.043579",
+          "ticker_sentiment_score": "0.13584",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:NGN",
+          "relevance_score": "0.130217",
+          "ticker_sentiment_score": "0.003683",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "나이지리아의 새로운 암호화폐 세금 정책은 필요한 수입을 창출하지 못할 수도 있습니다."
+    },
+    {
       "title": "Macroscope | For China's belt and road, the best days are still to come",
       "url": "https://www.scmp.com/opinion/china-opinion/article/3301284/chinas-belt-and-road-best-days-are-still-come",
       "time_published": "20250308T083008",
@@ -631,7 +687,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -1615,7 +1671,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "트럼프의 전략적 준비금 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
+      "translatedTitle": "트럼프의 전략적 비축 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
     },
     {
       "title": "Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
@@ -2690,56 +2746,6 @@
         }
       ],
       "translatedTitle": "알리바바, 중국 AI 경쟁에서 DeepSeek에 도전하는 새로운 QwQ-32B 모델로 AI 추진 확대 - Alibaba Gr Hldgs (NYSE:BABA)"
-    },
-    {
-      "title": "Burlington Stores, Inc. Reports Fourth Quarter and Full Year 2024 Earnings",
-      "url": "https://www.globenewswire.com/news-release/2025/03/06/3038048/0/en/Burlington-Stores-Inc-Reports-Fourth-Quarter-and-Full-Year-2024-Earnings.html",
-      "time_published": "20250306T114500",
-      "authors": [
-        "Burlington Coat Factory Warehouse Corporation"
-      ],
-      "summary": "BURLINGTON, N.J., March 06, 2025 ( GLOBE NEWSWIRE ) -- Burlington Stores, Inc. ( NYSE: BURL ) , a nationally recognized off-price retailer of high-quality, branded apparel, footwear, accessories, and merchandise for the home at everyday low prices, today announced its results for the 13 weeks ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/dde2965f-3740-4129-adc4-fbe2d360beff",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.459462"
-        }
-      ],
-      "overall_sentiment_score": 0.214431,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BURL",
-          "relevance_score": "0.056169",
-          "ticker_sentiment_score": "0.048954",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Burlington Stores, Inc. 2024년 4분기 및 연간 수익 보고"
     }
   ]
 }
