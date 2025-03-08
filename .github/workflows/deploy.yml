@@ -23,7 +23,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: news-data
-          path: public/
+          path: public/news-data.json
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
