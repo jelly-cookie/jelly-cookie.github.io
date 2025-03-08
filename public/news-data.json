@@ -154,6 +154,32 @@
       ]
     },
     {
+      "title": "Macroscope | For China's belt and road, the best days are still to come",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3301284/chinas-belt-and-road-best-days-are-still-come",
+      "time_published": "20250308T083008",
+      "authors": [
+        "Anthony Rowley"
+      ],
+      "summary": "With rival initiatives lacking substance, Beijing's transcontinental project is likely to expand as the US exits multilateral commitments.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/07/b59882b7-2103-40f8-a206-30e8beeb3370_4da505b5.jpg?itok=uwAWRD9o&v=1741315446",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.13777,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": []
+    },
+    {
       "title": "President Trump Wants To Replace Income Tax With Tariffs, National Economic Council Director Kevin Hassett Says - SPDR S&P 500  ( ARCA:SPY ) ",
       "url": "https://www.benzinga.com/news/econ-s/25/03/44205662/president-trump-wants-to-replace-income-tax-with-tariffs-national-economic-council-director-kevin-has",
       "time_published": "20250307T213941",
@@ -2662,43 +2688,6 @@
           "relevance_score": "0.056169",
           "ticker_sentiment_score": "0.048954",
           "ticker_sentiment_label": "Neutral"
-        }
-      ]
-    },
-    {
-      "title": "Chinese ratings agency downgrades Thailand over crime, economic prospects",
-      "url": "https://www.scmp.com/economy/china-economy/article/3301316/chinese-credit-ratings-firm-downgrades-thailand-over-crime-scandals-and-economic-prospects",
-      "time_published": "20250306T100029",
-      "authors": [
-        "Ralph Jennings"
-      ],
-      "summary": "High-profile incidents including the abduction of a Chinese actor threaten to tarnish Thailand's image as a tourist hotspot.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/a388dd60-8505-4851-99da-4fd1b04bd166_2eb42a1d.jpg?itok=_tqPfYnl&v=1741253046",
-      "source": "South China Morning Post",
-      "category_within_source": "Economy",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        }
-      ],
-      "overall_sentiment_score": -0.115621,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "MCO",
-          "relevance_score": "0.063594",
-          "ticker_sentiment_score": "-0.35115",
-          "ticker_sentiment_label": "Bearish"
         }
       ]
     }
