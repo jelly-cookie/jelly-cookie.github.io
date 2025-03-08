@@ -157,6 +157,44 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "XRP Just Became an Even Better Buy. Here's Why.",
+      "url": "https://www.fool.com/investing/2025/03/08/xrp-just-became-an-even-better-buy-heres-why/",
+      "time_published": "20250308T152700",
+      "authors": [
+        "Alex Carchidi"
+      ],
+      "summary": "If you're looking for a cryptocurrency investment that's at a very low risk of going to zero anytime soon, look no further than XRP ( CRYPTO: XRP ) , as its blockchain just got an important upgrade that will likely help the coin to climb to new heights over the coming years.Today, it's a better ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/809931/investors-examine-laptop.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        }
+      ],
+      "overall_sentiment_score": 0.21422,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.061631",
+          "ticker_sentiment_score": "0.332618",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "XRP가 더욱 좋은 매수 대상이 되었습니다. 그 이유는 다음과 같습니다."
+    },
+    {
       "title": "Nigeria's new crypto tax policies may not drive the revenue it needs",
       "url": "https://cointelegraph.com/news/nigeria-crypto-tax-revenue",
       "time_published": "20250308T140000",
@@ -687,7 +725,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -1671,7 +1709,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "트럼프의 전략적 비축 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
+      "translatedTitle": "트럼프의 전략적 준비금 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
     },
     {
       "title": "Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
@@ -2711,41 +2749,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "투자자들이 트럼프의 관세와 독일의 '패러다임 전환'에 반응하면서 세계 채권 매도"
-    },
-    {
-      "title": "Alibaba Expands AI Push With New QwQ-32B Model Taking on DeepSeek In China's AI Race - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
-      "url": "https://www.benzinga.com/25/03/44162389/alibaba-expands-ai-push-with-new-qwq-32b-model-taking-on-deepseek-in-chinas-ai-race",
-      "time_published": "20250306T120559",
-      "authors": [
-        "Anusuya Lahiri"
-      ],
-      "summary": "Alibaba launches QwQ-32B AI model, rivaling DeepSeek's R1, as China ramps up AI and tech investments. Alibaba commits $53B to cloud and AI, expanding its AI leadership amid growing government support and market competition. Every week, our Whisper Index uncovers five overlooked stocks with big ...",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/In-This-Photo-Illustration--The-Qwen-ali.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        }
-      ],
-      "overall_sentiment_score": 0.232888,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BABA",
-          "relevance_score": "0.795641",
-          "ticker_sentiment_score": "0.320966",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "알리바바, 중국 AI 경쟁에서 DeepSeek에 도전하는 새로운 QwQ-32B 모델로 AI 추진 확대 - Alibaba Gr Hldgs (NYSE:BABA)"
+      "translatedTitle": "트럼프의 관세와 독일의 '패러다임 전환'에 대한 투자자들의 반응으로 세계 채권 매도"
     }
   ]
 }
