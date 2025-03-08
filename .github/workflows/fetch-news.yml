@@ -2,49 +2,34 @@ name: Fetch News Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Run every 30 minutes
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '*/30 * * * *'  # 매 30분마다 실행
+  workflow_dispatch:  # 수동 실행 가능
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
 
       - name: Fetch News Data
         id: fetch-news
-        run: |
-          mkdir -p public
-          
-          # 기존 데이터 백업
-          if [ -f public/news-data.json ]; then
-            cp public/news-data.json public/news-data.json.bak
-          else
-            echo '{"feed": []}' > public/news-data.json.bak
-          fi
-          
-          # API 키가 없을 경우 기존 데이터 유지
-          if [[ -z "${{ secrets.ALPHA_VANTAGE_API_KEY }}" ]]; then
-            echo "API key is missing! Keeping existing data."
-            exit 1
-          fi
-
-          # API 요청을 통해 뉴스 데이터 가져오기
-          response=$(curl -s -X GET "https://www.alphavantage.co/query?function=NEWS_SENTIMENT&topics=economy_fiscal&apikey=${{ secrets.ALPHA_VANTAGE_API_KEY }}")
-          
-          # JSON에서 "feed" 필드 확인
-          if echo "$response" | jq -e '.feed' > /dev/null 2>&1; then
-            echo "$response" > public/news-data.json
-            echo "✅ Successfully fetched and updated news data at $(date)"
-          else
-            echo "⚠️ API response does not contain 'feed'. Keeping existing data."
-            exit 1
-          fi
+        run: npm run fetch-news
+        env:
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
 
       - name: Upload News Data as Artifact
+        if: success() || failure()
         uses: actions/upload-artifact@v3
         with:
           name: news-data
           path: public/news-data.json
-          
