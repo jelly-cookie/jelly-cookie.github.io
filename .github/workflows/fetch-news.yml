@@ -9,8 +9,11 @@ jobs:
   fetch-news:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout news-data Branch
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: news-data  # ✅ `news-data` 브랜치를 체크아웃
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -27,9 +30,12 @@ jobs:
         env:
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
 
-      - name: Upload News Data as Artifact
-        if: success() || failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: news-data
-          path: public/news-data.json
+      - name: Commit and Push Changes to news-data Branch
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add public/news-data.json
+          git commit -m "Update news data: $(date)" || echo "No changes to commit"
+          git push origin news-data  # ✅ `news-data` 브랜치에 푸시!
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

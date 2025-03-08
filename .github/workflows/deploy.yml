@@ -13,17 +13,17 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Main Branch
         uses: actions/checkout@v3
         with:
           ref: main
           fetch-depth: 0
 
-      - name: Download News Data Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: news-data
-          path: public/news-data.json
+      - name: Checkout News Data Branch
+        run: |
+          git fetch origin news-data
+          git checkout news-data -- public/news-data.json
+          git reset HEAD  # 인덱스에서 제거하여 main 브랜치에 영향 없음
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
