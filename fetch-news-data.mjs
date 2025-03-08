@@ -2,7 +2,8 @@ import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import { Translate } from "@google-cloud/translate";
+import pkg from '@google-cloud/translate';
+const { Translate } = pkg;
 
 // __dirname 설정
 const __filename = fileURLToPath(import.meta.url);
