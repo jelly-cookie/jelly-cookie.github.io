@@ -107,26 +107,56 @@ function App() {
           sx={{ 
             mt: 2,
             px: isMobile ? 1 : 3,
+            position: 'relative',
           }}
         >
-          {loading ? (
-            <Box display="flex" justifyContent="center" mt={4}>
-              <CircularProgress />
+          <Box sx={{ 
+            display: 'flex', 
+            gap: 2,
+            position: 'relative'
+          }}>
+            <Box sx={{ flex: 1 }}>
+              {loading ? (
+                <Box display="flex" justifyContent="center" mt={4}>
+                  <CircularProgress />
+                </Box>
+              ) : error ? (
+                <Box sx={{ 
+                  color: 'error.main', 
+                  textAlign: 'center', 
+                  mt: 4,
+                  p: 3,
+                  bgcolor: 'rgba(244, 67, 54, 0.1)',
+                  borderRadius: 2,
+                }}>
+                  {error}
+                </Box>
+              ) : (
+                <NewsList news={filteredNews} />
+              )}
             </Box>
-          ) : error ? (
-            <Box sx={{ 
-              color: 'error.main', 
-              textAlign: 'center', 
-              mt: 4,
-              p: 3,
-              bgcolor: 'rgba(244, 67, 54, 0.1)',
-              borderRadius: 2,
-            }}>
-              {error}
-            </Box>
-          ) : (
-            <NewsList news={filteredNews} />
-          )}
+            {!isMobile && (
+              <Box sx={{ 
+                width: '160px',
+                height: '600px',
+                position: 'sticky',
+                top: '1rem',
+              }}>
+                <ins 
+                  className="kakao_ad_area" 
+                  style={{ display: 'none' }}
+                  data-ad-unit={process.env.REACT_APP_KAKAO_ADFIT_PC_ID}
+                  data-ad-width="160"
+                  data-ad-height="600"
+                />
+                <script 
+                  type="text/javascript" 
+                  src="//t1.daumcdn.net/kas/static/ba.min.js" 
+                  async
+                />
+              </Box>
+            )}
+          </Box>
         </Container>
       </Box>
     </ThemeProvider>

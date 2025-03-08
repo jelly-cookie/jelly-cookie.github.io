@@ -33,6 +33,8 @@ jobs:
         run: npm ci
 
       - name: Build Project
+        env:
+          REACT_APP_KAKAO_ADFIT_PC_ID: ${{ secrets.REACT_APP_KAKAO_ADFIT_PC_ID }}
         run: |
           current_date=$(date +%Y-%m-%d)
           sed -i "s/<lastmod>.*<\/lastmod>/<lastmod>$current_date<\/lastmod>/g" public/sitemap.xml
