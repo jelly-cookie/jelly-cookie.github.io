@@ -2,8 +2,8 @@ import fetch from "node-fetch";
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import pkg from '@google-cloud/translate';
-const { Translate } = pkg;
+import translateAPI from '@google-cloud/translate';
+const { Translate } = translateAPI.v2;
 
 // __dirname 설정
 const __filename = fileURLToPath(import.meta.url);
@@ -18,7 +18,7 @@ const API_KEY = process.env.ALPHA_VANTAGE_API_KEY || "";
 const GOOGLE_CLOUD_PROJECT = process.env.GOOGLE_CLOUD_PROJECT || "";
 
 // Google Cloud Translation 클라이언트 생성
-const translate = new Translate({ projectId: GOOGLE_CLOUD_PROJECT });
+const translator = new Translate({ projectId: GOOGLE_CLOUD_PROJECT });
 
 // 폴더 생성
 if (!fs.existsSync("public")) {
@@ -45,7 +45,7 @@ if (!GOOGLE_CLOUD_PROJECT) {
 // Google 번역 함수
 async function translateText(text, targetLang = "ko") {
   try {
-    let [translations] = await translate.translate(text, targetLang);
+    let [translations] = await translator.translate(text, targetLang);
     return translations;
   } catch (error) {
     console.error("❌ Error translating text:", error);
