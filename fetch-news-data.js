@@ -59,10 +59,10 @@ async function fetchNewsData() {
     const response = await fetch(url);
     const data = await response.json();
 
-    if (!data.feed || data.feed.length === 0) {
-      console.warn("⚠️ API response does not contain 'feed'. Keeping existing data.");
-      process.exit(1);
-    }
+    // if (!data.feed || data.feed.length === 0) {
+    //   console.warn("⚠️ API response does not contain 'feed'. Keeping existing data.");
+    //   process.exit(1);
+    // }
 
     // 뉴스 제목 번역
     for (let article of data.feed) {
