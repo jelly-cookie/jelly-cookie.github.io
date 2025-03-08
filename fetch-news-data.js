@@ -59,10 +59,10 @@ async function fetchNewsData() {
     const response = await fetch(url);
     const data = await response.json();
 
-    // if (!data.feed || data.feed.length === 0) {
-    //   console.warn("⚠️ API response does not contain 'feed'. Keeping existing data.");
-    //   process.exit(1);
-    // }
+    if (!data.feed || data.feed.length === 0) {
+      console.warn("⚠️ API response does not contain 'feed'. Keeping existing data.");
+      process.exit(1);
+    }
 
     // 뉴스 제목 번역
     for (let article of data.feed) {
@@ -78,8 +78,8 @@ async function fetchNewsData() {
     const newData = fs.readFileSync(NEWS_DATA_PATH, "utf-8");
 
     if (oldData === newData) {
-      console.log("📝 No changes detected in news data.");
-      process.exit(2);
+      // console.log("📝 No changes detected in news data.");
+      // process.exit(2);
     } else {
       console.log("📝 Changes detected in news data.");
       process.exit(0); // GitHub Actions에서 변경 감지 여부 확인 가능
