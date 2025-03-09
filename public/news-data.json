@@ -157,6 +157,64 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Trump declines to rule out 2025 US recession",
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3301705/trump-declines-rule-out-2025-us-recession-commerce-secretary-says-absolutely-not",
+      "time_published": "20250309T165703",
+      "authors": [
+        "Agence France-Presse"
+      ],
+      "summary": "Trump's tariff threats against China, Canada and Mexico have left US financial markets in turmoil and consumers unsure of future.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/10/f2026fce-5b1d-4916-bf57-51ad322d9463_82db6b3a.jpg?itok=XePpWgdc&v=1741539106",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.198087,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.084722",
+          "ticker_sentiment_score": "-0.141694",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOX",
+          "relevance_score": "0.084722",
+          "ticker_sentiment_score": "-0.297174",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.084722",
+          "ticker_sentiment_score": "0.377287",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "트럼프, 2025년 미국 경기 침체 가능성 배제 안해"
+    },
+    {
       "title": "Should You Buy the Dip in Dogecoin Right Now?",
       "url": "https://www.fool.com/investing/2025/03/09/should-you-buy-the-dip-in-dogecoin-right-now/",
       "time_published": "20250309T132700",
@@ -2731,58 +2789,6 @@
         }
       ],
       "translatedTitle": "NXP Semiconductors, 분기별 배당금 발표 - NXP Semiconductors ( NASDAQ:NXPI )"
-    },
-    {
-      "title": "Chinese tech firms from Huawei to Inspur push 'all-in-one' DeepSeek AI servers",
-      "url": "https://www.scmp.com/tech/tech-trends/article/3301347/chinese-tech-firms-huawei-inspur-push-all-one-deepseek-ai-servers",
-      "time_published": "20250306T130009",
-      "authors": [
-        "Xinmei Shen"
-      ],
-      "summary": "More than 30 Chinese server manufacturers now produce machines embedded with DeepSeek's AI models.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/9bafa37b-bce5-4fd3-a601-c69cde7cc8aa_d642b21c.jpg?itok=YQN9RLSI&v=1741261654",
-      "source": "South China Morning Post",
-      "category_within_source": "Money",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.167899,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "LNVGF",
-          "relevance_score": "0.102668",
-          "ticker_sentiment_score": "0.110322",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.102668",
-          "ticker_sentiment_score": "-0.048522",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SZIHF",
-          "relevance_score": "0.051441",
-          "ticker_sentiment_score": "0.04498",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CNICF",
-          "relevance_score": "0.051441",
-          "ticker_sentiment_score": "0.011968",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Huawei부터 Inspur까지 중국 기술 회사, '올인원' DeepSeek AI 서버 출시"
     }
   ]
 }
