@@ -157,6 +157,60 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Target Stock: Too Cheap to Ignore?",
+      "url": "https://www.fool.com/investing/2025/03/09/target-stock-too-cheap-to-ignore/",
+      "time_published": "20250309T091000",
+      "authors": [
+        "Jeremy Bowman"
+      ],
+      "summary": "Not many retailers can match Target ( NYSE: TGT ) . The company is one of just a handful of multi-category retailers in the U.S., along with Walmart and Costco Wholesale, selling everything from food and beverages to toys, electronics, apparel, home goods, and health and beauty products, among ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810278%2Ftarget-store.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.990786"
+        }
+      ],
+      "overall_sentiment_score": 0.168308,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.545618",
+          "ticker_sentiment_score": "0.19551",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.11894",
+          "ticker_sentiment_score": "0.043929",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.11894",
+          "ticker_sentiment_score": "0.043929",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "타겟 주식: 무시하기엔 너무 싸다?"
+    },
+    {
       "title": "XRP Just Became an Even Better Buy. Here's Why.",
       "url": "https://www.fool.com/investing/2025/03/08/xrp-just-became-an-even-better-buy-heres-why/",
       "time_published": "20250308T152700",
@@ -2704,52 +2758,6 @@
         }
       ],
       "translatedTitle": "NXP Semiconductors, 분기별 배당금 발표"
-    },
-    {
-      "title": "Global bonds sell off as investors react to Trump's tariffs and a German 'paradigm shift'",
-      "url": "https://www.cnbc.com/2025/03/06/bond-yields-rise-globally-german-bunds-continue-selloff.html",
-      "time_published": "20250306T124355",
-      "authors": [],
-      "summary": "Government bonds were selling off all over the world on Thursday, with German borrowing costs hovering at multi-decade highs.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Top News",
-      "source_domain": "www.cnbc.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.928139"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.007196,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BAC",
-          "relevance_score": "0.03786",
-          "ticker_sentiment_score": "-0.131579",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.150592",
-          "ticker_sentiment_score": "0.020711",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "투자자들이 트럼프의 관세와 독일의 '패러다임 전환'에 반응하면서 세계 채권 매도"
     }
   ]
 }
