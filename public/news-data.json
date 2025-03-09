@@ -157,6 +157,66 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Should You Buy the Dip in Dogecoin Right Now?",
+      "url": "https://www.fool.com/investing/2025/03/09/should-you-buy-the-dip-in-dogecoin-right-now/",
+      "time_published": "20250309T132700",
+      "authors": [
+        "Adam Spatacco"
+      ],
+      "summary": "The price of Dogecoin is down over 30% so far this year.",
+      "banner_image": "https://media.ycharts.com/charts/0ca6d0c3ed10eacfc2e2e2ac010b6c20.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": 0.019382,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.085022",
+          "ticker_sentiment_score": "0.013696",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.085022",
+          "ticker_sentiment_score": "0.00735",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.085022",
+          "ticker_sentiment_score": "0.00735",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:DOGE",
+          "relevance_score": "0.834833",
+          "ticker_sentiment_score": "-0.057921",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "지금 당장 도지코인 가격이 하락하면 사야 할까요?"
+    },
+    {
       "title": "Target Stock: Too Cheap to Ignore?",
       "url": "https://www.fool.com/investing/2025/03/09/target-stock-too-cheap-to-ignore/",
       "time_published": "20250309T091000",
@@ -1763,7 +1823,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "트럼프의 전략적 준비금 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
+      "translatedTitle": "트럼프의 전략적 비축 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
     },
     {
       "title": "Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
@@ -2723,41 +2783,6 @@
         }
       ],
       "translatedTitle": "Huawei부터 Inspur까지 중국 기술 회사, '올인원' DeepSeek AI 서버 출시"
-    },
-    {
-      "title": "NXP Semiconductors Announces Quarterly Dividend",
-      "url": "https://www.globenewswire.com/news-release/2025/03/06/3038159/0/en/NXP-Semiconductors-Announces-Quarterly-Dividend.html",
-      "time_published": "20250306T130000",
-      "authors": [
-        "Inc.",
-        "NXP USA"
-      ],
-      "summary": "EINDHOVEN, The Netherlands, March 06, 2025 ( GLOBE NEWSWIRE ) -- As part of its ongoing capital return program, NXP Semiconductors N.V. ( NASDAQ: NXPI ) today announced that its board of directors has approved the payment of an interim dividend.",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/b322f93e-3c07-46bd-b6aa-4e0e8e88eb00",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.146908,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "NXPI",
-          "relevance_score": "0.184246",
-          "ticker_sentiment_score": "0.369622",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "NXP Semiconductors, 분기별 배당금 발표"
     }
   ]
 }
