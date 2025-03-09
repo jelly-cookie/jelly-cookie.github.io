@@ -157,6 +157,58 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Nasdaq Correction: 3 Things Every Investor Should Know",
+      "url": "https://www.fool.com/investing/2025/03/09/nasdaq-correction-3-things-investors-should-know/",
+      "time_published": "20250309T221000",
+      "authors": [
+        "Adria Cimino"
+      ],
+      "summary": "The Nasdaq, along with the S&P 500 and the Dow Jones Industrial Average, roared higher over the past two years, delivering double-digit annual gains. And the momentum continued into this year as investors piled into high-growth companies involved in hot technologies such as artificial ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810504%2Fgettyimages-1072035598.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": 0.255312,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.203215",
+          "ticker_sentiment_score": "0.142855",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.153145",
+          "ticker_sentiment_score": "0.117056",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "나스닥 수정: 모든 투자자가 알아야 할 3가지"
+    },
+    {
       "title": "Trump declines to rule out 2025 US recession",
       "url": "https://www.scmp.com/news/us/economy-trade-business/article/3301705/trump-declines-rule-out-2025-us-recession-commerce-secretary-says-absolutely-not",
       "time_published": "20250309T165703",
@@ -1881,7 +1933,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "트럼프의 전략적 비축 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
+      "translatedTitle": "트럼프의 전략적 준비금 명령에 암호화폐 시장이 반응하면서 비트코인 가격 하락"
     },
     {
       "title": "Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
@@ -2751,44 +2803,6 @@
         }
       ],
       "translatedTitle": "장기적 이익을 위해 축적할 3개의 BlackRock 뮤추얼 펀드"
-    },
-    {
-      "title": "NXP Semiconductors Announces Quarterly Dividend - NXP Semiconductors  ( NASDAQ:NXPI ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44163364/nxp-semiconductors-announces-quarterly-dividend",
-      "time_published": "20250306T130055",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "EINDHOVEN, The Netherlands, March 06, 2025 ( GLOBE NEWSWIRE ) -- As part of its ongoing capital return program, NXP Semiconductors N.V. NXPI today announced that its board of directors has approved the payment of an interim dividend.",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.158569,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NXPI",
-          "relevance_score": "0.215702",
-          "ticker_sentiment_score": "0.398979",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "NXP Semiconductors, 분기별 배당금 발표 - NXP Semiconductors ( NASDAQ:NXPI )"
     }
   ]
 }
