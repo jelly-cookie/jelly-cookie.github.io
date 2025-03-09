@@ -76,6 +76,11 @@ async function fetchNewsData() {
     const oldTitles = oldData.feed.map(item => item.title);
     const newTitles = newData.feed.map(item => item.title);
 
+    // 디버깅을 위한 로그 추가
+    console.log("Old titles:", JSON.stringify(oldTitles, null, 2));
+    console.log("New titles:", JSON.stringify(newTitles, null, 2));
+    console.log("Are titles equal?", JSON.stringify(oldTitles) === JSON.stringify(newTitles));
+
     // 제목 배열을 문자열로 변환하여 비교
     if (JSON.stringify(oldTitles) === JSON.stringify(newTitles)) {
       console.log("📝 No changes detected in news titles.");
