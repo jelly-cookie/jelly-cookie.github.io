@@ -68,23 +68,34 @@ async function fetchNewsData() {
       process.exit(1);
     }
 
-    // 기존 데이터 읽기
-    const oldDataRaw = fs.readFileSync(BACKUP_PATH, "utf-8");
-    const oldData = JSON.parse(oldDataRaw);
+    // news-data 브랜치의 데이터를 가져오기 위한 임시 저장소 생성
+    const tempDir = path.join(__dirname, "temp");
+    if (!fs.existsSync(tempDir)) {
+      fs.mkdirSync(tempDir, { recursive: true });
+    }
 
-    // title만 비교하기 위해 필요한 정보만 추출하여 비교
-    const oldTitles = oldData.feed.map(item => item.title);
-    const newTitles = newData.feed.map(item => item.title);
+    // news-data 브랜치의 최신 데이터 가져오기
+    try {
+      const { execSync } = await import('child_process');
+      execSync(`git show news-data:public/news-data.json > ${path.join(tempDir, "news-data.json")}`);
+      const oldDataRaw = fs.readFileSync(path.join(tempDir, "news-data.json"), "utf-8");
+      const oldData = JSON.parse(oldDataRaw);
 
-    // 디버깅을 위한 로그 추가
-    console.log("Old titles:", JSON.stringify(oldTitles, null, 2));
-    console.log("New titles:", JSON.stringify(newTitles, null, 2));
-    console.log("Are titles equal?", JSON.stringify(oldTitles) === JSON.stringify(newTitles));
+      // title만 비교하기 위해 필요한 정보만 추출하여 비교
+      const oldTitles = oldData.feed.map(item => item.title);
+      const newTitles = newData.feed.map(item => item.title);
 
-    // 제목 배열을 문자열로 변환하여 비교
-    if (JSON.stringify(oldTitles) === JSON.stringify(newTitles)) {
-      console.log("📝 No changes detected in news titles.");
-      process.exit(2);
+      // 디버깅을 위한 로그 추가
+      console.log("Old titles:", JSON.stringify(oldTitles, null, 2));
+      console.log("New titles:", JSON.stringify(newTitles, null, 2));
+      console.log("Are titles equal?", JSON.stringify(oldTitles) === JSON.stringify(newTitles));
+
+      if (JSON.stringify(oldTitles) === JSON.stringify(newTitles)) {
+        console.log("📝 No changes detected in news titles.");
+        process.exit(2);
+      }
+    } catch (error) {
+      console.log("⚠️ No previous data found in news-data branch, proceeding with translation...");
     }
 
     // 변경사항이 있는 경우에만 번역 진행
