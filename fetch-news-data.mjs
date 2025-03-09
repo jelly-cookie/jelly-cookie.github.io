@@ -77,7 +77,34 @@ async function fetchNewsData() {
     // news-data 브랜치의 최신 데이터 가져오기
     try {
       const { execSync } = await import('child_process');
-      execSync(`git show news-data:public/news-data.json > ${path.join(tempDir, "news-data.json")}`);
+      console.log("Fetching data from news-data branch...");
+      
+      try {
+        // Git 설정에 토큰 추가
+        if (process.env.GITHUB_TOKEN) {
+          const repoUrl = process.env.GITHUB_REPOSITORY;
+          execSync(
+            `git remote set-url origin https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/${repoUrl}.git`
+          );
+        }
+
+        // Git 명령어 실행 및 상세 에러 출력
+        execSync(`git fetch origin news-data`, { 
+          stdio: 'inherit',  // 실시간으로 출력 표시
+          encoding: 'utf-8'
+        });
+        
+        execSync(`git show origin/news-data:public/news-data.json > ${path.join(tempDir, "news-data.json")}`, {
+          stdio: 'inherit',
+          encoding: 'utf-8'
+        });
+      } catch (gitError) {
+        console.error("Git command failed with error:", gitError);
+        console.error("Error details:", gitError.stderr);
+        console.error("Error code:", gitError.status);
+        throw gitError;
+      }
+
       const oldDataRaw = fs.readFileSync(path.join(tempDir, "news-data.json"), "utf-8");
       const oldData = JSON.parse(oldDataRaw);
 
@@ -96,6 +123,7 @@ async function fetchNewsData() {
       }
     } catch (error) {
       console.log("⚠️ No previous data found in news-data branch, proceeding with translation...");
+      console.log(error)
     }
 
     // 변경사항이 있는 경우에만 번역 진행
