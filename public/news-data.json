@@ -4,6 +4,68 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
+      "url": "https://www.benzinga.com/markets/eurozone/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine",
+      "time_published": "20250310T202639",
+      "authors": [
+        "Dan Schmidt"
+      ],
+      "summary": "Global geopolitical tensions reached a new high after the contentious February 28 Oval Office meeting between Ukrainian President Volodymyr Zelenskyy and US President Donald Trump.",
+      "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcz_vG_KlxR1YFjEzC7CM5uirLdtpbjuTsj1DEa5dom-LiAvPzKDxxGg-QOEWA3cq3hC67yj-R92podeAkV2ykefZNcLkN1UI3IBZVO_wht8e15qkjdiyZYiIcR856Uojng01QU4g?key=bRH-zOh8yeo-luC60d2Cc_7K",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999759"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.237101,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RYCEF",
+          "relevance_score": "0.138663",
+          "ticker_sentiment_score": "0.10047",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "THLEF",
+          "relevance_score": "0.104228",
+          "ticker_sentiment_score": "0.10813",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAESF",
+          "relevance_score": "0.104228",
+          "ticker_sentiment_score": "0.103902",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RNMBF",
+          "relevance_score": "0.034831",
+          "ticker_sentiment_score": "0.079411",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.034831",
+          "ticker_sentiment_score": "0.073104",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프가 우크라이나에 대한 무기 선적을 중단한 후 주목해야 할 6개 방위 주식 - Leonardo(OTC:FINMY), BAE Systems(OTC:BAESY)"
+    },
+    {
       "title": "The Reality of Trump's Tariffs",
       "url": "https://www.fool.com/investing/2025/03/10/the-reality-of-trumps-tariffs/",
       "time_published": "20250310T194600",
@@ -447,6 +509,46 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
+    },
+    {
+      "title": "SEALSQ will showcase its latest Quantum Resistant Chip and PKI services next week at Embedded World Electronic Fair in Germany",
+      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040182/0/en/SEALSQ-will-showcase-its-latest-Quantum-Resistant-Chip-and-PKI-services-next-week-at-Embedded-World-Electronic-Fair-in-Germany.html",
+      "time_published": "20250310T203000",
+      "authors": [
+        "SEAL Semiconductors"
+      ],
+      "summary": "Geneva, Switzerland, March 10, 2025 ( GLOBE NEWSWIRE ) -- SEALSQ Corp ( NASDAQ: LAES ) ( \"SEALSQ\" or \"Company\" ) , a company specializing in Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its participation at Embedded World 2025, taking place ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/29a5f3ff-07b7-49e7-a424-370ddbb35d06/image2.jpeg",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.313022,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LAES",
+          "relevance_score": "0.66976",
+          "ticker_sentiment_score": "0.451928",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CRYPTO:ECC",
+          "relevance_score": "0.048523",
+          "ticker_sentiment_score": "0.085003",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "SEALSQ는 다음 주 독일에서 열리는 임베디드 세계 전자 박람회에서 최신 양자 저항 칩 및 PKI 서비스를 선보일 예정입니다."
     },
     {
       "title": "Quanex Building Products Announces First Quarter 2025 Results and Reaffirms Full Year 2025 Guidance",
@@ -2719,90 +2821,6 @@
         }
       ],
       "translatedTitle": "도널드 트럼프의 '암호화폐 정상회담'은 '중요한 순간'이라고 전문가들이 말하다 - Coinbase Global ( NASDAQ:COIN )"
-    },
-    {
-      "title": "Mullen Group Ltd. Announces Renewal of Normal Course Issuer Bid for Shares and Approval of Normal Course Issuer Bid for Debentures",
-      "url": "https://www.globenewswire.com/news-release/2025/03/07/3038815/0/en/Mullen-Group-Ltd-Announces-Renewal-of-Normal-Course-Issuer-Bid-for-Shares-and-Approval-of-Normal-Course-Issuer-Bid-for-Debentures.html",
-      "time_published": "20250307T110000",
-      "authors": [
-        "Mullen Group Ltd"
-      ],
-      "summary": "OKOTOKS, Alberta, March 07, 2025 ( GLOBE NEWSWIRE ) -- ( TSX: MTL ) Mullen Group Ltd. ( \"Mullen Group\" and/or the \"Corporation\" ) announced today that it has received approval from the Toronto Stock Exchange ( the \"Exchange\" ) for the renewal of its normal course issuer bid for the common shares ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/a77187b1-6cef-400a-b65f-d6c9479b1b84",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.997405"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.162645,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "MLLGF",
-          "relevance_score": "0.282234",
-          "ticker_sentiment_score": "0.050852",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Mullen Group Ltd., 주식에 대한 정상적인 발행인 입찰 갱신 및 사채에 대한 정상적인 발행인 입찰 승인 발표"
-    },
-    {
-      "title": "European  ( fund flow )  Exceptionalism",
-      "url": "https://www.ft.com/content/4990eacc-b66b-4da8-999b-9d5c5c26feae",
-      "time_published": "20250307T100830",
-      "authors": [
-        "Robin Wigglesworth"
-      ],
-      "summary": "Say the word Alphaville . . .",
-      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd6c748xw2pzm8.cloudfront.net%2Fprod%2F504a2df0-fb32-11ef-a239-43f39f49f1ed-standard.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "category_within_source": "Markets",
-      "source_domain": "www.ft.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999701"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.149021,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BCS",
-          "relevance_score": "0.05833",
-          "ticker_sentiment_score": "0.030053",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "유럽(자금흐름) 예외주의"
     }
   ]
 }
