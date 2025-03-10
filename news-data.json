@@ -4,6 +4,164 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "Final Results",
+      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040089/0/en/Final-Results.html",
+      "time_published": "20250310T182500",
+      "authors": [
+        "Octopus AIM VCT 2 plc"
+      ],
+      "summary": "Octopus AIM VCT 2 plc today announces the final results for the year ended 30 November 2024. Octopus AIM VCT 2 plc ( the 'Company' ) is a Venture Capital Trust ( VCT ) which aims to provide shareholders with attractive tax-free dividends and long-term capital growth by investing in a diverse ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.225086,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XHLD",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.037013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ABDXF",
+          "relevance_score": "0.010905",
+          "ticker_sentiment_score": "0.094475",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRDNF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.228987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GBGPF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.228987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RCDOF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.076913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMSQF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.113216",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWRF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.228987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RNLX",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.037013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.228987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WIZEY",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.076913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PHYOF",
+          "relevance_score": "0.010905",
+          "ticker_sentiment_score": "0.094475",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLLWF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.037013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWKF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.076913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JTCPF",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.076913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDAI",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.037013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GSK",
+          "relevance_score": "0.005452",
+          "ticker_sentiment_score": "0.076913",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HDGHF",
+          "relevance_score": "0.016356",
+          "ticker_sentiment_score": "0.047727",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "최종 결과"
+    },
+    {
       "title": "Equip Exposition Announces Savannah Bananas Creator Jesse Cole as Keynote Speaker",
       "url": "https://www.benzinga.com/pressreleases/25/03/n44217550/equip-exposition-announces-savannah-bananas-creator-jesse-cole-as-keynote-speaker",
       "time_published": "20250310T123300",
@@ -185,6 +343,68 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
+    },
+    {
+      "title": "3 Air Conditioner & Heating Stocks in Focus Overcoming Industry Hurdles",
+      "url": "https://www.zacks.com/commentary/2427779/3-air-conditioner-heating-stocks-in-focus-overcoming-industry-hurdles",
+      "time_published": "20250310T164500",
+      "authors": [
+        "Shrabana Mukherjee"
+      ],
+      "summary": "The Zacks Building Products - Air Conditioner & Heating industry stocks like CARR, FIX and AZEK are likely to benefit from pro-environmental moves and technological development amid challenges.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e3/12321.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.266943,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIX",
+          "relevance_score": "0.099724",
+          "ticker_sentiment_score": "0.173996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AZEK",
+          "relevance_score": "0.158911",
+          "ticker_sentiment_score": "0.234103",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CARR",
+          "relevance_score": "0.119532",
+          "ticker_sentiment_score": "0.182717",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "3개의 에어컨 및 난방 주식에 주목, 업계의 장애물 극복"
     },
     {
       "title": "Zacks Industry Outlook Highlights American Axle & Manufacturing, Allison Transmission and Adient",
@@ -1940,7 +2160,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2778,97 +2998,6 @@
         }
       ],
       "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
-    },
-    {
-      "title": "Trump backs off Mexico, Canada tariffs after market blowback - ETCFO",
-      "url": "https://cfo.economictimes.indiatimes.com/news/economy/trump-backs-off-mexico-canada-tariffs-after-market-blowback/118773374",
-      "time_published": "20250307T030121",
-      "authors": [
-        "ETCFO"
-      ],
-      "summary": "US President Donald Trump on Thursday delayed some tariffs targeting Canada and Mexico -- leading Ottawa to halt an upcoming wave of countermeasures -- in moves that bring reprieve to companies and consumers after blowback on financial markets.",
-      "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-      "source": "Economic Times",
-      "category_within_source": "Economy",
-      "source_domain": "cfo.economictimes.indiatimes.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.650727"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.00971,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "GM",
-          "relevance_score": "0.05133",
-          "ticker_sentiment_score": "0.175454",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "트럼프, 시장 반발에 멕시코·캐나다 관세 철회 - ETCFO"
-    },
-    {
-      "title": "Beating Trumponomics - ETCFO",
-      "url": "https://cfo.economictimes.indiatimes.com/news/policy/beating-trumponomics/118772462",
-      "time_published": "20250307T021417",
-      "authors": [
-        "Amol Dethe",
-        "ETCFO"
-      ],
-      "summary": "Trump's tariff policies, intended to reinforce US economic dominance, have instead triggered uncertainty, alienated allies, and encouraged global realignments. Canada and Mexico, key US trading partners, are reassessing their economic dependence on the US. While geography makes trade with the US ...",
-      "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
-      "source": "Economic Times",
-      "category_within_source": "Top Stories",
-      "source_domain": "cfo.economictimes.indiatimes.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.918141"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.03908,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.034039",
-          "ticker_sentiment_score": "-0.16017",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.068016",
-          "ticker_sentiment_score": "-0.12499",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프경제학을 이기다 - ETCFO"
     }
   ]
 }
