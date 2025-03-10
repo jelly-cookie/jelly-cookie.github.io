@@ -157,6 +157,65 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Trump refuses to rule out recession, says economy in 'transition' amid market turmoil - ETCFO",
+      "url": "https://cfo.economictimes.indiatimes.com/news/policy/trump-refuses-to-rule-out-recession-says-economy-in-transition-amid-market-turmoil/118829551",
+      "time_published": "20250310T033722",
+      "authors": [
+        "ETCFO",
+        "TOI World Desk"
+      ],
+      "summary": "US President Donald Trump remains noncommittal about a potential recession in 2025. Despite reassurances from Trump and Commerce Secretary Howard Lutnick, economic indicators such as a negative GDP forecast and declining consumer confidence fuel concerns.",
+      "banner_image": "https://st.etb2bimg.com/Themes/Release/theme4/images/bar-codes/cfo_barcode.png?mod=2846",
+      "source": "Economic Times",
+      "category_within_source": "Top Stories",
+      "source_domain": "cfo.economictimes.indiatimes.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.249954,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.109956",
+          "ticker_sentiment_score": "-0.119483",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOX",
+          "relevance_score": "0.109956",
+          "ticker_sentiment_score": "-0.119483",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.109956",
+          "ticker_sentiment_score": "-0.119483",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프, 경기 침체 배제 거부, 시장 혼란 속 경제 '전환기'라고 주장 - ETCFO"
+    },
+    {
       "title": "Why Are Bitcoin, Ethereum Prices Falling?",
       "url": "https://decrypt.co/309273/why-are-bitcoin-ethereum-prices-falling",
       "time_published": "20250309T230415",
@@ -1073,7 +1132,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2737,66 +2796,6 @@
         }
       ],
       "translatedTitle": "Toro의 1분기 매출은 재료비와 프로모션으로 인해 기대치에 못 미쳐 - Toro ( NYSE:TTC )"
-    },
-    {
-      "title": "Quanex to Report Q1 Earnings: What Could Drive the Results?",
-      "url": "https://www.zacks.com/stock/news/2426514/quanex-to-report-q1-earnings-what-could-drive-the-results",
-      "time_published": "20250306T135500",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "NX is expected to have a muted start to fiscal 2025, with lower volumes weighing on performance.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/52/1129.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.132586,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "NX",
-          "relevance_score": "0.151778",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AWI",
-          "relevance_score": "0.076236",
-          "ticker_sentiment_score": "0.126496",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ROCK",
-          "relevance_score": "0.076236",
-          "ticker_sentiment_score": "-0.049289",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MAS",
-          "relevance_score": "0.076236",
-          "ticker_sentiment_score": "-0.039894",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Quanex가 1분기 실적을 보고합니다. 어떤 요인이 결과를 좌우할까요?"
     }
   ]
 }
