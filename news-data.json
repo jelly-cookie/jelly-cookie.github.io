@@ -103,58 +103,80 @@
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
     },
     {
-      "title": "JD.com  ( JD )  Q4 2024 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2025/03/06/jdcom-jd-q4-2024-earnings-call-transcript/",
-      "time_published": "20250306T161512",
+      "title": "Crédit Agricole Assurances : Availability of an investor presentation",
+      "url": "https://www.globenewswire.com/news-release/2025/03/10/3039458/0/en/Cr%C3%A9dit-Agricole-Assurances-Availability-of-an-investor-presentation.html",
+      "time_published": "20250310T073800",
       "authors": [
-        "Motley Fool Transcribing"
+        "Crédit Agricole Assurances"
       ],
-      "summary": "JD earnings call for the period ending December 31, 2024.",
-      "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-      "source": "Motley Fool",
+      "summary": "Crédit Agricole Assurances announced today the release of its investor presentation for the financial year 2024.",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/fd834803-362d-4876-9f7d-adbf580c4687",
+      "source": "GlobeNewswire",
       "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
+      "source_domain": "www.globenewswire.com",
       "topics": [
         {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
-          "relevance_score": "1.0"
+          "relevance_score": "0.947132"
         },
         {
           "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
+          "relevance_score": "0.360215"
         }
       ],
-      "overall_sentiment_score": 0.455285,
-      "overall_sentiment_label": "Bullish",
+      "overall_sentiment_score": 0.136974,
+      "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [
         {
-          "ticker": "GS",
-          "relevance_score": "0.006322",
-          "ticker_sentiment_score": "0.217391",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "C",
-          "relevance_score": "0.006322",
-          "ticker_sentiment_score": "0.142137",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "JDLGF",
-          "relevance_score": "0.063158",
-          "ticker_sentiment_score": "0.249018",
+          "ticker": "CRARF",
+          "relevance_score": "0.695767",
+          "ticker_sentiment_score": "0.22762",
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
+      "translatedTitle": "Crédit Agricole Assurances: 투자자 프레젠테이션의 가용성"
+    },
+    {
+      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/10/3039438/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+      "time_published": "20250310T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
     },
     {
       "title": "Palantir CEO Alex Karp Meets Hyundai Vice Chair to Enhance AI Shipyard, Defense Collaboration Amid Trump's Call for US Shipbuilding Revival - Palantir Technologies  ( NASDAQ:PLTR ) ",
@@ -1252,7 +1274,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2798,33 +2820,6 @@
         }
       ],
       "translatedTitle": "분석가, 강세에도 불구하고 Abercrombie & Fitch 가격 예측치를 34%나 낮춤 - 이유는 다음과 같습니다 - Abercrombie & Fitch ( NYSE:ANF )"
-    },
-    {
-      "title": "Friday could be critical for investors, with a jobs report and a Powell speech",
-      "url": "https://www.marketwatch.com/story/friday-could-be-a-critical-day-for-investors-with-a-high-stakes-jobs-report-and-a-powell-speech-74d133c3",
-      "time_published": "20250306T154500",
-      "authors": [
-        "Joy Wiltermuth"
-      ],
-      "summary": "U.S. stocks are falling, leaving the Nasdaq on the cusp of a correction.",
-      "banner_image": "https://images.mktw.net/im-69674135?width=1260&height=840",
-      "source": "MarketWatch",
-      "category_within_source": "Top Stories",
-      "source_domain": "www.marketwatch.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.214355,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [],
-      "translatedTitle": "금요일은 일자리 보고서와 파월 연설로 투자자들에게 중요한 날이 될 수 있습니다."
     }
   ]
 }
