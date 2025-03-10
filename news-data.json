@@ -4,6 +4,110 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "The Reality of Trump's Tariffs",
+      "url": "https://www.fool.com/investing/2025/03/10/the-reality-of-trumps-tariffs/",
+      "time_published": "20250310T194600",
+      "authors": [
+        "Motley Fool Staff"
+      ],
+      "summary": "In this podcast, Motley Fool analyst Jason Moser and host Ricky Mulvey discuss:Then, Motley Fool host Alison Southwick and personal finance expert Robert Brokamp offer financial planning tips for \"solopreneurs.\"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/810167/tariffs-become-reality.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.190336,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.007551",
+          "ticker_sentiment_score": "0.135183",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.127815",
+          "ticker_sentiment_score": "0.113419",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.02265",
+          "ticker_sentiment_score": "0.090674",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.007551",
+          "ticker_sentiment_score": "0.064205",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.007551",
+          "ticker_sentiment_score": "0.060677",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AZO",
+          "relevance_score": "0.007551",
+          "ticker_sentiment_score": "0.122203",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LLY",
+          "relevance_score": "0.007551",
+          "ticker_sentiment_score": "0.064205",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HD",
+          "relevance_score": "0.037741",
+          "ticker_sentiment_score": "0.096485",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.015101",
+          "ticker_sentiment_score": "0.142464",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.015101",
+          "ticker_sentiment_score": "0.054874",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프 관세의 현실"
+    },
+    {
       "title": "Final Results",
       "url": "https://www.globenewswire.com/news-release/2025/03/10/3040089/0/en/Final-Results.html",
       "time_published": "20250310T182500",
@@ -343,6 +447,83 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
+    },
+    {
+      "title": "Quanex Building Products Announces First Quarter 2025 Results and Reaffirms Full Year 2025 Guidance",
+      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040171/0/en/Quanex-Building-Products-Announces-First-Quarter-2025-Results-and-Reaffirms-Full-Year-2025-Guidance.html",
+      "time_published": "20250310T201500",
+      "authors": [
+        "Quanex Corporation"
+      ],
+      "summary": "Margin Expansion Realized on Consolidated BasisResults Lifted by Contribution from Tyman AcquisitionRealization of Cost Synergies from Tyman Acquisition Progressing Well$65 Million of Debt Repaid Since Closing Tyman Acquisition ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fb454b9e-8c81-4d9a-bf1e-befe0cfa9c41",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999998"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.972756"
+        }
+      ],
+      "overall_sentiment_score": 0.188782,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
+    },
+    {
+      "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
+      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040170/0/en/Amalgamated-Financial-Corp-Announces-New-40-Million-Share-Repurchase-Program.html",
+      "time_published": "20250310T201500",
+      "authors": [
+        "Amalgamated Financial Corp."
+      ],
+      "summary": "NEW YORK, March 10, 2025 ( GLOBE NEWSWIRE ) -- Amalgamated Financial Corp. ( \"Amalgamated\", the \"Company\", or the \"Bank\" ) ( Nasdaq: AMAL ) today announced that its Board of Directors has approved a new authorization for the repurchase of up to $40 million of the Company's Class A common stock.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/e3ab3d07-5f7b-4f1b-bd9c-ec07483eb0b1",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999998"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.01455,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMAL",
+          "relevance_score": "0.090816",
+          "ticker_sentiment_score": "0.115724",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Amalgamated Financial Corp., 4000만 달러 규모의 신규 주식 재매수 프로그램 발표"
     },
     {
       "title": "3 Air Conditioner & Heating Stocks in Focus Overcoming Industry Hurdles",
@@ -2622,382 +2803,6 @@
         }
       ],
       "translatedTitle": "유럽(자금흐름) 예외주의"
-    },
-    {
-      "title": "Outside In | To its trading partners, the US is suddenly a predatory rogue state",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3301369/its-trading-partners-us-suddenly-predatory-rogue-state",
-      "time_published": "20250307T083009",
-      "authors": [
-        "David Dodwell"
-      ],
-      "summary": "Trump's dogmatic commitment to his tariff-driven policy will force others to adapt - by reducing their reliance on, and engagement with, the US.",
-      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/06/6e2d65a5-dec6-446e-b0ed-f854b4cf77b6_d3082453.jpg",
-      "source": "South China Morning Post",
-      "category_within_source": "Economy",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.034554,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "GM",
-          "relevance_score": "0.042346",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "외부에서 내부로 | 무역 파트너에게 미국은 갑자기 약탈적인 불량 국가가 되었습니다."
-    },
-    {
-      "title": "Alliance Witan PLC - Final Results",
-      "url": "https://www.globenewswire.com/news-release/2025/03/07/3038750/0/en/Alliance-Witan-PLC-Final-Results.html",
-      "time_published": "20250307T070000",
-      "authors": [
-        "Alliance Witan PLC"
-      ],
-      "summary": "Alliance Witan PLC ( 'the Company' ) LEI: ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.998947"
-        }
-      ],
-      "overall_sentiment_score": 0.22056,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "ALK",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.040927",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PPERY",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NRG",
-          "relevance_score": "0.008388",
-          "ticker_sentiment_score": "0.076209",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ACRFF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.097594",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AVGO",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.068245",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NCBDF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.076846",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CSGP",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FHI",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.040927",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVO",
-          "relevance_score": "0.012582",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "HDB",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.029223",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AXON",
-          "relevance_score": "0.008388",
-          "ticker_sentiment_score": "0.055848",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FNV",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.029991",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.016776",
-          "ticker_sentiment_score": "0.112464",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.020969",
-          "ticker_sentiment_score": "0.125838",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "QCOM",
-          "relevance_score": "0.016776",
-          "ticker_sentiment_score": "0.105953",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AA",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.040927",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.029353",
-          "ticker_sentiment_score": "0.094548",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "COO",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "EG",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "RDDT",
-          "relevance_score": "0.008388",
-          "ticker_sentiment_score": "0.071925",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "VPGLF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.04078",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MSCI",
-          "relevance_score": "0.046111",
-          "ticker_sentiment_score": "0.109355",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SHMDF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.076846",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CCK",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.076846",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CMSQF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.047104",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AEP",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.040927",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GS",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "-0.052384",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DEO",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "-0.052384",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GEN",
-          "relevance_score": "0.008388",
-          "ticker_sentiment_score": "0.126443",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "RINIF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.076846",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KYCCF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.288301",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "ROP",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.288301",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "TGOPF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AZN",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TMO",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SNPS",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.081701",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MORN",
-          "relevance_score": "0.012582",
-          "ticker_sentiment_score": "0.052336",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NSRGF",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.068245",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.004102",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.004194",
-          "ticker_sentiment_score": "0.044745",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Alliance Witan PLC - 최종 결과"
-    },
-    {
-      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-      "url": "https://www.globenewswire.com/news-release/2025/03/07/3038748/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-      "time_published": "20250307T070000",
-      "authors": [
-        "NB Private Equity Partners Limited"
-      ],
-      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.803643"
-        }
-      ],
-      "overall_sentiment_score": 0.236207,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NBPVF",
-          "relevance_score": "0.136499",
-          "ticker_sentiment_score": "0.192875",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
     }
   ]
 }
