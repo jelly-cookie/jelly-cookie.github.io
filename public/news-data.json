@@ -157,6 +157,126 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Palantir CEO Alex Karp Meets Hyundai Vice Chair to Enhance AI Shipyard, Defense Collaboration Amid Trump's Call for US Shipbuilding Revival - Palantir Technologies  ( NASDAQ:PLTR ) ",
+      "url": "https://www.benzinga.com/markets/25/03/44212993/palantir-ceo-alex-karp-meets-hyundai-vice-chair-to-enhance-ai-shipyard-defense-collaboration-amid-trumps-",
+      "time_published": "20250310T060838",
+      "authors": [
+        "Ananya Gairola"
+      ],
+      "summary": "Earlier this month, top executives from South Korea's shipbuilding conglomerate Hyundai Heavy Industries Group and Palantir Technologies PLTR met to push forward AI-driven shipyard innovation and future defense capabilities.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/Palantirs-Alex-Karp-Confers-With-Keir-St.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.269158,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAESF",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "0.073987",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HII",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "0.073987",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.183895",
+          "ticker_sentiment_score": "0.276571",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Palantir CEO Alex Karp, 트럼프의 미국 조선업 부흥 촉구에 따라 AI 조선소, 국방 협력 강화를 위해 현대 부회장 만나 - Palantir Technologies ( NASDAQ:PLTR )"
+    },
+    {
+      "title": "China bond yields jump to three-month highs as investors pare rate cut expectations",
+      "url": "https://www.cnbc.com/2025/03/10/chinese-government-bond-yields-jumped-amid-renewed-hopes-for-economy-rate-cut-delays.html",
+      "time_published": "20250310T053504",
+      "authors": [],
+      "summary": "Chinese government bond yields moved further away from January's historic lows amid optimism in the faltering economy and a stock market rally.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.18582,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACHY",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "0.003005",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CIH",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "0.040003",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.103554",
+          "ticker_sentiment_score": "0.077775",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "-0.132507",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "중국 국채 수익률, 투자자들이 금리 인하 기대치를 낮추면서 3개월 만에 최고치로 급등"
+    },
+    {
       "title": "Trump refuses to rule out recession, says economy in 'transition' amid market turmoil - ETCFO",
       "url": "https://cfo.economictimes.indiatimes.com/news/policy/trump-refuses-to-rule-out-recession-says-economy-in-transition-amid-market-turmoil/118829551",
       "time_published": "20250310T033722",
@@ -1132,7 +1252,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2705,97 +2825,6 @@
       "overall_sentiment_label": "Somewhat-Bearish",
       "ticker_sentiment": [],
       "translatedTitle": "금요일은 일자리 보고서와 파월 연설로 투자자들에게 중요한 날이 될 수 있습니다."
-    },
-    {
-      "title": "Trade deficit hits record high in January as companies import goods to avoid tariffs",
-      "url": "https://www.marketwatch.com/story/trade-deficit-soars-to-record-high-in-january-b94b5c42",
-      "time_published": "20250306T144200",
-      "authors": [
-        "Greg Robb"
-      ],
-      "summary": "The U.S. international trade deficit widened 34% in January to $131.4 billion, the Commerce Department said Thursday. It's the widest deficit going back to the start of the series in 1992.",
-      "banner_image": "https://images.mktw.net/im-98393810?width=1260&height=840",
-      "source": "MarketWatch",
-      "category_within_source": "Top Stories",
-      "source_domain": "www.marketwatch.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.27917,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [],
-      "translatedTitle": "1월 무역적자, 관세 회피 위해 기업들이 상품 수입으로 사상 최고치 기록"
-    },
-    {
-      "title": "Toro's Q1 Sales Miss Expectations, Weighed Down by Material Costs and Promotions - Toro  ( NYSE:TTC ) ",
-      "url": "https://www.benzinga.com/news/earnings/25/03/44166258/toros-q1-sales-miss-expectations-weighed-down-by-material-costs-and-promotions",
-      "time_published": "20250306T144007",
-      "authors": [
-        "Lekha Gupta"
-      ],
-      "summary": "Toro reports Q1 sales decline 1% Y/Y to $995M, missing consensus; EPS beats estimates at $0.65. The company reaffirms FY25 sales growth of 0%-1%, with adjusted EPS outlook of $4.25-$4.40.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/06/Bloomington--Mn---usa---August-12--2015-.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.94762"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.905476"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.333333"
-        }
-      ],
-      "overall_sentiment_score": 0.208176,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "TTC",
-          "relevance_score": "0.350564",
-          "ticker_sentiment_score": "-0.012703",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "IVZ",
-          "relevance_score": "0.072435",
-          "ticker_sentiment_score": "0.235273",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "INSM",
-          "relevance_score": "0.072435",
-          "ticker_sentiment_score": "0.09462",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "UBER",
-          "relevance_score": "0.072435",
-          "ticker_sentiment_score": "0.09462",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Toro의 1분기 매출은 재료비와 프로모션으로 인해 기대치에 못 미쳐 - Toro ( NYSE:TTC )"
     }
   ]
 }
