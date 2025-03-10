@@ -187,6 +187,58 @@
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
     },
     {
+      "title": "Trump Says Economy Faces A 'Period Of Transition': Is A Recession Ahead? - SPDR S&P 500  ( ARCA:SPY ) ",
+      "url": "https://www.benzinga.com/25/03/44222440/financial-crime-weekly",
+      "time_published": "20250310T144301",
+      "authors": [
+        "Erica Kollmann"
+      ],
+      "summary": "President Trump seems to acknowledge the possibility of a recession in 2025, citing a \"period of transition.\" Trump's comments come amid growing concerns over economic turbulence and unsettled markets. Find out which stock just plummeted to the bottom of the new Benzinga Rankings.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/U-s--President-Donald-Trump-Appears-At-A.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.024682,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.075874",
+          "ticker_sentiment_score": "-0.021586",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOX",
+          "relevance_score": "0.151064",
+          "ticker_sentiment_score": "-0.291311",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "트럼프, 경제가 '전환기'에 직면했다고 말하다: 경기 침체가 다가올까? - SPDR S&P 500 ( ARCA:SPY )"
+    },
+    {
       "title": "S&P 500 Will Reach 7,000 By Year-End",
       "url": "https://www.benzinga.com/markets/equities/25/03/44220844/s-p-500-will-reach-7-000-by-year-end",
       "time_published": "20250310T141434",
@@ -216,6 +268,60 @@
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "S&P 500, 연말까지 7,000에 도달할 것"
+    },
+    {
+      "title": "3 Oil Stocks to Invest in Now as Crude Tumbles to 2025 Lows",
+      "url": "https://www.zacks.com/stock/news/2427798/3-oil-stocks-to-invest-in-now-as-crude-tumbles-to-2025-lows",
+      "time_published": "20250310T132900",
+      "authors": [
+        "Nilanjan Choudhury"
+      ],
+      "summary": "Scoop up three quality energy stocks - MTDR, PR and AMPY - that have been beaten down.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/4c/416.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.105619,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MTDR",
+          "relevance_score": "0.189175",
+          "ticker_sentiment_score": "-0.004833",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PR",
+          "relevance_score": "0.31006",
+          "ticker_sentiment_score": "0.016824",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMPY",
+          "relevance_score": "0.250386",
+          "ticker_sentiment_score": "0.002036",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "원유가 2025년 최저치로 폭락하면서 지금 투자할 3가지 석유 주식"
     },
     {
       "title": "Kugler says Fed should hold interest rates amid inflation risks",
@@ -1608,7 +1714,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2835,81 +2941,6 @@
         }
       ],
       "translatedTitle": "Martinrea International Inc. 연말 및 4분기 실적 보고 및 배당금 발표"
-    },
-    {
-      "title": "Why Whirlpool Stock Tumbled This Week",
-      "url": "https://www.fool.com/investing/2025/03/06/why-whirlpool-stock-tumbled-this-week/",
-      "time_published": "20250306T212524",
-      "authors": [
-        "Howard Smith"
-      ],
-      "summary": "Companies can be impacted in different ways by tariffs, like those that are being announced by the Trump administration. Some domestic manufacturers, including steelmakers, may benefit as commodity prices rise. Others will see costs increase on raw materials or products being imported as part of ...",
-      "banner_image": "https://g.foolcdn.com/editorial/images/810212/tariffs-implied-by-importexport-signs-over-map-of-us.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.060532,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "WHR",
-          "relevance_score": "0.689652",
-          "ticker_sentiment_score": "-0.049996",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SPGI",
-          "relevance_score": "0.115232",
-          "ticker_sentiment_score": "0.044938",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "이번 주에 Whirlpool 주식이 폭락한 이유"
-    },
-    {
-      "title": "LBMC Experts Highlight 2025 Technology Industry Trends",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44179908/lbmc-experts-highlight-2025-technology-industry-trends",
-      "time_published": "20250306T212317",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "Nashville, Tenn., March 06, 2025 ( GLOBE NEWSWIRE ) -- Business executives in the technology and healthcare IT industries confront both new potential and problems in the areas of cybersecurity, audit, taxation, and AI-driven business intelligence as 2025 approaches.",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.365926"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.108179"
-        }
-      ],
-      "overall_sentiment_score": 0.252572,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "LBMC 전문가, 2025년 기술 산업 동향 강조"
     }
   ]
 }
