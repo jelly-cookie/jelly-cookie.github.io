@@ -157,6 +157,66 @@
       "translatedTitle": "JD.com(JD) 2024년 4분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Why Are Bitcoin, Ethereum Prices Falling?",
+      "url": "https://decrypt.co/309273/why-are-bitcoin-ethereum-prices-falling",
+      "time_published": "20250309T230415",
+      "authors": [
+        "Sebastian Sinclair"
+      ],
+      "summary": "Bitcoin and Ethereum extend losses as traders digest Trump's Strategic Bitcoin Reserve order and a wave of U.S. trade tariffs.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/02/bitcoin-btc-ethereum-eth-price-chart-gID_7.jpg",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": -0.040801,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "USAU",
+          "relevance_score": "0.075874",
+          "ticker_sentiment_score": "0.103106",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.846873",
+          "ticker_sentiment_score": "-0.033001",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.151064",
+          "ticker_sentiment_score": "0.060273",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:DOGE",
+          "relevance_score": "0.075874",
+          "ticker_sentiment_score": "0.031793",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "비트코인과 이더리움 가격이 떨어지는 이유는 무엇인가?"
+    },
+    {
       "title": "Nasdaq Correction: 3 Things Every Investor Should Know",
       "url": "https://www.fool.com/investing/2025/03/09/nasdaq-correction-3-things-investors-should-know/",
       "time_published": "20250309T221000",
@@ -832,6 +892,70 @@
       "translatedTitle": "C3.ai 주가가 2월에 25% 하락한 이유"
     },
     {
+      "title": "Carter's Stock Dips 6.6% Post Q4 Earnings: Time to Buy or Stay Put?",
+      "url": "https://www.zacks.com/stock/news/2427481/carters-stock-dips-66-post-q4-earnings-time-to-buy-or-stay-put",
+      "time_published": "20250307T161100",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "CRI faces near-term pressures from U.S. Retail weakness, rising costs and macro pressures, which overshadow its Wholesale business growth.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d1/672.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.994953"
+        }
+      ],
+      "overall_sentiment_score": 0.065457,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LULU",
+          "relevance_score": "0.175221",
+          "ticker_sentiment_score": "0.123135",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RL",
+          "relevance_score": "0.175221",
+          "ticker_sentiment_score": "0.102996",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRI",
+          "relevance_score": "0.30158",
+          "ticker_sentiment_score": "0.002293",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UA",
+          "relevance_score": "0.131884",
+          "ticker_sentiment_score": "0.120744",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "카터 주가, 4분기 실적 발표 후 6.6% 하락: 매수할 때인가, 아니면 현재 상태를 유지할 때인가?"
+    },
+    {
       "title": "Palantir Delivers AI-Powered Battle Stations To US Army, Stock Now Comparable To Tesla Circa 2015: Analyst - Palantir Technologies  ( NASDAQ:PLTR ) ",
       "url": "https://www.benzinga.com/government/regulations/25/03/44190445/palantir-delivers-ai-powered-battle-stations-to-us-army-stock-now-comparable-to-tesla-circ",
       "time_published": "20250307T142157",
@@ -949,7 +1073,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2673,136 +2797,6 @@
         }
       ],
       "translatedTitle": "Quanex가 1분기 실적을 보고합니다. 어떤 요인이 결과를 좌우할까요?"
-    },
-    {
-      "title": "JD.com nearly triples quarterly profit on back of revived consumer spending",
-      "url": "https://www.scmp.com/tech/big-tech/article/3301362/jdcom-nearly-triples-quarterly-profit-back-revived-consumer-spending",
-      "time_published": "20250306T133329",
-      "authors": [
-        "Coco Feng"
-      ],
-      "summary": "JD.com reported a better-than-expected profit of 9.9 billion yuan in the fourth quarter, up from 3.4 billion yuan a year ago.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/06/23c66ba3-5183-4df6-9764-5b732bd25fd5_ae554873.jpg?itok=3UV26Ot7&v=1741268005",
-      "source": "South China Morning Post",
-      "category_within_source": "Business",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.818451"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.337663,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BABA",
-          "relevance_score": "0.075874",
-          "ticker_sentiment_score": "0.083856",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MPNGY",
-          "relevance_score": "0.075874",
-          "ticker_sentiment_score": "0.083856",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "JD.com, 소비자 지출 회복으로 분기 이익 3배 가까이 증가"
-    },
-    {
-      "title": "3 BlackRock Mutual Funds to Accumulate for Long-Term Gains",
-      "url": "https://www.zacks.com/stock/news/2426476/3-blackrock-mutual-funds-to-accumulate-for-long-term-gains",
-      "time_published": "20250306T131800",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Invest in BlackRock mutual funds like BMCAX, BDMAX and MDBAX that have given impressive returns in the past and are expected to do the same in 2025 and beyond.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f8/614.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999999"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        }
-      ],
-      "overall_sentiment_score": 0.247213,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.048075",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NFLX",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.049043",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.048075",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "C",
-          "relevance_score": "0.078482",
-          "ticker_sentiment_score": "0.050644",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WFC",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.047107",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PG",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.049043",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CCZ",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.047107",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "장기적 이익을 위해 축적할 3개의 BlackRock 뮤추얼 펀드"
     }
   ]
 }
