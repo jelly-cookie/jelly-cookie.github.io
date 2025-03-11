@@ -19,12 +19,13 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && node generate-static-html.mjs",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "fetch-news": "node fetch-news-data.mjs"
+    "fetch-news": "node fetch-news-data.mjs",
+    "generate-static": "node generate-static-html.mjs"
   },
   "eslintConfig": {
     "extends": [
