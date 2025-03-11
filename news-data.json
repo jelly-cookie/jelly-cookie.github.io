@@ -4,6 +4,37 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "Why Palantir Could Be the First Victim of Trump's Trade War",
+      "url": "https://www.fool.com/investing/2025/03/11/why-palantir-could-be-the-first-victim-of-trumps-t/",
+      "time_published": "20250311T092500",
+      "authors": [
+        "Jeremy Bowman"
+      ],
+      "summary": "Palantir ( NASDAQ: PLTR ) was one of the biggest winners of 2024 on the stock market, delivering a monster gain of 341%.Along the way, it reported accelerating revenue growth and improving operating margin in each quarter, and gained admission to the S&P 500.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810351%2Fpopping-the-stock-market-bubble.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.998947"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999956"
+        }
+      ],
+      "overall_sentiment_score": 0,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "트럼프 무역전쟁의 첫 희생자가 팔란티르가 될 수 있는 이유"
+    },
+    {
       "title": "Despite projected GSDP rise, Maharashtra to strive hard for $1 trillion economy target - ETCFO",
       "url": "https://cfo.economictimes.indiatimes.com/news/economy/despite-projected-gsdp-rise-maharashtra-to-strive-hard-for-1-trillion-economy-target/118876794",
       "time_published": "20250311T061818",
@@ -598,6 +629,50 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
+    },
+    {
+      "title": "Crypto's Brutal Weeks Might Be Over. Here's What to Buy With $1,000.",
+      "url": "https://www.fool.com/investing/2025/03/11/cryptos-brutal-weeks-might-be-over-heres-what-to-b/",
+      "time_published": "20250311T090000",
+      "authors": [
+        "Alex Carchidi"
+      ],
+      "summary": "It is an understatement to say that it hasn't been a good few weeks for Bitcoin ( CRYPTO: BTC ) , XRP ( CRYPTO: XRP ) , Solana ( CRYPTO: SOL ) , and other crypto assets. Between the opening skirmishes of a trade war, major new cryptocurrency policy and enforcement announcements, increasingly ...",
+      "banner_image": "https://media.ycharts.com/charts/7697233ca4fb7d76b89f9a7ba72bfd56.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": 0.070396,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "-0.036018",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.337044",
+          "ticker_sentiment_score": "0.067291",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "크립토의 잔혹한 주간이 끝났을지도 모릅니다. 1,000달러로 살 수 있는 것은 다음과 같습니다."
     },
     {
       "title": "Bitcoin, Ethereum Prices Extend Losses as Stocks Sag-What's Next for Markets?",
@@ -2684,102 +2759,6 @@
         }
       ],
       "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
-    },
-    {
-      "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
-      "url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44189657/chinas-market-rebound-is-the-npc-meeting-a-turning-point-for-investors",
-      "time_published": "20250307T134924",
-      "authors": [
-        "Surbhi Jain"
-      ],
-      "summary": "Technical strategist sees China's stimulus push boosting ETFs like MCHI, KWEB, CHIX and KFVG amid economic shifts. Investor optimism grows as Chinese stocks rally, with MSCI China Index up 16.1% YTD-key ETFs in focus. Our government trade tracker caught Pelosi's 169% AI winner.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Etf-Investment-Concept--Etf-Stock-Option.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999975"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.283501,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "IVZ",
-          "relevance_score": "0.055236",
-          "ticker_sentiment_score": "0.359016",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "LPLA",
-          "relevance_score": "0.055236",
-          "ticker_sentiment_score": "0.054864",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CIH",
-          "relevance_score": "0.110209",
-          "ticker_sentiment_score": "0.18031",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "중국 시장 반등: 전인대 회의가 투자자들에게 전환점이 될 것인가? - iShares China Large-Cap ETF (ARCA:FXI), KraneShares Trust KraneShares CSI China Internet ETF (ARCA:KWEB)"
-    },
-    {
-      "title": "2 Incredible AI Defense Stocks Worth Buying and Holding Forever",
-      "url": "https://www.fool.com/investing/2025/03/07/2-incredible-ai-defense-stocks-worth-buying-and-ho/",
-      "time_published": "20250307T133000",
-      "authors": [
-        "George Budwell"
-      ],
-      "summary": "Artificial intelligence ( AI ) has transformed from a behind-the-scenes technology to an essential part of our daily experience. While earlier AI milestones -- like DeepMind's AlphaGo victory over the world Go champion in 2016 -- created temporary public interest, they didn't fundamentally change ...",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810188%2Fgettyimages-2162363632.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.415144,
-      "overall_sentiment_label": "Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "PLTR",
-          "relevance_score": "0.158868",
-          "ticker_sentiment_score": "0.311089",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "영원히 사고 보유할 만한 놀라운 AI 방어 주식 2종"
     }
   ]
 }
