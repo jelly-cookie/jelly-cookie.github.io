@@ -644,6 +644,256 @@
       "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
     },
     {
+      "title": "Stock Market News for Mar 11, 2025",
+      "url": "https://www.zacks.com/stock/news/2428176/stock-market-news-for-mar-11-2025",
+      "time_published": "20250311T132100",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Wall Street closed sharply lower on Monday, pulled down by tech and discretionary stocks.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.839681"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.083383,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "0.209088",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MRVL",
+          "relevance_score": "0.068698",
+          "ticker_sentiment_score": "0.209088",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "2025년 3월 11일 주식 시장 뉴스"
+    },
+    {
+      "title": "Rivian Stock Down 23% in 3 Months: Is the Dip Worth Buying Now?",
+      "url": "https://www.zacks.com/stock/news/2428174/rivian-stock-down-23-in-3-months-is-the-dip-worth-buying-now",
+      "time_published": "20250311T131900",
+      "authors": [
+        "Rimmi Singhi"
+      ],
+      "summary": "Policy uncertainty under Trump, slowing EV demand, weak delivery guidance and the company's cash burn create headwinds for RIVN.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ee/14714.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.996023"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.076019,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.037622",
+          "ticker_sentiment_score": "-0.034708",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RIVN",
+          "relevance_score": "0.18645",
+          "ticker_sentiment_score": "-0.009594",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.112532",
+          "ticker_sentiment_score": "0.043553",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "리비안 주가가 3개월 만에 23% 하락: 지금 주가 하락을 매수할 가치가 있을까?"
+    },
+    {
+      "title": "3 High-Yield Energy Giants for Stability in Volatile Markets",
+      "url": "https://www.zacks.com/stock/news/2428344/3-high-yield-energy-giants-for-stability-in-volatile-markets",
+      "time_published": "20250311T131800",
+      "authors": [
+        "Nilanjan Choudhury"
+      ],
+      "summary": "Investors looking for stable, income-generating assets for their portfolios may focus on large-cap energy stocks like WMB, CVX and KMI.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/74/780.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.233635,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CVX",
+          "relevance_score": "0.242406",
+          "ticker_sentiment_score": "0.140282",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KMI",
+          "relevance_score": "0.33433",
+          "ticker_sentiment_score": "0.132226",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNQ",
+          "relevance_score": "0.242406",
+          "ticker_sentiment_score": "0.115969",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "변동성 있는 시장에서 안정성을 위한 3대 고수익 에너지 거대 기업"
+    },
+    {
+      "title": "Buy 5 Non-Tech High-Flying Nasdaq Stocks Amid Index's Recent Bloodbath",
+      "url": "https://www.zacks.com/stock/news/2428172/buy-5-non-tech-high-flying-nasdaq-stocks-amid-indexs-recent-bloodbath",
+      "time_published": "20250311T131200",
+      "authors": [
+        "Nalak Das"
+      ],
+      "summary": "We have narrowed our search to five Nasdaq Composite-listed non-tech stocks that have provided double-digit returns year to date. These are: EXC, GILD, PAA, SRAD, CTAS.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/45/88292.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999976"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.26045,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EXC",
+          "relevance_score": "0.16849",
+          "ticker_sentiment_score": "0.13225",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PAA",
+          "relevance_score": "0.196041",
+          "ticker_sentiment_score": "0.150319",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GILD",
+          "relevance_score": "0.196041",
+          "ticker_sentiment_score": "0.272906",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CTAS",
+          "relevance_score": "0.277118",
+          "ticker_sentiment_score": "0.359652",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SRAD",
+          "relevance_score": "0.140731",
+          "ticker_sentiment_score": "0.151723",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "지수의 최근 폭락 속에서 비기술 주식 5개를 매수하세요"
+    },
+    {
       "title": "Is altseason dead? Bitcoin ETFs rewrite crypto investment playbook",
       "url": "https://cointelegraph.com/news/altseason-bitcoin-etf-crypto-investment",
       "time_published": "20250311T130000",
@@ -932,7 +1182,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트와 2024년 4분기 및 연간 재무 결과 발표"
+      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트, 2024년 4분기 및 연간 재무 결과 발표"
     },
     {
       "title": "Brookfield Closes Infrastructure Structured Solutions Fund",
@@ -2597,180 +2847,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "매크로스코프 | 중국의 일대일로, 최고의 날은 아직 오지 않았다"
-    },
-    {
-      "title": "President Trump Wants To Replace Income Tax With Tariffs, National Economic Council Director Kevin Hassett Says - SPDR S&P 500  ( ARCA:SPY ) ",
-      "url": "https://www.benzinga.com/news/econ-s/25/03/44205662/president-trump-wants-to-replace-income-tax-with-tariffs-national-economic-council-director-kevin-has",
-      "time_published": "20250307T213941",
-      "authors": [
-        "Erica Kollmann"
-      ],
-      "summary": "President Donald Trump wants to replace income tax revenue with tariff revenue, says NEC Director Kevin Hassett. Tax Foundation projects that potential tariff revenues would make up only a small fraction of total U.S. individual income tax collections.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Trump-Just-Made-English-Americas-Nationa.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.538269"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.365926"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.165479,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "IVZ",
-          "relevance_score": "0.07887",
-          "ticker_sentiment_score": "0.173957",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "트럼프 대통령, 소득세를 관세로 대체하고 싶어한다고 국가경제위원회 위원장 케빈 하셋이 밝힘 - SPDR S&P 500 ( ARCA:SPY )"
-    },
-    {
-      "title": "NI Holdings, Inc. Reports Results for Fourth Quarter and Year Ended December 31, 2024",
-      "url": "https://www.globenewswire.com/news-release/2025/03/07/3039247/0/en/NI-Holdings-Inc-Reports-Results-for-Fourth-Quarter-and-Year-Ended-December-31-2024.html",
-      "time_published": "20250307T211500",
-      "authors": [
-        "NI Holdings",
-        "Inc."
-      ],
-      "summary": "FARGO, N.D., March 07, 2025 ( GLOBE NEWSWIRE ) -- NI Holdings, Inc. ( \"NI Holdings,\" or the \"Company,\" NASDAQ: NODK ) announced today results for the year ended December 31, 2024.",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/a7940618-62ff-429f-ad8f-923b2e9dab1d",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999612"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.769861"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.219094,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NODK",
-          "relevance_score": "0.308246",
-          "ticker_sentiment_score": "0.02203",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "NI Holdings, Inc.는 2024년 12월 31일로 마감된 4분기 및 연도 실적을 보고합니다."
-    },
-    {
-      "title": "Powell Stresses Patience As Fed Navigates Market Uncertainty, Trade Turmoil",
-      "url": "https://www.benzinga.com/news/25/03/44203241/powell-stresses-patience-as-fed-navigates-market-uncertainty-trade-turmoil",
-      "time_published": "20250307T202202",
-      "authors": [
-        "Henry Khederian"
-      ],
-      "summary": "Federal Reserve Chair Jerome Powell is taking a measured approach, carefully assessing the impact of President Donald Trump's policies. Speaking Friday at an event hosted by the University of Chicago, Powell reassures that the U.S. economy remains stable.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Federal-Reserve-Chair-Jerome-Powell.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.928139"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.169256,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "파월, 연준이 시장 불확실성과 무역 혼란을 헤쳐나가는 동안 인내심을 강조"
-    },
-    {
-      "title": "Big Tech Discounts Investors Can Buy Now  ( GOOGL, AMZN, META ) ",
-      "url": "https://www.zacks.com/commentary/2427504/big-tech-discounts-investors-can-buy-now-googl-amzn-meta",
-      "time_published": "20250307T193300",
-      "authors": [
-        "Ethan Feller"
-      ],
-      "summary": "Yes market corrections are scary, but they also create opportunity. Amazon, Alphabet and Meta Platforms are now trading at historical discounts ...",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.986714"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999917"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.311141,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.103035",
-          "ticker_sentiment_score": "0.106643",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "META",
-          "relevance_score": "0.170878",
-          "ticker_sentiment_score": "0.201645",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "AMZN",
-          "relevance_score": "0.270149",
-          "ticker_sentiment_score": "0.185242",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "빅테크 할인 투자자들이 지금 살 수 있습니다 ( GOOGL, AMZN, META )"
     }
   ]
 }
