@@ -103,7 +103,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "Kohl's CEO Warns Of 'Pretty Challenging' Environment For Consumers - Kohl's  ( NYSE:KSS ) ",
@@ -702,6 +702,84 @@
       "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
     },
     {
+      "title": "Trump is diving into crypto headfirst. Has China missed the boat?",
+      "url": "https://www.scmp.com/economy/china-economy/article/3301956/trump-diving-crypto-headfirst-has-china-missed-boat",
+      "time_published": "20250311T220007",
+      "authors": [
+        "Ralph Jennings"
+      ],
+      "summary": "China has kept unregulated digital currencies at arm's length, but the US is going all-in on crypto. Will this big bet give the US dollar new life?",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2021/05/27/cryptocurrency_risky_for_china_web_plain.jpg?itok=OdIM7yaS",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999355"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.216954,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALIZF",
+          "relevance_score": "0.042762",
+          "ticker_sentiment_score": "-0.003949",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BACHY",
+          "relevance_score": "0.042762",
+          "ticker_sentiment_score": "-0.031071",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IDCBY",
+          "relevance_score": "0.021388",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.127795",
+          "ticker_sentiment_score": "-0.004814",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.272554",
+          "ticker_sentiment_score": "0.097992",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.190667",
+          "ticker_sentiment_score": "0.112605",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.021388",
+          "ticker_sentiment_score": "0.076056",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프는 암호화폐에 머리를 먼저 박고 있다. 중국은 배를 놓쳤을까?"
+    },
+    {
       "title": "Why Sirius XM Plunged Today",
       "url": "https://www.fool.com/investing/2025/03/11/why-sirius-xm-plunged-today/",
       "time_published": "20250311T195500",
@@ -1033,7 +1111,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰지수 하락세"
+      "translatedTitle": "중소기업 신뢰도 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2370,7 +2448,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
+      "translatedTitle": "Zacks Investment Ideas의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
     },
     {
       "title": "Trump Says Economy Faces A 'Period Of Transition': Is A Recession Ahead? - SPDR S&P 500  ( ARCA:SPY ) ",
@@ -2841,48 +2919,6 @@
         }
       ],
       "translatedTitle": "트럼프가 경기 침체 암시 후 미국 주식이 하락할 가능성이 높다: 전문가는 지수가 수정 영역으로 접근함에 따라 하락장 가능성을 배제할 수 없다고 말한다 - Mission Produce(NASDAQ:AVO), American Public Education(NASDAQ:APEI)"
-    },
-    {
-      "title": "Crédit Agricole Assurances : Availability of an investor presentation",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3039458/0/en/Cr%C3%A9dit-Agricole-Assurances-Availability-of-an-investor-presentation.html",
-      "time_published": "20250310T073800",
-      "authors": [
-        "Crédit Agricole Assurances"
-      ],
-      "summary": "Crédit Agricole Assurances announced today the release of its investor presentation for the financial year 2024.",
-      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/fd834803-362d-4876-9f7d-adbf580c4687",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "IPO",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.947132"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.360215"
-        }
-      ],
-      "overall_sentiment_score": 0.136974,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CRARF",
-          "relevance_score": "0.695767",
-          "ticker_sentiment_score": "0.22762",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Crédit Agricole Assurances: 투자자 프레젠테이션의 가용성"
     }
   ]
 }
