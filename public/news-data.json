@@ -106,6 +106,64 @@
       "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
+      "title": "Kohl's CEO Warns Of 'Pretty Challenging' Environment For Consumers - Kohl's  ( NYSE:KSS ) ",
+      "url": "https://www.benzinga.com/25/03/44262764/kohls-ceo-warns-of-pretty-challenging-environment-for-consumers-expects-value-seeking-to-grow-over-next-3-months",
+      "time_published": "20250311T201738",
+      "authors": [
+        "Erica Kollmann"
+      ],
+      "summary": "Kohl's expects sales to decline by 5% to 7% in fiscal 2025, due in part to \"constrained\" shoppers. Kohl's CEO also notes consumers are seeking more value in their purchases. Find out which stock just claimed the top spot in the new Benzinga Rankings. Updated daily- discover the market's ...",
+      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/03/11155638/kss-edge-rankings-1024x247.jpg",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": 0.166693,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BBY",
+          "relevance_score": "0.243701",
+          "ticker_sentiment_score": "0.028609",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.163909",
+          "ticker_sentiment_score": "0.121968",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KSS",
+          "relevance_score": "0.648164",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
+    },
+    {
       "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
       "url": "https://www.benzinga.com/markets/eurozone/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine",
       "time_published": "20250310T202639",
@@ -644,6 +702,48 @@
       "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
     },
     {
+      "title": "Why Sirius XM Plunged Today",
+      "url": "https://www.fool.com/investing/2025/03/11/why-sirius-xm-plunged-today/",
+      "time_published": "20250311T195500",
+      "authors": [
+        "Billy Duberstein"
+      ],
+      "summary": "Shares of Warren Buffett holding Sirius XM ( NASDAQ: SIRI ) were falling hard today in spite of the rest of the market attempting a comeback after Monday's huge marketwide plunge. Sirius' stock was down as much as 10% on the day at one point before recovering to a 6% decline as of 3:20 p.m.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/810817/gettyimages-879949268-2.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.083231,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SIRI",
+          "relevance_score": "0.235823",
+          "ticker_sentiment_score": "-0.155603",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
+    },
+    {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
       "url": "https://www.fool.com/investing/2025/03/11/heres-why-ups-stock-isnt-delivering-today/",
       "time_published": "20250311T174144",
@@ -679,7 +779,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -933,7 +1033,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰도 하락세"
+      "translatedTitle": "중소기업 신뢰지수 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2270,7 +2370,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Zacks Investment Ideas의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
+      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
     },
     {
       "title": "Trump Says Economy Faces A 'Period Of Transition': Is A Recession Ahead? - SPDR S&P 500  ( ARCA:SPY ) ",
@@ -2783,98 +2883,6 @@
         }
       ],
       "translatedTitle": "Crédit Agricole Assurances: 투자자 프레젠테이션의 가용성"
-    },
-    {
-      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3039438/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-      "time_published": "20250310T070000",
-      "authors": [
-        "NB Private Equity Partners Limited"
-      ],
-      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.803643"
-        }
-      ],
-      "overall_sentiment_score": 0.236207,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NBPVF",
-          "relevance_score": "0.136499",
-          "ticker_sentiment_score": "0.192875",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
-    },
-    {
-      "title": "Palantir CEO Alex Karp Meets Hyundai Vice Chair to Enhance AI Shipyard, Defense Collaboration Amid Trump's Call for US Shipbuilding Revival - Palantir Technologies  ( NASDAQ:PLTR ) ",
-      "url": "https://www.benzinga.com/markets/25/03/44212993/palantir-ceo-alex-karp-meets-hyundai-vice-chair-to-enhance-ai-shipyard-defense-collaboration-amid-trumps-",
-      "time_published": "20250310T060838",
-      "authors": [
-        "Ananya Gairola"
-      ],
-      "summary": "Earlier this month, top executives from South Korea's shipbuilding conglomerate Hyundai Heavy Industries Group and Palantir Technologies PLTR met to push forward AI-driven shipyard innovation and future defense capabilities.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/Palantirs-Alex-Karp-Confers-With-Keir-St.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.684621"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.269158,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BAESF",
-          "relevance_score": "0.092569",
-          "ticker_sentiment_score": "0.073987",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "HII",
-          "relevance_score": "0.092569",
-          "ticker_sentiment_score": "0.073987",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PLTR",
-          "relevance_score": "0.183895",
-          "ticker_sentiment_score": "0.276571",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Palantir CEO Alex Karp, 트럼프의 미국 조선업 부흥 촉구에 따라 AI 조선소, 국방 협력 강화를 위해 현대 부회장 만나 - Palantir Technologies ( NASDAQ:PLTR )"
     }
   ]
 }
