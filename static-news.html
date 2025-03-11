@@ -1,0 +1,1342 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="실시간 금융 뉴스 피드 - 경제, 주식, 시장 동향을 한눈에 확인하세요. 젤리 파이낸셜에서 제공하는 최신 금융 뉴스와 분석" />
+  <meta name="keywords" content="금융뉴스,경제뉴스,주식뉴스,시장동향,금융정보,젤리파이낸셜" />
+  <meta name="author" content="Jelly Financial" />
+  <meta property="og:title" content="젤리 파이낸셜 - 실시간 금융 뉴스" />
+  <meta property="og:description" content="실시간 금융 뉴스 피드 - 경제, 주식, 시장 동향을 한눈에 확인하세요" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://jelly-cookie.github.io/" />
+  <meta name="google-site-verification" content="z3nxuhTqr3WW8Z_5QPyNNXBG5hSp-o--YlZu7EI89qY" />
+  <title>젤리 파이낸셜 - 실시간 금융 뉴스</title>
+  <link rel="canonical" href="https://jelly-cookie.github.io/" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to bottom, #121212, #1a1a1a);
+      color: #ffffff;
+      min-height: 100vh;
+    }
+    header {
+      background-color: #1E1E1E;
+      padding: 1rem;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+      text-align: center;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+    .news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .news-item {
+      background-color: rgba(255, 255, 255, 0.03);
+      border-radius: 8px;
+      padding: 1rem;
+      transition: transform 0.2s;
+      cursor: pointer;
+    }
+    .news-item:hover {
+      background-color: rgba(255, 255, 255, 0.05);
+      transform: translateY(-2px);
+    }
+    .news-header {
+      display: flex;
+      margin-bottom: 1rem;
+    }
+    .news-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      margin-right: 1rem;
+      background-color: rgba(144, 202, 249, 0.08);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .news-icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 12px;
+    }
+    .news-content {
+      flex-grow: 1;
+    }
+    .news-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      line-height: 1.4;
+    }
+    .news-meta {
+      display: flex;
+      gap: 0.5rem;
+      color: #9e9e9e;
+      font-size: 0.875rem;
+      margin-bottom: 0.5rem;
+    }
+    .news-sentiment {
+      display: inline-block;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+    .news-topics {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .topic {
+      background-color: rgba(144, 202, 249, 0.08);
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+    }
+    .js-notice {
+      background-color: rgba(255, 255, 255, 0.05);
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    @media (max-width: 600px) {
+      .news-title {
+        font-size: 1rem;
+      }
+      .container {
+        padding: 0.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>젤리 파이낸셜 - 실시간 금융 뉴스</h1>
+  </header>
+  <div class="container">
+    <div class="js-notice">
+      <p>자바스크립트가 비활성화되어 있습니다. 더 나은 경험을 위해 자바스크립트를 활성화해주세요.</p>
+    </div>
+    <div class="news-list">
+
+      <a href="https://www.fool.com/investing/2025/03/11/why-palantir-could-be-the-first-victim-of-trumps-t/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810351%2Fpopping-the-stock-market-bubble.jpg&op=resize&w=700" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프 무역전쟁의 첫 희생자가 팔란티르가 될 수 있는 이유</div>
+            <div class="news-meta">
+              <span>09:25 Mar 11</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Earnings</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://cfo.economictimes.indiatimes.com/news/economy/despite-projected-gsdp-rise-maharashtra-to-strive-hard-for-1-trillion-economy-target/118876794" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://iansportalimages.s3.amazonaws.com/thumbnails/202503113348484.jpg" alt="Economic Times" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO</div>
+            <div class="news-meta">
+              <span>06:18 Mar 11</span>
+              <span>•</span>
+              <span>Economic Times</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Earnings</span><span class="topic">Economy - Fiscal</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/markets/eurozone/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcz_vG_KlxR1YFjEzC7CM5uirLdtpbjuTsj1DEa5dom-LiAvPzKDxxGg-QOEWA3cq3hC67yj-R92podeAkV2ykefZNcLkN1UI3IBZVO_wht8e15qkjdiyZYiIcR856Uojng01QU4g?key=bRH-zOh8yeo-luC60d2Cc_7K" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프가 우크라이나에 대한 무기 선적을 중단한 후 주목해야 할 6개 방위 주식 - Leonardo(OTC:FINMY), BAE Systems(OTC:BAESY)</div>
+            <div class="news-meta">
+              <span>20:26 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Earnings</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/trading-ideas/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcz_vG_KlxR1YFjEzC7CM5uirLdtpbjuTsj1DEa5dom-LiAvPzKDxxGg-QOEWA3cq3hC67yj-R92podeAkV2ykefZNcLkN1UI3IBZVO_wht8e15qkjdiyZYiIcR856Uojng01QU4g?key=bRH-zOh8yeo-luC60d2Cc_7K" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프가 우크라이나에 대한 무기 선적을 중단한 후 주목해야 할 6개 방위 주식 - Leonardo(OTC:FINMY), BAE Systems(OTC:BAESY)</div>
+            <div class="news-meta">
+              <span>20:26 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Earnings</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/10/the-reality-of-trumps-tariffs/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://g.foolcdn.com/editorial/images/810167/tariffs-become-reality.jpg" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프 관세의 현실</div>
+            <div class="news-meta">
+              <span>19:46 Mar 10</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Life Sciences</span><span class="topic">Economy - Fiscal</span><span class="topic">Retail & Wholesale</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3040089/0/en/Final-Results.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            📰
+          </div>
+          <div class="news-content">
+            <div class="news-title">최종 결과</div>
+            <div class="news-meta">
+              <span>18:25 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Life Sciences</span><span class="topic">Technology</span><span class="topic">Economy - Monetary</span><span class="topic">IPO</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Mergers & Acquisitions</span><span class="topic">Real Estate & Construction</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/pressreleases/25/03/n44217550/equip-exposition-announces-savannah-bananas-creator-jesse-cole-as-keynote-speaker" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://mma.prnewswire.com/media/2637175/Jesse_Cole_Headshot.jpg" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Equip Exposition에서 Savannah Bananas 제작자 Jesse Cole을 주요 연사로 발표</div>
+            <div class="news-meta">
+              <span>12:33 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #4caf5015; color: #4caf50; border: 1px solid #4caf50">
+            Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427647/take-the-zacks-approach-to-beat-the-markets-niocorp-anglogold-amgen-in-focus" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/bc/1349.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목</div>
+            <div class="news-meta">
+              <span>10:35 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Life Sciences</span><span class="topic">Energy & Transportation</span><span class="topic">Technology</span><span class="topic">Finance</span><span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427283/3-large-cap-value-funds-to-buy-amid-sinking-consumer-confidence" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/d9/554.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개</div>
+            <div class="news-meta">
+              <span>14:49 Mar 07</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/11/cryptos-brutal-weeks-might-be-over-heres-what-to-b/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://media.ycharts.com/charts/7697233ca4fb7d76b89f9a7ba72bfd56.png" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">크립토의 잔혹한 주간이 끝났을지도 모릅니다. 1,000달러로 살 수 있는 것은 다음과 같습니다.</div>
+            <div class="news-meta">
+              <span>09:00 Mar 11</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Blockchain</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://decrypt.co/309479/bitcoin-ethereum-prices-extend-losses-as-stocks-sag-whats-next-for-markets" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/08/bitcoin-ethereum-btc-eth-red-light-gID_7.png" alt="Decrypt.co" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">비트코인과 이더리움 가격 하락, 주가 폭락으로 이어지다-앞으로 시장은 어떻게 될까?</div>
+            <div class="news-meta">
+              <span>01:26 Mar 11</span>
+              <span>•</span>
+              <span>Decrypt.co</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #e5737315; color: #e57373; border: 1px solid #e57373">
+            Somewhat-Bearish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Blockchain</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/general/travel/25/03/44237055/delta-air-lines-cuts-q1-guidance-below-estimates-airline-stocks-fall" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/10/Delta-Airlines.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">델타 항공, 1분기 지침을 추정치 이하로 삭감: 항공사 주가 하락 - 델타 항공(NYSE:DAL)</div>
+            <div class="news-meta">
+              <span>21:26 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Energy & Transportation</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3040206/0/en/Intuitive-Machines-Announces-Completion-of-Redemption-of-its-Outstanding-Warrants.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://ml.globenewswire.com/Resource/Download/f6f33a5b-6aa9-4646-9299-a0d67dbdae25" alt="GlobeNewswire" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Intuitive Machines, 미결제 와런트 상환 완료 발표</div>
+            <div class="news-meta">
+              <span>21:01 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3040182/0/en/SEALSQ-will-showcase-its-latest-Quantum-Resistant-Chip-and-PKI-services-next-week-at-Embedded-World-Electronic-Fair-in-Germany.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://ml.globenewswire.com/Resource/Download/29a5f3ff-07b7-49e7-a424-370ddbb35d06/image2.jpeg" alt="GlobeNewswire" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">SEALSQ는 다음 주 독일에서 열리는 임베디드 세계 전자 박람회에서 최신 양자 저항 칩 및 PKI 서비스를 선보일 예정입니다.</div>
+            <div class="news-meta">
+              <span>20:30 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3040171/0/en/Quanex-Building-Products-Announces-First-Quarter-2025-Results-and-Reaffirms-Full-Year-2025-Guidance.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://ml.globenewswire.com/Resource/Download/fb454b9e-8c81-4d9a-bf1e-befe0cfa9c41" alt="GlobeNewswire" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인</div>
+            <div class="news-meta">
+              <span>20:15 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Earnings</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3040170/0/en/Amalgamated-Financial-Corp-Announces-New-40-Million-Share-Repurchase-Program.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://ml.globenewswire.com/Resource/Download/e3ab3d07-5f7b-4f1b-bd9c-ec07483eb0b1" alt="GlobeNewswire" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Amalgamated Financial Corp., 4000만 달러 규모의 신규 주식 재매수 프로그램 발표</div>
+            <div class="news-meta">
+              <span>20:15 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Finance</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/commentary/2427779/3-air-conditioner-heating-stocks-in-focus-overcoming-industry-hurdles" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/e3/12321.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">3개의 에어컨 및 난방 주식에 주목, 업계의 장애물 극복</div>
+            <div class="news-meta">
+              <span>16:45 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span><span class="topic">Real Estate & Construction</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427905/zacks-industry-outlook-highlights-american-axle-manufacturing-allison-transmission-and-adient" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/ed/2060.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Zacks Industry Outlook은 American Axle & Manufacturing, Allison Transmission 및 Adient를 강조합니다.</div>
+            <div class="news-meta">
+              <span>15:24 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427901/zacks-investment-ideas-feature-highlights-alphabet-amazon-and-meta-platforms" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/20/444.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Zacks Investment Ideas의 주요 특징: Alphabet, Amazon 및 Meta Platforms</div>
+            <div class="news-meta">
+              <span>15:14 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Retail & Wholesale</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/25/03/44222440/financial-crime-weekly" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/10/U-s--President-Donald-Trump-Appears-At-A.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프, 경제가 '전환기'에 직면했다고 말하다: 경기 침체가 다가올까? - SPDR S&P 500 ( ARCA:SPY )</div>
+            <div class="news-meta">
+              <span>14:43 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Technology</span><span class="topic">Finance</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/markets/equities/25/03/44220844/s-p-500-will-reach-7-000-by-year-end" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/10/Gemini-Generated-Image-5e17aq5e17aq5e17_0.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">S&P 500, 연말까지 7,000에 도달할 것</div>
+            <div class="news-meta">
+              <span>14:14 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/commentary/2427682/3-shipping-stocks-worth-betting-on-despite-industry-headwinds" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/7e/846.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">업계 역풍에도 불구하고 베팅할 가치가 있는 3가지 해운 주식</div>
+            <div class="news-meta">
+              <span>14:06 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Energy & Transportation</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427717/stock-market-news-for-mar-10-2025" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/ad/429.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">2025년 3월 10일 주식 시장 뉴스</div>
+            <div class="news-meta">
+              <span>13:38 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Energy & Transportation</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427798/3-oil-stocks-to-invest-in-now-as-crude-tumbles-to-2025-lows" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/4c/416.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">원유가 2025년 최저치로 폭락하면서 지금 투자할 3가지 석유 주식</div>
+            <div class="news-meta">
+              <span>13:29 Mar 10</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Energy & Transportation</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.cnbc.com/2025/03/10/kugler-says-fed-should-hold-interest-rates-amid-inflation-risks.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            📰
+          </div>
+          <div class="news-content">
+            <div class="news-title">쿠글러, 인플레이션 위험 속 연준이 금리를 유지해야 한다고 주장</div>
+            <div class="news-meta">
+              <span>12:56 Mar 10</span>
+              <span>•</span>
+              <span>CNBC</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://decrypt.co/309294/spains-second-largest-bank-bbva-to-offer-customers-bitcoin-ethereum-trading" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/03/bbva-gID_7.jpg" alt="Decrypt.co" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">스페인 2위 은행 BBVA, 고객에게 비트코인, 이더리움 거래 제공</div>
+            <div class="news-meta">
+              <span>12:13 Mar 10</span>
+              <span>•</span>
+              <span>Decrypt.co</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Finance</span><span class="topic">Blockchain</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/general/market-summary/25/03/44216011/us-stocks-likely-to-open-lower-after-trump-hints-at-looming-recession-expert-says-cant-rul" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/10/What-The-Future-Might-Hold.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프가 경기 침체 암시 후 미국 주식이 하락할 가능성이 높다: 전문가는 지수가 수정 영역으로 접근함에 따라 하락장 가능성을 배제할 수 없다고 말한다 - Mission Produce(NASDAQ:AVO), American Public Education(NASDAQ:APEI)</div>
+            <div class="news-meta">
+              <span>11:29 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Life Sciences</span><span class="topic">Technology</span><span class="topic">Finance</span><span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Retail & Wholesale</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Economy - Macro</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3039458/0/en/Cr%C3%A9dit-Agricole-Assurances-Availability-of-an-investor-presentation.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://ml-eu.globenewswire.com/Resource/Download/fd834803-362d-4876-9f7d-adbf580c4687" alt="GlobeNewswire" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Crédit Agricole Assurances: 투자자 프레젠테이션의 가용성</div>
+            <div class="news-meta">
+              <span>07:38 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">IPO</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/10/3039438/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            📰
+          </div>
+          <div class="news-content">
+            <div class="news-title">NB Private Equity Partners, 자사 주식 거래 발표</div>
+            <div class="news-meta">
+              <span>07:00 Mar 10</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/markets/25/03/44212993/palantir-ceo-alex-karp-meets-hyundai-vice-chair-to-enhance-ai-shipyard-defense-collaboration-amid-trumps-" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/10/Palantirs-Alex-Karp-Confers-With-Keir-St.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Palantir CEO Alex Karp, 트럼프의 미국 조선업 부흥 촉구에 따라 AI 조선소, 국방 협력 강화를 위해 현대 부회장 만나 - Palantir Technologies ( NASDAQ:PLTR )</div>
+            <div class="news-meta">
+              <span>06:08 Mar 10</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.cnbc.com/2025/03/10/chinese-government-bond-yields-jumped-amid-renewed-hopes-for-economy-rate-cut-delays.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            📰
+          </div>
+          <div class="news-content">
+            <div class="news-title">중국 국채 수익률, 투자자들이 금리 인하 기대치를 낮추면서 3개월 만에 최고치로 급등</div>
+            <div class="news-meta">
+              <span>05:35 Mar 10</span>
+              <span>•</span>
+              <span>CNBC</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Technology</span><span class="topic">Economy - Macro</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://cfo.economictimes.indiatimes.com/news/policy/trump-refuses-to-rule-out-recession-says-economy-in-transition-amid-market-turmoil/118829551" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://st.etb2bimg.com/Themes/Release/theme4/images/bar-codes/cfo_barcode.png?mod=2846" alt="Economic Times" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프, 경기 침체 배제 거부, 시장 혼란 속 경제 '전환기'라고 주장 - ETCFO</div>
+            <div class="news-meta">
+              <span>03:37 Mar 10</span>
+              <span>•</span>
+              <span>Economic Times</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #e5737315; color: #e57373; border: 1px solid #e57373">
+            Somewhat-Bearish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Technology</span><span class="topic">Finance</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://decrypt.co/309273/why-are-bitcoin-ethereum-prices-falling" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/02/bitcoin-btc-ethereum-eth-price-chart-gID_7.jpg" alt="Decrypt.co" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">비트코인과 이더리움 가격이 떨어지는 이유는 무엇인가?</div>
+            <div class="news-meta">
+              <span>23:04 Mar 09</span>
+              <span>•</span>
+              <span>Decrypt.co</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Technology</span><span class="topic">Blockchain</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/09/nasdaq-correction-3-things-investors-should-know/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810504%2Fgettyimages-1072035598.jpg&op=resize&w=700" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">나스닥 수정: 모든 투자자가 알아야 할 3가지</div>
+            <div class="news-meta">
+              <span>22:10 Mar 09</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Retail & Wholesale</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.scmp.com/news/us/economy-trade-business/article/3301705/trump-declines-rule-out-2025-us-recession-commerce-secretary-says-absolutely-not" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/10/f2026fce-5b1d-4916-bf57-51ad322d9463_82db6b3a.jpg?itok=XePpWgdc&v=1741539106" alt="South China Morning Post" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프, 2025년 미국 경기 침체 가능성 배제 안해</div>
+            <div class="news-meta">
+              <span>16:57 Mar 09</span>
+              <span>•</span>
+              <span>South China Morning Post</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #e5737315; color: #e57373; border: 1px solid #e57373">
+            Somewhat-Bearish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Technology</span><span class="topic">Finance</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/09/should-you-buy-the-dip-in-dogecoin-right-now/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://media.ycharts.com/charts/0ca6d0c3ed10eacfc2e2e2ac010b6c20.png" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">지금 당장 도지코인 가격이 하락하면 사야 할까요?</div>
+            <div class="news-meta">
+              <span>13:27 Mar 09</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Blockchain</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/09/target-stock-too-cheap-to-ignore/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810278%2Ftarget-store.jpg&op=resize&w=700" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">타겟 주식: 무시하기엔 너무 싸다?</div>
+            <div class="news-meta">
+              <span>09:10 Mar 09</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Retail & Wholesale</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/08/xrp-just-became-an-even-better-buy-heres-why/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://g.foolcdn.com/editorial/images/809931/investors-examine-laptop.jpg" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">XRP가 더욱 좋은 매수 대상이 되었습니다. 그 이유는 다음과 같습니다.</div>
+            <div class="news-meta">
+              <span>15:27 Mar 08</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Blockchain</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://cointelegraph.com/news/nigeria-crypto-tax-revenue" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://s3.cointelegraph.com/uploads/2025-03/01957087-b952-7c7a-9048-d3c1ef56b93f" alt="Cointelegraph" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">나이지리아의 새로운 암호화폐 세금 정책은 필요한 수입을 창출하지 못할 수도 있습니다.</div>
+            <div class="news-meta">
+              <span>14:00 Mar 08</span>
+              <span>•</span>
+              <span>Cointelegraph</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Finance</span><span class="topic">Blockchain</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.scmp.com/opinion/china-opinion/article/3301284/chinas-belt-and-road-best-days-are-still-come" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/07/b59882b7-2103-40f8-a206-30e8beeb3370_4da505b5.jpg?itok=uwAWRD9o&v=1741315446" alt="South China Morning Post" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">매크로스코프 | 중국의 일대일로, 최고의 날은 아직 오지 않았다</div>
+            <div class="news-meta">
+              <span>08:30 Mar 08</span>
+              <span>•</span>
+              <span>South China Morning Post</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/news/econ-s/25/03/44205662/president-trump-wants-to-replace-income-tax-with-tariffs-national-economic-council-director-kevin-has" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/07/Trump-Just-Made-English-Americas-Nationa.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">트럼프 대통령, 소득세를 관세로 대체하고 싶어한다고 국가경제위원회 위원장 케빈 하셋이 밝힘 - SPDR S&P 500 ( ARCA:SPY )</div>
+            <div class="news-meta">
+              <span>21:39 Mar 07</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Finance</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.globenewswire.com/news-release/2025/03/07/3039247/0/en/NI-Holdings-Inc-Reports-Results-for-Fourth-Quarter-and-Year-Ended-December-31-2024.html" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://ml.globenewswire.com/Resource/Download/a7940618-62ff-429f-ad8f-923b2e9dab1d" alt="GlobeNewswire" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">NI Holdings, Inc.는 2024년 12월 31일로 마감된 4분기 및 연도 실적을 보고합니다.</div>
+            <div class="news-meta">
+              <span>21:15 Mar 07</span>
+              <span>•</span>
+              <span>GlobeNewswire</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Finance</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/news/25/03/44203241/powell-stresses-patience-as-fed-navigates-market-uncertainty-trade-turmoil" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/07/Federal-Reserve-Chair-Jerome-Powell.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">파월, 연준이 시장 불확실성과 무역 혼란을 헤쳐나가는 동안 인내심을 강조</div>
+            <div class="news-meta">
+              <span>20:22 Mar 07</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/commentary/2427504/big-tech-discounts-investors-can-buy-now-googl-amzn-meta" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">빅테크 할인 투자자들이 지금 살 수 있습니다 ( GOOGL, AMZN, META )</div>
+            <div class="news-meta">
+              <span>19:33 Mar 07</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Retail & Wholesale</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/markets/25/03/44188017/broaden-your-etf-exposure-with-these-3-overlooked-funds" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://www.marketbeat.com/logos/articles/med_20250304100712_broaden-your-etf-exposure-with-these-3-overlooked.jpg" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">이 3가지 간과된 펀드로 ETF 노출을 확대하세요 - iShares MSCI EAFE Value ETF(BATS:EFV), Johnson & Johnson(NYSE:JNJ)</div>
+            <div class="news-meta">
+              <span>17:44 Mar 07</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Life Sciences</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427481/carters-stock-dips-66-post-q4-earnings-time-to-buy-or-stay-put" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/d1/672.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">카터 주가, 4분기 실적 발표 후 6.6% 하락: 매수할 때인가, 아니면 현재 상태를 유지할 때인가?</div>
+            <div class="news-meta">
+              <span>17:11 Mar 07</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.fool.com/investing/2025/03/07/why-c3ai-stock-lost-25-in-february/" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://media.ycharts.com/charts/1abf1c999f78b7a9fae773a5e3e46cf7.png" alt="Motley Fool" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">C3.ai 주가가 2월에 25% 하락한 이유</div>
+            <div class="news-meta">
+              <span>16:45 Mar 07</span>
+              <span>•</span>
+              <span>Motley Fool</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Earnings</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/stock/news/2427481/carters-stock-dips-66-post-q4-earnings-time-to-buy-or-stay-put" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/d1/672.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">카터 주가, 4분기 실적 발표 후 6.6% 하락: 매수할 때인가, 아니면 현재 상태를 유지할 때인가?</div>
+            <div class="news-meta">
+              <span>16:11 Mar 07</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #9e9e9e15; color: #9e9e9e; border: 1px solid #9e9e9e">
+            Neutral
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Monetary</span><span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.benzinga.com/government/regulations/25/03/44190445/palantir-delivers-ai-powered-battle-stations-to-us-army-stock-now-comparable-to-tesla-circ" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://cdn.benzinga.com/files/images/story/2025/03/07/Palantir-Technologies-Inc--PLTR.jpeg?width=1200&height=800&fit=crop" alt="Benzinga" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">Palantir, 미 육군에 AI 기반 전투 스테이션 제공, 현재 주가는 테슬라와 비슷한 수준, 2015년경: 분석가 - Palantir Technologies ( NASDAQ:PLTR )</div>
+            <div class="news-meta">
+              <span>14:21 Mar 07</span>
+              <span>•</span>
+              <span>Benzinga</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Technology</span>
+          </div>
+        </div>
+      </a>
+      
+      <a href="https://www.zacks.com/commentary/2427118/3-original-auto-equipment-stocks-to-consider-amid-high-tariffs" target="_blank" rel="noopener noreferrer" class="news-item">
+        <div class="news-header">
+          <div class="news-icon">
+            <img src="https://staticx-tuner.zacks.com/images/articles/main/02/28697.jpg" alt="Zacks Commentary" onerror="this.style.display='none'">
+          </div>
+          <div class="news-content">
+            <div class="news-title">높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식</div>
+            <div class="news-meta">
+              <span>13:57 Mar 07</span>
+              <span>•</span>
+              <span>Zacks Commentary</span>
+            </div>
+          </div>
+        </div>
+        <div>
+          <span class="news-sentiment" style="background-color: #81c78415; color: #81c784; border: 1px solid #81c784">
+            Somewhat-Bullish
+          </span>
+          <div class="news-topics">
+            <span class="topic">Economy - Fiscal</span><span class="topic">Financial Markets</span><span class="topic">Manufacturing</span><span class="topic">Earnings</span>
+          </div>
+        </div>
+      </a>
+      
+    </div>
+  </div>
+</body>
+</html>
+    
