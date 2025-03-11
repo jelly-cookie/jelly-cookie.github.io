@@ -103,7 +103,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
@@ -644,6 +644,98 @@
       "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
     },
     {
+      "title": "Here's Why UPS Stock Isn't Delivering Today",
+      "url": "https://www.fool.com/investing/2025/03/11/heres-why-ups-stock-isnt-delivering-today/",
+      "time_published": "20250311T174144",
+      "authors": [
+        "Lee Samaha"
+      ],
+      "summary": "Shares of package delivery giant UPS ( NYSE: UPS ) were down by 3.5% as of 1 p.m. today. The sell-off coincides with an overall market decline, but some negative news from Delta Air Lines has also probably affected UPS.The transportation company is what's known as a cyclical company.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810788%2Fgettyimages-1177117400-1201x801-d21b45d.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": -0.11345,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.299478",
+          "ticker_sentiment_score": "-0.345992",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
+    },
+    {
+      "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
+      "url": "https://www.benzinga.com/news/25/03/44257583/whats-going-on-with-airbnb-abnb-shares",
+      "time_published": "20250311T173927",
+      "authors": [
+        "Henry Khederian"
+      ],
+      "summary": "Airbnb shares are trading lower by 6.2% during Tuesday's session. Travel stocks fell as Delta and American Airlines cut revenue and profit forecasts. Find out which stock just claimed the top spot in the new Benzinga Rankings. Updated daily- discover the market's highest-rated stocks now.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/11/boudewijn-huysmans-VvMyfPkaeLQ-unsplash.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.992549"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.073881,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.351807",
+          "ticker_sentiment_score": "-0.223226",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.18046",
+          "ticker_sentiment_score": "-0.143888",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ABNB",
+          "relevance_score": "0.431554",
+          "ticker_sentiment_score": "-0.196082",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "Airbnb(ABNB) 주식에 무슨 일이 일어나고 있나요? - Airbnb(NASDAQ:ABNB)"
+    },
+    {
       "title": "The Nasdaq Just Hit Correction Territory: Can Buying This Safe Stock Today Set You Up for Life?",
       "url": "https://www.fool.com/investing/2025/03/11/the-nasdaq-just-hit-correction-territory-can-buyin/",
       "time_published": "20250311T170400",
@@ -696,6 +788,106 @@
         }
       ],
       "translatedTitle": "나스닥이 조정 국면에 돌입했습니다. 오늘 이 안전한 주식을 사면 평생을 보장받을 수 있을까요?"
+    },
+    {
+      "title": "Best-Performing ETFs of Last Week",
+      "url": "https://www.zacks.com/stock/news/2428554/best-performing-etfs-of-last-week",
+      "time_published": "20250311T170000",
+      "authors": [
+        "Sanghamitra Saha"
+      ],
+      "summary": "These ETFs generated decent returns in the S&P 500's worst week since September.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default199.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.995921"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.044348,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.18967",
+          "ticker_sentiment_score": "0.171373",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "지난주 최고 실적을 기록한 ETF"
+    },
+    {
+      "title": "Coca-Cola Stock Trades Above 50 & 200-Day SMAs: Entry Point or Wait?",
+      "url": "https://www.zacks.com/stock/news/2428555/coca-cola-stock-trades-above-50-200-day-smas-entry-point-or-wait",
+      "time_published": "20250311T160600",
+      "authors": [
+        "Rajani Lohia"
+      ],
+      "summary": "KO's strong market position and strategies fuel long-term growth, but inflation, macro risks and valuation concerns pose challenges amid economic uncertainty.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a5/1022.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.692272"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999986"
+        }
+      ],
+      "overall_sentiment_score": 0.348608,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KO",
+          "relevance_score": "0.478494",
+          "ticker_sentiment_score": "0.460794",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MNST",
+          "relevance_score": "0.068112",
+          "ticker_sentiment_score": "0.215427",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.068112",
+          "ticker_sentiment_score": "0.215427",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "코카콜라 주식이 50일 및 200일 단순이동평균선 위에서 거래되고 있다: 진입 시점인가 아니면 기다릴 것인가?"
     },
     {
       "title": "Small Business Confidence Ticks in Lower",
@@ -2683,239 +2875,6 @@
         }
       ],
       "translatedTitle": "Palantir CEO Alex Karp, 트럼프의 미국 조선업 부흥 촉구에 따라 AI 조선소, 국방 협력 강화를 위해 현대 부회장 만나 - Palantir Technologies ( NASDAQ:PLTR )"
-    },
-    {
-      "title": "China bond yields jump to three-month highs as investors pare rate cut expectations",
-      "url": "https://www.cnbc.com/2025/03/10/chinese-government-bond-yields-jumped-amid-renewed-hopes-for-economy-rate-cut-delays.html",
-      "time_published": "20250310T053504",
-      "authors": [],
-      "summary": "Chinese government bond yields moved further away from January's historic lows amid optimism in the faltering economy and a stock market rally.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Top News",
-      "source_domain": "www.cnbc.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.838487"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.18582,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BACHY",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "0.003005",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CIH",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "0.040003",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:CNY",
-          "relevance_score": "0.103554",
-          "ticker_sentiment_score": "0.077775",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "-0.132507",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "중국 국채 수익률, 투자자들이 금리 인하 기대치를 낮추면서 3개월 만에 최고치로 급등"
-    },
-    {
-      "title": "Trump refuses to rule out recession, says economy in 'transition' amid market turmoil - ETCFO",
-      "url": "https://cfo.economictimes.indiatimes.com/news/policy/trump-refuses-to-rule-out-recession-says-economy-in-transition-amid-market-turmoil/118829551",
-      "time_published": "20250310T033722",
-      "authors": [
-        "ETCFO",
-        "TOI World Desk"
-      ],
-      "summary": "US President Donald Trump remains noncommittal about a potential recession in 2025. Despite reassurances from Trump and Commerce Secretary Howard Lutnick, economic indicators such as a negative GDP forecast and declining consumer confidence fuel concerns.",
-      "banner_image": "https://st.etb2bimg.com/Themes/Release/theme4/images/bar-codes/cfo_barcode.png?mod=2846",
-      "source": "Economic Times",
-      "category_within_source": "Top Stories",
-      "source_domain": "cfo.economictimes.indiatimes.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": -0.249954,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "GS",
-          "relevance_score": "0.109956",
-          "ticker_sentiment_score": "-0.119483",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.109956",
-          "ticker_sentiment_score": "-0.119483",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.109956",
-          "ticker_sentiment_score": "-0.119483",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프, 경기 침체 배제 거부, 시장 혼란 속 경제 '전환기'라고 주장 - ETCFO"
-    },
-    {
-      "title": "Why Are Bitcoin, Ethereum Prices Falling?",
-      "url": "https://decrypt.co/309273/why-are-bitcoin-ethereum-prices-falling",
-      "time_published": "20250309T230415",
-      "authors": [
-        "Sebastian Sinclair"
-      ],
-      "summary": "Bitcoin and Ethereum extend losses as traders digest Trump's Strategic Bitcoin Reserve order and a wave of U.S. trade tariffs.",
-      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/02/bitcoin-btc-ethereum-eth-price-chart-gID_7.jpg",
-      "source": "Decrypt.co",
-      "category_within_source": "n/a",
-      "source_domain": "decrypt.co",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.310843"
-        }
-      ],
-      "overall_sentiment_score": -0.040801,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "USAU",
-          "relevance_score": "0.075874",
-          "ticker_sentiment_score": "0.103106",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.846873",
-          "ticker_sentiment_score": "-0.033001",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.151064",
-          "ticker_sentiment_score": "0.060273",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:DOGE",
-          "relevance_score": "0.075874",
-          "ticker_sentiment_score": "0.031793",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "비트코인과 이더리움 가격이 떨어지는 이유는 무엇인가?"
-    },
-    {
-      "title": "Nasdaq Correction: 3 Things Every Investor Should Know",
-      "url": "https://www.fool.com/investing/2025/03/09/nasdaq-correction-3-things-investors-should-know/",
-      "time_published": "20250309T221000",
-      "authors": [
-        "Adria Cimino"
-      ],
-      "summary": "The Nasdaq, along with the S&P 500 and the Dow Jones Industrial Average, roared higher over the past two years, delivering double-digit annual gains. And the momentum continued into this year as investors piled into high-growth companies involved in hot technologies such as artificial ...",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810504%2Fgettyimages-1072035598.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.77141"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.576289"
-        }
-      ],
-      "overall_sentiment_score": 0.255312,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.203215",
-          "ticker_sentiment_score": "0.142855",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AMZN",
-          "relevance_score": "0.153145",
-          "ticker_sentiment_score": "0.117056",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "나스닥 수정: 모든 투자자가 알아야 할 3가지"
     }
   ]
 }
