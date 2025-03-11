@@ -4,6 +4,33 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "Despite projected GSDP rise, Maharashtra to strive hard for $1 trillion economy target - ETCFO",
+      "url": "https://cfo.economictimes.indiatimes.com/news/economy/despite-projected-gsdp-rise-maharashtra-to-strive-hard-for-1-trillion-economy-target/118876794",
+      "time_published": "20250311T061818",
+      "authors": [
+        "ETCFO"
+      ],
+      "summary": "Even as Maharashtra's gross state domestic product (GSDP) is expected to be Rs 49,39,355 crore in 2025-26 from Rs 45,31,518 crore as per the revised estimate for 2024-25, the state will have to strive hard for $1 trillion economy target.",
+      "banner_image": "https://iansportalimages.s3.amazonaws.com/thumbnails/202503113348484.jpg",
+      "source": "Economic Times",
+      "category_within_source": "Economy",
+      "source_domain": "cfo.economictimes.indiatimes.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.658903"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.451494"
+        }
+      ],
+      "overall_sentiment_score": 0.049677,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+    },
+    {
       "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
       "url": "https://www.benzinga.com/markets/eurozone/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine",
       "time_published": "20250310T202639",
@@ -792,7 +819,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2656,7 +2683,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 자동차 장비 주식"
+      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
     },
     {
       "title": "China's Market Rebound: Is The NPC Meeting A Turning Point For Investors? - iShares China Large-Cap ETF  ( ARCA:FXI ) , KraneShares Trust KraneShares CSI China Internet ETF  ( ARCA:KWEB ) ",
@@ -2753,45 +2780,6 @@
         }
       ],
       "translatedTitle": "영원히 사고 보유할 만한 놀라운 AI 방어 주식 2종"
-    },
-    {
-      "title": "Innovative Food Holdings, Inc. Reports Financial Results for Fourth Quarter and Fiscal Year 2024",
-      "url": "https://www.globenewswire.com/news-release/2025/03/07/3038916/0/en/Innovative-Food-Holdings-Inc-Reports-Financial-Results-for-Fourth-Quarter-and-Fiscal-Year-2024.html",
-      "time_published": "20250307T130000",
-      "authors": [
-        "Innovative Food Holdings"
-      ],
-      "summary": "INNOVATIVE FOOD HOLDINGS, INC. REPORTS FINANCIAL RESULTS FOR FOURTH QUARTER AND FISCAL YEAR ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/73df232a-0dfe-42ff-892e-08e0ff0c2ac4",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.986564"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.495866"
-        }
-      ],
-      "overall_sentiment_score": 0.256629,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "Innovative Food Holdings, Inc. 4분기 및 2024 회계연도 재무 결과 보고"
     }
   ]
 }
