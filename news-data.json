@@ -35,6 +35,50 @@
       "translatedTitle": "트럼프 무역전쟁의 첫 희생자가 팔란티르가 될 수 있는 이유"
     },
     {
+      "title": "Dick's Sporting Goods is latest retailer to forecast rocky 2025 as recession fears swirl",
+      "url": "https://www.cnbc.com/2025/03/11/dicks-sporting-goods-dks-earnings-q4-2024.html",
+      "time_published": "20250311T112811",
+      "authors": [],
+      "summary": "Dick's Sporting Goods issued weak guidance for 2025 as consumers contend with tariffs, persistent inflation and fears around a potential recession.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Earnings",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.857896"
+        }
+      ],
+      "overall_sentiment_score": 0.03396,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DKS",
+          "relevance_score": "0.04912",
+          "ticker_sentiment_score": "-0.197035",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "Dick's Sporting Goods는 경기 침체에 대한 우려가 확산되면서 2025년이 험난할 것이라고 예측한 최신 리테일러입니다."
+    },
+    {
       "title": "Despite projected GSDP rise, Maharashtra to strive hard for $1 trillion economy target - ETCFO",
       "url": "https://cfo.economictimes.indiatimes.com/news/economy/despite-projected-gsdp-rise-maharashtra-to-strive-hard-for-1-trillion-economy-target/118876794",
       "time_published": "20250311T061818",
@@ -59,7 +103,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
@@ -600,35 +644,167 @@
       "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
     },
     {
-      "title": "3 Large-Cap Value Funds to Buy Amid Sinking Consumer Confidence",
-      "url": "https://www.zacks.com/stock/news/2427283/3-large-cap-value-funds-to-buy-amid-sinking-consumer-confidence",
-      "time_published": "20250307T144900",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Large-cap value funds like NOIEX, DODGX and TCLCX are a safe bet as sinking consumer confidence is leading to market volatility.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d9/554.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
+      "title": "Kohl's shares plunge 15% as retailer gives rough outlook for the year ahead",
+      "url": "https://www.cnbc.com/2025/03/11/kohls-kss-q4-2024-earnings.html",
+      "time_published": "20250311T121911",
+      "authors": [],
+      "summary": "Kohl's posted a beat on revenue for the fourth quarter on Tuesday, but issued disappointing guidance for the year ahead.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Earnings",
+      "source_domain": "www.cnbc.com",
       "topics": [
         {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.769861"
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
         },
         {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
         },
         {
           "topic": "Financial Markets",
-          "relevance_score": "0.999365"
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.994953"
         }
       ],
-      "overall_sentiment_score": 0.088177,
+      "overall_sentiment_score": -0.036084,
       "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
+      "ticker_sentiment": [
+        {
+          "ticker": "DKS",
+          "relevance_score": "0.100729",
+          "ticker_sentiment_score": "-0.128641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KSS",
+          "relevance_score": "0.794423",
+          "ticker_sentiment_score": "-0.080691",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Kohl's 주가, 소매업체가 내년에 대한 암울한 전망을 내놓으며 15% 폭락"
+    },
+    {
+      "title": "Xilio Therapeutics Announces Pipeline and Business Updates and Fourth Quarter and Full Year 2024 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/03/11/3040456/0/en/Xilio-Therapeutics-Announces-Pipeline-and-Business-Updates-and-Fourth-Quarter-and-Full-Year-2024-Financial-Results.html",
+      "time_published": "20250311T113000",
+      "authors": [
+        "Inc.",
+        "Xilio Therapeutics"
+      ],
+      "summary": "Additional Phase 2 data for vilastobart, a tumor-activated, Fc-enhanced anti-CTLA-4, in combination with atezolizumab in patients with MSS CRC anticipated in the middle of ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/7e55cc25-f46f-423c-bf2a-e77ebaf69665",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.992549"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.111521,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "XLO",
+          "relevance_score": "0.044579",
+          "ticker_sentiment_score": "-0.015931",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ABBV",
+          "relevance_score": "0.133182",
+          "ticker_sentiment_score": "0.077291",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GILD",
+          "relevance_score": "0.029728",
+          "ticker_sentiment_score": "0.022071",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNXYF",
+          "relevance_score": "0.014867",
+          "ticker_sentiment_score": "0.22011",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트, 2024년 4분기 및 연간 재무 결과 발표"
+    },
+    {
+      "title": "Brookfield Closes Infrastructure Structured Solutions Fund",
+      "url": "https://www.globenewswire.com/news-release/2025/03/11/3040401/0/en/Brookfield-Closes-Infrastructure-Structured-Solutions-Fund.html",
+      "time_published": "20250311T110000",
+      "authors": [
+        "Brookfield Asset Management Ltd"
+      ],
+      "summary": "NEW YORK, March 11, 2025 ( GLOBE NEWSWIRE ) -- Brookfield Asset Management ( \"Brookfield\" ) , a leading global alternative asset manager headquartered in New York with over $1 trillion of assets under management, announced today the closing of its inaugural Brookfield Infrastructure Structured ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/3a57691b-db18-4432-b333-64c887278a17",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.992549"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.256822,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BIPC",
+          "relevance_score": "0.13459",
+          "ticker_sentiment_score": "0.096735",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAM",
+          "relevance_score": "0.17879",
+          "ticker_sentiment_score": "0.237555",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Brookfield, 인프라 구조화 솔루션 펀드 마감"
     },
     {
       "title": "Crypto's Brutal Weeks Might Be Over. Here's What to Buy With $1,000.",
@@ -2575,190 +2751,6 @@
         }
       ],
       "translatedTitle": "C3.ai 주가가 2월에 25% 하락한 이유"
-    },
-    {
-      "title": "Carter's Stock Dips 6.6% Post Q4 Earnings: Time to Buy or Stay Put?",
-      "url": "https://www.zacks.com/stock/news/2427481/carters-stock-dips-66-post-q4-earnings-time-to-buy-or-stay-put",
-      "time_published": "20250307T161100",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "CRI faces near-term pressures from U.S. Retail weakness, rising costs and macro pressures, which overshadow its Wholesale business growth.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d1/672.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.316726"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.994953"
-        }
-      ],
-      "overall_sentiment_score": 0.065457,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "LULU",
-          "relevance_score": "0.175221",
-          "ticker_sentiment_score": "0.123135",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "RL",
-          "relevance_score": "0.175221",
-          "ticker_sentiment_score": "0.102996",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRI",
-          "relevance_score": "0.30158",
-          "ticker_sentiment_score": "0.002293",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "UA",
-          "relevance_score": "0.131884",
-          "ticker_sentiment_score": "0.120744",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "카터 주가, 4분기 실적 발표 후 6.6% 하락: 매수할 때인가, 아니면 현재 상태를 유지할 때인가?"
-    },
-    {
-      "title": "Palantir Delivers AI-Powered Battle Stations To US Army, Stock Now Comparable To Tesla Circa 2015: Analyst - Palantir Technologies  ( NASDAQ:PLTR ) ",
-      "url": "https://www.benzinga.com/government/regulations/25/03/44190445/palantir-delivers-ai-powered-battle-stations-to-us-army-stock-now-comparable-to-tesla-circ",
-      "time_published": "20250307T142157",
-      "authors": [
-        "Anusuya Lahiri"
-      ],
-      "summary": "Palantir delivers AI-powered mobile battle stations to the U.S. Army under a $178 million deal. Palantir expands its defense role as government contracts surge with AI integration. Our government trade tracker caught Pelosi's 169% AI winner. Discover how to track all 535 Congress member stock ...",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/07/Palantir-Technologies-Inc--PLTR.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.365926"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.174398,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "SCGLF",
-          "relevance_score": "0.110973",
-          "ticker_sentiment_score": "0.099908",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NOC",
-          "relevance_score": "0.219809",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.219809",
-          "ticker_sentiment_score": "0.174486",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "LHX",
-          "relevance_score": "0.219809",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PLTR",
-          "relevance_score": "0.324495",
-          "ticker_sentiment_score": "-0.185871",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "Palantir, 미 육군에 AI 기반 전투 스테이션 제공, 현재 주가는 테슬라와 비슷한 수준, 2015년경: 분석가 - Palantir Technologies ( NASDAQ:PLTR )"
-    },
-    {
-      "title": "3 Original Auto Equipment Stocks to Consider Amid High Tariffs",
-      "url": "https://www.zacks.com/commentary/2427118/3-original-auto-equipment-stocks-to-consider-amid-high-tariffs",
-      "time_published": "20250307T135700",
-      "authors": [
-        "Lavina Shahu"
-      ],
-      "summary": "Amid tariff-related uncertainty, auto equipment stocks like AXL, ALSN & ADNT are set to gain from their expanding footprints, acquisitions and continued innovation.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/02/28697.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.980922"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.99246"
-        }
-      ],
-      "overall_sentiment_score": 0.240899,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "ALSN",
-          "relevance_score": "0.131463",
-          "ticker_sentiment_score": "0.14427",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AXL",
-          "relevance_score": "0.131463",
-          "ticker_sentiment_score": "0.14427",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ADNT",
-          "relevance_score": "0.22792",
-          "ticker_sentiment_score": "0.208865",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "높은 관세 속에서 고려해야 할 3가지 원래 자동차 장비 주식"
     }
   ]
 }
