@@ -573,6 +573,54 @@
       "translatedTitle": "소비자 신뢰도 하락 속 매수할 대형주 가치 펀드 3개"
     },
     {
+      "title": "Bitcoin, Ethereum Prices Extend Losses as Stocks Sag-What's Next for Markets?",
+      "url": "https://decrypt.co/309479/bitcoin-ethereum-prices-extend-losses-as-stocks-sag-whats-next-for-markets",
+      "time_published": "20250311T012652",
+      "authors": [
+        "Sebastian Sinclair"
+      ],
+      "summary": "Stocks and crypto fell ahead of inflation data and Fed signals despite Trump moving to ease crypto banking restrictions.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/08/bitcoin-ethereum-btc-eth-red-light-gID_7.png",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.9973"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": -0.182311,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.174167",
+          "ticker_sentiment_score": "-0.175419",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.116631",
+          "ticker_sentiment_score": "-0.199219",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "비트코인과 이더리움 가격 하락, 주가 폭락으로 이어지다-앞으로 시장은 어떻게 될까?"
+    },
+    {
       "title": "Delta Air Lines Cuts Q1 Guidance Below Estimates: Airline Stocks Fall - Delta Air Lines  ( NYSE:DAL ) ",
       "url": "https://www.benzinga.com/general/travel/25/03/44237055/delta-air-lines-cuts-q1-guidance-below-estimates-airline-stocks-fall",
       "time_published": "20250310T212649",
@@ -744,7 +792,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2744,54 +2792,6 @@
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "Innovative Food Holdings, Inc. 4분기 및 2024 회계연도 재무 결과 보고"
-    },
-    {
-      "title": "Brera Holdings Adds Famed Global Economist Dr. Arthur B. Laffer to Its All-Star Advisory Board",
-      "url": "https://www.globenewswire.com/news-release/2025/03/07/3038910/0/en/Brera-Holdings-Adds-Famed-Global-Economist-Dr-Arthur-B-Laffer-to-Its-All-Star-Advisory-Board.html",
-      "time_published": "20250307T130000",
-      "authors": [
-        "Brera Holdings PLC"
-      ],
-      "summary": "The creator of supply-side economics and the Laffer Curve joins Luxury Executive Massimo Ferragamo, MLS Founder and World Cup Director Alan Rothenberg, Sports Business Leaders Paul Tosetti and Marshall Geller, and Football Icon Giuseppe Rossi on Brera's Advisory Board ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/1820d3c3-56d2-4d8e-9360-8c450f9eba49/dr-arthur-b-laffer.jpg",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.214378"
-        }
-      ],
-      "overall_sentiment_score": 0.276342,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "MANU",
-          "relevance_score": "0.039289",
-          "ticker_sentiment_score": "0.079177",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BREA",
-          "relevance_score": "0.156207",
-          "ticker_sentiment_score": "0.139352",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Brera Holdings, 유명 글로벌 경제학자 Dr. Arthur B. Laffer를 올스타 자문 위원회에 추가"
     }
   ]
 }
