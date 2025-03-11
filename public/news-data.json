@@ -580,128 +580,6 @@
       "translatedTitle": "Equip Exposition에서 Savannah Bananas 제작자 Jesse Cole을 주요 연사로 발표"
     },
     {
-      "title": "Take the Zacks Approach to Beat the Markets: NioCorp, AngloGold, Amgen in Focus",
-      "url": "https://www.zacks.com/stock/news/2427647/take-the-zacks-approach-to-beat-the-markets-niocorp-anglogold-amgen-in-focus",
-      "time_published": "20250310T103500",
-      "authors": [
-        "Santanu Roy"
-      ],
-      "summary": "Last week, our time-tested methodologies served investors well in navigating the market. Check out some of our achievements from the past three months.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bc/1349.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.986714"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.928139"
-        }
-      ],
-      "overall_sentiment_score": 0.112972,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "PRMB",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.06",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SE",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.037013",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AU",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.208523",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "KO",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.088069",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NB",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.201091",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "JNJ",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.088069",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ICE",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.106007",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TXO",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.15003",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "AMGN",
-          "relevance_score": "0.030446",
-          "ticker_sentiment_score": "0.099129",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "UBER",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.037013",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.208523",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
-    },
-    {
       "title": "Trump is diving into crypto headfirst. Has China missed the boat?",
       "url": "https://www.scmp.com/economy/china-economy/article/3301956/trump-diving-crypto-headfirst-has-china-missed-boat",
       "time_published": "20250311T220007",
@@ -780,6 +658,54 @@
       "translatedTitle": "트럼프는 암호화폐에 머리를 먼저 박고 있다. 중국은 배를 놓쳤을까?"
     },
     {
+      "title": "Recession Fears Looming? Secure Your Portfolio With These ETFs",
+      "url": "https://www.zacks.com/stock/news/2428620/recession-fears-looming-secure-your-portfolio-with-these-etfs",
+      "time_published": "20250311T204100",
+      "authors": [
+        "Yashwardhan Jain"
+      ],
+      "summary": "Look at ETFs to safeguard your portfolio as declining consumer confidence, sluggish growth and persistent inflationary pressures increase the likelihood of the U.S. economy slipping into a recession in 2025.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bd/484.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.076379,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.075635",
+          "ticker_sentiment_score": "0.030258",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.03786",
+          "ticker_sentiment_score": "0.00786",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "경기 침체에 대한 우려가 다가오고 있나요? 이 ETF로 포트폴리오를 안전하게 지키세요"
+    },
+    {
       "title": "Why Sirius XM Plunged Today",
       "url": "https://www.fool.com/investing/2025/03/11/why-sirius-xm-plunged-today/",
       "time_published": "20250311T195500",
@@ -819,7 +745,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
+      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -857,7 +783,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -1111,7 +1037,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰도 하락세"
+      "translatedTitle": "중소기업 신뢰지수 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -1914,7 +1840,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트, 2024년 4분기 및 연간 재무 결과 발표"
+      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트와 2024년 4분기 및 연간 재무 결과 발표"
     },
     {
       "title": "Brookfield Closes Infrastructure Structured Solutions Fund",
@@ -2228,7 +2154,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2448,7 +2374,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Zacks Investment Ideas의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
+      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
     },
     {
       "title": "Trump Says Economy Faces A 'Period Of Transition': Is A Recession Ahead? - SPDR S&P 500  ( ARCA:SPY ) ",
