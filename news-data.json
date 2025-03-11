@@ -103,7 +103,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
@@ -642,6 +642,368 @@
         }
       ],
       "translatedTitle": "시장을 이기기 위한 Zacks 접근 방식: NioCorp, AngloGold, Amgen에 주목"
+    },
+    {
+      "title": "The Nasdaq Just Hit Correction Territory: Can Buying This Safe Stock Today Set You Up for Life?",
+      "url": "https://www.fool.com/investing/2025/03/11/the-nasdaq-just-hit-correction-territory-can-buyin/",
+      "time_published": "20250311T170400",
+      "authors": [
+        "Harsh Chauhan"
+      ],
+      "summary": "The tech-laden Nasdaq Composite index is having a forgettable 2025 so far as it recently entered correction territory following remarkable gains in 2023 and 2024 thanks to catalysts such as artificial intelligence ( AI ) .Investors have apparently been booking profits in high-flying tech stocks ...",
+      "banner_image": "https://media.ycharts.com/charts/f0f354b6fb5db330f404dc2c259a1665.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99793"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999975"
+        }
+      ],
+      "overall_sentiment_score": 0.385336,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.663912",
+          "ticker_sentiment_score": "0.588229",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.04794",
+          "ticker_sentiment_score": "0.174766",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BNXYF",
+          "relevance_score": "0.04794",
+          "ticker_sentiment_score": "0.553931",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "나스닥이 조정 국면에 돌입했습니다. 오늘 이 안전한 주식을 사면 평생을 보장받을 수 있을까요?"
+    },
+    {
+      "title": "Small Business Confidence Ticks in Lower",
+      "url": "https://www.zacks.com/stock/news/2428375/small-business-confidence-ticks-in-lower",
+      "time_published": "20250311T145200",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Pre-market futures are higher this morning, though off the early-morning highs in triple digits on the Dow and the Nasdaq. At this hour, the Dow is up just 17 points, the Nasdaq +29 and the S&P 500 is +5 points.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/51/1198.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.451494"
+        }
+      ],
+      "overall_sentiment_score": 0.071553,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DKS",
+          "relevance_score": "0.087185",
+          "ticker_sentiment_score": "0.06426",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "중소기업 신뢰도 하락세"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
+      "url": "https://www.zacks.com/stock/news/2428429/the-zacks-analyst-blog-highlights-klabin-ubiquit-and-emcor-group",
+      "time_published": "20250311T143700",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Klabin, Ubiquit and EMCOR Group are part of the Zacks top Analyst Blog.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f7/1049.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.9545"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.031456,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "EME",
+          "relevance_score": "0.092124",
+          "ticker_sentiment_score": "0.071134",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UI",
+          "relevance_score": "0.183025",
+          "ticker_sentiment_score": "0.070664",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KLBAY",
+          "relevance_score": "0.092124",
+          "ticker_sentiment_score": "0.058206",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.023079",
+          "ticker_sentiment_score": "0.026297",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:JPY",
+          "relevance_score": "0.023079",
+          "ticker_sentiment_score": "-0.150203",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.023079",
+          "ticker_sentiment_score": "0.197934",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.023079",
+          "ticker_sentiment_score": "0.059464",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.023079",
+          "ticker_sentiment_score": "0.059464",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Zacks 분석가 블로그, Klabin, Ubiquit 및 EMCOR Group 강조"
+    },
+    {
+      "title": "Pre-Markets Melting Away Early-Morning Gains",
+      "url": "https://www.zacks.com/stock/news/2428353/pre-markets-melting-away-early-morning-gains",
+      "time_published": "20250311T142600",
+      "authors": [
+        "Mark Vickery"
+      ],
+      "summary": "After today's open, albeit a month in arrears: January JOLTS figures report.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fb/96634.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.682689"
+        }
+      ],
+      "overall_sentiment_score": 0.066677,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DKS",
+          "relevance_score": "0.245339",
+          "ticker_sentiment_score": "0.098743",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "장전 거래가 아침 초반의 이익을 녹여내다"
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Frontline, FLEX LNG and Golden Ocean",
+      "url": "https://www.zacks.com/stock/news/2428411/zacks-industry-outlook-highlights-frontline-flex-lng-and-golden-ocean",
+      "time_published": "20250311T142500",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Frontline, FLEX LNG and Golden Ocean are part of the Zacks Industry Outlook article.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3c/755.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.962106"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.890401"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.024272,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOGL",
+          "relevance_score": "0.207868",
+          "ticker_sentiment_score": "0.152358",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FRO",
+          "relevance_score": "0.241512",
+          "ticker_sentiment_score": "0.115602",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FLNG",
+          "relevance_score": "0.207868",
+          "ticker_sentiment_score": "0.293958",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Zacks Industry Outlook은 Frontline, FLEX LNG 및 Golden Ocean을 강조합니다."
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Carrier Global, Comfort Systems USA and The AZEK Company",
+      "url": "https://www.zacks.com/stock/news/2428402/zacks-industry-outlook-highlights-carrier-global-comfort-systems-usa-and-the-azek-company",
+      "time_published": "20250311T141700",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Carrier Global, Comfort Systems USA and The AZEK Company are part of the Zacks Industry Outlook article.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7a/15706.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.723405"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.268858,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIX",
+          "relevance_score": "0.114137",
+          "ticker_sentiment_score": "0.229358",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AZEK",
+          "relevance_score": "0.170475",
+          "ticker_sentiment_score": "0.257746",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CARR",
+          "relevance_score": "0.132995",
+          "ticker_sentiment_score": "0.253556",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Zacks Industry Outlook은 Carrier Global, Comfort Systems USA 및 The AZEK Company를 강조합니다."
     },
     {
       "title": "Stock Market News for Mar 11, 2025",
@@ -1496,7 +1858,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2554,299 +2916,6 @@
         }
       ],
       "translatedTitle": "나스닥 수정: 모든 투자자가 알아야 할 3가지"
-    },
-    {
-      "title": "Trump declines to rule out 2025 US recession",
-      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3301705/trump-declines-rule-out-2025-us-recession-commerce-secretary-says-absolutely-not",
-      "time_published": "20250309T165703",
-      "authors": [
-        "Agence France-Presse"
-      ],
-      "summary": "Trump's tariff threats against China, Canada and Mexico have left US financial markets in turmoil and consumers unsure of future.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/10/f2026fce-5b1d-4916-bf57-51ad322d9463_82db6b3a.jpg?itok=XePpWgdc&v=1741539106",
-      "source": "South China Morning Post",
-      "category_within_source": "Business",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": -0.198087,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "GS",
-          "relevance_score": "0.084722",
-          "ticker_sentiment_score": "-0.141694",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.084722",
-          "ticker_sentiment_score": "-0.297174",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.084722",
-          "ticker_sentiment_score": "0.377287",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "트럼프, 2025년 미국 경기 침체 가능성 배제 안해"
-    },
-    {
-      "title": "Should You Buy the Dip in Dogecoin Right Now?",
-      "url": "https://www.fool.com/investing/2025/03/09/should-you-buy-the-dip-in-dogecoin-right-now/",
-      "time_published": "20250309T132700",
-      "authors": [
-        "Adam Spatacco"
-      ],
-      "summary": "The price of Dogecoin is down over 30% so far this year.",
-      "banner_image": "https://media.ycharts.com/charts/0ca6d0c3ed10eacfc2e2e2ac010b6c20.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.77141"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.576289"
-        }
-      ],
-      "overall_sentiment_score": 0.019382,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.085022",
-          "ticker_sentiment_score": "0.013696",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.085022",
-          "ticker_sentiment_score": "0.00735",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.085022",
-          "ticker_sentiment_score": "0.00735",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:DOGE",
-          "relevance_score": "0.834833",
-          "ticker_sentiment_score": "-0.057921",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "지금 당장 도지코인 가격이 하락하면 사야 할까요?"
-    },
-    {
-      "title": "Target Stock: Too Cheap to Ignore?",
-      "url": "https://www.fool.com/investing/2025/03/09/target-stock-too-cheap-to-ignore/",
-      "time_published": "20250309T091000",
-      "authors": [
-        "Jeremy Bowman"
-      ],
-      "summary": "Not many retailers can match Target ( NYSE: TGT ) . The company is one of just a handful of multi-category retailers in the U.S., along with Walmart and Costco Wholesale, selling everything from food and beverages to toys, electronics, apparel, home goods, and health and beauty products, among ...",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810278%2Ftarget-store.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.980922"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.990786"
-        }
-      ],
-      "overall_sentiment_score": 0.168308,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "TGT",
-          "relevance_score": "0.545618",
-          "ticker_sentiment_score": "0.19551",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "COST",
-          "relevance_score": "0.11894",
-          "ticker_sentiment_score": "0.043929",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.11894",
-          "ticker_sentiment_score": "0.043929",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "타겟 주식: 무시하기엔 너무 싸다?"
-    },
-    {
-      "title": "XRP Just Became an Even Better Buy. Here's Why.",
-      "url": "https://www.fool.com/investing/2025/03/08/xrp-just-became-an-even-better-buy-heres-why/",
-      "time_published": "20250308T152700",
-      "authors": [
-        "Alex Carchidi"
-      ],
-      "summary": "If you're looking for a cryptocurrency investment that's at a very low risk of going to zero anytime soon, look no further than XRP ( CRYPTO: XRP ) , as its blockchain just got an important upgrade that will likely help the coin to climb to new heights over the coming years.Today, it's a better ...",
-      "banner_image": "https://g.foolcdn.com/editorial/images/809931/investors-examine-laptop.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.929393"
-        }
-      ],
-      "overall_sentiment_score": 0.21422,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CURN",
-          "relevance_score": "0.061631",
-          "ticker_sentiment_score": "0.332618",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "XRP가 더욱 좋은 매수 대상이 되었습니다. 그 이유는 다음과 같습니다."
-    },
-    {
-      "title": "Nigeria's new crypto tax policies may not drive the revenue it needs",
-      "url": "https://cointelegraph.com/news/nigeria-crypto-tax-revenue",
-      "time_published": "20250308T140000",
-      "authors": [
-        "Cath Jenkin"
-      ],
-      "summary": "As Nigeria grapples with economic challenges, the government is set to introduce a tax on cryptocurrency transactions. This move appears to be an effort to tap into the burgeoning digital economy and the informal sector.",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01957087-b952-7c7a-9048-d3c1ef56b93f",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.744043"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.972193"
-        }
-      ],
-      "overall_sentiment_score": 0.081618,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "C",
-          "relevance_score": "0.043579",
-          "ticker_sentiment_score": "0.13584",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:NGN",
-          "relevance_score": "0.130217",
-          "ticker_sentiment_score": "0.003683",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "나이지리아의 새로운 암호화폐 세금 정책은 필요한 수입을 창출하지 못할 수도 있습니다."
-    },
-    {
-      "title": "Macroscope | For China's belt and road, the best days are still to come",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3301284/chinas-belt-and-road-best-days-are-still-come",
-      "time_published": "20250308T083008",
-      "authors": [
-        "Anthony Rowley"
-      ],
-      "summary": "With rival initiatives lacking substance, Beijing's transcontinental project is likely to expand as the US exits multilateral commitments.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/07/b59882b7-2103-40f8-a206-30e8beeb3370_4da505b5.jpg?itok=uwAWRD9o&v=1741315446",
-      "source": "South China Morning Post",
-      "category_within_source": "Economy",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.13777,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "매크로스코프 | 중국의 일대일로, 최고의 날은 아직 오지 않았다"
     }
   ]
 }
