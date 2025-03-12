@@ -504,162 +504,35 @@
       "translatedTitle": "트럼프 관세의 현실"
     },
     {
-      "title": "Final Results",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040089/0/en/Final-Results.html",
-      "time_published": "20250310T182500",
+      "title": "Castellum, Inc. Hires Tanya Bassett as Vice President of Business Development and Capture Management; Reinforces Strategic Commitment to Organic Growth - Castellum  ( AMEX:CTM ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44271340/castellum-inc-hires-tanya-bassett-as-vice-president-of-business-development-and-capture-management",
+      "time_published": "20250312T104500",
       "authors": [
-        "Octopus AIM VCT 2 plc"
+        "Globe Newswire"
       ],
-      "summary": "Octopus AIM VCT 2 plc today announces the final results for the year ended 30 November 2024. Octopus AIM VCT 2 plc ( the 'Company' ) is a Venture Capital Trust ( VCT ) which aims to provide shareholders with attractive tax-free dividends and long-term capital growth by investing in a diverse ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
+      "summary": "VIENNA, Va., March 12, 2025 ( GLOBE NEWSWIRE ) -- Castellum, Inc. ( NYSE-American: CTM ) ( \"Castellum\" or \"CTM\" ) , a cybersecurity, electronic warfare, and software engineering services company focused on the federal government, announces the hiring of Tanya Bassett as Vice President of ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
       "topics": [
         {
-          "topic": "Life Sciences",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.838487"
-        },
-        {
-          "topic": "IPO",
-          "relevance_score": "0.451494"
+          "topic": "Earnings",
+          "relevance_score": "0.77141"
         },
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
           "relevance_score": "0.158519"
         },
         {
-          "topic": "Real Estate & Construction",
-          "relevance_score": "0.333333"
+          "topic": "Financial Markets",
+          "relevance_score": "0.744043"
         }
       ],
-      "overall_sentiment_score": 0.225086,
+      "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "XHLD",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.037013",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ABDXF",
-          "relevance_score": "0.010905",
-          "ticker_sentiment_score": "0.094475",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BRDNF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.228987",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "GBGPF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.228987",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "RCDOF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.076913",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CMSQF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.113216",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRWRF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.228987",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "RNLX",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.037013",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.228987",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "WIZEY",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.076913",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PHYOF",
-          "relevance_score": "0.010905",
-          "ticker_sentiment_score": "0.094475",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PLLWF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.037013",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRWKF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.076913",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "JTCPF",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.076913",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MDAI",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.037013",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GSK",
-          "relevance_score": "0.005452",
-          "ticker_sentiment_score": "0.076913",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "HDGHF",
-          "relevance_score": "0.016356",
-          "ticker_sentiment_score": "0.047727",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "최종 결과"
+      "ticker_sentiment": [],
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
