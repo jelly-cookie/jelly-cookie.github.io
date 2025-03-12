@@ -103,7 +103,73 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+    },
+    {
+      "title": "Malaysia emerging as key hub in Asean's digital future",
+      "url": "https://www.scmp.com/native/business/banking-finance/topics/strengthening-asean-china-ties/article/3301950/malaysia-emerging-key-hub-aseans-digital-future",
+      "time_published": "20250312T080010",
+      "authors": [
+        "Morning Studio editors"
+      ],
+      "summary": "With advanced technologies and strong government support, the bloc's chair for 2025 is supporting the acceleration of its digital economy.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/11/135fd1fb-b2ac-4dc5-9a9a-d56adc35f053_9f39165e.jpg?itok=Cp6p12X9&v=1741685918",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999701"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.2695,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.036091",
+          "ticker_sentiment_score": "0.009735",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.036091",
+          "ticker_sentiment_score": "-0.016734",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.036091",
+          "ticker_sentiment_score": "0.246713",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.036091",
+          "ticker_sentiment_score": "0.246713",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:MYR",
+          "relevance_score": "0.036091",
+          "ticker_sentiment_score": "0.042682",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "말레이시아, ASEAN 디지털 미래의 핵심 허브로 부상"
     },
     {
       "title": "Kohl's CEO Warns Of 'Pretty Challenging' Environment For Consumers - Kohl's  ( NYSE:KSS ) ",
@@ -550,6 +616,118 @@
       "translatedTitle": "최종 결과"
     },
     {
+      "title": "Introducing the 'Maleficent 7'",
+      "url": "https://www.ft.com/content/d8772ea6-ce65-47ba-bd3b-31758cf7c135",
+      "time_published": "20250312T075704",
+      "authors": [
+        "Alexandra Scaggs"
+      ],
+      "summary": "One stands out in terms of badness . . . guess which?",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43254fc6-aa9a-4308-844f-60bf80ca9c40.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Markets",
+      "source_domain": "www.ft.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        }
+      ],
+      "overall_sentiment_score": 0.004948,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.080188",
+          "ticker_sentiment_score": "0.140423",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CCZ",
+          "relevance_score": "0.080188",
+          "ticker_sentiment_score": "0.140423",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.159569",
+          "ticker_sentiment_score": "0.415347",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.159569",
+          "ticker_sentiment_score": "-0.253144",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WM",
+          "relevance_score": "0.080188",
+          "ticker_sentiment_score": "0.140423",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "'말레피센트 7' 소개"
+    },
+    {
+      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041126/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+      "time_published": "20250312T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
+    },
+    {
       "title": "China summons Walmart executives for talks in wake of Trump tariffs",
       "url": "https://www.scmp.com/economy/china-economy/article/3302043/china-summons-walmart-executives-talks-tariff-costs",
       "time_published": "20250312T051205",
@@ -943,7 +1121,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
+      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -981,7 +1159,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -2572,148 +2750,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Zacks Investment Ideas의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
-    },
-    {
-      "title": "Trump Says Economy Faces A 'Period Of Transition': Is A Recession Ahead? - SPDR S&P 500  ( ARCA:SPY ) ",
-      "url": "https://www.benzinga.com/25/03/44222440/financial-crime-weekly",
-      "time_published": "20250310T144301",
-      "authors": [
-        "Erica Kollmann"
-      ],
-      "summary": "President Trump seems to acknowledge the possibility of a recession in 2025, citing a \"period of transition.\" Trump's comments come amid growing concerns over economic turbulence and unsettled markets. Find out which stock just plummeted to the bottom of the new Benzinga Rankings.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/U-s--President-Donald-Trump-Appears-At-A.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": -0.024682,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "IVZ",
-          "relevance_score": "0.075874",
-          "ticker_sentiment_score": "-0.021586",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.151064",
-          "ticker_sentiment_score": "-0.291311",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "트럼프, 경제가 '전환기'에 직면했다고 말하다: 경기 침체가 다가올까? - SPDR S&P 500 ( ARCA:SPY )"
-    },
-    {
-      "title": "S&P 500 Will Reach 7,000 By Year-End",
-      "url": "https://www.benzinga.com/markets/equities/25/03/44220844/s-p-500-will-reach-7-000-by-year-end",
-      "time_published": "20250310T141434",
-      "authors": [
-        "Gav Blaxberg"
-      ],
-      "summary": "The year began on a strong note, with the market climbing over 3% in January amid optimism fueled by Trump's presidency and his market-focused policies. In February, that bullish sentiment persisted until tariffs became the central issue.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/Gemini-Generated-Image-5e17aq5e17aq5e17_0.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        }
-      ],
-      "overall_sentiment_score": 0.17998,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "S&P 500, 연말까지 7,000에 도달할 것"
-    },
-    {
-      "title": "3 Shipping Stocks Worth Betting on Despite Industry Headwinds",
-      "url": "https://www.zacks.com/commentary/2427682/3-shipping-stocks-worth-betting-on-despite-industry-headwinds",
-      "time_published": "20250310T140600",
-      "authors": [
-        "Maharathi Basu"
-      ],
-      "summary": "Following a careful analysis of the Zacks Transportation Shipping industry, we advise betting on stocks like FRO, FLNG and GOGL.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7e/846.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.684621"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.890401"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.072482,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "GOGL",
-          "relevance_score": "0.152018",
-          "ticker_sentiment_score": "-0.02142",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FRO",
-          "relevance_score": "0.226301",
-          "ticker_sentiment_score": "0.02161",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FLNG",
-          "relevance_score": "0.152018",
-          "ticker_sentiment_score": "0.016155",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "업계 역풍에도 불구하고 베팅할 가치가 있는 3가지 해운 주식"
+      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
     }
   ]
 }
