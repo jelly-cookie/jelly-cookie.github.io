@@ -103,7 +103,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "Kohl's CEO Warns Of 'Pretty Challenging' Environment For Consumers - Kohl's  ( NYSE:KSS ) ",
@@ -548,6 +548,40 @@
         }
       ],
       "translatedTitle": "최종 결과"
+    },
+    {
+      "title": "China summons Walmart executives for talks in wake of Trump tariffs",
+      "url": "https://www.scmp.com/economy/china-economy/article/3302043/china-summons-walmart-executives-talks-tariff-costs",
+      "time_published": "20250312T051205",
+      "authors": [
+        "Carol Yang"
+      ],
+      "summary": "Officials met representatives of the US retailer to discuss its treatment of Chinese suppliers following the imposition of import duties.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/12/70fe0e35-d2fd-481a-ae42-e4fbc31d21cd_0cb8e3ca.jpg?itok=S0z2H8qN&v=1741756324",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.035853,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.22421",
+          "ticker_sentiment_score": "0.107206",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프 관세 이후 중국, 월마트 임원진을 회담에 소집"
     },
     {
       "title": "Prime Biome Redefines Beauty & Health: The Gut-Skin Solution Backed by Science",
@@ -1201,7 +1235,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰도 하락세"
+      "translatedTitle": "중소기업 신뢰지수 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2318,7 +2352,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2680,62 +2714,6 @@
         }
       ],
       "translatedTitle": "업계 역풍에도 불구하고 베팅할 가치가 있는 3가지 해운 주식"
-    },
-    {
-      "title": "Stock Market News for Mar 10, 2025",
-      "url": "https://www.zacks.com/stock/news/2427717/stock-market-news-for-mar-10-2025",
-      "time_published": "20250310T133800",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Wall Street closed higher on Friday, pulled up by tech and energy stocks.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ad/429.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.009679,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "AWK",
-          "relevance_score": "0.127119",
-          "ticker_sentiment_score": "0.213409",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "AAPL",
-          "relevance_score": "0.063763",
-          "ticker_sentiment_score": "0.183259",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "2025년 3월 10일 주식 시장 뉴스"
     }
   ]
 }
