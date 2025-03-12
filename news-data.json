@@ -35,6 +35,45 @@
       "translatedTitle": "트럼프 무역전쟁의 첫 희생자가 팔란티르가 될 수 있는 이유"
     },
     {
+      "title": "Mar-a-Lago Accord, Schmar-a-Lago Accord",
+      "url": "https://www.ft.com/content/c5b1c6b3-85a7-4e99-bcac-3d331f03640b",
+      "time_published": "20250312T141253",
+      "authors": [
+        "Steven Kamin",
+        "Mark Sobel"
+      ],
+      "summary": "Anatomy of a bad idea ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcdcedc2f-0315-4f41-bf45-1d26a2c064e8.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Markets",
+      "source_domain": "www.ft.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.977154"
+        }
+      ],
+      "overall_sentiment_score": 0.03716,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.353562",
+          "ticker_sentiment_score": "0.031462",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "마라라고 아코드, 마라라고 아코드"
+    },
+    {
       "title": "Dick's Sporting Goods is latest retailer to forecast rocky 2025 as recession fears swirl",
       "url": "https://www.cnbc.com/2025/03/11/dicks-sporting-goods-dks-earnings-q4-2024.html",
       "time_published": "20250311T112811",
@@ -103,7 +142,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "'Perhaps Ray Dalio Has Different Data, But Grok Thinks…'-Elon Musk Publicly Corrects The Legendary Investor Over China",
@@ -301,6 +340,88 @@
         }
       ],
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar and Cintas",
+      "url": "https://www.zacks.com/stock/news/2429069/the-zacks-analyst-blog-highlights-exelon-gilead-sciences-plains-all-american-pipeline-sportradar-and-cintas",
+      "time_published": "20250312T132400",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar and Cintas are part of the Zacks top Analyst ...",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0e/56891.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999998"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.257996,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EXC",
+          "relevance_score": "0.185103",
+          "ticker_sentiment_score": "0.116042",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PAA",
+          "relevance_score": "0.210961",
+          "ticker_sentiment_score": "0.131229",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GILD",
+          "relevance_score": "0.210961",
+          "ticker_sentiment_score": "0.237577",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CTAS",
+          "relevance_score": "0.287047",
+          "ticker_sentiment_score": "0.301736",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SRAD",
+          "relevance_score": "0.159043",
+          "ticker_sentiment_score": "0.128363",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Zacks 분석가 블로그는 Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar 및 Cintas를 강조합니다."
     },
     {
       "title": "5 Financial Transaction Stocks in Focus Despite High Tech Expenses",
@@ -583,7 +704,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -1267,7 +1388,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -1521,7 +1642,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰지수 하락세"
+      "translatedTitle": "중소기업 신뢰도 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2519,95 +2640,6 @@
         }
       ],
       "translatedTitle": "델타 항공, 1분기 지침을 추정치 이하로 삭감: 항공사 주가 하락 - 델타 항공(NYSE:DAL)"
-    },
-    {
-      "title": "Intuitive Machines Announces Completion of Redemption of its Outstanding Warrants",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040206/0/en/Intuitive-Machines-Announces-Completion-of-Redemption-of-its-Outstanding-Warrants.html",
-      "time_published": "20250310T210100",
-      "authors": [
-        "Intuitive Machines",
-        "LLC"
-      ],
-      "summary": "HOUSTON, March 10, 2025 ( GLOBE NEWSWIRE ) -- Intuitive Machines, Inc. ( Nasdaq: LUNR ) ( \"Intuitive Machines\" or the \"Company\" ) , a leading space exploration, infrastructure, and services company, announced today that it has completed the redemption of its outstanding warrants ( the \"Warrants\" ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/f6f33a5b-6aa9-4646-9299-a0d67dbdae25",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.108179"
-        }
-      ],
-      "overall_sentiment_score": 0.091541,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "LUNR",
-          "relevance_score": "0.15429",
-          "ticker_sentiment_score": "0.241771",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CRYPTO:XCP",
-          "relevance_score": "0.025873",
-          "ticker_sentiment_score": "-0.03513",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Intuitive Machines, 미결제 와런트 상환 완료 발표"
-    },
-    {
-      "title": "SEALSQ will showcase its latest Quantum Resistant Chip and PKI services next week at Embedded World Electronic Fair in Germany",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040182/0/en/SEALSQ-will-showcase-its-latest-Quantum-Resistant-Chip-and-PKI-services-next-week-at-Embedded-World-Electronic-Fair-in-Germany.html",
-      "time_published": "20250310T203000",
-      "authors": [
-        "SEAL Semiconductors"
-      ],
-      "summary": "Geneva, Switzerland, March 10, 2025 ( GLOBE NEWSWIRE ) -- SEALSQ Corp ( NASDAQ: LAES ) ( \"SEALSQ\" or \"Company\" ) , a company specializing in Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced its participation at Embedded World 2025, taking place ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/29a5f3ff-07b7-49e7-a424-370ddbb35d06/image2.jpeg",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.313022,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "LAES",
-          "relevance_score": "0.66976",
-          "ticker_sentiment_score": "0.451928",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "CRYPTO:ECC",
-          "relevance_score": "0.048523",
-          "ticker_sentiment_score": "0.085003",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "SEALSQ는 다음 주 독일에서 열리는 임베디드 세계 전자 박람회에서 최신 양자 저항 칩 및 PKI 서비스를 선보일 예정입니다."
     }
   ]
 }
