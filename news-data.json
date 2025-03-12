@@ -400,108 +400,96 @@
       "translatedTitle": "트럼프가 우크라이나에 대한 무기 선적을 중단한 후 주목해야 할 6개 방위 주식 - Leonardo(OTC:FINMY), BAE Systems(OTC:BAESY)"
     },
     {
-      "title": "The Reality of Trump's Tariffs",
-      "url": "https://www.fool.com/investing/2025/03/10/the-reality-of-trumps-tariffs/",
-      "time_published": "20250310T194600",
+      "title": "Should US be pinning its economic hopes on a deal with China?",
+      "url": "https://www.scmp.com/economy/china-economy/article/3302098/china-us-deal-could-aid-faltering-american-economy-not-fix-it-say-analysts",
+      "time_published": "20250312T114508",
       "authors": [
-        "Motley Fool Staff"
+        "Ralph Jennings"
       ],
-      "summary": "In this podcast, Motley Fool analyst Jason Moser and host Ricky Mulvey discuss:Then, Motley Fool host Alison Southwick and personal finance expert Robert Brokamp offer financial planning tips for \"solopreneurs.\"To catch full episodes of all The Motley Fool's free podcasts, check out our podcast ...",
-      "banner_image": "https://g.foolcdn.com/editorial/images/810167/tariffs-become-reality.jpg",
+      "summary": "With talk of a possible visit to China by US President Donald Trump, could a bilateral deal help mitigate America's economic woes?",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/12/393332f3-b75e-4694-a88d-fd23dd92d68d_538e4ec8.jpg?itok=y7nsdhCc&v=1741770806",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.093013,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.051221",
+          "ticker_sentiment_score": "-0.238559",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "COFAF",
+          "relevance_score": "0.051221",
+          "ticker_sentiment_score": "0.092005",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.051221",
+          "ticker_sentiment_score": "0.031963",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "미국은 중국과의 협상에 경제적 희망을 걸어야 할까?"
+    },
+    {
+      "title": "Trump Tariffs: Time to Buy the Dip on This International Stock",
+      "url": "https://www.fool.com/investing/2025/03/12/trump-tariffs-time-to-buy-the-dip-on-this-internat/",
+      "time_published": "20250312T114300",
+      "authors": [
+        "Will Healy"
+      ],
+      "summary": "Few can question the fact that the proposed Trump tariffs have rattled investors. Such levies increase the cost of doing business. Hence, with the uncertainty surrounding when tariffs will be implemented or how much they will cost businesses and consumers, most stocks have fallen in recent ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/810847/nu_holdings_logo_on_smartphone_nu.jpg",
       "source": "Motley Fool",
       "category_within_source": "n/a",
       "source_domain": "www.fool.com",
       "topics": [
         {
-          "topic": "Life Sciences",
-          "relevance_score": "0.333333"
-        },
-        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.333333"
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
-          "relevance_score": "1.0"
+          "relevance_score": "0.929393"
         },
         {
           "topic": "Earnings",
-          "relevance_score": "1.0"
+          "relevance_score": "0.972476"
         },
         {
           "topic": "Technology",
-          "relevance_score": "0.333333"
+          "relevance_score": "1.0"
         }
       ],
-      "overall_sentiment_score": 0.190336,
+      "overall_sentiment_score": 0.212483,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "MSFT",
-          "relevance_score": "0.007551",
-          "ticker_sentiment_score": "0.135183",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TGT",
-          "relevance_score": "0.127815",
-          "ticker_sentiment_score": "0.113419",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.02265",
-          "ticker_sentiment_score": "0.090674",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AAPL",
-          "relevance_score": "0.007551",
-          "ticker_sentiment_score": "0.064205",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "COST",
-          "relevance_score": "0.007551",
-          "ticker_sentiment_score": "0.060677",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AZO",
-          "relevance_score": "0.007551",
-          "ticker_sentiment_score": "0.122203",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "LLY",
-          "relevance_score": "0.007551",
-          "ticker_sentiment_score": "0.064205",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "HD",
-          "relevance_score": "0.037741",
-          "ticker_sentiment_score": "0.096485",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AMZN",
-          "relevance_score": "0.015101",
-          "ticker_sentiment_score": "0.142464",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.015101",
-          "ticker_sentiment_score": "0.054874",
-          "ticker_sentiment_label": "Neutral"
+          "ticker": "NU",
+          "relevance_score": "0.57911",
+          "ticker_sentiment_score": "0.452471",
+          "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "트럼프 관세의 현실"
+      "translatedTitle": "트럼프 관세: 이 국제 주식의 하락을 매수할 때다"
     },
     {
       "title": "Castellum, Inc. Hires Tanya Bassett as Vice President of Business Development and Capture Management; Reinforces Strategic Commitment to Organic Growth - Castellum  ( AMEX:CTM ) ",
@@ -532,7 +520,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -2587,53 +2575,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
-    },
-    {
-      "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040170/0/en/Amalgamated-Financial-Corp-Announces-New-40-Million-Share-Repurchase-Program.html",
-      "time_published": "20250310T201500",
-      "authors": [
-        "Amalgamated Financial Corp."
-      ],
-      "summary": "NEW YORK, March 10, 2025 ( GLOBE NEWSWIRE ) -- Amalgamated Financial Corp. ( \"Amalgamated\", the \"Company\", or the \"Bank\" ) ( Nasdaq: AMAL ) today announced that its Board of Directors has approved a new authorization for the repurchase of up to $40 million of the Company's Class A common stock.",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/e3ab3d07-5f7b-4f1b-bd9c-ec07483eb0b1",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999998"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.01455,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "AMAL",
-          "relevance_score": "0.090816",
-          "ticker_sentiment_score": "0.115724",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Amalgamated Financial Corp., 4000만 달러 규모의 신규 주식 재매수 프로그램 발표"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
     }
   ]
 }
