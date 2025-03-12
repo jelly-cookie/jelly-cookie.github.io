@@ -43,50 +43,6 @@
       "translatedTitle": "마라라고 아코드, 마라라고 아코드"
     },
     {
-      "title": "Dick's Sporting Goods is latest retailer to forecast rocky 2025 as recession fears swirl",
-      "url": "https://www.cnbc.com/2025/03/11/dicks-sporting-goods-dks-earnings-q4-2024.html",
-      "time_published": "20250311T112811",
-      "authors": [],
-      "summary": "Dick's Sporting Goods issued weak guidance for 2025 as consumers contend with tariffs, persistent inflation and fears around a potential recession.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Earnings",
-      "source_domain": "www.cnbc.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.744043"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.857896"
-        }
-      ],
-      "overall_sentiment_score": 0.03396,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "DKS",
-          "relevance_score": "0.04912",
-          "ticker_sentiment_score": "-0.197035",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "Dick's Sporting Goods는 경기 침체에 대한 우려가 확산되면서 2025년이 험난할 것이라고 예측한 최신 리테일러입니다."
-    },
-    {
       "title": "SKILLS, STUDIOS, SECONDMENTS: TIGA GAMES EDUCATION CONFERENCE RETURNS FOR 2025",
       "url": "https://www.benzinga.com/pressreleases/25/03/n44283997/skills-studios-secondments-tiga-games-education-conference-returns-for-2025",
       "time_published": "20250312T171800",
@@ -307,6 +263,179 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Cheetah Net Supply Chain Service Inc. Announces Full Year 2024 Results and Provides Corporate Update",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041760/0/en/Cheetah-Net-Supply-Chain-Service-Inc-Announces-Full-Year-2024-Results-and-Provides-Corporate-Update.html",
+      "time_published": "20250312T201000",
+      "authors": [
+        "Cheetah Net Supply Chain Services Inc"
+      ],
+      "summary": "IRVINE, Calif., March 12, 2025 ( GLOBE NEWSWIRE ) -- Cheetah Net Supply Chain Service Inc. ( \"Cheetah\" or the \"Company\" ) ( Nasdaq CM: CTNT ) , a logistics and warehousing services provider, today reported results for the year ended December 31, 2024 and provided a corporate update.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/83732049-4a20-46f0-8c58-a3700e5372a2",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938238"
+        }
+      ],
+      "overall_sentiment_score": 0.140147,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CTNT",
+          "relevance_score": "0.040519",
+          "ticker_sentiment_score": "0.072881",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Cheetah Net Supply Chain Service Inc. 2024년 전체 연도 실적 발표 및 기업 업데이트 제공"
+    },
+    {
+      "title": "Calavo Growers, Inc. Announces First Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041758/11559/en/Calavo-Growers-Inc-Announces-First-Quarter-2025-Financial-Results.html",
+      "time_published": "20250312T200700",
+      "authors": [
+        "Calavo Growers",
+        "Inc."
+      ],
+      "summary": "Calavo announces first quarter 2025 financial results ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/1a747af3-2a91-418b-94fe-d7f8fa1e3736",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990893"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.16668,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CVGW",
+          "relevance_score": "0.102888",
+          "ticker_sentiment_score": "0.08587",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.012896",
+          "ticker_sentiment_score": "-0.029847",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Calavo Growers, Inc. 2025년 1분기 재무 결과 발표"
+    },
+    {
+      "title": "Nasdaq Sell-Off: Can Buying These 2 Safe Stocks Today Set You Up for Life?",
+      "url": "https://www.fool.com/investing/2025/03/12/nasdaq-sell-off-can-buying-these-2-safe-stocks-tod/",
+      "time_published": "20250312T200500",
+      "authors": [
+        "Brett Schafer"
+      ],
+      "summary": "Investors are experiencing the first big stock market sell-off of 2025. I have no idea -- and neither does anyone else -- when this drawdown will end or when another one will occur. It is best to simply expect stock market corrections to happen from time to time rather than try to predict them, ...",
+      "banner_image": "https://media.ycharts.com/charts/c32aeacb5b03df517389df9145380c10.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99676"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.961735"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.117572,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.401331",
+          "ticker_sentiment_score": "0.2759",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.052455",
+          "ticker_sentiment_score": "0.061668",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ABNB",
+          "relevance_score": "0.44622",
+          "ticker_sentiment_score": "0.21135",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BKNG",
+          "relevance_score": "0.104683",
+          "ticker_sentiment_score": "-0.005518",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.052455",
+          "ticker_sentiment_score": "-0.076378",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "나스닥 매도: 오늘 이 2개의 안전 주식을 사면 평생을 보장받을 수 있을까?"
+    },
+    {
       "title": "ZBH Stock to Gain From Global Expansion Amid Difficult FX Scenario",
       "url": "https://www.zacks.com/stock/news/2429225/zbh-stock-to-gain-from-global-expansion-amid-difficult-fx-scenario",
       "time_published": "20250312T161600",
@@ -454,7 +583,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
     },
     {
       "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
@@ -1633,7 +1762,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -2622,123 +2751,6 @@
         }
       ],
       "translatedTitle": "Kohl's 주가, 소매업체가 내년에 대한 암울한 전망을 내놓으며 15% 폭락"
-    },
-    {
-      "title": "Xilio Therapeutics Announces Pipeline and Business Updates and Fourth Quarter and Full Year 2024 Financial Results",
-      "url": "https://www.globenewswire.com/news-release/2025/03/11/3040456/0/en/Xilio-Therapeutics-Announces-Pipeline-and-Business-Updates-and-Fourth-Quarter-and-Full-Year-2024-Financial-Results.html",
-      "time_published": "20250311T113000",
-      "authors": [
-        "Inc.",
-        "Xilio Therapeutics"
-      ],
-      "summary": "Additional Phase 2 data for vilastobart, a tumor-activated, Fc-enhanced anti-CTLA-4, in combination with atezolizumab in patients with MSS CRC anticipated in the middle of ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/7e55cc25-f46f-423c-bf2a-e77ebaf69665",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.992549"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.905476"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.111521,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "XLO",
-          "relevance_score": "0.044579",
-          "ticker_sentiment_score": "-0.015931",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ABBV",
-          "relevance_score": "0.133182",
-          "ticker_sentiment_score": "0.077291",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GILD",
-          "relevance_score": "0.029728",
-          "ticker_sentiment_score": "0.022071",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BNXYF",
-          "relevance_score": "0.014867",
-          "ticker_sentiment_score": "0.22011",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트, 2024년 4분기 및 연간 재무 결과 발표"
-    },
-    {
-      "title": "Brookfield Closes Infrastructure Structured Solutions Fund",
-      "url": "https://www.globenewswire.com/news-release/2025/03/11/3040401/0/en/Brookfield-Closes-Infrastructure-Structured-Solutions-Fund.html",
-      "time_published": "20250311T110000",
-      "authors": [
-        "Brookfield Asset Management Ltd"
-      ],
-      "summary": "NEW YORK, March 11, 2025 ( GLOBE NEWSWIRE ) -- Brookfield Asset Management ( \"Brookfield\" ) , a leading global alternative asset manager headquartered in New York with over $1 trillion of assets under management, announced today the closing of its inaugural Brookfield Infrastructure Structured ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/3a57691b-db18-4432-b333-64c887278a17",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.992549"
-        },
-        {
-          "topic": "Real Estate & Construction",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.256822,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BIPC",
-          "relevance_score": "0.13459",
-          "ticker_sentiment_score": "0.096735",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BAM",
-          "relevance_score": "0.17879",
-          "ticker_sentiment_score": "0.237555",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Brookfield, 인프라 구조화 솔루션 펀드 마감"
     }
   ]
 }
