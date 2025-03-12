@@ -616,6 +616,50 @@
       "translatedTitle": "최종 결과"
     },
     {
+      "title": "Alibaba's Joe Tsai: Xi's entrepreneur meeting boosts business confidence",
+      "url": "https://www.scmp.com/tech/big-tech/article/3302080/alibabas-joe-tsai-xi-jinpings-entrepreneur-meeting-fuels-business-confidence-china",
+      "time_published": "20250312T090009",
+      "authors": [
+        "Ann Cao"
+      ],
+      "summary": "Beijing's positive signal has solidified the tech giant's commitment to investing in AI, Alibaba chairman Joe Tsai says.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/12/39163c03-dea3-43b9-bd66-e270400e6601_ca9e86a4.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.290017,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.33628",
+          "ticker_sentiment_score": "0.261081",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.069294",
+          "ticker_sentiment_score": "0.121866",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "알리바바의 조 차이: 시진핑의 기업가 회동, 기업 신뢰도 향상"
+    },
+    {
       "title": "Introducing the 'Maleficent 7'",
       "url": "https://www.ft.com/content/d8772ea6-ce65-47ba-bd3b-31758cf7c135",
       "time_published": "20250312T075704",
@@ -1121,7 +1165,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
+      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -2530,7 +2574,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2693,64 +2737,6 @@
         }
       ],
       "translatedTitle": "Zacks Industry Outlook은 American Axle & Manufacturing, Allison Transmission 및 Adient를 강조합니다."
-    },
-    {
-      "title": "Zacks Investment Ideas feature highlights: Alphabet, Amazon and Meta Platforms",
-      "url": "https://www.zacks.com/stock/news/2427901/zacks-investment-ideas-feature-highlights-alphabet-amazon-and-meta-platforms",
-      "time_published": "20250310T151400",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Alphabet, Amazon and Meta Platforms are part of the Zacks Investment Ideas article.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/20/444.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.997405"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999917"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.310893,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.098794",
-          "ticker_sentiment_score": "0.105076",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "META",
-          "relevance_score": "0.196079",
-          "ticker_sentiment_score": "0.215829",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "AMZN",
-          "relevance_score": "0.290415",
-          "ticker_sentiment_score": "0.191502",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
     }
   ]
 }
