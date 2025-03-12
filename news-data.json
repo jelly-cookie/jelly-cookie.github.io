@@ -4,37 +4,6 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
-      "title": "Why Palantir Could Be the First Victim of Trump's Trade War",
-      "url": "https://www.fool.com/investing/2025/03/11/why-palantir-could-be-the-first-victim-of-trumps-t/",
-      "time_published": "20250311T092500",
-      "authors": [
-        "Jeremy Bowman"
-      ],
-      "summary": "Palantir ( NASDAQ: PLTR ) was one of the biggest winners of 2024 on the stock market, delivering a monster gain of 341%.Along the way, it reported accelerating revenue growth and improving operating margin in each quarter, and gained admission to the S&P 500.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810351%2Fpopping-the-stock-market-bubble.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.998947"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999956"
-        }
-      ],
-      "overall_sentiment_score": 0,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "트럼프 무역전쟁의 첫 희생자가 팔란티르가 될 수 있는 이유"
-    },
-    {
       "title": "Mar-a-Lago Accord, Schmar-a-Lago Accord",
       "url": "https://www.ft.com/content/c5b1c6b3-85a7-4e99-bcac-3d331f03640b",
       "time_published": "20250312T141253",
@@ -336,6 +305,96 @@
         }
       ],
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
+    },
+    {
+      "title": "ZBH Stock to Gain From Global Expansion Amid Difficult FX Scenario",
+      "url": "https://www.zacks.com/stock/news/2429225/zbh-stock-to-gain-from-global-expansion-amid-difficult-fx-scenario",
+      "time_published": "20250312T161600",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Zimmer Biomet is strategically expanding its global presence to address the huge demand in the musculoskeletal space.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/4c/2710.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.99237"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.303422,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ZBH",
+          "relevance_score": "0.412523",
+          "ticker_sentiment_score": "0.384434",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HIMS",
+          "relevance_score": "0.129284",
+          "ticker_sentiment_score": "0.048736",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CAH",
+          "relevance_score": "0.0864",
+          "ticker_sentiment_score": "0.049268",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CHF",
+          "relevance_score": "0.043264",
+          "ticker_sentiment_score": "-0.008926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:JPY",
+          "relevance_score": "0.043264",
+          "ticker_sentiment_score": "-0.008926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.043264",
+          "ticker_sentiment_score": "-0.008926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.043264",
+          "ticker_sentiment_score": "-0.008926",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "ZBH 주식, 어려운 FX 시나리오 속에서 글로벌 확장으로 수익 창출"
     },
     {
       "title": "Is Target Stock a Buy or Sell After Its Latest Q4 Earnings Report?",
