@@ -103,7 +103,7 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
     },
     {
       "title": "Kohl's CEO Warns Of 'Pretty Challenging' Environment For Consumers - Kohl's  ( NYSE:KSS ) ",
@@ -550,6 +550,29 @@
       "translatedTitle": "최종 결과"
     },
     {
+      "title": "Prime Biome Redefines Beauty & Health: The Gut-Skin Solution Backed by Science",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44268308/prime-biome-redefines-beauty-health-the-gut-skin-solution-backed-by-science",
+      "time_published": "20250312T050029",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "ST. PETERSBURG, Fla., March 12, 2025 ( GLOBE NEWSWIRE ) -- Maintaining optimal health can feel daunting in today's fast-paced world. Prime Biome presents an innovative approach to wellness that simplifies the journey toward better health, mainly focusing on gut and skin health.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/8a24bef4-c882-43f8-88ef-095cbe0e47c4/prime-biome.jpg",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.578454,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "Prime Biome은 아름다움과 건강을 재정의합니다: 과학에 뒷받침된 장-피부 솔루션"
+    },
+    {
       "title": "Palantir Calls For 'Software-First Approach' As Pentagon Spends Under 1% On Modern Warfare - Tesla  ( NASDAQ:TSLA ) , Palantir Technologies  ( NASDAQ:PLTR ) ",
       "url": "https://www.benzinga.com/markets/equities/25/03/44267822/palantir-executive-pushes-pentagon-to-adopt-software-first-approach-noting-us-allocates-less-tha",
       "time_published": "20250312T035125",
@@ -886,7 +909,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
+      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -924,7 +947,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -1178,7 +1201,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰지수 하락세"
+      "translatedTitle": "중소기업 신뢰도 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2295,7 +2318,7 @@
       "overall_sentiment_score": 0.188782,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 전체 연도 지침 재확인"
+      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
     },
     {
       "title": "Amalgamated Financial Corp. Announces New $40 Million Share Repurchase Program",
@@ -2515,7 +2538,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
+      "translatedTitle": "Zacks Investment Ideas의 주요 특징: Alphabet, Amazon 및 Meta Platforms"
     },
     {
       "title": "Trump Says Economy Faces A 'Period Of Transition': Is A Recession Ahead? - SPDR S&P 500  ( ARCA:SPY ) ",
@@ -2713,60 +2736,6 @@
         }
       ],
       "translatedTitle": "2025년 3월 10일 주식 시장 뉴스"
-    },
-    {
-      "title": "3 Oil Stocks to Invest in Now as Crude Tumbles to 2025 Lows",
-      "url": "https://www.zacks.com/stock/news/2427798/3-oil-stocks-to-invest-in-now-as-crude-tumbles-to-2025-lows",
-      "time_published": "20250310T132900",
-      "authors": [
-        "Nilanjan Choudhury"
-      ],
-      "summary": "Scoop up three quality energy stocks - MTDR, PR and AMPY - that have been beaten down.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/4c/416.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.105619,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "MTDR",
-          "relevance_score": "0.189175",
-          "ticker_sentiment_score": "-0.004833",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PR",
-          "relevance_score": "0.31006",
-          "ticker_sentiment_score": "0.016824",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AMPY",
-          "relevance_score": "0.250386",
-          "ticker_sentiment_score": "0.002036",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "원유가 2025년 최저치로 폭락하면서 지금 투자할 3가지 석유 주식"
     }
   ]
 }
