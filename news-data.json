@@ -103,7 +103,34 @@
       "overall_sentiment_score": 0.049677,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "GSDP 증가 예상에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+    },
+    {
+      "title": "'Perhaps Ray Dalio Has Different Data, But Grok Thinks…'-Elon Musk Publicly Corrects The Legendary Investor Over China",
+      "url": "https://www.benzinga.com/news/25/03/44275192/perhaps-ray-dalio-has-different-data-but-grok-thinks-elon-musk-publicly-corrects-the-legendary-investor-over",
+      "time_published": "20250312T131520",
+      "authors": [
+        "Adrian Volenik"
+      ],
+      "summary": "Billionaire investor Ray Dalio recently made a strong statement about China's manufacturing edge, but Elon Musk quickly challenged his claim. Musk publicly corrected Dalio's statement, using data from Grok, his AI chatbot. This sparked a short conversation between two of the biggest names in ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/12/Elon-Musk-Slams-Attacks-On-Tesla-Vehicle_1.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.057515,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "'아마도 레이 달리오는 다른 데이터를 가지고 있을 수도 있지만, 그록은 생각한다…'-엘론 머스크가 중국에 대한 전설적인 투자자를 공개적으로 바로잡다"
     },
     {
       "title": "Should You Buy Stocks During the Nasdaq Correction? Evidence Is Piling Up and Here's What It Shows.",
@@ -276,128 +303,164 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
-      "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
-      "url": "https://www.benzinga.com/markets/eurozone/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine",
-      "time_published": "20250310T202639",
+      "title": "5 Financial Transaction Stocks in Focus Despite High Tech Expenses",
+      "url": "https://www.zacks.com/commentary/2428811/5-financial-transaction-stocks-in-focus-despite-high-tech-expenses",
+      "time_published": "20250312T131600",
       "authors": [
-        "Dan Schmidt"
+        "Debasmita Chatterjee"
       ],
-      "summary": "Global geopolitical tensions reached a new high after the contentious February 28 Oval Office meeting between Ukrainian President Volodymyr Zelenskyy and US President Donald Trump.",
-      "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcz_vG_KlxR1YFjEzC7CM5uirLdtpbjuTsj1DEa5dom-LiAvPzKDxxGg-QOEWA3cq3hC67yj-R92podeAkV2ykefZNcLkN1UI3IBZVO_wht8e15qkjdiyZYiIcR856Uojng01QU4g?key=bRH-zOh8yeo-luC60d2Cc_7K",
-      "source": "Benzinga",
-      "category_within_source": "Trading",
-      "source_domain": "www.benzinga.com",
+      "summary": "The Financial Transaction Services industry gains from strong cross-border volumes and active M&A endeavors. However, elevated technology expenses and inflationary pressures remain concerns. Companies like V, MA, FI, FIS and WU are likely to navigate industry storms.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/74/190.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
       "topics": [
         {
-          "topic": "Earnings",
-          "relevance_score": "0.999759"
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
         },
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
+          "relevance_score": "0.999922"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999986"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Energy & Transportation",
           "relevance_score": "1.0"
         }
       ],
-      "overall_sentiment_score": 0.237101,
+      "overall_sentiment_score": 0.346946,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "RYCEF",
-          "relevance_score": "0.138663",
-          "ticker_sentiment_score": "0.10047",
+          "ticker": "CURN",
+          "relevance_score": "0.02493",
+          "ticker_sentiment_score": "0.186099",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FIS",
+          "relevance_score": "0.099476",
+          "ticker_sentiment_score": "0.204868",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FI",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.103036",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "THLEF",
-          "relevance_score": "0.104228",
-          "ticker_sentiment_score": "0.10813",
+          "ticker": "MA",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.12352",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "BAESF",
-          "relevance_score": "0.104228",
-          "ticker_sentiment_score": "0.103902",
+          "ticker": "V",
+          "relevance_score": "0.099476",
+          "ticker_sentiment_score": "0.175948",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "III",
+          "relevance_score": "0.02493",
+          "ticker_sentiment_score": "0.090866",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "RNMBF",
-          "relevance_score": "0.034831",
-          "ticker_sentiment_score": "0.079411",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.034831",
-          "ticker_sentiment_score": "0.073104",
-          "ticker_sentiment_label": "Neutral"
+          "ticker": "WU",
+          "relevance_score": "0.124164",
+          "ticker_sentiment_score": "0.162526",
+          "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "트럼프가 우크라이나에 대한 무기 선적을 중단한 후 주목해야 할 6개 방위 주식 - Leonardo(OTC:FINMY), BAE Systems(OTC:BAESY)"
+      "translatedTitle": "하이테크 비용에도 불구하고 주목되는 5가지 금융 거래 주식"
     },
     {
-      "title": "6 Defense Stocks To Watch After Trump Halts Weapons Shipments To Ukraine - Leonardo  ( OTC:FINMY ) , BAE Systems  ( OTC:BAESY ) ",
-      "url": "https://www.benzinga.com/trading-ideas/25/03/44235106/6-defense-stocks-to-watch-after-trump-halts-weapons-shipments-to-ukraine",
-      "time_published": "20250310T202623",
+      "title": "Jazz Pharmaceuticals and Boston Beer Company have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://www.zacks.com/stock/news/2429040/jazz-pharmaceuticals-and-boston-beer-company-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+      "time_published": "20250312T125700",
       "authors": [
-        "Benzinga Research Team"
+        "Zacks Equity Research"
       ],
-      "summary": "Global geopolitical tensions reached a new high after the contentious February 28 Oval Office meeting between Ukrainian President Volodymyr Zelenskyy and US President Donald Trump.",
-      "banner_image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcz_vG_KlxR1YFjEzC7CM5uirLdtpbjuTsj1DEa5dom-LiAvPzKDxxGg-QOEWA3cq3hC67yj-R92podeAkV2ykefZNcLkN1UI3IBZVO_wht8e15qkjdiyZYiIcR856Uojng01QU4g?key=bRH-zOh8yeo-luC60d2Cc_7K",
-      "source": "Benzinga",
-      "category_within_source": "Trading",
-      "source_domain": "www.benzinga.com",
+      "summary": "Jazz Pharmaceuticals and Boston Beer Company are part of the Zacks Bull and Bear of the Day article.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c9/37456.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
       "topics": [
         {
-          "topic": "Earnings",
-          "relevance_score": "0.999759"
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
         },
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
           "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
         }
       ],
-      "overall_sentiment_score": 0.237101,
+      "overall_sentiment_score": 0.181633,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "RYCEF",
-          "relevance_score": "0.138663",
-          "ticker_sentiment_score": "0.10047",
+          "ticker": "CVX",
+          "relevance_score": "0.096671",
+          "ticker_sentiment_score": "0.109525",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "THLEF",
-          "relevance_score": "0.104228",
-          "ticker_sentiment_score": "0.10813",
+          "ticker": "JAZZ",
+          "relevance_score": "0.176209",
+          "ticker_sentiment_score": "0.180623",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KMI",
+          "relevance_score": "0.12865",
+          "ticker_sentiment_score": "0.125637",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "BAESF",
-          "relevance_score": "0.104228",
-          "ticker_sentiment_score": "0.103902",
+          "ticker": "SAM",
+          "relevance_score": "0.207571",
+          "ticker_sentiment_score": "-0.033623",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "RNMBF",
-          "relevance_score": "0.034831",
-          "ticker_sentiment_score": "0.079411",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.034831",
-          "ticker_sentiment_score": "0.073104",
+          "ticker": "CNQ",
+          "relevance_score": "0.112683",
+          "ticker_sentiment_score": "0.138017",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "트럼프가 우크라이나에 대한 무기 선적을 중단한 후 주목해야 할 6개 방위 주식 - Leonardo(OTC:FINMY), BAE Systems(OTC:BAESY)"
+      "translatedTitle": "Jazz Pharmaceuticals와 Boston Beer Company가 Zacks Bull and Bear of the Day로 선정되었습니다."
     },
     {
       "title": "Should US be pinning its economic hopes on a deal with China?",
@@ -520,7 +583,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -1458,7 +1521,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰도 하락세"
+      "translatedTitle": "중소기업 신뢰지수 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2261,7 +2324,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트, 2024년 4분기 및 연간 재무 결과 발표"
+      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트와 2024년 4분기 및 연간 재무 결과 발표"
     },
     {
       "title": "Brookfield Closes Infrastructure Structured Solutions Fund",
@@ -2545,37 +2608,6 @@
         }
       ],
       "translatedTitle": "SEALSQ는 다음 주 독일에서 열리는 임베디드 세계 전자 박람회에서 최신 양자 저항 칩 및 PKI 서비스를 선보일 예정입니다."
-    },
-    {
-      "title": "Quanex Building Products Announces First Quarter 2025 Results and Reaffirms Full Year 2025 Guidance",
-      "url": "https://www.globenewswire.com/news-release/2025/03/10/3040171/0/en/Quanex-Building-Products-Announces-First-Quarter-2025-Results-and-Reaffirms-Full-Year-2025-Guidance.html",
-      "time_published": "20250310T201500",
-      "authors": [
-        "Quanex Corporation"
-      ],
-      "summary": "Margin Expansion Realized on Consolidated BasisResults Lifted by Contribution from Tyman AcquisitionRealization of Cost Synergies from Tyman Acquisition Progressing Well$65 Million of Debt Repaid Since Closing Tyman Acquisition ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/fb454b9e-8c81-4d9a-bf1e-befe0cfa9c41",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999998"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.972756"
-        }
-      ],
-      "overall_sentiment_score": 0.188782,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "Quanex Building Products, 2025년 1분기 실적 발표 및 2025년 통년 지침 재확인"
     }
   ]
 }
