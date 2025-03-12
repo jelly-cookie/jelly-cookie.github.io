@@ -118,31 +118,27 @@
       "translatedTitle": "Dick's Sporting Goods는 경기 침체에 대한 우려가 확산되면서 2025년이 험난할 것이라고 예측한 최신 리테일러입니다."
     },
     {
-      "title": "Despite projected GSDP rise, Maharashtra to strive hard for $1 trillion economy target - ETCFO",
-      "url": "https://cfo.economictimes.indiatimes.com/news/economy/despite-projected-gsdp-rise-maharashtra-to-strive-hard-for-1-trillion-economy-target/118876794",
-      "time_published": "20250311T061818",
+      "title": "SKILLS, STUDIOS, SECONDMENTS: TIGA GAMES EDUCATION CONFERENCE RETURNS FOR 2025",
+      "url": "https://www.benzinga.com/pressreleases/25/03/n44283997/skills-studios-secondments-tiga-games-education-conference-returns-for-2025",
+      "time_published": "20250312T171800",
       "authors": [
-        "ETCFO"
+        "PRNewswire"
       ],
-      "summary": "Even as Maharashtra's gross state domestic product (GSDP) is expected to be Rs 49,39,355 crore in 2025-26 from Rs 45,31,518 crore as per the revised estimate for 2024-25, the state will have to strive hard for $1 trillion economy target.",
-      "banner_image": "https://iansportalimages.s3.amazonaws.com/thumbnails/202503113348484.jpg",
-      "source": "Economic Times",
-      "category_within_source": "Economy",
-      "source_domain": "cfo.economictimes.indiatimes.com",
+      "summary": "LONDON, March 12, 2025 /PRNewswire/ -- TIGA, the trade association representing the UK video games industry, has announced that its Games Education Conference will return this year, taking place on Thursday July 3rd at Birmingham City University.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
       "topics": [
         {
-          "topic": "Earnings",
-          "relevance_score": "0.658903"
-        },
-        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.451494"
+          "relevance_score": "0.310843"
         }
       ],
-      "overall_sentiment_score": 0.049677,
-      "overall_sentiment_label": "Neutral",
+      "overall_sentiment_score": 0.429405,
+      "overall_sentiment_label": "Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "예상 GSDP 증가에도 불구하고 마하라슈트라, 1조 달러 경제 목표 달성 위해 노력 - ETCFO"
+      "translatedTitle": "기술, 스튜디오, 파견: TIGA GAMES 교육 컨퍼런스가 2025년에 돌아옵니다"
     },
     {
       "title": "'Perhaps Ray Dalio Has Different Data, But Grok Thinks…'-Elon Musk Publicly Corrects The Legendary Investor Over China",
@@ -340,6 +336,196 @@
         }
       ],
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
+    },
+    {
+      "title": "Is Target Stock a Buy or Sell After Its Latest Q4 Earnings Report?",
+      "url": "https://www.zacks.com/stock/news/2429104/is-target-stock-a-buy-or-sell-after-its-latest-q4-earnings-report",
+      "time_published": "20250312T150500",
+      "authors": [
+        "Sumit Singh"
+      ],
+      "summary": "Despite short-term headwinds, Target's $15B sales growth plan, digital expansion and AI-driven efficiencies set it up for long-term success.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998356"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.96136"
+        }
+      ],
+      "overall_sentiment_score": 0.255054,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.520385",
+          "ticker_sentiment_score": "0.37902",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DG",
+          "relevance_score": "0.070414",
+          "ticker_sentiment_score": "0.085382",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.070414",
+          "ticker_sentiment_score": "0.085382",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.070414",
+          "ticker_sentiment_score": "0.085382",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
+    },
+    {
+      "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
+      "url": "https://www.zacks.com/stock/news/2429211/citigroup-stock-falls-179-in-a-month-should-you-buy-the-dip",
+      "time_published": "20250312T150000",
+      "authors": [
+        "Riya Anand"
+      ],
+      "summary": "C's business restructuring efforts and focus on core operations provide a solid foundation for growth despite the volatile market backdrop.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/33/496.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99999"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.107111,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.124378",
+          "ticker_sentiment_score": "0.032676",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.083107",
+          "ticker_sentiment_score": "-0.049273",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.398148",
+          "ticker_sentiment_score": "0.185339",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "시티그룹 주가가 한 달 만에 17.9% 하락: 저점에 매수해야 할까?"
+    },
+    {
+      "title": "RTX to Lead Engine Integration for JetZero: To Buy or Hold the Stock?",
+      "url": "https://www.zacks.com/stock/news/2429094/rtx-to-lead-engine-integration-for-jetzero-to-buy-or-hold-the-stock",
+      "time_published": "20250312T145800",
+      "authors": [
+        "Aparajita Dutta"
+      ],
+      "summary": "Investors interested in RTX stock should wait for a better entry point, considering its premium valuation.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/be/139.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.994953"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.346007,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "RKLB",
+          "relevance_score": "0.126119",
+          "ticker_sentiment_score": "0.191609",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TDG",
+          "relevance_score": "0.126119",
+          "ticker_sentiment_score": "0.191609",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LDOS",
+          "relevance_score": "0.126119",
+          "ticker_sentiment_score": "0.191609",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RTX",
+          "relevance_score": "0.47452",
+          "ticker_sentiment_score": "0.452039",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "RTX, JetZero 엔진 통합을 주도한다: 주식을 매수할지, 보유할지?"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar and Cintas",
@@ -704,7 +890,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -2445,7 +2631,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트와 2024년 4분기 및 연간 재무 결과 발표"
+      "translatedTitle": "Xilio Therapeutics, 파이프라인 및 사업 업데이트, 2024년 4분기 및 연간 재무 결과 발표"
     },
     {
       "title": "Brookfield Closes Infrastructure Structured Solutions Fund",
@@ -2494,152 +2680,6 @@
         }
       ],
       "translatedTitle": "Brookfield, 인프라 구조화 솔루션 펀드 마감"
-    },
-    {
-      "title": "Crypto's Brutal Weeks Might Be Over. Here's What to Buy With $1,000.",
-      "url": "https://www.fool.com/investing/2025/03/11/cryptos-brutal-weeks-might-be-over-heres-what-to-b/",
-      "time_published": "20250311T090000",
-      "authors": [
-        "Alex Carchidi"
-      ],
-      "summary": "It is an understatement to say that it hasn't been a good few weeks for Bitcoin ( CRYPTO: BTC ) , XRP ( CRYPTO: XRP ) , Solana ( CRYPTO: SOL ) , and other crypto assets. Between the opening skirmishes of a trade war, major new cryptocurrency policy and enforcement announcements, increasingly ...",
-      "banner_image": "https://media.ycharts.com/charts/7697233ca4fb7d76b89f9a7ba72bfd56.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.684621"
-        }
-      ],
-      "overall_sentiment_score": 0.070396,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CURN",
-          "relevance_score": "0.057907",
-          "ticker_sentiment_score": "-0.036018",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.337044",
-          "ticker_sentiment_score": "0.067291",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "크립토의 잔혹한 주간이 끝났을지도 모릅니다. 1,000달러로 살 수 있는 것은 다음과 같습니다."
-    },
-    {
-      "title": "Bitcoin, Ethereum Prices Extend Losses as Stocks Sag-What's Next for Markets?",
-      "url": "https://decrypt.co/309479/bitcoin-ethereum-prices-extend-losses-as-stocks-sag-whats-next-for-markets",
-      "time_published": "20250311T012652",
-      "authors": [
-        "Sebastian Sinclair"
-      ],
-      "summary": "Stocks and crypto fell ahead of inflation data and Fed signals despite Trump moving to ease crypto banking restrictions.",
-      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/08/bitcoin-ethereum-btc-eth-red-light-gID_7.png",
-      "source": "Decrypt.co",
-      "category_within_source": "n/a",
-      "source_domain": "decrypt.co",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.9973"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.182311,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.174167",
-          "ticker_sentiment_score": "-0.175419",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.116631",
-          "ticker_sentiment_score": "-0.199219",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "비트코인과 이더리움 가격 하락, 주가 폭락으로 이어지다-앞으로 시장은 어떻게 될까?"
-    },
-    {
-      "title": "Delta Air Lines Cuts Q1 Guidance Below Estimates: Airline Stocks Fall - Delta Air Lines  ( NYSE:DAL ) ",
-      "url": "https://www.benzinga.com/general/travel/25/03/44237055/delta-air-lines-cuts-q1-guidance-below-estimates-airline-stocks-fall",
-      "time_published": "20250310T212649",
-      "authors": [
-        "Erica Kollmann"
-      ],
-      "summary": "Delta now expects total revenue growth for the March quarter of 3% to 4% year-over-year, down from earlier forecasts of 7% to 9%. The airline cuts its EPS guidance to between 30 cents and 50 cents per share, down from 70 cents to $1.00 per share.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/10/Delta-Airlines.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.796627"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.967645"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.242794,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "AAL",
-          "relevance_score": "0.210274",
-          "ticker_sentiment_score": "-0.301115",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "UAL",
-          "relevance_score": "0.210274",
-          "ticker_sentiment_score": "-0.301115",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "DAL",
-          "relevance_score": "0.495015",
-          "ticker_sentiment_score": "0.316475",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "델타 항공, 1분기 지침을 추정치 이하로 삭감: 항공사 주가 하락 - 델타 항공(NYSE:DAL)"
     }
   ]
 }
