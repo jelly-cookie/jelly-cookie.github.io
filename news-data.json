@@ -263,6 +263,96 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Churchill Downs Incorporated Announces New $500 Million Share Repurchase Program",
+      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041785/12388/en/Churchill-Downs-Incorporated-Announces-New-500-Million-Share-Repurchase-Program.html",
+      "time_published": "20250312T205400",
+      "authors": [
+        "Churchill Downs Incorporated"
+      ],
+      "summary": "LOUISVILLE, Ky., March 12, 2025 ( GLOBE NEWSWIRE ) -- Churchill Downs Incorporated ( \"CDI\" or \"the Company\" ) ( Nasdaq: CHDN ) announced today that the Company's Board of Directors approved a $500 million share repurchase program. The new share repurchase program replaces the prior $500 million ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/667a7329-b6d8-4919-90bb-bc97849a9f64",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": -0.064034,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CHDN",
+          "relevance_score": "0.166169",
+          "ticker_sentiment_score": "0.148405",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Churchill Downs Incorporated, 5억 달러 규모의 신규 주식 재매수 프로그램 발표"
+    },
+    {
+      "title": "Nasdaq Correction: Can Buying These 2 Safe Stocks Today Set You Up for Life?",
+      "url": "https://www.fool.com/investing/2025/03/12/nasdaq-correction-can-buying-these-2-safe-stocks-t/",
+      "time_published": "20250312T203000",
+      "authors": [
+        "Brett Schafer"
+      ],
+      "summary": "These two blue chip stocks should durably grow over the next 10 years.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/810850/guy-looking-at-phoen-concerned.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999767"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999986"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.087632,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.475838",
+          "ticker_sentiment_score": "0.280465",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.627457",
+          "ticker_sentiment_score": "-0.069551",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "나스닥 조정: 오늘 이 2개의 안전 주식을 사면 평생을 보장받을 수 있을까?"
+    },
+    {
       "title": "Cheetah Net Supply Chain Service Inc. Announces Full Year 2024 Results and Provides Corporate Update",
       "url": "https://www.globenewswire.com/news-release/2025/03/12/3041760/0/en/Cheetah-Net-Supply-Chain-Service-Inc-Announces-Full-Year-2024-Results-and-Provides-Corporate-Update.html",
       "time_published": "20250312T201000",
@@ -1078,7 +1168,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -2016,7 +2106,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰도 하락세"
+      "translatedTitle": "중소기업 신뢰지수 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2635,122 +2725,6 @@
         }
       ],
       "translatedTitle": "Interactive Brokers 주가가 한 달 만에 27.4% 폭락: 저점에서 매수해야 할까?"
-    },
-    {
-      "title": "Here's Why Bank Stocks Tumbled Over Rising Recession Fears",
-      "url": "https://www.zacks.com/stock/news/2428214/heres-why-bank-stocks-tumbled-over-rising-recession-fears",
-      "time_published": "20250311T123000",
-      "authors": [
-        "Swayta Shah"
-      ],
-      "summary": "With risks of recession rising, bank stocks, including JPM, MS, WFC, C and GS, plunge. Let's find out the reasons for the crash.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d0/36722.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.929393"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": -0.13306,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "C",
-          "relevance_score": "0.208166",
-          "ticker_sentiment_score": "0.0361",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GS",
-          "relevance_score": "0.208166",
-          "ticker_sentiment_score": "0.0361",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WFC",
-          "relevance_score": "0.208166",
-          "ticker_sentiment_score": "0.0361",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.070105",
-          "ticker_sentiment_score": "-0.073864",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.208166",
-          "ticker_sentiment_score": "0.0361",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "경기 침체 우려 증가로 은행 주식이 폭락한 이유는 다음과 같습니다."
-    },
-    {
-      "title": "Kohl's shares plunge 15% as retailer gives rough outlook for the year ahead",
-      "url": "https://www.cnbc.com/2025/03/11/kohls-kss-q4-2024-earnings.html",
-      "time_published": "20250311T121911",
-      "authors": [],
-      "summary": "Kohl's posted a beat on revenue for the fourth quarter on Tuesday, but issued disappointing guidance for the year ahead.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Earnings",
-      "source_domain": "www.cnbc.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.994953"
-        }
-      ],
-      "overall_sentiment_score": -0.036084,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "DKS",
-          "relevance_score": "0.100729",
-          "ticker_sentiment_score": "-0.128641",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KSS",
-          "relevance_score": "0.794423",
-          "ticker_sentiment_score": "-0.080691",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Kohl's 주가, 소매업체가 내년에 대한 암울한 전망을 내놓으며 15% 폭락"
     }
   ]
 }
