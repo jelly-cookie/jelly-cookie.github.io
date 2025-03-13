@@ -383,6 +383,92 @@
       "translatedTitle": "말레이시아, ASEAN 디지털 미래의 핵심 허브로 부상"
     },
     {
+      "title": "Zacks Industry Outlook Highlights Visa, Mastercard, Fiserv, Fidelity National Information Services and The Western Union",
+      "url": "https://www.zacks.com/stock/news/2429742/zacks-industry-outlook-highlights-visa-mastercard-fiserv-fidelity-national-information-services-and-the-western-union",
+      "time_published": "20250313T142200",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Visa, Mastercard, Fiserv, Fidelity National Information Services and The Western Union are part of the Zacks Industry Outlook article.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/be/1935.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999976"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999986"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.346711,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.023649",
+          "ticker_sentiment_score": "0.349529",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FIS",
+          "relevance_score": "0.117832",
+          "ticker_sentiment_score": "0.173915",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FI",
+          "relevance_score": "0.09439",
+          "ticker_sentiment_score": "0.014918",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.09439",
+          "ticker_sentiment_score": "0.046964",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "V",
+          "relevance_score": "0.117832",
+          "ticker_sentiment_score": "0.123597",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "III",
+          "relevance_score": "0.047278",
+          "ticker_sentiment_score": "-0.038822",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WU",
+          "relevance_score": "0.141171",
+          "ticker_sentiment_score": "0.083683",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Zacks 산업 전망은 Visa, Mastercard, Fiserv, Fidelity National Information Services 및 The Western Union을 강조합니다."
+    },
+    {
       "title": "XRP Spikes 4% As Ripple Gains Approval To Offer Crypto Payments In Dubai",
       "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44303516/xrp-spikes-4-as-ripple-gains-approval-to-offer-crypto-payments-in-dubai",
       "time_published": "20250313T140308",
@@ -427,6 +513,104 @@
         }
       ],
       "translatedTitle": "XRP, Ripple이 두바이에서 암호화폐 결제를 제공하도록 승인받으면서 4% 급등"
+    },
+    {
+      "title": "'s Market Volatility Toolkit",
+      "url": "https://www.fool.com/investing/general/2025/03/13/the-motley-fools-market-volatility-toolkit/",
+      "time_published": "20250313T134708",
+      "authors": [
+        "The Premium Team"
+      ],
+      "summary": "Long-Term Perspective and Practical Steps for Uncertain Times ...",
+      "banner_image": "https://g.foolcdn.com/misc-assets/market-kit-cover.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.857896"
+        }
+      ],
+      "overall_sentiment_score": -0.041937,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.033703",
+          "ticker_sentiment_score": "-0.2871",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "ANET",
+          "relevance_score": "0.033703",
+          "ticker_sentiment_score": "0.109669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.033703",
+          "ticker_sentiment_score": "-0.147158",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVO",
+          "relevance_score": "0.033703",
+          "ticker_sentiment_score": "0.17481",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.016855",
+          "ticker_sentiment_score": "0.065858",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BBY",
+          "relevance_score": "0.033703",
+          "ticker_sentiment_score": "-0.2871",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.033703",
+          "ticker_sentiment_score": "-0.2871",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "'s 시장 변동성 툴킷"
     },
     {
       "title": "Acme United Corporation Board Approves Cash Dividend - Acme United  ( AMEX:ACU ) ",
@@ -914,7 +1098,7 @@
       "overall_sentiment_score": -0.019694,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에 대한 세금 면제를 원치 않는다고 하워드 루트닉이 말했다. '그게 내가 일하는 이유야'"
+      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
     },
     {
       "title": "Trump Wants No Tax For Americans Making Less Than $150,000 A Year, Says Howard Lutnick: 'That's What I'm Working For'",
@@ -1927,7 +2111,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -2325,87 +2509,6 @@
         }
       ],
       "translatedTitle": "ARK Invest의 Cathie Wood, AI 기반 생산성이 임박하면서 순환 경기 침체가 끝날 것으로 예측"
-    },
-    {
-      "title": "Most Asian stocks drop as Trump trade policy sows uncertainty - ETCFO",
-      "url": "https://cfo.economictimes.indiatimes.com/news/economy/most-asian-stocks-drop-as-trump-trade-policy-sows-uncertainty/118914642",
-      "time_published": "20250312T031710",
-      "authors": [
-        "ETCFO"
-      ],
-      "summary": "Asian equities mostly fell Wednesday as investors fret over Donald Trump's ever-changing trade policies amid increasing concern that his tariffs could send the US economy into recession. But Hong Kong, Shanghai, Singapore, Wellington and Manila were in the red, with Sydney down more than one ...",
-      "banner_image": "https://st.etb2bimg.com/Themes/Release/theme4/images/bar-codes/cfo_barcode.png?mod=2851",
-      "source": "Economic Times",
-      "category_within_source": "Economy",
-      "source_domain": "cfo.economictimes.indiatimes.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.838487"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.684621"
-        }
-      ],
-      "overall_sentiment_score": -0.211119,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "GLP",
-          "relevance_score": "0.061159",
-          "ticker_sentiment_score": "-0.278772",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "FOREX:JPY",
-          "relevance_score": "0.182047",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.121959",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프 무역 정책으로 불확실성 확산, 아시아 주식 대부분 하락 - ETCFO"
-    },
-    {
-      "title": "Ray Dalio Warns US Debt Crisis Could Trigger 'Shocking Developments' Calls To Reduce Deficit At 3% Of GDP",
-      "url": "https://www.benzinga.com/markets/25/03/44267663/ray-dalio-warns-us-debt-crisis-could-trigger-shocking-developments-calls-to-reduce-deficit-at-3-of-gdp",
-      "time_published": "20250312T025244",
-      "authors": [
-        "Kaustubh Bagalkote"
-      ],
-      "summary": "Bridgewater Associates founder Ray Dalio warned on Wednesday that the United States faces a \"very severe\" supply-demand problem that could lead to \"shocking developments\" in the near future.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/11/Billionaire-Investor-Ray-Dalio-Warns-Of-.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.105953,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "레이 달리오, 미국 부채 위기가 '충격적인 전개'를 촉발할 수 있다고 경고, GDP의 3% 적자 감소 촉구"
     }
   ]
 }
