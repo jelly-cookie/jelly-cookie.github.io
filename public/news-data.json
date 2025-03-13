@@ -43,6 +43,52 @@
       "translatedTitle": "마라라고 아코드, 마라라고 아코드"
     },
     {
+      "title": "Duluth Holdings Inc. Announces Fourth Quarter and Fiscal 2024 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/03/13/3041962/37060/en/Duluth-Holdings-Inc-Announces-Fourth-Quarter-and-Fiscal-2024-Financial-Results.html",
+      "time_published": "20250313T094500",
+      "authors": [
+        "Duluth Trading Company"
+      ],
+      "summary": "Net Sales of $241.3 million in the fourth quarter and $626.6 million for the full fiscal yearLiquidity of $103.3 million with no debt on the credit facility ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/8277448e-a0b3-41c9-9992-4420d8b2df0d/250313-dlht-picture1.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.980922"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.098741,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DLTH",
+          "relevance_score": "0.223659",
+          "ticker_sentiment_score": "0.046799",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
+    },
+    {
       "title": "SKILLS, STUDIOS, SECONDMENTS: TIGA GAMES EDUCATION CONFERENCE RETURNS FOR 2025",
       "url": "https://www.benzinga.com/pressreleases/25/03/n44283997/skills-studios-secondments-tiga-games-education-conference-returns-for-2025",
       "time_published": "20250312T171800",
@@ -263,6 +309,44 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "U.S. Federal Spending For February Touches A Record $603 Billion Despite Musk's DOGE Initiative - Tesla  ( NASDAQ:TSLA ) ",
+      "url": "https://www.benzinga.com/25/03/44297088/us-federal-spending-reaches-unprecedented-605-billion-despite-musks-doge-initiative",
+      "time_published": "20250313T095414",
+      "authors": [
+        "Namrata Sen"
+      ],
+      "summary": "The U.S. federal spending hit a record-breaking $603.4 billion last month, despite the efficiency drive led by Tesla CEO Elon Musk. What Happened: Despite Musk's efforts to streamline government operations through his Department of Government Efficiency ( DOGE ) , U.S. federal spending has soared ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/DOGE-Staffers-Reportedly-Draw-Hefty-Sala.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.146795,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.085022",
+          "ticker_sentiment_score": "-0.004198",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "2월 미국 연방 지출, 머스크의 DOGE 이니셔티브에도 불구하고 기록적인 6,030억 달러에 도달 - Tesla ( NASDAQ:TSLA )"
+    },
+    {
       "title": "Macroscope | Trump's trade war is giving Europe and China the nudge they need",
       "url": "https://www.scmp.com/opinion/world-opinion/article/3302172/trumps-trade-war-giving-europe-and-china-nudge-they-need",
       "time_published": "20250313T083007",
@@ -402,7 +486,7 @@
       "overall_sentiment_score": -0.019694,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
+      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에 대한 세금 면제를 원치 않는다고 하워드 루트닉이 말했다. '그게 내가 일하는 이유야'"
     },
     {
       "title": "Trump Wants No Tax For Americans Making Less Than $150,000 A Year, Says Howard Lutnick: 'That's What I'm Working For'",
@@ -920,7 +1004,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
     },
     {
       "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
@@ -1415,7 +1499,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -2061,7 +2145,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
+      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -2099,7 +2183,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -2496,126 +2580,6 @@
         }
       ],
       "translatedTitle": "장전 거래가 아침 초반의 이익을 녹여내다"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Frontline, FLEX LNG and Golden Ocean",
-      "url": "https://www.zacks.com/stock/news/2428411/zacks-industry-outlook-highlights-frontline-flex-lng-and-golden-ocean",
-      "time_published": "20250311T142500",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Frontline, FLEX LNG and Golden Ocean are part of the Zacks Industry Outlook article.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3c/755.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.962106"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.890401"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.024272,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "GOGL",
-          "relevance_score": "0.207868",
-          "ticker_sentiment_score": "0.152358",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "FRO",
-          "relevance_score": "0.241512",
-          "ticker_sentiment_score": "0.115602",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FLNG",
-          "relevance_score": "0.207868",
-          "ticker_sentiment_score": "0.293958",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Zacks Industry Outlook은 Frontline, FLEX LNG 및 Golden Ocean을 강조합니다."
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Carrier Global, Comfort Systems USA and The AZEK Company",
-      "url": "https://www.zacks.com/stock/news/2428402/zacks-industry-outlook-highlights-carrier-global-comfort-systems-usa-and-the-azek-company",
-      "time_published": "20250311T141700",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Carrier Global, Comfort Systems USA and The AZEK Company are part of the Zacks Industry Outlook article.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7a/15706.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.723405"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999999"
-        },
-        {
-          "topic": "Real Estate & Construction",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        }
-      ],
-      "overall_sentiment_score": 0.268858,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "FIX",
-          "relevance_score": "0.114137",
-          "ticker_sentiment_score": "0.229358",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "AZEK",
-          "relevance_score": "0.170475",
-          "ticker_sentiment_score": "0.257746",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CARR",
-          "relevance_score": "0.132995",
-          "ticker_sentiment_score": "0.253556",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Zacks Industry Outlook은 Carrier Global, Comfort Systems USA 및 The AZEK Company를 강조합니다."
     }
   ]
 }
