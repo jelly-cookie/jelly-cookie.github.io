@@ -405,6 +405,37 @@
       "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
     },
     {
+      "title": "Trump Wants No Tax For Americans Making Less Than $150,000 A Year, Says Howard Lutnick: 'That's What I'm Working For'",
+      "url": "https://www.benzinga.com/markets/25/03/44295365/trump-wants-no-tax-for-americans-making-less-than-150000-a-year-says-howard-lutnick-thats-what-im-working",
+      "time_published": "20250313T065747",
+      "authors": [
+        "Namrata Sen"
+      ],
+      "summary": "U.S. Commerce Secretary Howard Lutnick said that President Donald Trump wants to eliminate taxes for individuals earning less than $150,000 per year. What Happened: Lutnick, in a CBS News interview on Tuesday, shared Trump's tax objective. \"I know what his ( Trump's ) goal is… no tax, for anybody ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/Trump-Restores-Ukraine-Aid-After-Threate_2.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": -0.019694,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "트럼프, 연봉 15만 달러 이하 미국인에 대한 세금 면제를 원치 않아, 하워드 루트닉: \"그게 내가 일하는 이유\""
+    },
+    {
       "title": "What Japan can teach the US in an age of boycotts",
       "url": "https://www.ft.com/content/a9d45e75-9d49-4a58-8eac-0be2b5676531",
       "time_published": "20250313T050037",
@@ -1384,7 +1415,7 @@
       "overall_sentiment_score": 0.304439,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 약속 강화 - Castellum (AMEX:CTM)"
+      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
     },
     {
       "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
@@ -2030,7 +2061,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
+      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -2068,7 +2099,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -2585,58 +2616,6 @@
         }
       ],
       "translatedTitle": "Zacks Industry Outlook은 Carrier Global, Comfort Systems USA 및 The AZEK Company를 강조합니다."
-    },
-    {
-      "title": "Stock Market News for Mar 11, 2025",
-      "url": "https://www.zacks.com/stock/news/2428176/stock-market-news-for-mar-11-2025",
-      "time_published": "20250311T132100",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Wall Street closed sharply lower on Monday, pulled down by tech and discretionary stocks.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.839681"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": -0.083383,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.068698",
-          "ticker_sentiment_score": "0.209088",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "MRVL",
-          "relevance_score": "0.068698",
-          "ticker_sentiment_score": "0.209088",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "2025년 3월 11일 주식 시장 뉴스"
     }
   ]
 }
