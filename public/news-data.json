@@ -383,6 +383,40 @@
       "translatedTitle": "말레이시아, ASEAN 디지털 미래의 핵심 허브로 부상"
     },
     {
+      "title": "Trump Administration Focused On Real Economy, Not Market Swings, Says Treasury Secretary Bessent",
+      "url": "https://www.benzinga.com/news/25/03/44309155/trump-administration-focused-on-real-economy-not-market-swings-says-treasury-secretary-bessent",
+      "time_published": "20250313T163114",
+      "authors": [
+        "Murtuza Merchant"
+      ],
+      "summary": "Polymarket shows 87% chance of EU tariffs on U.S. by May, up 16%, impacting bourbon industry. Morgan McGarvey warns 50% EU tariffs on whiskey could devastate Kentucky's bourbon jobs, farmers to bottlers.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/DOGE-Thanks-Treasury-Department.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.024559,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.076847",
+          "ticker_sentiment_score": "-0.109331",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프 행정부는 시장 변동이 아닌 실물 경제에 집중하고 있다고 재무부 장관 베센트가 말하다"
+    },
+    {
       "title": "Zacks Industry Outlook Highlights Visa, Mastercard, Fiserv, Fidelity National Information Services and The Western Union",
       "url": "https://www.zacks.com/stock/news/2429742/zacks-industry-outlook-highlights-visa-mastercard-fiserv-fidelity-national-information-services-and-the-western-union",
       "time_published": "20250313T142200",
@@ -2467,48 +2501,6 @@
         }
       ],
       "translatedTitle": "Palantir, 국방부가 현대전에 1% 미만을 지출하는 가운데 '소프트웨어 우선 접근 방식'을 요구 - Tesla(NASDAQ:TSLA), Palantir Technologies(NASDAQ:PLTR)"
-    },
-    {
-      "title": "ARK Invest's Cathie Wood Predicts End of Rolling Recession Amid Looming AI-Driven Productivity",
-      "url": "https://decrypt.co/309608/ark-invests-cathie-wood-predicts-end-of-rolling-recession-amid-looming-ai-driven-productivity",
-      "time_published": "20250312T033032",
-      "authors": [
-        "Jose Antonio Lanz"
-      ],
-      "summary": "Cathie Wood foresees 7.3% GDP growth, while claiming the biggest productivity gains in history lie just ahead.",
-      "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/03/ARKK_2025-03-11_19-55-59.png@webp",
-      "source": "Decrypt.co",
-      "category_within_source": "n/a",
-      "source_domain": "decrypt.co",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.77141"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.131143,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.096091",
-          "ticker_sentiment_score": "-0.115358",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "ARK Invest의 Cathie Wood, AI 기반 생산성이 임박하면서 순환 경기 침체가 끝날 것으로 예측"
     }
   ]
 }
