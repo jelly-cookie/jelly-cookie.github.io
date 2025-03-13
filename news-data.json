@@ -263,6 +263,117 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Macroscope | Trump's trade war is giving Europe and China the nudge they need",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3302172/trumps-trade-war-giving-europe-and-china-nudge-they-need",
+      "time_published": "20250313T083007",
+      "authors": [
+        "Nicholas Spiro"
+      ],
+      "summary": "While the tide has not fully turned in Europe and China's favour, Trump's recklessness is providing impetus for badly needed policy shifts.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/13/789b6b62-5036-419d-8b74-f43085bdd263_595de0ff.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.135452,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SCGLF",
+          "relevance_score": "0.039548",
+          "ticker_sentiment_score": "0.140771",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.118257",
+          "ticker_sentiment_score": "0.119034",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.039548",
+          "ticker_sentiment_score": "0.101397",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "매크로스코프 | 트럼프의 무역전쟁은 유럽과 중국에 필요한 동기를 제공하고 있다"
+    },
+    {
+      "title": "Social Security Retirees Just Got Bad News From Washington",
+      "url": "https://www.fool.com/retirement/2025/03/13/social-security-retirees-bad-news-from-washington/",
+      "time_published": "20250313T070500",
+      "authors": [
+        "Trevor Jennewine"
+      ],
+      "summary": "President Trump returned the White House for a second term less than two months ago, but he has already signaled a dramatic shift in Washington's trade policy. Specifically, the Trump administration has imposed or plans to impose numerous tariffs, including the following:While the ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810793%2Fsocial-security-20.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": -0.123385,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "사회보장 퇴직자들은 워싱턴에서 나쁜 소식을 접했습니다."
+    },
+    {
+      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/13/3041885/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+      "time_published": "20250313T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
+    },
+    {
       "title": "Trump Wants No Tax For Anybody Making Less Than $150,000 a year, Says Howard Lutnick. 'That's What I'm Working For'",
       "url": "https://www.benzinga.com/25/03/44295365/trump-wants-no-tax-for-anybody-making-less-than-150000-a-year-says-howard-lutnick-thats-what-im-working-for",
       "time_published": "20250313T065754",
@@ -1919,7 +2030,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
+      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -1957,7 +2068,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -2526,204 +2637,6 @@
         }
       ],
       "translatedTitle": "2025년 3월 11일 주식 시장 뉴스"
-    },
-    {
-      "title": "Rivian Stock Down 23% in 3 Months: Is the Dip Worth Buying Now?",
-      "url": "https://www.zacks.com/stock/news/2428174/rivian-stock-down-23-in-3-months-is-the-dip-worth-buying-now",
-      "time_published": "20250311T131900",
-      "authors": [
-        "Rimmi Singhi"
-      ],
-      "summary": "Policy uncertainty under Trump, slowing EV demand, weak delivery guidance and the company's cash burn create headwinds for RIVN.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ee/14714.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.996023"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.333333"
-        }
-      ],
-      "overall_sentiment_score": 0.076019,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BAC",
-          "relevance_score": "0.037622",
-          "ticker_sentiment_score": "-0.034708",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "RIVN",
-          "relevance_score": "0.18645",
-          "ticker_sentiment_score": "-0.009594",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AMZN",
-          "relevance_score": "0.112532",
-          "ticker_sentiment_score": "0.043553",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "리비안 주가가 3개월 만에 23% 하락: 지금 주가 하락을 매수할 가치가 있을까?"
-    },
-    {
-      "title": "3 High-Yield Energy Giants for Stability in Volatile Markets",
-      "url": "https://www.zacks.com/stock/news/2428344/3-high-yield-energy-giants-for-stability-in-volatile-markets",
-      "time_published": "20250311T131800",
-      "authors": [
-        "Nilanjan Choudhury"
-      ],
-      "summary": "Investors looking for stable, income-generating assets for their portfolios may focus on large-cap energy stocks like WMB, CVX and KMI.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/74/780.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.413559"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.233635,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CVX",
-          "relevance_score": "0.242406",
-          "ticker_sentiment_score": "0.140282",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KMI",
-          "relevance_score": "0.33433",
-          "ticker_sentiment_score": "0.132226",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CNQ",
-          "relevance_score": "0.242406",
-          "ticker_sentiment_score": "0.115969",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "변동성 있는 시장에서 안정성을 위한 3대 고수익 에너지 거대 기업"
-    },
-    {
-      "title": "Buy 5 Non-Tech High-Flying Nasdaq Stocks Amid Index's Recent Bloodbath",
-      "url": "https://www.zacks.com/stock/news/2428172/buy-5-non-tech-high-flying-nasdaq-stocks-amid-indexs-recent-bloodbath",
-      "time_published": "20250311T131200",
-      "authors": [
-        "Nalak Das"
-      ],
-      "summary": "We have narrowed our search to five Nasdaq Composite-listed non-tech stocks that have provided double-digit returns year to date. These are: EXC, GILD, PAA, SRAD, CTAS.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/45/88292.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999976"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.26045,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "EXC",
-          "relevance_score": "0.16849",
-          "ticker_sentiment_score": "0.13225",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PAA",
-          "relevance_score": "0.196041",
-          "ticker_sentiment_score": "0.150319",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "GILD",
-          "relevance_score": "0.196041",
-          "ticker_sentiment_score": "0.272906",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CTAS",
-          "relevance_score": "0.277118",
-          "ticker_sentiment_score": "0.359652",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "SRAD",
-          "relevance_score": "0.140731",
-          "ticker_sentiment_score": "0.151723",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "지수의 최근 폭락 속에서 비기술 주식 5개를 매수하세요"
     }
   ]
 }
