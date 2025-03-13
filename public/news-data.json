@@ -263,6 +263,37 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Trump Wants No Tax For Anybody Making Less Than $150,000 a year, Says Howard Lutnick. 'That's What I'm Working For'",
+      "url": "https://www.benzinga.com/25/03/44295365/trump-wants-no-tax-for-anybody-making-less-than-150000-a-year-says-howard-lutnick-thats-what-im-working-for",
+      "time_published": "20250313T065754",
+      "authors": [
+        "Namrata Sen"
+      ],
+      "summary": "U.S. Commerce Secretary Howard Lutnick said that President Donald Trump wants to eliminate taxes for individuals earning less than $150,000 per year. What Happened: Lutnick, in a CBS News interview on Tuesday, shared Trump's tax objective. \"I know what his ( Trump's ) goal is… no tax, for anybody ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/Trump-Restores-Ukraine-Aid-After-Threate.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": -0.019694,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
+    },
+    {
       "title": "What Japan can teach the US in an age of boycotts",
       "url": "https://www.ft.com/content/a9d45e75-9d49-4a58-8eac-0be2b5676531",
       "time_published": "20250313T050037",
@@ -1888,7 +1919,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
+      "translatedTitle": "Sirius XM이 오늘 급락한 이유"
     },
     {
       "title": "Here's Why UPS Stock Isn't Delivering Today",
@@ -2180,7 +2211,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰도 하락세"
+      "translatedTitle": "중소기업 신뢰지수 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2693,56 +2724,6 @@
         }
       ],
       "translatedTitle": "지수의 최근 폭락 속에서 비기술 주식 5개를 매수하세요"
-    },
-    {
-      "title": "Is altseason dead? Bitcoin ETFs rewrite crypto investment playbook",
-      "url": "https://cointelegraph.com/news/altseason-bitcoin-etf-crypto-investment",
-      "time_published": "20250311T130000",
-      "authors": [
-        "Michael Tabone"
-      ],
-      "summary": "Bitcoin exchange-traded products may have fundamentally altered the concept of a crypto \"altseason.\"For years, the crypto market followed a familiar rhythm, a near-predictable dance of capital rotation. Bitcoin ( BTC ) surged, bringing mainstream attention and liquidity, and then the floodgates ...",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/019584b6-a4fa-767a-84bb-ab9b3e5de29c",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.998626"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.997902"
-        }
-      ],
-      "overall_sentiment_score": 0.136283,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.537702",
-          "ticker_sentiment_score": "0.274071",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.073209",
-          "ticker_sentiment_score": "0.038712",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:XCP",
-          "relevance_score": "0.036643",
-          "ticker_sentiment_score": "0.037183",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "알트시즌이 죽었는가? 비트코인 ETF가 암호화폐 투자 플레이북을 다시 쓴다"
     }
   ]
 }
