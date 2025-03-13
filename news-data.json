@@ -309,6 +309,48 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Wharf swings to 2024 loss as write-downs add to glut, sales slump",
+      "url": "https://www.scmp.com/business/companies/article/3302251/wharf-swings-2024-loss-mainland-china-write-downs-add-sales-slump-office-glut",
+      "time_published": "20250313T101507",
+      "authors": [
+        "Salina Li"
+      ],
+      "summary": "The owner of Times Square shopping centre and office towers posted a 2024 loss of HK$3.22 billion, from a profit in 2023, after a write-down of HK$5.99 billion.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/13/ec397c86-de21-4f2b-8083-685e1e95a5a0_686e78c9.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": 0.002481,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "WARFF",
+          "relevance_score": "0.064623",
+          "ticker_sentiment_score": "-0.089775",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Wharf, 감가상각으로 과잉공급과 매출 침체로 2024년 손실로 전환"
+    },
+    {
       "title": "U.S. Federal Spending For February Touches A Record $603 Billion Despite Musk's DOGE Initiative - Tesla  ( NASDAQ:TSLA ) ",
       "url": "https://www.benzinga.com/25/03/44297088/us-federal-spending-reaches-unprecedented-605-billion-despite-musks-doge-initiative",
       "time_published": "20250313T095414",
@@ -345,6 +387,44 @@
         }
       ],
       "translatedTitle": "2월 미국 연방 지출, 머스크의 DOGE 이니셔티브에도 불구하고 기록적인 6,030억 달러에 도달 - Tesla ( NASDAQ:TSLA )"
+    },
+    {
+      "title": "Despite Elon Musk's Efforts, US Spending Soars To New Highs, Deficit Exceeds $1 Trillion - Tesla  ( NASDAQ:TSLA ) ",
+      "url": "https://www.benzinga.com/markets/25/03/44297088/despite-elon-musks-efforts-us-spending-soars-to-new-highs-deficit-exceeds-1-trillion",
+      "time_published": "20250313T095408",
+      "authors": [
+        "Namrata Sen"
+      ],
+      "summary": "The U.S. federal spending hit a record-breaking $603.4 billion last month, despite the efficiency drive led by Tesla CEO Elon Musk. What Happened: Despite Musk's efforts to streamline government operations through his Department of Government Efficiency ( DOGE ) , U.S. federal spending has soared ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/DOGE-Staffers-Reportedly-Draw-Hefty-Sala.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.172313,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.090816",
+          "ticker_sentiment_score": "-0.004265",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "일론 머스크의 노력에도 불구하고, 미국 지출은 새로운 최고치로 치솟고 적자는 1조 달러를 넘어섬 - Tesla ( NASDAQ:TSLA )"
     },
     {
       "title": "Macroscope | Trump's trade war is giving Europe and China the nudge they need",
@@ -486,7 +566,7 @@
       "overall_sentiment_score": -0.019694,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에 대한 세금 면제를 원치 않는다고 하워드 루트닉이 말했다. '그게 내가 일하는 이유야'"
+      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
     },
     {
       "title": "Trump Wants No Tax For Americans Making Less Than $150,000 A Year, Says Howard Lutnick: 'That's What I'm Working For'",
@@ -2437,149 +2517,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰지수 하락세"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
-      "url": "https://www.zacks.com/stock/news/2428429/the-zacks-analyst-blog-highlights-klabin-ubiquit-and-emcor-group",
-      "time_published": "20250311T143700",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Klabin, Ubiquit and EMCOR Group are part of the Zacks top Analyst Blog.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f7/1049.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Finance",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.9545"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.980922"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Real Estate & Construction",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.031456,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "EME",
-          "relevance_score": "0.092124",
-          "ticker_sentiment_score": "0.071134",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "UI",
-          "relevance_score": "0.183025",
-          "ticker_sentiment_score": "0.070664",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KLBAY",
-          "relevance_score": "0.092124",
-          "ticker_sentiment_score": "0.058206",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.023079",
-          "ticker_sentiment_score": "0.026297",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:JPY",
-          "relevance_score": "0.023079",
-          "ticker_sentiment_score": "-0.150203",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.023079",
-          "ticker_sentiment_score": "0.197934",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "FOREX:CNY",
-          "relevance_score": "0.023079",
-          "ticker_sentiment_score": "0.059464",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.023079",
-          "ticker_sentiment_score": "0.059464",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Zacks 분석가 블로그, Klabin, Ubiquit 및 EMCOR Group 강조"
-    },
-    {
-      "title": "Pre-Markets Melting Away Early-Morning Gains",
-      "url": "https://www.zacks.com/stock/news/2428353/pre-markets-melting-away-early-morning-gains",
-      "time_published": "20250311T142600",
-      "authors": [
-        "Mark Vickery"
-      ],
-      "summary": "After today's open, albeit a month in arrears: January JOLTS figures report.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fb/96634.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.682689"
-        }
-      ],
-      "overall_sentiment_score": 0.066677,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "DKS",
-          "relevance_score": "0.245339",
-          "ticker_sentiment_score": "0.098743",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "장전 거래가 아침 초반의 이익을 녹여내다"
+      "translatedTitle": "중소기업 신뢰도 하락세"
     }
   ]
 }
