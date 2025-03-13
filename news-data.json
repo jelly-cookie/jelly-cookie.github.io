@@ -263,6 +263,80 @@
       "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "What Japan can teach the US in an age of boycotts",
+      "url": "https://www.ft.com/content/a9d45e75-9d49-4a58-8eac-0be2b5676531",
+      "time_published": "20250313T050037",
+      "authors": [
+        "Leo Lewis"
+      ],
+      "summary": "The country wanted to do everything itself and largely still does ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31fad7dc-565c-47f7-a92a-991ca143ceb0.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Economy",
+      "source_domain": "www.ft.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.15705,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "-0.002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "0.195018",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "-0.002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "-0.002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RKUNF",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "0.195018",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "-0.111434",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.051886",
+          "ticker_sentiment_score": "-0.011993",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "일본이 보이콧 시대에 미국에 가르칠 수 있는 것"
+    },
+    {
       "title": "Churchill Downs Incorporated Announces New $500 Million Share Repurchase Program",
       "url": "https://www.globenewswire.com/news-release/2025/03/12/3041785/12388/en/Churchill-Downs-Incorporated-Announces-New-500-Million-Share-Repurchase-Program.html",
       "time_published": "20250312T205400",
@@ -1852,7 +1926,7 @@
           "ticker_sentiment_label": "Somewhat-Bearish"
         }
       ],
-      "translatedTitle": "UPS 재고가 오늘 배송되지 않는 이유는 다음과 같습니다."
+      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
     },
     {
       "title": "What's Going On With Airbnb  ( ABNB )  Shares? - Airbnb  ( NASDAQ:ABNB ) ",
@@ -2106,7 +2180,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "중소기업 신뢰지수 하락세"
+      "translatedTitle": "중소기업 신뢰도 하락세"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Klabin, Ubiquit and EMCOR Group",
@@ -2669,62 +2743,6 @@
         }
       ],
       "translatedTitle": "알트시즌이 죽었는가? 비트코인 ETF가 암호화폐 투자 플레이북을 다시 쓴다"
-    },
-    {
-      "title": "Interactive Brokers Stock Tumbles 27.4% in a Month: Buy the Dip?",
-      "url": "https://www.zacks.com/stock/news/2428296/interactive-brokers-stock-tumbles-274-in-a-month-buy-the-dip",
-      "time_published": "20250311T124600",
-      "authors": [
-        "Swayta Shah"
-      ],
-      "summary": "IBKR shares tank 27.4% in a month. Does this present a perfect buying opportunity before it soars again? Let's find out.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6b/74077.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999998"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.614606"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.310843"
-        }
-      ],
-      "overall_sentiment_score": 0.232474,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "SCHW",
-          "relevance_score": "0.096091",
-          "ticker_sentiment_score": "-0.199999",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "IBKR",
-          "relevance_score": "0.493299",
-          "ticker_sentiment_score": "0.235107",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Interactive Brokers 주가가 한 달 만에 27.4% 폭락: 저점에서 매수해야 할까?"
     }
   ]
 }
