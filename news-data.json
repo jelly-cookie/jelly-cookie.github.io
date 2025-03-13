@@ -43,6 +43,54 @@
       "translatedTitle": "마라라고 아코드, 마라라고 아코드"
     },
     {
+      "title": "Trump Family In Talks To Acquire Stake In Binance As Former CEO Changpeng Zhao Pushes For Pardon",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44304170/trump-family-in-talks-to-acquire-stake-in-binance-as-former-ceo-changpeng-zhao-pushes-for-",
+      "time_published": "20250313T141846",
+      "authors": [
+        "Murtuza Merchant"
+      ],
+      "summary": "Trump family reportedly in talks to acquire stake in Binance.US, coinciding with Binance founder Changpeng Zhao's efforts to secure pardon. Deal could involve direct investment or integration through Trump-backed World Liberty Financial. Find out which stock just claimed the top spot in the new ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/Trumps-Net-Worth-Plummets-By-Nearly-300M.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.135289,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.137671",
+          "ticker_sentiment_score": "0.147278",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BNB",
+          "relevance_score": "0.069094",
+          "ticker_sentiment_score": "-0.092523",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프 가족, 바이낸스 지분 인수 협상 중, 전 CEO 창펑 자오 사면 추진"
+    },
+    {
       "title": "MeiraGTx Enters into a Strategic Collaboration with Hologen AI to Expedite Phase 3 Development of AAV-GAD for Parkinson's Disease and Industrialize MeiraGTx's Proprietary Manufacturing Process",
       "url": "https://www.globenewswire.com/news-release/2025/03/13/3042086/0/en/MeiraGTx-Enters-into-a-Strategic-Collaboration-with-Hologen-AI-to-Expedite-Phase-3-Development-of-AAV-GAD-for-Parkinson-s-Disease-and-Industrialize-MeiraGTx-s-Proprietary-Manufactu.html",
       "time_published": "20250313T113000",
@@ -335,14 +383,60 @@
       "translatedTitle": "말레이시아, ASEAN 디지털 미래의 핵심 허브로 부상"
     },
     {
-      "title": "Kohl's CEO Warns Of 'Pretty Challenging' Environment For Consumers - Kohl's  ( NYSE:KSS ) ",
-      "url": "https://www.benzinga.com/25/03/44262764/kohls-ceo-warns-of-pretty-challenging-environment-for-consumers-expects-value-seeking-to-grow-over-next-3-months",
-      "time_published": "20250311T201738",
+      "title": "XRP Spikes 4% As Ripple Gains Approval To Offer Crypto Payments In Dubai",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44303516/xrp-spikes-4-as-ripple-gains-approval-to-offer-crypto-payments-in-dubai",
+      "time_published": "20250313T140308",
       "authors": [
-        "Erica Kollmann"
+        "Murtuza Merchant"
       ],
-      "summary": "Kohl's expects sales to decline by 5% to 7% in fiscal 2025, due in part to \"constrained\" shoppers. Kohl's CEO also notes consumers are seeking more value in their purchases. Find out which stock just claimed the top spot in the new Benzinga Rankings. Updated daily- discover the market's ...",
-      "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/03/11155638/kss-edge-rankings-1024x247.jpg",
+      "summary": "UAE's $400B trade market drives demand for Ripple's faster payments, with 64% of MEA leaders valuing blockchain efficiency. Ripple's SEC lawsuit may resolve soon, as Trump's administration shifts to a pro-crypto stance, aiding global expansion.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/7--XRP_1.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.838487"
+        }
+      ],
+      "overall_sentiment_score": 0.369313,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOX",
+          "relevance_score": "0.05833",
+          "ticker_sentiment_score": "0.126372",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "XRP, Ripple이 두바이에서 암호화폐 결제를 제공하도록 승인받으면서 4% 급등"
+    },
+    {
+      "title": "Acme United Corporation Board Approves Cash Dividend - Acme United  ( AMEX:ACU ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44301884/acme-united-corporation-board-approves-cash-dividend",
+      "time_published": "20250313T132454",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "SHELTON, Conn., March 13, 2025 ( GLOBE NEWSWIRE ) -- The Board of Directors of Acme United Corporation ACU declared a cash dividend of 15 cents per share on its outstanding common stock. The dividend is payable on April 16, 2025, to stockholders of record on the close of business on March 26, ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
       "source": "Benzinga",
       "category_within_source": "News",
       "source_domain": "www.benzinga.com",
@@ -353,44 +447,106 @@
         },
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.938793"
+        }
+      ],
+      "overall_sentiment_score": 0.18622,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "Acme United Corporation 이사회, 현금 배당금 승인 - Acme United ( AMEX:ACU )"
+    },
+    {
+      "title": "Acme United Corporation Board Approves Cash Dividend",
+      "url": "https://www.globenewswire.com/news-release/2025/03/13/3042277/0/en/Acme-United-Corporation-Board-Approves-Cash-Dividend.html",
+      "time_published": "20250313T132400",
+      "authors": [
+        "Acme United Corporation"
+      ],
+      "summary": "SHELTON, Conn., March 13, 2025 ( GLOBE NEWSWIRE ) -- The Board of Directors of Acme United Corporation ( NYSE American: ACU ) declared a cash dividend of 15 cents per share on its outstanding common stock. The dividend is payable on April 16, 2025, to stockholders of record on the close of ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/972f36fe-016c-4b6b-83ef-99de358fa815",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.714479"
+        }
+      ],
+      "overall_sentiment_score": 0.144492,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "Acme United Corporation 이사회, 현금 배당금 승인"
+    },
+    {
+      "title": "Florida Foodies, Fashionistas Flock to 'Flourish' Fashion & Food Showcase",
+      "url": "https://www.benzinga.com/pressreleases/25/03/n44301567/florida-foodies-fashionistas-flock-to-flourish-fashion-food-showcase",
+      "time_published": "20250313T130700",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "Leading Florida fashion designers, celebrity chefs, 700-plus guests to attend St. Thomas University's signature spring event. Students create \"McDCouture\" from repurposed McDonald's packaging.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Retail & Wholesale",
           "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.266143"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.576289"
         }
       ],
-      "overall_sentiment_score": 0.166693,
+      "overall_sentiment_score": 0.274568,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "BBY",
-          "relevance_score": "0.243701",
-          "ticker_sentiment_score": "0.028609",
+          "ticker": "HESG",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.162726",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SYY",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.0",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "TGT",
-          "relevance_score": "0.163909",
-          "ticker_sentiment_score": "0.121968",
+          "ticker": "MDNDF",
+          "relevance_score": "0.152306",
+          "ticker_sentiment_score": "0.104925",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "KSS",
-          "relevance_score": "0.648164",
+          "ticker": "TXRH",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SDXOF",
+          "relevance_score": "0.030641",
           "ticker_sentiment_score": "0.0",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Kohl's CEO, 소비자에게 '꽤나 어려운' 환경 경고 - Kohl's ( NYSE:KSS )"
+      "translatedTitle": "플로리다 푸디, 패셔니스타들이 'Flourish' 패션 & 푸드 쇼케이스에 모여들다"
     },
     {
       "title": "Intech Launches Next-Generation ETFs to Challenge Market Concentration",
@@ -758,7 +914,7 @@
       "overall_sentiment_score": -0.019694,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
+      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에 대한 세금 면제를 원치 않는다고 하워드 루트닉이 말했다. '그게 내가 일하는 이유야'"
     },
     {
       "title": "Trump Wants No Tax For Americans Making Less Than $150,000 A Year, Says Howard Lutnick: 'That's What I'm Working For'",
@@ -2250,212 +2406,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "레이 달리오, 미국 부채 위기가 '충격적인 전개'를 촉발할 수 있다고 경고, GDP의 3% 적자 감소 촉구"
-    },
-    {
-      "title": "Trump is diving into crypto headfirst. Has China missed the boat?",
-      "url": "https://www.scmp.com/economy/china-economy/article/3301956/trump-diving-crypto-headfirst-has-china-missed-boat",
-      "time_published": "20250311T220007",
-      "authors": [
-        "Ralph Jennings"
-      ],
-      "summary": "China has kept unregulated digital currencies at arm's length, but the US is going all-in on crypto. Will this big bet give the US dollar new life?",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2021/05/27/cryptocurrency_risky_for_china_web_plain.jpg?itok=OdIM7yaS",
-      "source": "South China Morning Post",
-      "category_within_source": "Money",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999355"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.216954,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "ALIZF",
-          "relevance_score": "0.042762",
-          "ticker_sentiment_score": "-0.003949",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BACHY",
-          "relevance_score": "0.042762",
-          "ticker_sentiment_score": "-0.031071",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "IDCBY",
-          "relevance_score": "0.021388",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:CNY",
-          "relevance_score": "0.127795",
-          "ticker_sentiment_score": "-0.004814",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.272554",
-          "ticker_sentiment_score": "0.097992",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.190667",
-          "ticker_sentiment_score": "0.112605",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.021388",
-          "ticker_sentiment_score": "0.076056",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프는 암호화폐에 머리를 먼저 박고 있다. 중국은 배를 놓쳤을까?"
-    },
-    {
-      "title": "Recession Fears Looming? Secure Your Portfolio With These ETFs",
-      "url": "https://www.zacks.com/stock/news/2428620/recession-fears-looming-secure-your-portfolio-with-these-etfs",
-      "time_published": "20250311T204100",
-      "authors": [
-        "Yashwardhan Jain"
-      ],
-      "summary": "Look at ETFs to safeguard your portfolio as declining consumer confidence, sluggish growth and persistent inflationary pressures increase the likelihood of the U.S. economy slipping into a recession in 2025.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bd/484.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999997"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.076379,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "IVZ",
-          "relevance_score": "0.075635",
-          "ticker_sentiment_score": "0.030258",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.03786",
-          "ticker_sentiment_score": "0.00786",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "경기 침체에 대한 우려가 다가오고 있나요? 이 ETF로 포트폴리오를 안전하게 지키세요"
-    },
-    {
-      "title": "Why Sirius XM Plunged Today",
-      "url": "https://www.fool.com/investing/2025/03/11/why-sirius-xm-plunged-today/",
-      "time_published": "20250311T195500",
-      "authors": [
-        "Billy Duberstein"
-      ],
-      "summary": "Shares of Warren Buffett holding Sirius XM ( NASDAQ: SIRI ) were falling hard today in spite of the rest of the market attempting a comeback after Monday's huge marketwide plunge. Sirius' stock was down as much as 10% on the day at one point before recovering to a 6% decline as of 3:20 p.m.",
-      "banner_image": "https://g.foolcdn.com/editorial/images/810817/gettyimages-879949268-2.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.083231,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "SIRI",
-          "relevance_score": "0.235823",
-          "ticker_sentiment_score": "-0.155603",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "오늘 Sirius XM이 폭락한 이유"
-    },
-    {
-      "title": "Here's Why UPS Stock Isn't Delivering Today",
-      "url": "https://www.fool.com/investing/2025/03/11/heres-why-ups-stock-isnt-delivering-today/",
-      "time_published": "20250311T174144",
-      "authors": [
-        "Lee Samaha"
-      ],
-      "summary": "Shares of package delivery giant UPS ( NYSE: UPS ) were down by 3.5% as of 1 p.m. today. The sell-off coincides with an overall market decline, but some negative news from Delta Air Lines has also probably affected UPS.The transportation company is what's known as a cyclical company.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810788%2Fgettyimages-1177117400-1201x801-d21b45d.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.11345,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "DAL",
-          "relevance_score": "0.299478",
-          "ticker_sentiment_score": "-0.345992",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "UPS 주식이 오늘 배달되지 않는 이유는 다음과 같습니다."
     }
   ]
 }
