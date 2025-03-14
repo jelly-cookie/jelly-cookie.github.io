@@ -271,50 +271,126 @@
       "translatedTitle": "'아마도 레이 달리오는 다른 데이터를 가지고 있을 수도 있지만, 그록은 생각한다…'-엘론 머스크가 중국에 대한 전설적인 투자자를 공개적으로 바로잡다"
     },
     {
-      "title": "Should You Buy Stocks During the Nasdaq Correction? Evidence Is Piling Up and Here's What It Shows.",
-      "url": "https://www.fool.com/investing/2025/03/12/should-you-buy-stocks-during-correction/",
-      "time_published": "20250312T094500",
+      "title": "XRP price poised for 46% gains after Ripple secures first Dubai license",
+      "url": "https://cointelegraph.com/news/xrp-price-46-gains-after-ripple-secures-first-dubai-license",
+      "time_published": "20250314T081009",
       "authors": [
-        "Adria Cimino"
+        "Nancy Lubale"
       ],
-      "summary": "The Nasdaq Composite ( NASDAQINDEX: ^IXIC ) blasted higher over the past two years, climbing in the double digits in both 2023 and 2024, as investors placed big bets on growth. They were optimistic about a potentially lower interest-rate environment ahead and how that could favor growth stocks, ...",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810757%2Fgettyimages-1150572051.jpg&op=resize&w=700",
-      "source": "Motley Fool",
+      "summary": "XRP ( XRP ) price is eyeing a breakout from a classic chart pattern in the near future after Ripple acquired its first-ever license in the Middle East. XRP price chart hints at possible 46% gainsXRP has been consolidating inside a descending triangle pattern since topping out at its seven-year ...",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/0195938c-91b8-7e16-8ef0-afe0dd659b41",
+      "source": "Cointelegraph",
       "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
+      "source_domain": "cointelegraph.com",
       "topics": [
         {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
-          "topic": "Financial Markets",
-          "relevance_score": "0.796627"
-        },
-        {
-          "topic": "Manufacturing",
+          "topic": "Finance",
           "relevance_score": "1.0"
         },
         {
-          "topic": "Earnings",
-          "relevance_score": "0.857896"
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
         }
       ],
-      "overall_sentiment_score": 0.17986,
-      "overall_sentiment_label": "Somewhat-Bullish",
+      "overall_sentiment_score": 0.090565,
+      "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [
         {
-          "ticker": "NVDA",
-          "relevance_score": "0.179788",
-          "ticker_sentiment_score": "0.048612",
+          "ticker": "COIN",
+          "relevance_score": "0.077593",
+          "ticker_sentiment_score": "0.0",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "나스닥 조정 중에 주식을 사야 할까요? 증거가 쌓이고 있으며, 이것이 무엇을 보여주는지 알려드립니다."
+      "translatedTitle": "Ripple이 첫 번째 두바이 라이센스를 확보한 후 XRP 가격이 46% 상승할 것으로 예상됨"
+    },
+    {
+      "title": "Russia using Bitcoin, USDt for oil trades with China and India: Report",
+      "url": "https://cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments",
+      "time_published": "20250314T075712",
+      "authors": [
+        "Helen Partz"
+      ],
+      "summary": "Russian companies have been using cryptocurrencies like Bitcoin and USDt to facilitate trade with China and India amid international sanctions, according to a Reuters report.Russian oil companies have used crypto assets including Bitcoin ( BTC ) and Tether's USDt ( USDT ) for international ...",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/019593be-d852-7c13-9ca6-af51a49e6759",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.123754,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.079858",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.659949",
+          "ticker_sentiment_score": "0.095672",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:USDT",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.038843",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "러시아, 중국 및 인도와의 석유 거래에 비트코인, USDt 사용: 보고서"
+    },
+    {
+      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/14/3042747/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+      "time_published": "20250314T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
     },
     {
       "title": "FiscalNote  ( NOTE )  Q4 2024 Earnings Call Transcript",
@@ -520,7 +596,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
+      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -1109,7 +1185,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -1930,7 +2006,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
     },
     {
       "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
@@ -2426,144 +2502,6 @@
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
-    },
-    {
-      "title": "US Stocks Likely To Open Higher Ahead Of February's Inflation Print: Expert Says Odds Of A Full-Blown Bear Market Remain 'Quite Slim' - Innventure  ( NASDAQ:INV ) , Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
-      "url": "https://www.benzinga.com/25/03/44270690/us-stocks-likely-to-open-higher-ahead-of-februarys-inflation-print-odds-of-a-full-blown-bear-market-remain-quite-",
-      "time_published": "20250312T095805",
-      "authors": [
-        "Rishabh Mishra"
-      ],
-      "summary": "U.S. stock futures were up on Wednesday after a volatile session on Tuesday. Futures of all four benchmark indices advanced in premarket trading. Investors will keep an eye on pivotal February inflation data as stagflation worries have been weighing on Wall Street.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/12/What-The-Future-Might-Hold.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.890401"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.997405"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.538269"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.072914,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "INV",
-          "relevance_score": "0.076847",
-          "ticker_sentiment_score": "0.26534",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "STBX",
-          "relevance_score": "0.076847",
-          "ticker_sentiment_score": "-0.217287",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "IVZ",
-          "relevance_score": "0.038468",
-          "ticker_sentiment_score": "0.223107",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "SFIX",
-          "relevance_score": "0.076847",
-          "ticker_sentiment_score": "0.309384",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "SARO",
-          "relevance_score": "0.076847",
-          "ticker_sentiment_score": "-0.062486",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SMSI",
-          "relevance_score": "0.076847",
-          "ticker_sentiment_score": "-0.18169",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.038468",
-          "ticker_sentiment_score": "0.062437",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "미국 주식, 2월 인플레이션 앞두고 상승세로 개장할 가능성 높아 인쇄: 전문가, 본격적인 하락장 가능성은 여전히 '매우 낮다'고 밝혀 - Innventure(NASDAQ:INV), Invesco QQQ Trust, Series 1(NASDAQ:QQQ)"
-    },
-    {
-      "title": "Alibaba's Joe Tsai: Xi's entrepreneur meeting boosts business confidence",
-      "url": "https://www.scmp.com/tech/big-tech/article/3302080/alibabas-joe-tsai-xi-jinpings-entrepreneur-meeting-fuels-business-confidence-china",
-      "time_published": "20250312T090009",
-      "authors": [
-        "Ann Cao"
-      ],
-      "summary": "Beijing's positive signal has solidified the tech giant's commitment to investing in AI, Alibaba chairman Joe Tsai says.",
-      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/12/39163c03-dea3-43b9-bd66-e270400e6601_ca9e86a4.jpg",
-      "source": "South China Morning Post",
-      "category_within_source": "Money",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.266143"
-        }
-      ],
-      "overall_sentiment_score": 0.290017,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BABA",
-          "relevance_score": "0.33628",
-          "ticker_sentiment_score": "0.261081",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "TCTZF",
-          "relevance_score": "0.069294",
-          "ticker_sentiment_score": "0.121866",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "알리바바의 조 차이: 시진핑의 기업가 회동, 기업 신뢰도 향상"
     }
   ]
 }
