@@ -42,6 +42,31 @@ const darkTheme = createTheme({
   },
 });
 
+function AdFitPC() {
+  useEffect(() => {
+    if (window.adfit) {
+      window.adfit.render();
+    }
+  }, []);
+
+  return (
+    <Box sx={{ 
+      width: '160px',
+      height: '600px',
+      position: 'sticky',
+      top: '1rem',
+    }}>
+      <ins 
+        className="kakao_ad_area" 
+        style={{ display: 'none' }}
+        data-ad-unit={process.env.REACT_APP_KAKAO_ADFIT_PC_ID}
+        data-ad-width="160"
+        data-ad-height="600"
+      />
+    </Box>
+  );
+}
+
 function App() {
   const [news, setNews] = useState([]);
   const [filteredNews, setFilteredNews] = useState([]);
@@ -135,27 +160,7 @@ function App() {
                 <NewsList news={filteredNews} />
               )}
             </Box>
-            {!isMobile && (
-              <Box sx={{ 
-                width: '160px',
-                height: '600px',
-                position: 'sticky',
-                top: '1rem',
-              }}>
-                <ins 
-                  className="kakao_ad_area" 
-                  style={{ display: 'none' }}
-                  data-ad-unit={process.env.REACT_APP_KAKAO_ADFIT_PC_ID}
-                  data-ad-width="160"
-                  data-ad-height="600"
-                />
-                <script 
-                  type="text/javascript" 
-                  src="//t1.daumcdn.net/kas/static/ba.min.js" 
-                  async
-                />
-              </Box>
-            )}
+            {!isMobile && <AdFitPC />}
           </Box>
         </Container>
       </Box>

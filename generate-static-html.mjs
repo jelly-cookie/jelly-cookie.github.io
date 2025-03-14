@@ -70,6 +70,7 @@ async function generateStaticHTML() {
   <title>젤리 파이낸셜 - 실시간 금융 뉴스</title>
   <link rel="canonical" href="https://jelly-cookie.github.io/" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+  <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
   <style>
     body {
       font-family: 'Roboto', sans-serif;
@@ -187,7 +188,8 @@ async function generateStaticHTML() {
     <div class="js-notice">
       <p>자바스크립트가 비활성화되어 있습니다. 더 나은 경험을 위해 자바스크립트를 활성화해주세요.</p>
     </div>
-    <div class="news-list">
+    <div style="display: flex; gap: 2rem; position: relative;">
+      <div class="news-list" style="flex: 1;">
 `;
 
     // 뉴스 아이템 추가
@@ -225,6 +227,16 @@ async function generateStaticHTML() {
 
     // HTML 닫기
     html += `
+      </div>
+      <div style="width: 160px; height: 600px; position: sticky; top: 1rem;">
+        <ins 
+          class="kakao_ad_area" 
+          style="display: none;"
+          data-ad-unit="${process.env.REACT_APP_KAKAO_ADFIT_PC_ID}"
+          data-ad-width="160"
+          data-ad-height="600"
+        ></ins>
+      </div>
     </div>
   </div>
 </body>
