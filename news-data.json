@@ -4,45 +4,6 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
-      "title": "Mar-a-Lago Accord, Schmar-a-Lago Accord",
-      "url": "https://www.ft.com/content/c5b1c6b3-85a7-4e99-bcac-3d331f03640b",
-      "time_published": "20250312T141253",
-      "authors": [
-        "Steven Kamin",
-        "Mark Sobel"
-      ],
-      "summary": "Anatomy of a bad idea ...",
-      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcdcedc2f-0315-4f41-bf45-1d26a2c064e8.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "category_within_source": "Markets",
-      "source_domain": "www.ft.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.769861"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.977154"
-        }
-      ],
-      "overall_sentiment_score": 0.03716,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.353562",
-          "ticker_sentiment_score": "0.031462",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "마라라고 아코드, 마라라고 아코드"
-    },
-    {
       "title": "The S&P 500 Just Hit Correction Territory. History Says the Stock Market Will Do This Next  ( Hint: It May Surprise You ) ",
       "url": "https://www.fool.com/investing/2025/03/14/sp-500-correction-stock-market-will-do-this-next/",
       "time_published": "20250314T114450",
@@ -269,6 +230,148 @@
       "overall_sentiment_label": "Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "기술, 스튜디오, 파견: TIGA GAMES 교육 컨퍼런스가 2025년에 돌아옵니다"
+    },
+    {
+      "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/n44329510/comcast-brings-day-of-giving-to-augusta-communities",
+      "time_published": "20250314T140000",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "Following ongoing restoration efforts post-Hurricane Helene, Comcast and local community leaders return to provide critical digital literacy resources to demonstrate commitment to the city's recovery",
+      "banner_image": "https://mma.prnewswire.com/media/2641569/Comcast_Event_8121.jpg",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        }
+      ],
+      "overall_sentiment_score": 0.339527,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BATRA",
+          "relevance_score": "0.03804",
+          "ticker_sentiment_score": "0.187326",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CCZ",
+          "relevance_score": "0.525651",
+          "ticker_sentiment_score": "0.438888",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "Comcast가 Augusta 커뮤니티에 기부의 날을 가져왔습니다 - Comcast ( NASDAQ:CMCSA )"
+    },
+    {
+      "title": "Hong Kong fintech sector sees 250% blockchain growth since 2022",
+      "url": "https://cointelegraph.com/news/hong-kong-fintech-blockchain-growth-2025",
+      "time_published": "20250314T125519",
+      "authors": [
+        "Arijit Sarkar"
+      ],
+      "summary": "Hong Kong anticipates the continued growth of its fintech ecosystem, with blockchain, digital assets, distributed ledger technology ( DLT ) and artificial intelligence playing a central role in shaping its future.Hong Kong is home to over 1,100 fintech companies.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01959492-4899-7d19-8c98-94adbb2783f4",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.890401"
+        }
+      ],
+      "overall_sentiment_score": 0.329274,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TOP",
+          "relevance_score": "0.095899",
+          "ticker_sentiment_score": "-0.140051",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.095899",
+          "ticker_sentiment_score": "0.274063",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.190417",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "홍콩 핀테크 부문, 2022년 이후 블록체인 성장률 250% 기록"
+    },
+    {
+      "title": "US Rep. Byron Donalds to introduce bill codifying Trump's Bitcoin reserve",
+      "url": "https://cointelegraph.com/news/trump-bitcoin-reserve-bill-congress",
+      "time_published": "20250314T124230",
+      "authors": [
+        "Zoltan Vardai"
+      ],
+      "summary": "A new bill set to be introduced in Congress aims to formalize President Donald Trump's executive order establishing a US Strategic Bitcoin Reserve, a move that could further integrate Bitcoin into the nation's financial strategy.Trump signed an executive order on March 7 to use Bitcoin ( BTC ) ...",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/0195948e-55ee-7908-af6b-79fecc8de73e",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.143439,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.887012",
+          "ticker_sentiment_score": "0.302421",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "미국 대표 바이런 도널드, 트럼프의 비트코인 비축을 법제화하는 법안 도입"
     },
     {
       "title": "My Best Artificial Intelligence  ( AI )  Chip Stock to Buy Amid the Nasdaq Correction  ( Hint: It's Not Nvidia ) ",
@@ -862,7 +965,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2272,7 +2375,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
     },
     {
       "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
@@ -2335,156 +2438,6 @@
         }
       ],
       "translatedTitle": "시티그룹 주가가 한 달 만에 17.9% 하락: 저점에 매수해야 할까?"
-    },
-    {
-      "title": "RTX to Lead Engine Integration for JetZero: To Buy or Hold the Stock?",
-      "url": "https://www.zacks.com/stock/news/2429094/rtx-to-lead-engine-integration-for-jetzero-to-buy-or-hold-the-stock",
-      "time_published": "20250312T145800",
-      "authors": [
-        "Aparajita Dutta"
-      ],
-      "summary": "Investors interested in RTX stock should wait for a better entry point, considering its premium valuation.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/be/139.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.955357"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.994953"
-        },
-        {
-          "topic": "Real Estate & Construction",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        }
-      ],
-      "overall_sentiment_score": 0.346007,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "RKLB",
-          "relevance_score": "0.126119",
-          "ticker_sentiment_score": "0.191609",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "TDG",
-          "relevance_score": "0.126119",
-          "ticker_sentiment_score": "0.191609",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "LDOS",
-          "relevance_score": "0.126119",
-          "ticker_sentiment_score": "0.191609",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "RTX",
-          "relevance_score": "0.47452",
-          "ticker_sentiment_score": "0.452039",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "RTX, JetZero 엔진 통합을 주도한다: 주식을 매수할지, 보유할지?"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar and Cintas",
-      "url": "https://www.zacks.com/stock/news/2429069/the-zacks-analyst-blog-highlights-exelon-gilead-sciences-plains-all-american-pipeline-sportradar-and-cintas",
-      "time_published": "20250312T132400",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar and Cintas are part of the Zacks top Analyst ...",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0e/56891.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999998"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.257996,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "EXC",
-          "relevance_score": "0.185103",
-          "ticker_sentiment_score": "0.116042",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PAA",
-          "relevance_score": "0.210961",
-          "ticker_sentiment_score": "0.131229",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GILD",
-          "relevance_score": "0.210961",
-          "ticker_sentiment_score": "0.237577",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CTAS",
-          "relevance_score": "0.287047",
-          "ticker_sentiment_score": "0.301736",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "SRAD",
-          "relevance_score": "0.159043",
-          "ticker_sentiment_score": "0.128363",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Zacks 분석가 블로그는 Exelon, Gilead Sciences, Plains All American Pipeline, Sportradar 및 Cintas를 강조합니다."
     }
   ]
 }
