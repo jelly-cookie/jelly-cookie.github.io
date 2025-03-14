@@ -383,6 +383,108 @@
       "translatedTitle": "말레이시아, ASEAN 디지털 미래의 핵심 허브로 부상"
     },
     {
+      "title": "China's central bank to create 'more tools' to shore up economy",
+      "url": "https://www.scmp.com/economy/china-economy/article/3302312/chinas-central-bank-create-more-tools-shore-economy",
+      "time_published": "20250314T022215",
+      "authors": [
+        "Mia Nulimaimaiti"
+      ],
+      "summary": "The bank also pledged to cut interest rates and keep the yuan stable amid an uncertain global outlook.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/14/d48e0bc0-fba9-4ef0-a16e-cd22f5c711ff_4a84a39c.jpg?itok=ZIDLjFHH&v=1741918935",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.9973"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.159697,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACHY",
+          "relevance_score": "0.072876",
+          "ticker_sentiment_score": "0.101779",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.145145",
+          "ticker_sentiment_score": "0.16088",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "중국 중앙은행, 경제 강화를 위한 '더 많은 도구' 마련"
+    },
+    {
+      "title": "Markets Stay Bleak on More Tariff Warnings",
+      "url": "https://www.zacks.com/stock/news/2430012/markets-stay-bleak-on-more-tariff-warnings",
+      "time_published": "20250313T221300",
+      "authors": [
+        "Mark Vickery"
+      ],
+      "summary": "Radical shifts are coming to trade and immigration, but market participants are not yet seeing the light at the end of the tunnel.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d7/97015.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.904684"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.055325,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DOCU",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.073593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DRD",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.073593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.122189",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+    },
+    {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
       "url": "https://www.zacks.com/stock/news/2429862/finwise-stock-down-78-in-3-months-time-to-buy-the-dip-or-wait",
       "time_published": "20250313T165700",
@@ -969,7 +1071,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -1790,7 +1892,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
     },
     {
       "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
@@ -2502,74 +2604,6 @@
         }
       ],
       "translatedTitle": "'말레피센트 7' 소개"
-    },
-    {
-      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041126/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-      "time_published": "20250312T070000",
-      "authors": [
-        "NB Private Equity Partners Limited"
-      ],
-      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.803643"
-        }
-      ],
-      "overall_sentiment_score": 0.236207,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NBPVF",
-          "relevance_score": "0.136499",
-          "ticker_sentiment_score": "0.192875",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
-    },
-    {
-      "title": "China summons Walmart executives for talks in wake of Trump tariffs",
-      "url": "https://www.scmp.com/economy/china-economy/article/3302043/china-summons-walmart-executives-talks-tariff-costs",
-      "time_published": "20250312T051205",
-      "authors": [
-        "Carol Yang"
-      ],
-      "summary": "Officials met representatives of the US retailer to discuss its treatment of Chinese suppliers following the imposition of import duties.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/12/70fe0e35-d2fd-481a-ae42-e4fbc31d21cd_0cb8e3ca.jpg?itok=S0z2H8qN&v=1741756324",
-      "source": "South China Morning Post",
-      "category_within_source": "Business",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.035853,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.22421",
-          "ticker_sentiment_score": "0.107206",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프 관세 이후 중국, 월마트 임원진을 회담에 소집"
     }
   ]
 }
