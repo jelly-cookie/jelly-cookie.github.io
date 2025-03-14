@@ -451,6 +451,118 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
+      "title": "$125MM Construction Loan in DUMBO Financed by Bravo Property Trust and Integritas Capital",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44343079/125mm-construction-loan-in-dumbo-financed-by-bravo-property-trust-and-integritas-capital",
+      "time_published": "20250314T212454",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, March 14, 2025 ( GLOBE NEWSWIRE ) -- Bravo Property Trust, in partnership with Integritas Capital, closed a $125M million senior construction loan in Dumbo for an office-to-residential conversion.",
+      "banner_image": "https://ml.globenewswire.com/media/a7b724b0-b84c-4169-a9ba-395cad118a1d/small/bpt-logo-png.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998356"
+        }
+      ],
+      "overall_sentiment_score": 0.377346,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MNGPF",
+          "relevance_score": "0.076358",
+          "ticker_sentiment_score": "0.248785",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Bravo Property Trust와 Integritas Capital이 자금 지원하는 DUMBO의 1억 2,500만 달러 건설 대출"
+    },
+    {
+      "title": "Should Investors Prepare for a Recession?",
+      "url": "https://www.fool.com/investing/2025/03/14/should-investors-prepare-for-a-recession/",
+      "time_published": "20250314T211500",
+      "authors": [
+        "Motley Fool Staff"
+      ],
+      "summary": "In this podcast, Motley Fool analyst Asit Sharma and host Ricky Mulvey discuss:Then, Motley Fool host Alison Southwick and personal finance expert Robert Brokamp discuss Social Security's funding challenges and how investors should prepare.To catch full episodes of all The Motley Fool's free ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/811126/should-investors-prepare-for-a-recession.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999491"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.055217,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.165826",
+          "ticker_sentiment_score": "0.022273",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LUV",
+          "relevance_score": "0.008352",
+          "ticker_sentiment_score": "-0.24805",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.008352",
+          "ticker_sentiment_score": "0.040792",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.008352",
+          "ticker_sentiment_score": "0.032293",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.016703",
+          "ticker_sentiment_score": "0.13427",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "투자자들은 경기 침체에 대비해야 할까?"
+    },
+    {
       "title": "Growth in Bitcoin and stablecoin adoption could accelerate dedollarization",
       "url": "https://cointelegraph.com/news/growth-in-bitcoin-and-stablecoin-adoption-could-accelerate-dedollarization",
       "time_published": "20250314T183000",
@@ -1513,7 +1625,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2437,118 +2549,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "트럼프, 연봉 15만 달러 이하 미국인에 대한 세금 면제를 원치 않아, 하워드 루트닉: \"그게 내가 일하는 이유\""
-    },
-    {
-      "title": "What Japan can teach the US in an age of boycotts",
-      "url": "https://www.ft.com/content/a9d45e75-9d49-4a58-8eac-0be2b5676531",
-      "time_published": "20250313T050037",
-      "authors": [
-        "Leo Lewis"
-      ],
-      "summary": "The country wanted to do everything itself and largely still does ...",
-      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31fad7dc-565c-47f7-a92a-991ca143ceb0.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "category_within_source": "Economy",
-      "source_domain": "www.ft.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.15705,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "-0.002",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NFLX",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "0.195018",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "-0.002",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "-0.002",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "RKUNF",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "0.195018",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "-0.111434",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KO",
-          "relevance_score": "0.051886",
-          "ticker_sentiment_score": "-0.011993",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "일본이 보이콧 시대에 미국에 가르칠 수 있는 것"
-    },
-    {
-      "title": "Churchill Downs Incorporated Announces New $500 Million Share Repurchase Program",
-      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041785/12388/en/Churchill-Downs-Incorporated-Announces-New-500-Million-Share-Repurchase-Program.html",
-      "time_published": "20250312T205400",
-      "authors": [
-        "Churchill Downs Incorporated"
-      ],
-      "summary": "LOUISVILLE, Ky., March 12, 2025 ( GLOBE NEWSWIRE ) -- Churchill Downs Incorporated ( \"CDI\" or \"the Company\" ) ( Nasdaq: CHDN ) announced today that the Company's Board of Directors approved a $500 million share repurchase program. The new share repurchase program replaces the prior $500 million ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/667a7329-b6d8-4919-90bb-bc97849a9f64",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.650727"
-        }
-      ],
-      "overall_sentiment_score": -0.064034,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CHDN",
-          "relevance_score": "0.166169",
-          "ticker_sentiment_score": "0.148405",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Churchill Downs Incorporated, 5억 달러 규모의 신규 주식 재매수 프로그램 발표"
     }
   ]
 }
