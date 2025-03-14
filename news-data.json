@@ -287,27 +287,167 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
-      "title": "SKILLS, STUDIOS, SECONDMENTS: TIGA GAMES EDUCATION CONFERENCE RETURNS FOR 2025",
-      "url": "https://www.benzinga.com/pressreleases/25/03/n44283997/skills-studios-secondments-tiga-games-education-conference-returns-for-2025",
-      "time_published": "20250312T171800",
+      "title": "Vacation Planning Hits 15-Year Low In Latest Sign Of Cash-Strapped US Consumers - Delta Air Lines  ( NYSE:DAL ) ",
+      "url": "https://www.benzinga.com/25/03/44335131/vacation-planning-hits-15-year-low-in-latest-sign-of-cash-strapped-us-consumer",
+      "time_published": "20250314T163040",
       "authors": [
-        "PRNewswire"
+        "Erica Kollmann"
       ],
-      "summary": "LONDON, March 12, 2025 /PRNewswire/ -- TIGA, the trade association representing the UK video games industry, has announced that its Games Education Conference will return this year, taking place on Thursday July 3rd at Birmingham City University.",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "summary": "The number of Americans planning to take vacations in the upcoming six months has hit a 15-year low. Find out which stock just plummeted to the bottom of the new Benzinga Rankings. Updated daily-spot the biggest red flags before it's too late.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/14/You-havent-taken-a-vacation-for-a-long-t.jpeg?width=1200&height=800&fit=crop",
       "source": "Benzinga",
       "category_within_source": "General",
       "source_domain": "www.benzinga.com",
       "topics": [
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
         }
       ],
-      "overall_sentiment_score": 0.429405,
-      "overall_sentiment_label": "Bullish",
+      "overall_sentiment_score": -0.183706,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ABNB",
+          "relevance_score": "0.16171",
+          "ticker_sentiment_score": "-0.293639",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.081276",
+          "ticker_sentiment_score": "-0.145926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BKNG",
+          "relevance_score": "0.16171",
+          "ticker_sentiment_score": "-0.293639",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.16171",
+          "ticker_sentiment_score": "-0.12704",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "휴가 계획, 현금난에 시달리는 미국 소비자들의 최근 징후로 15년 만에 최저치 기록 - Delta Air Lines (NYSE:DAL)"
+    },
+    {
+      "title": "The U.S.-Canada trade war could signal a shift in economic ties, experts say",
+      "url": "https://www.cnbc.com/2025/03/14/the-future-of-us-canada-trade-after-tariff-escalation.html",
+      "time_published": "20250314T160340",
+      "authors": [],
+      "summary": "The U.S.-Canada trade war could shift economic ties as tariffs rise and tensions grow, raising concerns about future trade stability, experts say.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.069603,
+      "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "기술, 스튜디오, 파견: TIGA GAMES 교육 컨퍼런스가 2025년에 돌아옵니다"
+      "translatedTitle": "미국-캐나다 무역전쟁, 경제적 관계 변화 신호 될 수 있다고 전문가들 밝혀"
+    },
+    {
+      "title": "Oil & Gas Stock Roundup: Shell Malaysia Startup, Chevron Venezuela Woes",
+      "url": "https://www.zacks.com/stock/news/2430292/oil-gas-stock-roundup-shell-malaysia-startup-chevron-venezuela-woes",
+      "time_published": "20250314T151000",
+      "authors": [
+        "Nilanjan Choudhury"
+      ],
+      "summary": "SHEL, CVX, WMB, LBRT and EGY emerge as the energy headline makers during the week.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/41/1886.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.265887,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CVX",
+          "relevance_score": "0.17868",
+          "ticker_sentiment_score": "-0.05127",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EGY",
+          "relevance_score": "0.119681",
+          "ticker_sentiment_score": "0.017651",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PSIX",
+          "relevance_score": "0.030026",
+          "ticker_sentiment_score": "0.451532",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "USEG",
+          "relevance_score": "0.030026",
+          "ticker_sentiment_score": "-0.041508",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BKR",
+          "relevance_score": "0.030026",
+          "ticker_sentiment_score": "0.054684",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SLB",
+          "relevance_score": "0.030026",
+          "ticker_sentiment_score": "-0.073307",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LBRT",
+          "relevance_score": "0.207826",
+          "ticker_sentiment_score": "0.435661",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -1043,7 +1183,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -1632,7 +1772,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2304,156 +2444,6 @@
         }
       ],
       "translatedTitle": "나스닥 매도: 오늘 이 2개의 안전 주식을 사면 평생을 보장받을 수 있을까?"
-    },
-    {
-      "title": "ZBH Stock to Gain From Global Expansion Amid Difficult FX Scenario",
-      "url": "https://www.zacks.com/stock/news/2429225/zbh-stock-to-gain-from-global-expansion-amid-difficult-fx-scenario",
-      "time_published": "20250312T161600",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Zimmer Biomet is strategically expanding its global presence to address the huge demand in the musculoskeletal space.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/4c/2710.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.905476"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.99237"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.303422,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "ZBH",
-          "relevance_score": "0.412523",
-          "ticker_sentiment_score": "0.384434",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "HIMS",
-          "relevance_score": "0.129284",
-          "ticker_sentiment_score": "0.048736",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CAH",
-          "relevance_score": "0.0864",
-          "ticker_sentiment_score": "0.049268",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:CHF",
-          "relevance_score": "0.043264",
-          "ticker_sentiment_score": "-0.008926",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:JPY",
-          "relevance_score": "0.043264",
-          "ticker_sentiment_score": "-0.008926",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.043264",
-          "ticker_sentiment_score": "-0.008926",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.043264",
-          "ticker_sentiment_score": "-0.008926",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "ZBH 주식, 어려운 FX 시나리오 속에서 글로벌 확장으로 수익 창출"
-    },
-    {
-      "title": "Is Target Stock a Buy or Sell After Its Latest Q4 Earnings Report?",
-      "url": "https://www.zacks.com/stock/news/2429104/is-target-stock-a-buy-or-sell-after-its-latest-q4-earnings-report",
-      "time_published": "20250312T150500",
-      "authors": [
-        "Sumit Singh"
-      ],
-      "summary": "Despite short-term headwinds, Target's $15B sales growth plan, digital expansion and AI-driven efficiencies set it up for long-term success.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.998356"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.96136"
-        }
-      ],
-      "overall_sentiment_score": 0.255054,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "TGT",
-          "relevance_score": "0.520385",
-          "ticker_sentiment_score": "0.37902",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "DG",
-          "relevance_score": "0.070414",
-          "ticker_sentiment_score": "0.085382",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AMZN",
-          "relevance_score": "0.070414",
-          "ticker_sentiment_score": "0.085382",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.070414",
-          "ticker_sentiment_score": "0.085382",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
     }
   ]
 }
