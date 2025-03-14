@@ -66,6 +66,108 @@
       "translatedTitle": "'끔찍한 보고서': 경제학자들은 소비자 신뢰 붕괴가 경제적 문제를 나타낸다고 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Deal Dispatch: Trump M&A Boom Is A Bust, Purple Mattress Considers Sale, Celtics Auction Heats Up - Green Dot  ( NYSE:GDOT ) , Archer-Daniels Midland  ( NYSE:ADM ) ",
+      "url": "https://www.benzinga.com/personal-finance/financial-advisors/25/03/44342234/deal-dispatch-trump-ma-boom-is-a-bust-purple-mattress-considers-sale-celtics-",
+      "time_published": "20250314T204728",
+      "authors": [
+        "Anthony Noto"
+      ],
+      "summary": "Trump celebrated 50 days in office by claiming: \"The winning never stops.\" But the losses are piling up across the deal landscape. Survey results show a decrease in consumer confidence as economists use words like \"horrific\" and \"scary\" to describe the numbers.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/14/benzinga-deal-dispatch2.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Mergers",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.904684"
+        }
+      ],
+      "overall_sentiment_score": 0.101094,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.132611",
+          "ticker_sentiment_score": "0.17115",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.044386",
+          "ticker_sentiment_score": "0.134891",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GDOT",
+          "relevance_score": "0.088635",
+          "ticker_sentiment_score": "0.141806",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.132611",
+          "ticker_sentiment_score": "0.032559",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.044386",
+          "ticker_sentiment_score": "-0.042007",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOVA",
+          "relevance_score": "0.044386",
+          "ticker_sentiment_score": "-0.133831",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADM",
+          "relevance_score": "0.088635",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SRGRF",
+          "relevance_score": "0.044386",
+          "ticker_sentiment_score": "-0.133831",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.132611",
+          "ticker_sentiment_score": "0.032559",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
+    },
+    {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
       "url": "https://www.cnbc.com/2025/03/14/delta-walmart-warn-about-consumer-spending-amid-tariffs-inflation.html",
       "time_published": "20250314T154116",
@@ -1411,7 +1513,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2000,7 +2102,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2447,58 +2549,6 @@
         }
       ],
       "translatedTitle": "Churchill Downs Incorporated, 5억 달러 규모의 신규 주식 재매수 프로그램 발표"
-    },
-    {
-      "title": "Nasdaq Correction: Can Buying These 2 Safe Stocks Today Set You Up for Life?",
-      "url": "https://www.fool.com/investing/2025/03/12/nasdaq-correction-can-buying-these-2-safe-stocks-t/",
-      "time_published": "20250312T203000",
-      "authors": [
-        "Brett Schafer"
-      ],
-      "summary": "These two blue chip stocks should durably grow over the next 10 years.",
-      "banner_image": "https://g.foolcdn.com/editorial/images/810850/guy-looking-at-phoen-concerned.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999767"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999986"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.087632,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "AXP",
-          "relevance_score": "0.475838",
-          "ticker_sentiment_score": "0.280465",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.627457",
-          "ticker_sentiment_score": "-0.069551",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "나스닥 조정: 오늘 이 2개의 안전 주식을 사면 평생을 보장받을 수 있을까?"
     }
   ]
 }
