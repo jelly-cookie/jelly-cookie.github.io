@@ -271,6 +271,52 @@
       "translatedTitle": "'아마도 레이 달리오는 다른 데이터를 가지고 있을 수도 있지만, 그록은 생각한다…'-엘론 머스크가 중국에 대한 전설적인 투자자를 공개적으로 바로잡다"
     },
     {
+      "title": "China's F&B sector faces challenges amid slowing consumer spending",
+      "url": "https://www.scmp.com/business/companies/article/3302392/how-chinas-slowing-consumer-spending-affecting-recovery-fb-firms",
+      "time_published": "20250314T093013",
+      "authors": [
+        "Yuke Xie"
+      ],
+      "summary": "Analysts warn that targeted measures are needed to revive the industry, as companies like Nayuki and Xiabu Xiabu report losses and closures.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2024/07/02/clean-pod-2.jpg?itok=OekBm3BC",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.918141"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.714479"
+        }
+      ],
+      "overall_sentiment_score": 0.050706,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "YUMC",
+          "relevance_score": "0.05339",
+          "ticker_sentiment_score": "-0.044",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "중국 F&B 부문, 소비자 지출 둔화로 어려움에 직면"
+    },
+    {
       "title": "XRP price poised for 46% gains after Ripple secures first Dubai license",
       "url": "https://cointelegraph.com/news/xrp-price-46-gains-after-ripple-secures-first-dubai-license",
       "time_published": "20250314T081009",
@@ -596,7 +642,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2471,37 +2517,6 @@
         }
       ],
       "translatedTitle": "트럼프 관세: 이 국제 주식의 하락을 매수할 때다"
-    },
-    {
-      "title": "Castellum, Inc. Hires Tanya Bassett as Vice President of Business Development and Capture Management; Reinforces Strategic Commitment to Organic Growth - Castellum  ( AMEX:CTM ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44271340/castellum-inc-hires-tanya-bassett-as-vice-president-of-business-development-and-capture-management",
-      "time_published": "20250312T104500",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "VIENNA, Va., March 12, 2025 ( GLOBE NEWSWIRE ) -- Castellum, Inc. ( NYSE-American: CTM ) ( \"Castellum\" or \"CTM\" ) , a cybersecurity, electronic warfare, and software engineering services company focused on the federal government, announces the hiring of Tanya Bassett as Vice President of ...",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.77141"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.744043"
-        }
-      ],
-      "overall_sentiment_score": 0.304439,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "Castellum, Inc.는 Tanya Bassett을 사업 개발 및 캡처 관리 부사장으로 고용, 유기적 성장에 대한 전략적 공약 강화 - Castellum (AMEX:CTM)"
     }
   ]
 }
