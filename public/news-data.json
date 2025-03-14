@@ -4,6 +4,84 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
+      "url": "https://www.cnbc.com/2025/03/14/delta-walmart-warn-about-consumer-spending-amid-tariffs-inflation.html",
+      "time_published": "20250314T154116",
+      "authors": [],
+      "summary": "Airline and retail executives are bracing for a slowdown in demand amid concerns tariffs will cut down consumer spending.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Business",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.795202"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.02447,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ANF",
+          "relevance_score": "0.02866",
+          "ticker_sentiment_score": "0.220481",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DG",
+          "relevance_score": "0.02866",
+          "ticker_sentiment_score": "-0.0124",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.02866",
+          "ticker_sentiment_score": "-0.333365",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "DKS",
+          "relevance_score": "0.057284",
+          "ticker_sentiment_score": "0.088053",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.02866",
+          "ticker_sentiment_score": "0.059005",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.085833",
+          "ticker_sentiment_score": "-0.005336",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "관세로 인해 인플레이션과 경기 침체 우려가 커지면서 미국 소비자들이 균열을 느끼기 시작했습니다."
+    },
+    {
       "title": "The S&P 500 Just Hit Correction Territory. History Says the Stock Market Will Do This Next  ( Hint: It May Surprise You ) ",
       "url": "https://www.fool.com/investing/2025/03/14/sp-500-correction-stock-market-will-do-this-next/",
       "time_published": "20250314T114450",
@@ -965,7 +1043,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2375,69 +2453,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
-    },
-    {
-      "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
-      "url": "https://www.zacks.com/stock/news/2429211/citigroup-stock-falls-179-in-a-month-should-you-buy-the-dip",
-      "time_published": "20250312T150000",
-      "authors": [
-        "Riya Anand"
-      ],
-      "summary": "C's business restructuring efforts and focus on core operations provide a solid foundation for growth despite the volatile market backdrop.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/33/496.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "IPO",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.99999"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.107111,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BAC",
-          "relevance_score": "0.124378",
-          "ticker_sentiment_score": "0.032676",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WFC",
-          "relevance_score": "0.083107",
-          "ticker_sentiment_score": "-0.049273",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "C",
-          "relevance_score": "0.398148",
-          "ticker_sentiment_score": "0.185339",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "시티그룹 주가가 한 달 만에 17.9% 하락: 저점에 매수해야 할까?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
     }
   ]
 }
