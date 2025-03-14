@@ -349,6 +349,64 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
+      "title": "Growth in Bitcoin and stablecoin adoption could accelerate dedollarization",
+      "url": "https://cointelegraph.com/news/growth-in-bitcoin-and-stablecoin-adoption-could-accelerate-dedollarization",
+      "time_published": "20250314T183000",
+      "authors": [
+        "David Feliba"
+      ],
+      "summary": "The US dollar has long reigned as the world's primary reserve currency and the default choice for global trade and international transactions. But its dominance is now facing growing scrutiny as shifting geopolitical and economic forces-and concerns over the potential weaponization of the ...",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01957207-99fa-77cc-be75-34eea44e127b",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.928139"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.998626"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.112482,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.072",
+          "ticker_sentiment_score": "0.019135",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.502045",
+          "ticker_sentiment_score": "0.149762",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.315718",
+          "ticker_sentiment_score": "0.096185",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "비트코인과 스테이블코인 채택 증가로 달러화 탈피 가속화 가능"
+    },
+    {
       "title": "Kroger CEO Shake-Up",
       "url": "https://www.fool.com/investing/2025/03/14/kroger-ceo-shake-up/",
       "time_published": "20250314T165500",
@@ -1942,7 +2000,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2441,52 +2499,6 @@
         }
       ],
       "translatedTitle": "나스닥 조정: 오늘 이 2개의 안전 주식을 사면 평생을 보장받을 수 있을까?"
-    },
-    {
-      "title": "Cheetah Net Supply Chain Service Inc. Announces Full Year 2024 Results and Provides Corporate Update",
-      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041760/0/en/Cheetah-Net-Supply-Chain-Service-Inc-Announces-Full-Year-2024-Results-and-Provides-Corporate-Update.html",
-      "time_published": "20250312T201000",
-      "authors": [
-        "Cheetah Net Supply Chain Services Inc"
-      ],
-      "summary": "IRVINE, Calif., March 12, 2025 ( GLOBE NEWSWIRE ) -- Cheetah Net Supply Chain Service Inc. ( \"Cheetah\" or the \"Company\" ) ( Nasdaq CM: CTNT ) , a logistics and warehousing services provider, today reported results for the year ended December 31, 2024 and provided a corporate update.",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/83732049-4a20-46f0-8c58-a3700e5372a2",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "IPO",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.938238"
-        }
-      ],
-      "overall_sentiment_score": 0.140147,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CTNT",
-          "relevance_score": "0.040519",
-          "ticker_sentiment_score": "0.072881",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Cheetah Net Supply Chain Service Inc. 2024년 전체 연도 실적 발표 및 기업 업데이트 제공"
     }
   ]
 }
