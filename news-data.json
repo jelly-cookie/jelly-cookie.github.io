@@ -317,70 +317,108 @@
       "translatedTitle": "나스닥 조정 중에 주식을 사야 할까요? 증거가 쌓이고 있으며, 이것이 무엇을 보여주는지 알려드립니다."
     },
     {
-      "title": "Malaysia emerging as key hub in Asean's digital future",
-      "url": "https://www.scmp.com/native/business/banking-finance/topics/strengthening-asean-china-ties/article/3301950/malaysia-emerging-key-hub-aseans-digital-future",
-      "time_published": "20250312T080010",
+      "title": "FiscalNote  ( NOTE )  Q4 2024 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/03/14/fiscalnote-note-q4-2024-earnings-call-transcript/",
+      "time_published": "20250314T040031",
       "authors": [
-        "Morning Studio editors"
+        "Motley Fool Transcribing"
       ],
-      "summary": "With advanced technologies and strong government support, the bloc's chair for 2025 is supporting the acceleration of its digital economy.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/11/135fd1fb-b2ac-4dc5-9a9a-d56adc35f053_9f39165e.jpg?itok=Cp6p12X9&v=1741685918",
-      "source": "South China Morning Post",
-      "category_within_source": "Business",
-      "source_domain": "www.scmp.com",
+      "summary": "NOTE earnings call for the period ending December 31, 2024.",
+      "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
       "topics": [
         {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
-          "relevance_score": "0.999701"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
+          "relevance_score": "0.995973"
         }
       ],
-      "overall_sentiment_score": 0.2695,
+      "overall_sentiment_score": 0.324521,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "BABA",
-          "relevance_score": "0.036091",
-          "ticker_sentiment_score": "0.009735",
+          "ticker": "III",
+          "relevance_score": "0.008849",
+          "ticker_sentiment_score": "0.133427",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "MSFT",
-          "relevance_score": "0.036091",
-          "ticker_sentiment_score": "-0.016734",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.036091",
-          "ticker_sentiment_score": "0.246713",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.036091",
-          "ticker_sentiment_score": "0.246713",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "FOREX:MYR",
-          "relevance_score": "0.036091",
-          "ticker_sentiment_score": "0.042682",
+          "ticker": "NOTE",
+          "relevance_score": "0.044222",
+          "ticker_sentiment_score": "0.14352",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "말레이시아, ASEAN 디지털 미래의 핵심 허브로 부상"
+      "translatedTitle": "FiscalNote ( NOTE ) 2024년 4분기 실적 발표 전화 회의록"
+    },
+    {
+      "title": "Democrat lawmaker urges Treasury to cease Trump's Bitcoin reserve plans",
+      "url": "https://cointelegraph.com/news/democrat-asks-scott-bessent-cease-trumps-bitcoin-reserve",
+      "time_published": "20250314T030513",
+      "authors": [
+        "Brayden Lindrea"
+      ],
+      "summary": "A Democrat lawmaker has called on the US Treasury to \"cease all attempts\" to create a strategic crypto reserve in the United States, citing conflicts of interest with US President Donald Trump and arguing that a stockpile would not benefit the American people.House Representative Gerald E.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01959285-21a7-7786-8ab3-40fd804544ef",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.102256,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.524949",
+          "ticker_sentiment_score": "0.029982",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.16171",
+          "ticker_sentiment_score": "-0.065337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ADA",
+          "relevance_score": "0.16171",
+          "ticker_sentiment_score": "-0.065337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:XRP",
+          "relevance_score": "0.16171",
+          "ticker_sentiment_score": "-0.065337",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "민주당 의원, 재무부에 트럼프의 비트코인 비축 계획 중단 촉구"
     },
     {
       "title": "China's central bank to create 'more tools' to shore up economy",
@@ -482,7 +520,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -1071,7 +1109,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -1892,7 +1930,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할지, 매도해야 할지?"
+      "translatedTitle": "타겟 주식은 최신 4분기 실적 보고서 발표 이후 매수해야 할까, 매도해야 할까?"
     },
     {
       "title": "Citigroup Stock Falls 17.9% in a Month: Should You Buy the Dip?",
@@ -2526,84 +2564,6 @@
         }
       ],
       "translatedTitle": "알리바바의 조 차이: 시진핑의 기업가 회동, 기업 신뢰도 향상"
-    },
-    {
-      "title": "Introducing the 'Maleficent 7'",
-      "url": "https://www.ft.com/content/d8772ea6-ce65-47ba-bd3b-31758cf7c135",
-      "time_published": "20250312T075704",
-      "authors": [
-        "Alexandra Scaggs"
-      ],
-      "summary": "One stands out in terms of badness . . . guess which?",
-      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43254fc6-aa9a-4308-844f-60bf80ca9c40.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "category_within_source": "Markets",
-      "source_domain": "www.ft.com",
-      "topics": [
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.955357"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.495866"
-        }
-      ],
-      "overall_sentiment_score": 0.004948,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "PEP",
-          "relevance_score": "0.080188",
-          "ticker_sentiment_score": "0.140423",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CCZ",
-          "relevance_score": "0.080188",
-          "ticker_sentiment_score": "0.140423",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.159569",
-          "ticker_sentiment_score": "0.415347",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "GS",
-          "relevance_score": "0.159569",
-          "ticker_sentiment_score": "-0.253144",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "WM",
-          "relevance_score": "0.080188",
-          "ticker_sentiment_score": "0.140423",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "'말레피센트 7' 소개"
     }
   ]
 }
