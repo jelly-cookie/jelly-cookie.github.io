@@ -4,6 +4,68 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "'Horrific Report': Economists Warn Consumer Confidence Collapse Signals Economic Trouble - Kohl's  ( NYSE:KSS ) ",
+      "url": "https://www.benzinga.com/25/03/44337983/economists-react-to-march-consumer-confidence-plunge-this-is-a-horrific-report",
+      "time_published": "20250314T180741",
+      "authors": [
+        "Hayden Buckfire"
+      ],
+      "summary": "The University of Michigan's March consumer confidence survey came in worse than expected. Economists say there are several warning signs for staglation and prolonged high interest rates. Find out which stock just plummeted to the bottom of the new Benzinga Rankings.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/14/untitled_1.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": -0.202586,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NYT",
+          "relevance_score": "0.079392",
+          "ticker_sentiment_score": "-0.216252",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CMA",
+          "relevance_score": "0.079392",
+          "ticker_sentiment_score": "-0.123451",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KSS",
+          "relevance_score": "0.235062",
+          "ticker_sentiment_score": "-0.132755",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "'끔찍한 보고서': 경제학자들은 소비자 신뢰 붕괴가 경제적 문제를 나타낸다고 경고 - Kohl's ( NYSE:KSS )"
+    },
+    {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
       "url": "https://www.cnbc.com/2025/03/14/delta-walmart-warn-about-consumer-spending-amid-tariffs-inflation.html",
       "time_published": "20250314T154116",
@@ -287,6 +349,114 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
+      "title": "Kroger CEO Shake-Up",
+      "url": "https://www.fool.com/investing/2025/03/14/kroger-ceo-shake-up/",
+      "time_published": "20250314T165500",
+      "authors": [
+        "Motley Fool Staff"
+      ],
+      "summary": "In this podcast, Motley Fool analysts Nick Sciple and Karl Theil join hosts Ricky Mulvey and Mary Long to discuss:To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center. To get started investing, check out our beginner's guide to investing in stocks.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/810459/kroger-ceo-out.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999967"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999687"
+        }
+      ],
+      "overall_sentiment_score": 0.175937,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHOP",
+          "relevance_score": "0.007784",
+          "ticker_sentiment_score": "0.154551",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.007784",
+          "ticker_sentiment_score": "0.010929",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.007784",
+          "ticker_sentiment_score": "0.028088",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KR",
+          "relevance_score": "0.085463",
+          "ticker_sentiment_score": "0.04976",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TPB",
+          "relevance_score": "0.046679",
+          "ticker_sentiment_score": "0.130888",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANF",
+          "relevance_score": "0.054447",
+          "ticker_sentiment_score": "0.049993",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.015567",
+          "ticker_sentiment_score": "0.096996",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ISRG",
+          "relevance_score": "0.046679",
+          "ticker_sentiment_score": "0.083411",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNXYF",
+          "relevance_score": "0.015567",
+          "ticker_sentiment_score": "0.112404",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.015567",
+          "ticker_sentiment_score": "0.04433",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "크로거 CEO 개편"
+    },
+    {
       "title": "Vacation Planning Hits 15-Year Low In Latest Sign Of Cash-Strapped US Consumers - Delta Air Lines  ( NYSE:DAL ) ",
       "url": "https://www.benzinga.com/25/03/44335131/vacation-planning-hits-15-year-low-in-latest-sign-of-cash-strapped-us-consumer",
       "time_published": "20250314T163040",
@@ -447,7 +617,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2317,133 +2487,6 @@
         }
       ],
       "translatedTitle": "Cheetah Net Supply Chain Service Inc. 2024년 전체 연도 실적 발표 및 기업 업데이트 제공"
-    },
-    {
-      "title": "Calavo Growers, Inc. Announces First Quarter 2025 Financial Results",
-      "url": "https://www.globenewswire.com/news-release/2025/03/12/3041758/11559/en/Calavo-Growers-Inc-Announces-First-Quarter-2025-Financial-Results.html",
-      "time_published": "20250312T200700",
-      "authors": [
-        "Calavo Growers",
-        "Inc."
-      ],
-      "summary": "Calavo announces first quarter 2025 financial results ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/1a747af3-2a91-418b-94fe-d7f8fa1e3736",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.990893"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.16668,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CVGW",
-          "relevance_score": "0.102888",
-          "ticker_sentiment_score": "0.08587",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CURN",
-          "relevance_score": "0.012896",
-          "ticker_sentiment_score": "-0.029847",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Calavo Growers, Inc. 2025년 1분기 재무 결과 발표"
-    },
-    {
-      "title": "Nasdaq Sell-Off: Can Buying These 2 Safe Stocks Today Set You Up for Life?",
-      "url": "https://www.fool.com/investing/2025/03/12/nasdaq-sell-off-can-buying-these-2-safe-stocks-tod/",
-      "time_published": "20250312T200500",
-      "authors": [
-        "Brett Schafer"
-      ],
-      "summary": "Investors are experiencing the first big stock market sell-off of 2025. I have no idea -- and neither does anyone else -- when this drawdown will end or when another one will occur. It is best to simply expect stock market corrections to happen from time to time rather than try to predict them, ...",
-      "banner_image": "https://media.ycharts.com/charts/c32aeacb5b03df517389df9145380c10.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.99676"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.961735"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.117572,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "AMAT",
-          "relevance_score": "0.401331",
-          "ticker_sentiment_score": "0.2759",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.052455",
-          "ticker_sentiment_score": "0.061668",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ABNB",
-          "relevance_score": "0.44622",
-          "ticker_sentiment_score": "0.21135",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "BKNG",
-          "relevance_score": "0.104683",
-          "ticker_sentiment_score": "-0.005518",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DAL",
-          "relevance_score": "0.052455",
-          "ticker_sentiment_score": "-0.076378",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "나스닥 매도: 오늘 이 2개의 안전 주식을 사면 평생을 보장받을 수 있을까?"
     }
   ]
 }
