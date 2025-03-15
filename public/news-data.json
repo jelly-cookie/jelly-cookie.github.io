@@ -428,6 +428,60 @@
       "translatedTitle": "MeiraGTx, 파킨슨병 치료제 AAV-GAD의 3단계 개발을 가속화하고 MeiraGTx의 독점 제조 공정을 산업화하기 위해 Hologen AI와 전략적 협력 체결 - MeiraGTx Hldgs ( NASDAQ:MGTX )"
     },
     {
+      "title": "3 Artificial Intelligence  ( AI )  Stocks That Can Weather President Trump's Tariff Storm",
+      "url": "https://www.fool.com/investing/2025/03/15/x-artificial-intelligence-ai-stocks-that-can-weath/",
+      "time_published": "20250315T183000",
+      "authors": [
+        "Keithen Drury"
+      ],
+      "summary": "The threat of tariffs looms over many companies because they make anything imported more expensive. If that is the only source for products, then consumers or businesses may hold out on purchasing them to wait out tariffs in the hope that they will be reduced.Furthermore, if products become more ...",
+      "banner_image": "https://media.ycharts.com/charts/898269ae442bcd5edc285fccfc95b335.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        }
+      ],
+      "overall_sentiment_score": 0.093903,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.342939",
+          "ticker_sentiment_score": "0.192573",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.296463",
+          "ticker_sentiment_score": "0.109219",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.100941",
+          "ticker_sentiment_score": "0.02264",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프 대통령의 관세 폭풍을 견뎌낼 수 있는 인공지능(AI) 주식 3개"
+    },
+    {
       "title": "President Donald Trump Is Now Caught Between a Rock and a Hard Place on Medicaid",
       "url": "https://www.fool.com/retirement/2025/03/15/president-donald-trump-is-now-caught-between-a-roc/",
       "time_published": "20250315T134500",
@@ -2584,48 +2638,6 @@
         }
       ],
       "translatedTitle": "Lifetime Brands, Inc. 2024년 4분기 재무 결과 보고"
-    },
-    {
-      "title": "Wharf swings to 2024 loss as write-downs add to glut, sales slump",
-      "url": "https://www.scmp.com/business/companies/article/3302251/wharf-swings-2024-loss-mainland-china-write-downs-add-sales-slump-office-glut",
-      "time_published": "20250313T101507",
-      "authors": [
-        "Salina Li"
-      ],
-      "summary": "The owner of Times Square shopping centre and office towers posted a 2024 loss of HK$3.22 billion, from a profit in 2023, after a write-down of HK$5.99 billion.",
-      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/13/ec397c86-de21-4f2b-8083-685e1e95a5a0_686e78c9.jpg",
-      "source": "South China Morning Post",
-      "category_within_source": "Companies",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.929393"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.684621"
-        }
-      ],
-      "overall_sentiment_score": 0.002481,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "WARFF",
-          "relevance_score": "0.064623",
-          "ticker_sentiment_score": "-0.089775",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Wharf, 감가상각으로 과잉공급과 매출 침체로 2024년 손실로 전환"
     }
   ]
 }
