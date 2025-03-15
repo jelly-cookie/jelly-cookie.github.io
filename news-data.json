@@ -188,7 +188,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
     },
     {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
@@ -428,50 +428,46 @@
       "translatedTitle": "MeiraGTx, 파킨슨병 치료제 AAV-GAD의 3단계 개발을 가속화하고 MeiraGTx의 독점 제조 공정을 산업화하기 위해 Hologen AI와 전략적 협력 체결 - MeiraGTx Hldgs ( NASDAQ:MGTX )"
     },
     {
-      "title": "Duluth Holdings Inc. Announces Fourth Quarter and Fiscal 2024 Financial Results",
-      "url": "https://www.globenewswire.com/news-release/2025/03/13/3041962/37060/en/Duluth-Holdings-Inc-Announces-Fourth-Quarter-and-Fiscal-2024-Financial-Results.html",
-      "time_published": "20250313T094500",
+      "title": "Prediction: President Trump's Tariffs Won't Cause a Stock Market Crash for 1 Simple Reason",
+      "url": "https://www.fool.com/investing/2025/03/15/prediction-president-trumps-tariffs-wont-cause-a-s/",
+      "time_published": "20250315T084700",
       "authors": [
-        "Duluth Trading Company"
+        "Keith Speights"
       ],
-      "summary": "Net Sales of $241.3 million in the fourth quarter and $626.6 million for the full fiscal yearLiquidity of $103.3 million with no debt on the credit facility ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/8277448e-a0b3-41c9-9992-4420d8b2df0d/250313-dlht-picture1.png",
-      "source": "GlobeNewswire",
+      "summary": "The Tonight Show host Jimmy Fallon joked this week, \"It's not great when the summary of Trump's first two months in office is: stocks down, measles up.\"President Trump doesn't deserve blame for the recent measles outbreak.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810765%2Ftariffs-money.jpg&op=resize&w=700",
+      "source": "Motley Fool",
       "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
+      "source_domain": "www.fool.com",
       "topics": [
         {
           "topic": "Economy - Monetary",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Economy - Fiscal",
           "relevance_score": "0.310843"
         },
         {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
-          "relevance_score": "0.980922"
+          "relevance_score": "1.0"
         },
         {
-          "topic": "Earnings",
+          "topic": "Technology",
           "relevance_score": "1.0"
         }
       ],
-      "overall_sentiment_score": 0.098741,
-      "overall_sentiment_label": "Neutral",
+      "overall_sentiment_score": -0.196601,
+      "overall_sentiment_label": "Somewhat-Bearish",
       "ticker_sentiment": [
         {
-          "ticker": "DLTH",
-          "relevance_score": "0.223659",
-          "ticker_sentiment_score": "0.046799",
+          "ticker": "FOX",
+          "relevance_score": "0.108712",
+          "ticker_sentiment_score": "0.071266",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
+      "translatedTitle": "예측: 트럼프 대통령의 관세가 주식 시장 폭락을 일으키지 않을 것, 그 이유는 간단합니다."
     },
     {
       "title": "Macroscope | How will nations pay for a Trump-induced rush to arms?",
@@ -1105,7 +1101,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -1841,7 +1837,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2430,7 +2426,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
