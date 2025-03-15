@@ -66,6 +66,29 @@
       "translatedTitle": "'끔찍한 보고서': 경제학자들은 소비자 신뢰 붕괴가 경제적 문제를 나타낸다고 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Ray Dalio Has A Chilling Warning For President Trump: Debt Crisis Is Imminent, And An Issue Of 'Paramount Importance'",
+      "url": "https://www.benzinga.com/25/03/44345022/ray-dalio-has-a-chilling-warning-for-president-trump-debt-crisis-is-imminent-and-an-issue-of-paramount-importance",
+      "time_published": "20250315T040151",
+      "authors": [
+        "Rounak Jain"
+      ],
+      "summary": "Ray Dalio, founder of Bridgewater Associates, has raised alarms about the United States' national debt, predicting an imminent crisis. What Happened: According to a report by Fortune, Dalio expressed his concerns during his speech at the CONVERGE LIVE event in Singapore on Thursday.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/15/Ray-Dalio-Says-China-Is-Way-Ahead-Of-US-.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.451494"
+        }
+      ],
+      "overall_sentiment_score": -0.25709,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [],
+      "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
+    },
+    {
       "title": "Deal Dispatch: Trump M&A Boom Is A Bust, Purple Mattress Considers Sale, Celtics Auction Heats Up - Green Dot  ( NYSE:GDOT ) , Archer-Daniels Midland  ( NYSE:ADM ) ",
       "url": "https://www.benzinga.com/personal-finance/financial-advisors/25/03/44342234/deal-dispatch-trump-ma-boom-is-a-bust-purple-mattress-considers-sale-celtics-",
       "time_published": "20250314T204728",
@@ -987,7 +1010,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2551,40 +2574,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "사회보장 퇴직자들은 워싱턴에서 나쁜 소식을 접했습니다."
-    },
-    {
-      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-      "url": "https://www.globenewswire.com/news-release/2025/03/13/3041885/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-      "time_published": "20250313T070000",
-      "authors": [
-        "NB Private Equity Partners Limited"
-      ],
-      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.803643"
-        }
-      ],
-      "overall_sentiment_score": 0.236207,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NBPVF",
-          "relevance_score": "0.136499",
-          "ticker_sentiment_score": "0.192875",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
     }
   ]
 }
