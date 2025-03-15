@@ -188,7 +188,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
     },
     {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
@@ -472,6 +472,39 @@
         }
       ],
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
+    },
+    {
+      "title": "End of 'blank cheque' era for outside consultants in Saudi Arabia",
+      "url": "https://www.ft.com/content/d3999d9a-4173-4543-886d-9ede0eaa5b35",
+      "time_published": "20250315T050028",
+      "authors": [
+        "Ellesheva Kissin",
+        "Andrew England",
+        "Chloe Cornish"
+      ],
+      "summary": "Western firms profited as kingdom launched 'giga-projects' but market is slowing as Riyadh reins in spending ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd90cf404-2c7d-4da2-8223-13776d608364.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Companies",
+      "source_domain": "www.ft.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.040753,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "사우디아라비아 외부 컨설턴트의 '공란수표' 시대 종식"
     },
     {
       "title": "In SAFE hands: China's secret plan for US$1 trillion reserves fund in Hong Kong",
@@ -1746,7 +1779,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2335,7 +2368,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2547,33 +2580,6 @@
         }
       ],
       "translatedTitle": "매크로스코프 | 트럼프의 무역전쟁은 유럽과 중국에 필요한 동기를 제공하고 있다"
-    },
-    {
-      "title": "Social Security Retirees Just Got Bad News From Washington",
-      "url": "https://www.fool.com/retirement/2025/03/13/social-security-retirees-bad-news-from-washington/",
-      "time_published": "20250313T070500",
-      "authors": [
-        "Trevor Jennewine"
-      ],
-      "summary": "President Trump returned the White House for a second term less than two months ago, but he has already signaled a dramatic shift in Washington's trade policy. Specifically, the Trump administration has imposed or plans to impose numerous tariffs, including the following:While the ...",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810793%2Fsocial-security-20.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": -0.123385,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "사회보장 퇴직자들은 워싱턴에서 나쁜 소식을 접했습니다."
     }
   ]
 }
