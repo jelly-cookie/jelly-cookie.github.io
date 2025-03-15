@@ -428,6 +428,82 @@
       "translatedTitle": "MeiraGTx, 파킨슨병 치료제 AAV-GAD의 3단계 개발을 가속화하고 MeiraGTx의 독점 제조 공정을 산업화하기 위해 Hologen AI와 전략적 협력 체결 - MeiraGTx Hldgs ( NASDAQ:MGTX )"
     },
     {
+      "title": "Bulls And Bears: DocuSign, Magnificent 7, Palantir - And Tariffs Keep Roiling Markets - DocuSign  ( NASDAQ:DOCU ) , Trump Media & Technology  ( NASDAQ:DJT ) ",
+      "url": "https://www.benzinga.com/25/03/44345850/benzinga-bulls-and-bears-docusign-magnificent-7-palantir-and-tariffs-keep-roiling-markets",
+      "time_published": "20250315T120046",
+      "authors": [
+        "Benzinga Senior Editor"
+      ],
+      "summary": "Benzinga examined the prospects for many investors' favorite stocks over the last week - here's a look at some of our top stories. This week, U.S. stock markets tumbled into correction territory, with the S&P 500 dropping over 10% from February highs.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/15/bulls-and-bears-22ai.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990999"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.146301,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.121343",
+          "ticker_sentiment_score": "-0.008476",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TYHOF",
+          "relevance_score": "0.060848",
+          "ticker_sentiment_score": "0.098004",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DOCU",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.052981",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QBTS",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.44993",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DJT",
+          "relevance_score": "0.121343",
+          "ticker_sentiment_score": "-0.080802",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.121343",
+          "ticker_sentiment_score": "0.083359",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "황소와 곰: DocuSign, Magnificent 7, Palantir - 그리고 관세는 시장을 계속 흔들고 있습니다 - DocuSign (NASDAQ:DOCU), Trump Media & Technology (NASDAQ:DJT)"
+    },
+    {
       "title": "Prediction: President Trump's Tariffs Won't Cause a Stock Market Crash for 1 Simple Reason",
       "url": "https://www.fool.com/investing/2025/03/15/prediction-president-trumps-tariffs-wont-cause-a-s/",
       "time_published": "20250315T084700",
@@ -1101,7 +1177,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -1837,7 +1913,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2426,7 +2502,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2550,44 +2626,6 @@
         }
       ],
       "translatedTitle": "2월 미국 연방 지출, 머스크의 DOGE 이니셔티브에도 불구하고 기록적인 6,030억 달러에 도달 - Tesla ( NASDAQ:TSLA )"
-    },
-    {
-      "title": "Despite Elon Musk's Efforts, US Spending Soars To New Highs, Deficit Exceeds $1 Trillion - Tesla  ( NASDAQ:TSLA ) ",
-      "url": "https://www.benzinga.com/markets/25/03/44297088/despite-elon-musks-efforts-us-spending-soars-to-new-highs-deficit-exceeds-1-trillion",
-      "time_published": "20250313T095408",
-      "authors": [
-        "Namrata Sen"
-      ],
-      "summary": "The U.S. federal spending hit a record-breaking $603.4 billion last month, despite the efficiency drive led by Tesla CEO Elon Musk. What Happened: Despite Musk's efforts to streamline government operations through his Department of Government Efficiency ( DOGE ) , U.S. federal spending has soared ...",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/DOGE-Staffers-Reportedly-Draw-Hefty-Sala.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.172313,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.090816",
-          "ticker_sentiment_score": "-0.004265",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "일론 머스크의 노력에도 불구하고, 미국 지출은 새로운 최고치로 치솟고 적자는 1조 달러를 넘어섬 - Tesla ( NASDAQ:TSLA )"
     }
   ]
 }
