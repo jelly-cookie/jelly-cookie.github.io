@@ -474,6 +474,68 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
+      "title": "Macroscope | How will nations pay for a Trump-induced rush to arms?",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3302237/how-will-nations-pay-trump-induced-rush-arms",
+      "time_published": "20250315T083008",
+      "authors": [
+        "Anthony Rowley"
+      ],
+      "summary": "Those aiming to raise defence spending should ask where the money will come from and remember needs like infrastructure and climate change.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/02/27/oi.00_00_09_20.Still003.jpg?itok=lnEo-R0h",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        }
+      ],
+      "overall_sentiment_score": 0.048223,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAESF",
+          "relevance_score": "0.045482",
+          "ticker_sentiment_score": "0.045085",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EADSF",
+          "relevance_score": "0.045482",
+          "ticker_sentiment_score": "0.045085",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSBHF",
+          "relevance_score": "0.045482",
+          "ticker_sentiment_score": "0.045085",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FNCNF",
+          "relevance_score": "0.045482",
+          "ticker_sentiment_score": "0.045085",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MHVYF",
+          "relevance_score": "0.045482",
+          "ticker_sentiment_score": "0.045085",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "매크로스코프 | 트럼프가 주도한 무장 투쟁에 대한 대가는 어떻게 각국에서 치러질까?"
+    },
+    {
       "title": "End of 'blank cheque' era for outside consultants in Saudi Arabia",
       "url": "https://www.ft.com/content/d3999d9a-4173-4543-886d-9ede0eaa5b35",
       "time_published": "20250315T050028",
@@ -1043,7 +1105,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -1779,7 +1841,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2368,7 +2430,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2530,56 +2592,6 @@
         }
       ],
       "translatedTitle": "일론 머스크의 노력에도 불구하고, 미국 지출은 새로운 최고치로 치솟고 적자는 1조 달러를 넘어섬 - Tesla ( NASDAQ:TSLA )"
-    },
-    {
-      "title": "Macroscope | Trump's trade war is giving Europe and China the nudge they need",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3302172/trumps-trade-war-giving-europe-and-china-nudge-they-need",
-      "time_published": "20250313T083007",
-      "authors": [
-        "Nicholas Spiro"
-      ],
-      "summary": "While the tide has not fully turned in Europe and China's favour, Trump's recklessness is providing impetus for badly needed policy shifts.",
-      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/13/789b6b62-5036-419d-8b74-f43085bdd263_595de0ff.jpg",
-      "source": "South China Morning Post",
-      "category_within_source": "Economy",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.451494"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.413559"
-        }
-      ],
-      "overall_sentiment_score": 0.135452,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "SCGLF",
-          "relevance_score": "0.039548",
-          "ticker_sentiment_score": "0.140771",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.118257",
-          "ticker_sentiment_score": "0.119034",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.039548",
-          "ticker_sentiment_score": "0.101397",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "매크로스코프 | 트럼프의 무역전쟁은 유럽과 중국에 필요한 동기를 제공하고 있다"
     }
   ]
 }
