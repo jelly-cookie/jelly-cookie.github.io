@@ -451,6 +451,66 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
+      "title": "In SAFE hands: China's secret plan for US$1 trillion reserves fund in Hong Kong",
+      "url": "https://www.scmp.com/business/banking-finance/article/3302431/safe-hands-chinas-secret-plan-us1-trillion-reserves-fund-hong-kong",
+      "time_published": "20250315T020013",
+      "authors": [
+        "Cao Li"
+      ],
+      "summary": "Cheng Hao, the man involved in the rescue of China's 2015 market crash, runs what is the world's third largest wealth fund in Hong Kong.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/14/6ea117c4-c83d-4475-aed4-3d83566e3151_a56d9be1.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.14628,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BACHY",
+          "relevance_score": "0.023441",
+          "ticker_sentiment_score": "0.006328",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TJIPF",
+          "relevance_score": "0.023441",
+          "ticker_sentiment_score": "0.081649",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:HKD",
+          "relevance_score": "0.023441",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.070242",
+          "ticker_sentiment_score": "0.039138",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "안전한 손에: 홍콩에 1조 달러 규모의 준비금을 위한 중국의 비밀 계획"
+    },
+    {
       "title": "Opinion | Hong Kong must ensure it won't lose control of Northern Metropolis",
       "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3302181/hong-kong-must-ensure-it-wont-lose-control-northern-metropolis",
       "time_published": "20250315T013008",
@@ -927,7 +987,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -1663,7 +1723,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2252,7 +2312,7 @@
       "overall_sentiment_score": 0.120439,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
+      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것'을 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     },
     {
       "title": "Lifetime Brands, Inc. Reports Fourth Quarter 2024 Financial Results",
@@ -2525,37 +2585,6 @@
         }
       ],
       "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
-    },
-    {
-      "title": "Trump Wants No Tax For Anybody Making Less Than $150,000 a year, Says Howard Lutnick. 'That's What I'm Working For'",
-      "url": "https://www.benzinga.com/25/03/44295365/trump-wants-no-tax-for-anybody-making-less-than-150000-a-year-says-howard-lutnick-thats-what-im-working-for",
-      "time_published": "20250313T065754",
-      "authors": [
-        "Namrata Sen"
-      ],
-      "summary": "U.S. Commerce Secretary Howard Lutnick said that President Donald Trump wants to eliminate taxes for individuals earning less than $150,000 per year. What Happened: Lutnick, in a CBS News interview on Tuesday, shared Trump's tax objective. \"I know what his ( Trump's ) goal is… no tax, for anybody ...",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/Trump-Restores-Ukraine-Aid-After-Threate.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.538269"
-        }
-      ],
-      "overall_sentiment_score": -0.019694,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
     }
   ]
 }
