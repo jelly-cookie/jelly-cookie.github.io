@@ -451,6 +451,44 @@
       "translatedTitle": "Duluth Holdings Inc. 4분기 및 2024 회계연도 재무 결과 발표"
     },
     {
+      "title": "Opinion | Hong Kong must ensure it won't lose control of Northern Metropolis",
+      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3302181/hong-kong-must-ensure-it-wont-lose-control-northern-metropolis",
+      "time_published": "20250315T013008",
+      "authors": [
+        "Andy Cheng"
+      ],
+      "summary": "As the city moves away from conventional development models, risks and rewards with the private sector should still be distributed fairly.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/13/3e11d0c7-fd2b-4dad-bea4-ac8e999998c1_629284a6.jpg?itok=lvmqXOox&v=1741841050",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.205123,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.19231",
+          "ticker_sentiment_score": "0.050048",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "의견 | 홍콩은 북부 대도시에 대한 통제력을 잃지 않도록 해야 합니다."
+    },
+    {
       "title": "$125MM Construction Loan in DUMBO Financed by Bravo Property Trust and Integritas Capital",
       "url": "https://www.benzinga.com/pressreleases/25/03/g44343079/125mm-construction-loan-in-dumbo-financed-by-bravo-property-trust-and-integritas-capital",
       "time_published": "20250314T212454",
@@ -889,7 +927,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -1625,7 +1663,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
+      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2518,37 +2556,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "트럼프, 연봉 15만 달러 이하인 사람에겐 세금 부과 안 해달라고 하워드 루트닉이 말하다. '그게 내가 일하는 이유야'"
-    },
-    {
-      "title": "Trump Wants No Tax For Americans Making Less Than $150,000 A Year, Says Howard Lutnick: 'That's What I'm Working For'",
-      "url": "https://www.benzinga.com/markets/25/03/44295365/trump-wants-no-tax-for-americans-making-less-than-150000-a-year-says-howard-lutnick-thats-what-im-working",
-      "time_published": "20250313T065747",
-      "authors": [
-        "Namrata Sen"
-      ],
-      "summary": "U.S. Commerce Secretary Howard Lutnick said that President Donald Trump wants to eliminate taxes for individuals earning less than $150,000 per year. What Happened: Lutnick, in a CBS News interview on Tuesday, shared Trump's tax objective. \"I know what his ( Trump's ) goal is… no tax, for anybody ...",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/Trump-Restores-Ukraine-Aid-After-Threate_2.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.538269"
-        }
-      ],
-      "overall_sentiment_score": -0.019694,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "트럼프, 연봉 15만 달러 이하 미국인에 대한 세금 면제를 원치 않아, 하워드 루트닉: \"그게 내가 일하는 이유\""
     }
   ]
 }
