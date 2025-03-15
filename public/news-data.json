@@ -428,6 +428,44 @@
       "translatedTitle": "MeiraGTx, 파킨슨병 치료제 AAV-GAD의 3단계 개발을 가속화하고 MeiraGTx의 독점 제조 공정을 산업화하기 위해 Hologen AI와 전략적 협력 체결 - MeiraGTx Hldgs ( NASDAQ:MGTX )"
     },
     {
+      "title": "President Donald Trump Is Now Caught Between a Rock and a Hard Place on Medicaid",
+      "url": "https://www.fool.com/retirement/2025/03/15/president-donald-trump-is-now-caught-between-a-roc/",
+      "time_published": "20250315T134500",
+      "authors": [
+        "Bram Berkowitz"
+      ],
+      "summary": "Since being sworn into office on Jan. 20, President Donald Trump has walked a fine line when discussing the country's largest social programs such as Medicare, Medicaid, and Social Security. Trump has gone on Fox News and said he has no plans to touch any of these programs.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810240%2Ftrump-2-official-wh-photo-by-tia-dufour.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.012125,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOX",
+          "relevance_score": "0.054607",
+          "ticker_sentiment_score": "0.012053",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "도널드 트럼프 대통령은 이제 메디케이드에 대해 난처한 입장에 처해 있습니다."
+    },
+    {
       "title": "Bulls And Bears: DocuSign, Magnificent 7, Palantir - And Tariffs Keep Roiling Markets - DocuSign  ( NASDAQ:DOCU ) , Trump Media & Technology  ( NASDAQ:DJT ) ",
       "url": "https://www.benzinga.com/25/03/44345850/benzinga-bulls-and-bears-docusign-magnificent-7-palantir-and-tariffs-keep-roiling-markets",
       "time_published": "20250315T120046",
@@ -2588,44 +2626,6 @@
         }
       ],
       "translatedTitle": "Wharf, 감가상각으로 과잉공급과 매출 침체로 2024년 손실로 전환"
-    },
-    {
-      "title": "U.S. Federal Spending For February Touches A Record $603 Billion Despite Musk's DOGE Initiative - Tesla  ( NASDAQ:TSLA ) ",
-      "url": "https://www.benzinga.com/25/03/44297088/us-federal-spending-reaches-unprecedented-605-billion-despite-musks-doge-initiative",
-      "time_published": "20250313T095414",
-      "authors": [
-        "Namrata Sen"
-      ],
-      "summary": "The U.S. federal spending hit a record-breaking $603.4 billion last month, despite the efficiency drive led by Tesla CEO Elon Musk. What Happened: Despite Musk's efforts to streamline government operations through his Department of Government Efficiency ( DOGE ) , U.S. federal spending has soared ...",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/DOGE-Staffers-Reportedly-Draw-Hefty-Sala.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.146795,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.085022",
-          "ticker_sentiment_score": "-0.004198",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "2월 미국 연방 지출, 머스크의 DOGE 이니셔티브에도 불구하고 기록적인 6,030억 달러에 도달 - Tesla ( NASDAQ:TSLA )"
     }
   ]
 }
