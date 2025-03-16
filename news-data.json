@@ -89,6 +89,62 @@
       "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
     },
     {
+      "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
+      "url": "https://www.cnbc.com/2025/03/16/see-you-in-four-years-canada-flexes-economic-muscle-as-tariff-negotiations-continue.html",
+      "time_published": "20250316T111242",
+      "authors": [],
+      "summary": "Trump's plans for tariffs and comments about Canada becoming a state has enraged the country's consumers and politicians.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Economy",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.064447,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.0367",
+          "ticker_sentiment_score": "0.228104",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BF-A",
+          "relevance_score": "0.073321",
+          "ticker_sentiment_score": "-0.052531",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.073321",
+          "ticker_sentiment_score": "-0.061303",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
+    },
+    {
       "title": "Deal Dispatch: Trump M&A Boom Is A Bust, Purple Mattress Considers Sale, Celtics Auction Heats Up - Green Dot  ( NYSE:GDOT ) , Archer-Daniels Midland  ( NYSE:ADM ) ",
       "url": "https://www.benzinga.com/personal-finance/financial-advisors/25/03/44342234/deal-dispatch-trump-ma-boom-is-a-bust-purple-mattress-considers-sale-celtics-",
       "time_published": "20250314T204728",
@@ -1341,7 +1397,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2077,7 +2133,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
+      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2640,33 +2696,6 @@
         }
       ],
       "translatedTitle": "Intech, 시장 집중도에 도전하기 위해 차세대 ETF 출시"
-    },
-    {
-      "title": "Interior Secretary Calls For 'Mine, Baby, Mine,' Promising Cost Savings From Deregulation - First Trust Materials AlphaDEX Fund  ( ARCA:FXZ ) , iShares U.S. Basic Materials ETF  ( ARCA:IYM ) ",
-      "url": "https://www.benzinga.com/government/regulations/25/03/44299696/interior-secretary-calls-for-mine-baby-mine-promising-cost-savings-from-deregulation",
-      "time_published": "20250313T120223",
-      "authors": [
-        "Stjepan Kalinic"
-      ],
-      "summary": "Interior Secretary is asking for higher energy and mining production, estimating notable cost reductions from deregulation. Environmental protection groups voice opposition to activity near national monuments, citing risk to the \"century-old legacy.\"",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/mining-shutter.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        }
-      ],
-      "overall_sentiment_score": 0.120439,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "내무부 장관, 규제 완화로 인한 비용 절감을 약속하며 '내 것, 내 것, 내 것' 촉구 - First Trust Materials AlphaDEX Fund(ARCA:FXZ), iShares U.S. Basic Materials ETF(ARCA:IYM)"
     }
   ]
 }
