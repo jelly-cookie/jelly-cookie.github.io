@@ -4,6 +4,64 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
+      "title": "Exclusive | Economist Robin Xing on China's animal spirits and the impact of Trump 2.0",
+      "url": "https://www.scmp.com/economy/china-economy/article/3302415/economist-robin-xing-revival-chinas-animal-spirits-and-surviving-trump-20",
+      "time_published": "20250316T220025",
+      "authors": [
+        "Frank Chen"
+      ],
+      "summary": "Morgan Stanley's chief China economist sees green shoots in China thanks to innovation, but highlights need for social security reform.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/14/79b0673a-22d7-4f68-8bff-ac2ff1b3493a_c777f8c5.jpg?itok=Qn0u_Pnc&v=1741944549",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.999989"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": 0.176337,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BACHY",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "0.093213",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "0.092391",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "단독 | 경제학자 로빈 싱이 말하는 중국의 동물적 정신과 트럼프 2.0의 영향"
+    },
+    {
       "title": "'Horrific Report': Economists Warn Consumer Confidence Collapse Signals Economic Trouble - Kohl's  ( NYSE:KSS ) ",
       "url": "https://www.benzinga.com/25/03/44337983/economists-react-to-march-consumer-confidence-plunge-this-is-a-horrific-report",
       "time_published": "20250314T180741",
@@ -244,7 +302,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
     },
     {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
@@ -1460,7 +1518,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2196,7 +2254,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세 경고로 시장이 암울하게 유지"
+      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2632,37 +2690,6 @@
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "Acme United Corporation 이사회, 현금 배당금 승인 - Acme United ( AMEX:ACU )"
-    },
-    {
-      "title": "Acme United Corporation Board Approves Cash Dividend",
-      "url": "https://www.globenewswire.com/news-release/2025/03/13/3042277/0/en/Acme-United-Corporation-Board-Approves-Cash-Dividend.html",
-      "time_published": "20250313T132400",
-      "authors": [
-        "Acme United Corporation"
-      ],
-      "summary": "SHELTON, Conn., March 13, 2025 ( GLOBE NEWSWIRE ) -- The Board of Directors of Acme United Corporation ( NYSE American: ACU ) declared a cash dividend of 15 cents per share on its outstanding common stock. The dividend is payable on April 16, 2025, to stockholders of record on the close of ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/972f36fe-016c-4b6b-83ef-99de358fa815",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.714479"
-        }
-      ],
-      "overall_sentiment_score": 0.144492,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "Acme United Corporation 이사회, 현금 배당금 승인"
     }
   ]
 }
