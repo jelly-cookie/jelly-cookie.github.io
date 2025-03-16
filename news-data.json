@@ -244,7 +244,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
     },
     {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
@@ -398,6 +398,69 @@
         }
       ],
       "translatedTitle": "트럼프 가족, 바이낸스 지분 인수 협상 중, 전 CEO 창펑 자오 사면 추진"
+    },
+    {
+      "title": "Treasury Secretary Bessent says White House is heading off a 'guaranteed' financial crisis",
+      "url": "https://www.cnbc.com/2025/03/16/treasury-secretary-bessent-says-white-house-is-heading-off-financial-crisis.html",
+      "time_published": "20250316T153522",
+      "authors": [],
+      "summary": "Bessent believes market pullbacks are benign, and Trump's pro-business policies will boost the economy in the long run.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Finance",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.014836,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "재무부 장관 베센트, 백악관이 '보장된' 금융 위기를 막고 있다고 밝혀"
+    },
+    {
+      "title": "Is BigBear.ai Stock a Buy Now?",
+      "url": "https://www.fool.com/investing/2025/03/16/is-bigbearai-stock-a-buy-now/",
+      "time_published": "20250316T151600",
+      "authors": [
+        "Robert Izquierdo"
+      ],
+      "summary": "Artificial intelligence ( AI ) stocks have been battered along with the broader stock market recently as worries about the near-term outlook weigh on the minds of investors. Their fears have largely been prompted by concerns about how President Donald Trump's tariff and trade war plans will ...",
+      "banner_image": "https://media.ycharts.com/charts/5f3eaeea9fdf4312b5aaef41e9941043.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990999"
+        }
+      ],
+      "overall_sentiment_score": 0.056402,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SFTBF",
+          "relevance_score": "0.060236",
+          "ticker_sentiment_score": "0.055093",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -1397,7 +1460,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2600,102 +2663,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "Acme United Corporation 이사회, 현금 배당금 승인"
-    },
-    {
-      "title": "Florida Foodies, Fashionistas Flock to 'Flourish' Fashion & Food Showcase",
-      "url": "https://www.benzinga.com/pressreleases/25/03/n44301567/florida-foodies-fashionistas-flock-to-flourish-fashion-food-showcase",
-      "time_published": "20250313T130700",
-      "authors": [
-        "PRNewswire"
-      ],
-      "summary": "Leading Florida fashion designers, celebrity chefs, 700-plus guests to attend St. Thomas University's signature spring event. Students create \"McDCouture\" from repurposed McDonald's packaging.",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.274568,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "HESG",
-          "relevance_score": "0.030641",
-          "ticker_sentiment_score": "0.162726",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "SYY",
-          "relevance_score": "0.030641",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MDNDF",
-          "relevance_score": "0.152306",
-          "ticker_sentiment_score": "0.104925",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TXRH",
-          "relevance_score": "0.030641",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SDXOF",
-          "relevance_score": "0.030641",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "플로리다 푸디, 패셔니스타들이 'Flourish' 패션 & 푸드 쇼케이스에 모여들다"
-    },
-    {
-      "title": "Intech Launches Next-Generation ETFs to Challenge Market Concentration",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44300344/intech-launches-next-generation-etfs-to-challenge-market-concentration",
-      "time_published": "20250313T123000",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "WEST PALM BEACH, Fla., March 13, 2025 ( GLOBE NEWSWIRE ) -- Equity markets are more concentrated than ever. And alternatives haven't solved the problem-equal-weighted strategies tilt too far toward smaller stocks, and factor investing remains unpredictable.",
-      "banner_image": "https://ml.globenewswire.com/media/894e5bcf-cb97-41b7-b30b-ade126f15c60/small/intech-etfs-logo-with-tagline.png",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.091566,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "SPGI",
-          "relevance_score": "0.060085",
-          "ticker_sentiment_score": "-0.035996",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Intech, 시장 집중도에 도전하기 위해 차세대 ETF 출시"
     }
   ]
 }
