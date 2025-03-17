@@ -458,6 +458,40 @@
       "translatedTitle": "트럼프 가족, 바이낸스 지분 인수 협상 중, 전 CEO 창펑 자오 사면 추진"
     },
     {
+      "title": "Standard Chartered sees key role for Hong Kong amid evolving global trade",
+      "url": "https://www.scmp.com/business/banking-finance/article/3302468/trumps-tariffs-reshape-global-trade-key-role-hong-kong-stanchart-chairman",
+      "time_published": "20250316T233011",
+      "authors": [
+        "Enoch Yiu"
+      ],
+      "summary": "Jose Vinals to bid adieu at the bank's annual general meeting in May after nine years at the helm.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/03/13/clean.jpg?itok=TQ_a0waT",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.210144,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SCBFF",
+          "relevance_score": "0.127119",
+          "ticker_sentiment_score": "0.244172",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Standard Chartered, 진화하는 글로벌 무역 속에서 홍콩의 핵심 역할을 기대"
+    },
+    {
       "title": "Treasury Secretary Bessent says White House is heading off a 'guaranteed' financial crisis",
       "url": "https://www.cnbc.com/2025/03/16/treasury-secretary-bessent-says-white-house-is-heading-off-financial-crisis.html",
       "time_published": "20250316T153522",
@@ -1078,6 +1112,102 @@
         }
       ],
       "translatedTitle": "의견 | 홍콩은 북부 대도시에 대한 통제력을 잃지 않도록 해야 합니다."
+    },
+    {
+      "title": "Looking Ahead to the Q1 Earnings Season",
+      "url": "https://www.zacks.com/commentary/2430426/looking-ahead-to-the-q1-earnings-season",
+      "time_published": "20250314T230100",
+      "authors": [
+        "Sheraz Mian"
+      ],
+      "summary": "The Q1 reporting cycle will really get going when the big banks come out with their March-quarter results on April 11th. What should investors know heading into the period?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/11/14587.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.110259,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COST",
+          "relevance_score": "0.098524",
+          "ticker_sentiment_score": "0.065714",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.131105",
+          "ticker_sentiment_score": "0.06052",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NKE",
+          "relevance_score": "0.195551",
+          "ticker_sentiment_score": "0.115905",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.131105",
+          "ticker_sentiment_score": "0.06052",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.098524",
+          "ticker_sentiment_score": "0.031633",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.098524",
+          "ticker_sentiment_score": "0.031633",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.032916",
+          "ticker_sentiment_score": "0.206805",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.032916",
+          "ticker_sentiment_score": "0.206805",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "1분기 실적 발표 시즌을 기대하며"
     },
     {
       "title": "$125MM Construction Loan in DUMBO Financed by Bravo Property Trust and Integritas Capital",
@@ -2254,7 +2384,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
+      "translatedTitle": "관세 경고가 더 많아지면서 시장은 암울한 상태를 유지"
     },
     {
       "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
@@ -2561,135 +2691,6 @@
         }
       ],
       "translatedTitle": "XRP, Ripple이 두바이에서 암호화폐 결제를 제공하도록 승인받으면서 4% 급등"
-    },
-    {
-      "title": "'s Market Volatility Toolkit",
-      "url": "https://www.fool.com/investing/general/2025/03/13/the-motley-fools-market-volatility-toolkit/",
-      "time_published": "20250313T134708",
-      "authors": [
-        "The Premium Team"
-      ],
-      "summary": "Long-Term Perspective and Practical Steps for Uncertain Times ...",
-      "banner_image": "https://g.foolcdn.com/misc-assets/market-kit-cover.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.857896"
-        }
-      ],
-      "overall_sentiment_score": -0.041937,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "TGT",
-          "relevance_score": "0.033703",
-          "ticker_sentiment_score": "-0.2871",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "ANET",
-          "relevance_score": "0.033703",
-          "ticker_sentiment_score": "0.109669",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "C",
-          "relevance_score": "0.033703",
-          "ticker_sentiment_score": "-0.147158",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVO",
-          "relevance_score": "0.033703",
-          "ticker_sentiment_score": "0.17481",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "BRK-A",
-          "relevance_score": "0.016855",
-          "ticker_sentiment_score": "0.065858",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BBY",
-          "relevance_score": "0.033703",
-          "ticker_sentiment_score": "-0.2871",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "AAL",
-          "relevance_score": "0.033703",
-          "ticker_sentiment_score": "-0.2871",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "'s 시장 변동성 툴킷"
-    },
-    {
-      "title": "Acme United Corporation Board Approves Cash Dividend - Acme United  ( AMEX:ACU ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44301884/acme-united-corporation-board-approves-cash-dividend",
-      "time_published": "20250313T132454",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "SHELTON, Conn., March 13, 2025 ( GLOBE NEWSWIRE ) -- The Board of Directors of Acme United Corporation ACU declared a cash dividend of 15 cents per share on its outstanding common stock. The dividend is payable on April 16, 2025, to stockholders of record on the close of business on March 26, ...",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.938793"
-        }
-      ],
-      "overall_sentiment_score": 0.18622,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "Acme United Corporation 이사회, 현금 배당금 승인 - Acme United ( AMEX:ACU )"
     }
   ]
 }
