@@ -185,6 +185,37 @@
       "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
     },
     {
+      "title": "Cibus Welcomes the European Union's Progress as Legislation for New Genomic Techniques to Boost Innovation and Sustainability Moves Forward - Cibus  ( NASDAQ:CBUS ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44352726/cibus-welcomes-the-european-unions-progress-as-legislation-for-new-genomic-techniques-to-boost-inn",
+      "time_published": "20250317T110000",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Legislation aims to adapt EU law to reflect scientific and technological progress, enabling the products of New Genomic Techniques ( NGTs ) , such as gene editing, to contribute to more sustainable agriculture, climate resilience, and food security",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        }
+      ],
+      "overall_sentiment_score": 0.207741,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
+    },
+    {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
       "url": "https://www.cnbc.com/2025/03/16/see-you-in-four-years-canada-flexes-economic-muscle-as-tariff-negotiations-continue.html",
       "time_published": "20250316T111242",
@@ -448,6 +479,49 @@
       "translatedTitle": "S&P 500이 방금 수정 영역에 도달했습니다. 역사는 주식 시장이 다음에 이런 일을 할 것이라고 말합니다(힌트: 당신을 놀라게 할 수도 있습니다)"
     },
     {
+      "title": "Sprott Physical Gold Trust Net Asset Value Reaches $10 Billion",
+      "url": "https://www.globenewswire.com/news-release/2025/03/17/3043561/35318/en/Sprott-Physical-Gold-Trust-Net-Asset-Value-Reaches-10-Billion.html",
+      "time_published": "20250317T110000",
+      "authors": [
+        "Sprott",
+        "Inc."
+      ],
+      "summary": "TORONTO, March 17, 2025 ( GLOBE NEWSWIRE ) -- Sprott Inc. ( NYSE/TSX: SII ) ( \"Sprott\" ) on behalf of the Sprott Physical Gold Trust ( NYSE Arca/TSX: PHYS ) ( \"PHYS\" or \"the Trust ) today announced that PHYS's net asset value ( \"NAV\" ) has surpassed US$10 billion.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fad10bcd-5c9b-4e30-a7e7-76966ac7cda6",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999966"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.398457,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SII",
+          "relevance_score": "0.562529",
+          "ticker_sentiment_score": "0.639368",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "Sprott Physical Gold Trust 순자산가치가 100억 달러에 도달"
+    },
+    {
       "title": "Could Palantir's Stock Plummet Even Further if Elon Musk's DOGE Cuts Spending?",
       "url": "https://www.fool.com/investing/2025/03/17/could-palantirs-stock-plummet-even-further-if-pres/",
       "time_published": "20250317T110000",
@@ -561,6 +635,78 @@
         }
       ],
       "translatedTitle": "나스닥 매도: 이 멈출 수 없는 주식을 할인된 가격에 매수하세요"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Shell, Chevron, The Williams Companies, Liberty Energy and VAALCO",
+      "url": "https://www.zacks.com/stock/news/2430493/the-zacks-analyst-blog-highlights-shell-chevron-the-williams-companies-liberty-energy-and-vaalco",
+      "time_published": "20250317T095200",
+      "authors": [
+        "Zacks Investment Research"
+      ],
+      "summary": "Shell, Chevron, The Williams Companies, Liberty Energy and VAALCO are included in this Analyst Blog.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a6/528.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.272206,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BKR",
+          "relevance_score": "0.029008",
+          "ticker_sentiment_score": "0.004832",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LBRT",
+          "relevance_score": "0.228879",
+          "ticker_sentiment_score": "0.376823",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "CVX",
+          "relevance_score": "0.172713",
+          "ticker_sentiment_score": "-0.036921",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EGY",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.015406",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PSIX",
+          "relevance_score": "0.029008",
+          "ticker_sentiment_score": "0.450802",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "USEG",
+          "relevance_score": "0.029008",
+          "ticker_sentiment_score": "-0.04131",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Zacks 분석가 블로그는 Shell, Chevron, The Williams Companies, Liberty Energy 및 VAALCO를 강조합니다."
     },
     {
       "title": "Nike, FedEx, Costco, Oracle and Adobe are part of Zacks Earnings Preview",
@@ -1914,7 +2060,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2445,150 +2591,6 @@
         }
       ],
       "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
-    },
-    {
-      "title": "FiscalNote  ( NOTE )  Q4 2024 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2025/03/14/fiscalnote-note-q4-2024-earnings-call-transcript/",
-      "time_published": "20250314T040031",
-      "authors": [
-        "Motley Fool Transcribing"
-      ],
-      "summary": "NOTE earnings call for the period ending December 31, 2024.",
-      "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.995973"
-        }
-      ],
-      "overall_sentiment_score": 0.324521,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "III",
-          "relevance_score": "0.008849",
-          "ticker_sentiment_score": "0.133427",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NOTE",
-          "relevance_score": "0.044222",
-          "ticker_sentiment_score": "0.14352",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "FiscalNote ( NOTE ) 2024년 4분기 실적 발표 전화 회의록"
-    },
-    {
-      "title": "Democrat lawmaker urges Treasury to cease Trump's Bitcoin reserve plans",
-      "url": "https://cointelegraph.com/news/democrat-asks-scott-bessent-cease-trumps-bitcoin-reserve",
-      "time_published": "20250314T030513",
-      "authors": [
-        "Brayden Lindrea"
-      ],
-      "summary": "A Democrat lawmaker has called on the US Treasury to \"cease all attempts\" to create a strategic crypto reserve in the United States, citing conflicts of interest with US President Donald Trump and arguing that a stockpile would not benefit the American people.House Representative Gerald E.",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01959285-21a7-7786-8ab3-40fd804544ef",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.769861"
-        }
-      ],
-      "overall_sentiment_score": 0.102256,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.524949",
-          "ticker_sentiment_score": "0.029982",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.16171",
-          "ticker_sentiment_score": "-0.065337",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ADA",
-          "relevance_score": "0.16171",
-          "ticker_sentiment_score": "-0.065337",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:XRP",
-          "relevance_score": "0.16171",
-          "ticker_sentiment_score": "-0.065337",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "민주당 의원, 재무부에 트럼프의 비트코인 비축 계획 중단 촉구"
-    },
-    {
-      "title": "China's central bank to create 'more tools' to shore up economy",
-      "url": "https://www.scmp.com/economy/china-economy/article/3302312/chinas-central-bank-create-more-tools-shore-economy",
-      "time_published": "20250314T022215",
-      "authors": [
-        "Mia Nulimaimaiti"
-      ],
-      "summary": "The bank also pledged to cut interest rates and keep the yuan stable amid an uncertain global outlook.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/14/d48e0bc0-fba9-4ef0-a16e-cd22f5c711ff_4a84a39c.jpg?itok=ZIDLjFHH&v=1741918935",
-      "source": "South China Morning Post",
-      "category_within_source": "Money",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.9973"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.159697,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BACHY",
-          "relevance_score": "0.072876",
-          "ticker_sentiment_score": "0.101779",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:CNY",
-          "relevance_score": "0.145145",
-          "ticker_sentiment_score": "0.16088",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "중국 중앙은행, 경제 강화를 위한 '더 많은 도구' 마련"
     }
   ]
 }
