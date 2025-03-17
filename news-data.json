@@ -124,6 +124,44 @@
       "translatedTitle": "'끔찍한 보고서': 경제학자들은 소비자 신뢰 붕괴가 경제적 문제를 나타낸다고 경고 - Kohl's ( NYSE:KSS )"
     },
     {
+      "title": "Descartes Study: 39% of High-growth Companies Leverage Trade Compliance as Competitive Advantage",
+      "url": "https://www.globenewswire.com/news-release/2025/03/17/3043547/0/en/Descartes-Study-39-of-High-growth-Companies-Leverage-Trade-Compliance-as-Competitive-Advantage.html",
+      "time_published": "20250317T104500",
+      "authors": [
+        "The Descartes Systems Group Inc"
+      ],
+      "summary": "ATLANTA and LONDON, March 17, 2025 ( GLOBE NEWSWIRE ) -- Descartes Systems Group ( Nasdaq:DSGX ) ( TSX:DSG ) , the global leader in uniting logistics-intensive businesses in commerce, released findings from its study Top Three Traits of Companies with a Successful Approach to Trade Compliance.",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/2458abe4-87e5-4a31-8a58-b127eacde619/image1.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.714479"
+        }
+      ],
+      "overall_sentiment_score": 0.343815,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DSGX",
+          "relevance_score": "0.042647",
+          "ticker_sentiment_score": "0.20507",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "데카르트 연구: 고성장 기업의 39%가 무역 준수를 경쟁 우위로 활용"
+    },
+    {
       "title": "Ray Dalio Has A Chilling Warning For President Trump: Debt Crisis Is Imminent, And An Issue Of 'Paramount Importance'",
       "url": "https://www.benzinga.com/25/03/44345022/ray-dalio-has-a-chilling-warning-for-president-trump-debt-crisis-is-imminent-and-an-issue-of-paramount-importance",
       "time_published": "20250315T040151",
@@ -408,6 +446,217 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "S&P 500이 방금 수정 영역에 도달했습니다. 역사는 주식 시장이 다음에 이런 일을 할 것이라고 말합니다(힌트: 당신을 놀라게 할 수도 있습니다)"
+    },
+    {
+      "title": "Could Palantir's Stock Plummet Even Further if Elon Musk's DOGE Cuts Spending?",
+      "url": "https://www.fool.com/investing/2025/03/17/could-palantirs-stock-plummet-even-further-if-pres/",
+      "time_published": "20250317T110000",
+      "authors": [
+        "Keithen Drury"
+      ],
+      "summary": "Palantir Technologies ( NASDAQ: PLTR ) was one of the hottest artificial intelligence ( AI ) stocks in 2024 but has seen heavy selling pressure alongside its AI peers so far in 2025. While the prevailing fear driving the markets lower right now is centered around the effects of tariffs and a ...",
+      "banner_image": "https://media.ycharts.com/charts/7c34a0456f07e32eca6d9cbf0550620d.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.051118,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.197413",
+          "ticker_sentiment_score": "0.011845",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "일론 머스크의 DOGE가 지출을 줄이면 Palantir의 주가가 더 폭락할 수 있을까?"
+    },
+    {
+      "title": "Castellum, Inc.'s Subsidiary GTMR Achieves CMMI Level 3 Appraisal - Castellum  ( AMEX:CTM ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44352647/castellum-inc-s-subsidiary-gtmr-achieves-cmmi-level-3-appraisal",
+      "time_published": "20250317T104500",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "VIENNA, Va., March 17, 2025 ( GLOBE NEWSWIRE ) -- Castellum, Inc. ( NYSE-American: CTM ) ( \"Castellum\" or \"CTM\" ) , a cybersecurity, electronic warfare, and software engineering services company focused on the federal government, announces that its subsidiary Global Technology and Management ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.744043"
+        }
+      ],
+      "overall_sentiment_score": 0.287561,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "Castellum, Inc.의 자회사 GTMR, CMMI 레벨 3 평가 달성 - Castellum (AMEX:CTM)"
+    },
+    {
+      "title": "Nasdaq Sell-Off: Buy This Unstoppable Stock at a Discount",
+      "url": "https://www.fool.com/investing/2025/03/17/sell-off-buy-this-unstoppable-stock-at-a-discount/",
+      "time_published": "20250317T103000",
+      "authors": [
+        "Manali Pradhan"
+      ],
+      "summary": "This tech giant remains a compelling pick despite heightened market uncertainty.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/811035/analyst_studying_stock_chart_on_a-desktop_screen.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999967"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.203778,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.326129",
+          "ticker_sentiment_score": "0.275365",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "나스닥 매도: 이 멈출 수 없는 주식을 할인된 가격에 매수하세요"
+    },
+    {
+      "title": "Nike, FedEx, Costco, Oracle and Adobe are part of Zacks Earnings Preview",
+      "url": "https://www.zacks.com/stock/news/2430484/nike-fedex-costco-oracle-and-adobe-are-part-of-zacks-earnings-preview",
+      "time_published": "20250317T084500",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Chicago, IL - March 17, 2025 - Zacks.com releases the list of companies likely to issue earnings surprises. This week's list includes Nike ( NKE Quick QuoteNKE - ) , FedEx ( FDX Quick QuoteFDX - ) , Costco ( COST Quick QuoteCOST - ) , Oracle ( ORCL Quick QuoteORCL - ) and Adobe ( ADBE Quick ...",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f9/428.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999996"
+        }
+      ],
+      "overall_sentiment_score": 0.100913,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "COST",
+          "relevance_score": "0.137278",
+          "ticker_sentiment_score": "0.058072",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.17112",
+          "ticker_sentiment_score": "0.065737",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NKE",
+          "relevance_score": "0.2378",
+          "ticker_sentiment_score": "0.114998",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.17112",
+          "ticker_sentiment_score": "0.065737",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.137278",
+          "ticker_sentiment_score": "0.024222",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.03448",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.03448",
+          "ticker_sentiment_score": "0.207439",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.03448",
+          "ticker_sentiment_score": "0.207439",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Nike, FedEx, Costco, Oracle 및 Adobe는 Zacks Earnings Preview에 포함됩니다."
     },
     {
       "title": "NB Private Equity Partners Announces Transaction in Own Shares",
@@ -2340,328 +2589,6 @@
         }
       ],
       "translatedTitle": "중국 중앙은행, 경제 강화를 위한 '더 많은 도구' 마련"
-    },
-    {
-      "title": "Markets Stay Bleak on More Tariff Warnings",
-      "url": "https://www.zacks.com/stock/news/2430012/markets-stay-bleak-on-more-tariff-warnings",
-      "time_published": "20250313T221300",
-      "authors": [
-        "Mark Vickery"
-      ],
-      "summary": "Radical shifts are coming to trade and immigration, but market participants are not yet seeing the light at the end of the tunnel.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d7/97015.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.684621"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.904684"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        }
-      ],
-      "overall_sentiment_score": 0.055325,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "DOCU",
-          "relevance_score": "0.177802",
-          "ticker_sentiment_score": "0.073593",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DRD",
-          "relevance_score": "0.177802",
-          "ticker_sentiment_score": "0.073593",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ULTA",
-          "relevance_score": "0.177802",
-          "ticker_sentiment_score": "0.122189",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "시장은 추가 관세 경고에도 암울한 분위기 유지"
-    },
-    {
-      "title": "FinWise Stock Down 7.8% in 3 Months: Time to Buy the Dip or Wait?",
-      "url": "https://www.zacks.com/stock/news/2429862/finwise-stock-down-78-in-3-months-time-to-buy-the-dip-or-wait",
-      "time_published": "20250313T165700",
-      "authors": [
-        "Ronit Masi"
-      ],
-      "summary": "FINW shares decline 7.8% in the past three months. Does its loan growth and funding diversification efforts make it an attractive bet now? Let's find out.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/81/33900.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.993856"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.285872,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "FINW",
-          "relevance_score": "0.170636",
-          "ticker_sentiment_score": "-0.062738",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FFIN",
-          "relevance_score": "0.102888",
-          "ticker_sentiment_score": "-0.108077",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BOKF",
-          "relevance_score": "0.102888",
-          "ticker_sentiment_score": "-0.108077",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "FinWise 주가가 3개월 동안 7.8% 하락: 하락 때 매수할 때인가, 기다릴 때인가?"
-    },
-    {
-      "title": "3 Goldman Sachs Mutual Funds to Keep An Eye On",
-      "url": "https://www.zacks.com/stock/news/2429849/3-goldman-sachs-mutual-funds-to-keep-an-eye-on",
-      "time_published": "20250313T163600",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Invest in Goldman Sachs mutual funds like GLCTX, GVIRX and GMAPX, which have given impressive returns in the past and are expected to perform well in the future.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/27/834.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999997"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        }
-      ],
-      "overall_sentiment_score": 0.164501,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "FN",
-          "relevance_score": "0.045655",
-          "ticker_sentiment_score": "0.049045",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.091162",
-          "ticker_sentiment_score": "0.050801",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.091162",
-          "ticker_sentiment_score": "0.050801",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SFM",
-          "relevance_score": "0.045655",
-          "ticker_sentiment_score": "0.049045",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GS",
-          "relevance_score": "0.353059",
-          "ticker_sentiment_score": "0.327192",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "주목해야 할 골드만삭스 뮤추얼펀드 3개"
-    },
-    {
-      "title": "Trump Administration Focused On Real Economy, Not Market Swings, Says Treasury Secretary Bessent",
-      "url": "https://www.benzinga.com/news/25/03/44309155/trump-administration-focused-on-real-economy-not-market-swings-says-treasury-secretary-bessent",
-      "time_published": "20250313T163114",
-      "authors": [
-        "Murtuza Merchant"
-      ],
-      "summary": "Polymarket shows 87% chance of EU tariffs on U.S. by May, up 16%, impacting bourbon industry. Morgan McGarvey warns 50% EU tariffs on whiskey could devastate Kentucky's bourbon jobs, farmers to bottlers.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/DOGE-Thanks-Treasury-Department.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.214378"
-        }
-      ],
-      "overall_sentiment_score": 0.024559,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "WBD",
-          "relevance_score": "0.076847",
-          "ticker_sentiment_score": "-0.109331",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프 행정부는 시장 변동이 아닌 실물 경제에 집중하고 있다고 재무부 장관 베센트가 말하다"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Visa, Mastercard, Fiserv, Fidelity National Information Services and The Western Union",
-      "url": "https://www.zacks.com/stock/news/2429742/zacks-industry-outlook-highlights-visa-mastercard-fiserv-fidelity-national-information-services-and-the-western-union",
-      "time_published": "20250313T142200",
-      "authors": [
-        "Zacks Equity Research"
-      ],
-      "summary": "Visa, Mastercard, Fiserv, Fidelity National Information Services and The Western Union are part of the Zacks Industry Outlook article.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/be/1935.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999976"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999986"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.346711,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CURN",
-          "relevance_score": "0.023649",
-          "ticker_sentiment_score": "0.349529",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "FIS",
-          "relevance_score": "0.117832",
-          "ticker_sentiment_score": "0.173915",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "FI",
-          "relevance_score": "0.09439",
-          "ticker_sentiment_score": "0.014918",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MA",
-          "relevance_score": "0.09439",
-          "ticker_sentiment_score": "0.046964",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "V",
-          "relevance_score": "0.117832",
-          "ticker_sentiment_score": "0.123597",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "III",
-          "relevance_score": "0.047278",
-          "ticker_sentiment_score": "-0.038822",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WU",
-          "relevance_score": "0.141171",
-          "ticker_sentiment_score": "0.083683",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Zacks 산업 전망은 Visa, Mastercard, Fiserv, Fidelity National Information Services 및 The Western Union을 강조합니다."
     }
   ]
 }
