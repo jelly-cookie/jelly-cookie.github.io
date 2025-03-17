@@ -479,6 +479,102 @@
       "translatedTitle": "S&P 500이 방금 수정 영역에 도달했습니다. 역사는 주식 시장이 다음에 이런 일을 할 것이라고 말합니다(힌트: 당신을 놀라게 할 수도 있습니다)"
     },
     {
+      "title": "Urban One, Inc. Fourth Quarter 2024 Results Conference Call - Urban One  ( NASDAQ:UONE ) , Urban One  ( NASDAQ:UONEK ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/n44361785/urban-one-inc-fourth-quarter-2024-results-conference-call",
+      "time_published": "20250317T180000",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "SILVER SPRING, Md., March 17, 2025 /PRNewswire/ -- Urban One, Inc. UONEK UONE ) ) will be holding a conference call for investors, analysts and other interested parties to discuss its results for the fourth fiscal quarter of 2024. The conference call is scheduled for Thursday, March 27, 2025, at ...",
+      "banner_image": "https://mma.prnewswire.com/media/509218/Urban_One_Logo.jpg",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.227179,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "UONE",
+          "relevance_score": "0.288214",
+          "ticker_sentiment_score": "0.259335",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Urban One, Inc. 2024년 4분기 실적 컨퍼런스 콜 - Urban One ( NASDAQ:UONE ), Urban One ( NASDAQ:UONEK )"
+    },
+    {
+      "title": "Williams-Sonoma Stock Before Q4 Earnings: To Buy or Not to Buy?",
+      "url": "https://www.zacks.com/stock/news/2431010/williams-sonoma-stock-before-q4-earnings-to-buy-or-not-to-buy",
+      "time_published": "20250317T162500",
+      "authors": [
+        "Shrabana Mukherjee"
+      ],
+      "summary": "WSM's Q4 results are likely to reflect improved furniture demand (despite high mortgage rates), enhanced operational efficiency and strategic expansion efforts amid challenges.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ec/1104.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990999"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999986"
+        }
+      ],
+      "overall_sentiment_score": 0.258131,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ETD",
+          "relevance_score": "0.102595",
+          "ticker_sentiment_score": "0.109222",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WSM",
+          "relevance_score": "0.332658",
+          "ticker_sentiment_score": "0.367437",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "W",
+          "relevance_score": "0.102595",
+          "ticker_sentiment_score": "0.109222",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "4분기 실적 발표 전 윌리엄스 소노마 주식: 살까 말까?"
+    },
+    {
       "title": "Intesa Sanpaolo has partnered with the EIB to provide nearly €660m to promote economic growth in the CEE region since 2020",
       "url": "https://www.benzinga.com/pressreleases/25/03/g44359230/intesa-sanpaolo-has-partnered-with-the-eib-to-provide-nearly-660m-to-promote-economic-growth-in-th",
       "time_published": "20250317T154245",
@@ -2522,90 +2618,6 @@
         }
       ],
       "translatedTitle": "First Mining, First Majestic Silver와 Springpole Silver Stream 최종 지급을 가속화하고 와런트 조건을 수정하기 위한 계약 발표 - First Mining Gold ( OTC:FFMGF )"
-    },
-    {
-      "title": "China's F&B sector faces challenges amid slowing consumer spending",
-      "url": "https://www.scmp.com/business/companies/article/3302392/how-chinas-slowing-consumer-spending-affecting-recovery-fb-firms",
-      "time_published": "20250314T093013",
-      "authors": [
-        "Yuke Xie"
-      ],
-      "summary": "Analysts warn that targeted measures are needed to revive the industry, as companies like Nayuki and Xiabu Xiabu report losses and closures.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2024/07/02/clean-pod-2.jpg?itok=OekBm3BC",
-      "source": "South China Morning Post",
-      "category_within_source": "Companies",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.918141"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.714479"
-        }
-      ],
-      "overall_sentiment_score": 0.050706,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "YUMC",
-          "relevance_score": "0.05339",
-          "ticker_sentiment_score": "-0.044",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "중국 F&B 부문, 소비자 지출 둔화로 어려움에 직면"
-    },
-    {
-      "title": "XRP price poised for 46% gains after Ripple secures first Dubai license",
-      "url": "https://cointelegraph.com/news/xrp-price-46-gains-after-ripple-secures-first-dubai-license",
-      "time_published": "20250314T081009",
-      "authors": [
-        "Nancy Lubale"
-      ],
-      "summary": "XRP ( XRP ) price is eyeing a breakout from a classic chart pattern in the near future after Ripple acquired its first-ever license in the Middle East. XRP price chart hints at possible 46% gainsXRP has been consolidating inside a descending triangle pattern since topping out at its seven-year ...",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/0195938c-91b8-7e16-8ef0-afe0dd659b41",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.090565,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "COIN",
-          "relevance_score": "0.077593",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Ripple이 첫 번째 두바이 라이센스를 확보한 후 XRP 가격이 46% 상승할 것으로 예상됨"
     }
   ]
 }
