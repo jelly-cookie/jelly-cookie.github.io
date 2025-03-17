@@ -271,6 +271,29 @@
       "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
     },
     {
+      "title": "My Take | Will AI and robots drive China's next consumer spending spree?",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3302709/will-ai-and-robots-drive-chinas-next-consumer-spending-spree",
+      "time_published": "20250317T230009",
+      "authors": [
+        "Zhou Xin"
+      ],
+      "summary": "China is seeking the next 'big items' to encourage consumers to open their wallets. Technology looks to be a key.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/17/3e590d0e-ecde-47e8-94cc-eba4e02830d2_96a1700c.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.31244,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "내 생각 | AI와 로봇이 중국의 다음 소비 지출을 주도할 것인가?"
+    },
+    {
       "title": "Greystone Housing Impact Investors LP Announces Regular Quarterly Cash Distribution - Greystone Housing Impact  ( NYSE:GHI ) ",
       "url": "https://www.benzinga.com/pressreleases/25/03/g44364425/greystone-housing-impact-investors-lp-announces-regular-quarterly-cash-distribution",
       "time_published": "20250317T201500",
@@ -403,7 +426,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -704,7 +727,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2555,70 +2578,6 @@
         }
       ],
       "translatedTitle": "Comcast가 Augusta 커뮤니티에 기부의 날을 가져왔습니다 - Comcast ( NASDAQ:CMCSA )"
-    },
-    {
-      "title": "Hong Kong fintech sector sees 250% blockchain growth since 2022",
-      "url": "https://cointelegraph.com/news/hong-kong-fintech-blockchain-growth-2025",
-      "time_published": "20250314T125519",
-      "authors": [
-        "Arijit Sarkar"
-      ],
-      "summary": "Hong Kong anticipates the continued growth of its fintech ecosystem, with blockchain, digital assets, distributed ledger technology ( DLT ) and artificial intelligence playing a central role in shaping its future.Hong Kong is home to over 1,100 fintech companies.",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01959492-4899-7d19-8c98-94adbb2783f4",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.650727"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.890401"
-        }
-      ],
-      "overall_sentiment_score": 0.329274,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "TOP",
-          "relevance_score": "0.095899",
-          "ticker_sentiment_score": "-0.140051",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "COIN",
-          "relevance_score": "0.095899",
-          "ticker_sentiment_score": "0.274063",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.190417",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.190417",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "홍콩 핀테크 부문, 2022년 이후 블록체인 성장률 250% 기록"
     }
   ]
 }
