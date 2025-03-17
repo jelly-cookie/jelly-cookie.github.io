@@ -506,6 +506,78 @@
       "translatedTitle": "Intesa Sanpaolo는 2020년부터 CEE 지역의 경제 성장을 촉진하기 위해 EIB와 협력하여 약 6억 6천만 유로를 제공했습니다."
     },
     {
+      "title": "Enova Stock Falls 15.6% in a Month: Should You Buy Now or Wait?",
+      "url": "https://www.zacks.com/stock/news/2431012/enova-stock-falls-156-in-a-month-should-you-buy-now-or-wait",
+      "time_published": "20250317T153300",
+      "authors": [
+        "Ronit Masi"
+      ],
+      "summary": "ENVA shares slide 15.6% in the past month. Let us find out whether its technology-driven loan growth and product diversification moves make it a lucrative bet.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/98/53604.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999346"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.2757,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CACC",
+          "relevance_score": "0.097589",
+          "ticker_sentiment_score": "0.036355",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENVA",
+          "relevance_score": "0.460176",
+          "ticker_sentiment_score": "0.256205",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ALLY",
+          "relevance_score": "0.097589",
+          "ticker_sentiment_score": "0.036355",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FICO",
+          "relevance_score": "0.032602",
+          "ticker_sentiment_score": "0.20979",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "에노바 주가가 한 달 만에 15.6% 하락: 지금 사야 할까, 아니면 기다려야 할까?"
+    },
+    {
       "title": "Sprott Physical Gold Trust Net Asset Value Reaches $10 Billion",
       "url": "https://www.globenewswire.com/news-release/2025/03/17/3043561/35318/en/Sprott-Physical-Gold-Trust-Net-Asset-Value-Reaches-10-Billion.html",
       "time_published": "20250317T110000",
@@ -2087,7 +2159,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2534,56 +2606,6 @@
         }
       ],
       "translatedTitle": "Ripple이 첫 번째 두바이 라이센스를 확보한 후 XRP 가격이 46% 상승할 것으로 예상됨"
-    },
-    {
-      "title": "Russia using Bitcoin, USDt for oil trades with China and India: Report",
-      "url": "https://cointelegraph.com/news/russia-bitcoin-oil-trade-crypto-payments",
-      "time_published": "20250314T075712",
-      "authors": [
-        "Helen Partz"
-      ],
-      "summary": "Russian companies have been using cryptocurrencies like Bitcoin and USDt to facilitate trade with China and India amid international sanctions, according to a Reuters report.Russian oil companies have used crypto assets including Bitcoin ( BTC ) and Tether's USDt ( USDT ) for international ...",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/019593be-d852-7c13-9ca6-af51a49e6759",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        }
-      ],
-      "overall_sentiment_score": 0.123754,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.084423",
-          "ticker_sentiment_score": "0.079858",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.659949",
-          "ticker_sentiment_score": "0.095672",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:USDT",
-          "relevance_score": "0.084423",
-          "ticker_sentiment_score": "0.038843",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "러시아, 중국 및 인도와의 석유 거래에 비트코인, USDt 사용: 보고서"
     }
   ]
 }
