@@ -62,6 +62,92 @@
       "translatedTitle": "단독 | 경제학자 로빈 싱이 말하는 중국의 동물적 정신과 트럼프 2.0의 영향"
     },
     {
+      "title": "CNH announces Global Leadership Team appointment",
+      "url": "https://www.globenewswire.com/news-release/2025/03/17/3044106/0/en/CNH-announces-Global-Leadership-Team-appointment.html",
+      "time_published": "20250317T203000",
+      "authors": [
+        "CNH Industrial N.V."
+      ],
+      "summary": "CNH ( NYSE: CNH ) today announces the appointment of Cameron Batten as Chief Communications Officer effective March 31, 2025. Mr. Batten will join the Company's Global Leadership Team ( GLT ) , which is empowered to carry out the fast and effective delivery of CNH's strategic priorities for ...",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/5706c2fb-916e-424d-b483-de7de4fb6f48",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.080096,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.029436",
+          "ticker_sentiment_score": "-0.044684",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.029436",
+          "ticker_sentiment_score": "-0.069134",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RGBD",
+          "relevance_score": "0.029436",
+          "ticker_sentiment_score": "0.123362",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JNJ",
+          "relevance_score": "0.029436",
+          "ticker_sentiment_score": "-0.044684",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.029436",
+          "ticker_sentiment_score": "-0.044684",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNH",
+          "relevance_score": "0.445081",
+          "ticker_sentiment_score": "0.093288",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ICNB",
+          "relevance_score": "0.029436",
+          "ticker_sentiment_score": "0.323976",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "CNH, 글로벌 리더십 팀 임명 발표"
+    },
+    {
       "title": "'Horrific Report': Economists Warn Consumer Confidence Collapse Signals Economic Trouble - Kohl's  ( NYSE:KSS ) ",
       "url": "https://www.benzinga.com/25/03/44337983/economists-react-to-march-consumer-confidence-plunge-this-is-a-horrific-report",
       "time_published": "20250314T180741",
@@ -317,7 +403,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -475,7 +561,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
     },
     {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
@@ -576,7 +662,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2525,74 +2611,6 @@
         }
       ],
       "translatedTitle": "미국 대표 바이런 도널드, 트럼프의 비트코인 비축을 법제화하는 법안 도입"
-    },
-    {
-      "title": "My Best Artificial Intelligence  ( AI )  Chip Stock to Buy Amid the Nasdaq Correction  ( Hint: It's Not Nvidia ) ",
-      "url": "https://www.fool.com/investing/2025/03/14/my-best-artificial-intelligence-ai-chip-stock-to/",
-      "time_published": "20250314T121500",
-      "authors": [
-        "Harsh Chauhan"
-      ],
-      "summary": "The Nasdaq Composite index has entered correction territory as the tech-laden market index is now down more than 13% from the highs it achieved on Dec. 16 last year, and this souring market sentiment can be attributed to recent economic developments that have led investors to become risk ...",
-      "banner_image": "https://media.ycharts.com/charts/84153e9ca144163dfcc8b545cf0921d7.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.990999"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.341536,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "AMD",
-          "relevance_score": "0.392202",
-          "ticker_sentiment_score": "0.432067",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.037213",
-          "ticker_sentiment_score": "0.04091",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.256025",
-          "ticker_sentiment_score": "0.329283",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "INTC",
-          "relevance_score": "0.037213",
-          "ticker_sentiment_score": "0.11268",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "나스닥 수정 중에 구매할 최고의 인공지능(AI) 칩 주식(힌트: 엔비디아가 아닙니다)"
     }
   ]
 }
