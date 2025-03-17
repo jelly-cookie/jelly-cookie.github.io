@@ -642,6 +642,48 @@
       "translatedTitle": "관세로 인해 인플레이션과 경기 침체 우려가 커지면서 미국 소비자들이 균열을 느끼기 시작했습니다."
     },
     {
+      "title": "Bitcoin sees 30% retracement as selling pressure increases - Bitfinex",
+      "url": "https://cointelegraph.com/news/bitcoin-30-retracement-selling-pressure-bitfinex",
+      "time_published": "20250317T210000",
+      "authors": [
+        "Christopher Tepedino"
+      ],
+      "summary": "Bitcoin ( BTC ) has undergone its second-largest correction of this bull run, according to analysts at crypto exchange Bitfinex. The correction, from the coin's all-time high of $109,590 set on Jan. 20 to a low of $77,041 during the week of March 9-15, represents a 30% retracement triggered by ...",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/0195a5db-8c58-700b-97c8-5c6d9c63eab5",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": -0.150196,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.753462",
+          "ticker_sentiment_score": "-0.165191",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "비트코인, 매도 압력 증가로 30% 반등 - Bitfinex"
+    },
+    {
       "title": "Can anything get China's shoppers to spend?",
       "url": "https://www.economist.com/finance-and-economics/2025/03/17/can-anything-get-chinas-shoppers-to-spend",
       "time_published": "20250317T192503",
@@ -662,7 +704,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2468,7 +2510,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia 스타트업, Chevron Venezuela의 고민"
+      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
     },
     {
       "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
@@ -2577,40 +2619,6 @@
         }
       ],
       "translatedTitle": "홍콩 핀테크 부문, 2022년 이후 블록체인 성장률 250% 기록"
-    },
-    {
-      "title": "US Rep. Byron Donalds to introduce bill codifying Trump's Bitcoin reserve",
-      "url": "https://cointelegraph.com/news/trump-bitcoin-reserve-bill-congress",
-      "time_published": "20250314T124230",
-      "authors": [
-        "Zoltan Vardai"
-      ],
-      "summary": "A new bill set to be introduced in Congress aims to formalize President Donald Trump's executive order establishing a US Strategic Bitcoin Reserve, a move that could further integrate Bitcoin into the nation's financial strategy.Trump signed an executive order on March 7 to use Bitcoin ( BTC ) ...",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/0195948e-55ee-7908-af6b-79fecc8de73e",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.143439,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.887012",
-          "ticker_sentiment_score": "0.302421",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "미국 대표 바이런 도널드, 트럼프의 비트코인 비축을 법제화하는 법안 도입"
     }
   ]
 }
