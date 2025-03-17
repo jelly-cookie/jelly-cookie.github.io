@@ -458,6 +458,37 @@
       "translatedTitle": "트럼프 가족, 바이낸스 지분 인수 협상 중, 전 CEO 창펑 자오 사면 추진"
     },
     {
+      "title": "Hong Kong's flourishing global financial centre a draw for investors",
+      "url": "https://www.scmp.com/native/business/topics/citys-global-appeal-investors/article/3302401/hong-kongs-flourishing-global-financial-centre-draw-investors",
+      "time_published": "20250317T040011",
+      "authors": [
+        "Morning Studio editors"
+      ],
+      "summary": "New Capital Investment Entrant Scheme underpins opportunities for global investors, with enhancements taking effect this month.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/14/a86224c5-82ad-43bb-b9bf-ce445b17be3b_c476ee96.jpg?itok=YZDRnqY4&v=1741942871",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999993"
+        }
+      ],
+      "overall_sentiment_score": 0.36948,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "홍콩의 번영하는 글로벌 금융 센터는 투자자들에게 매력적입니다."
+    },
+    {
       "title": "Standard Chartered sees key role for Hong Kong amid evolving global trade",
       "url": "https://www.scmp.com/business/banking-finance/article/3302468/trumps-tariffs-reshape-global-trade-key-role-hong-kong-stanchart-chairman",
       "time_published": "20250316T233011",
@@ -552,7 +583,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2645,52 +2676,6 @@
         }
       ],
       "translatedTitle": "Zacks 산업 전망은 Visa, Mastercard, Fiserv, Fidelity National Information Services 및 The Western Union을 강조합니다."
-    },
-    {
-      "title": "XRP Spikes 4% As Ripple Gains Approval To Offer Crypto Payments In Dubai",
-      "url": "https://www.benzinga.com/markets/cryptocurrency/25/03/44303516/xrp-spikes-4-as-ripple-gains-approval-to-offer-crypto-payments-in-dubai",
-      "time_published": "20250313T140308",
-      "authors": [
-        "Murtuza Merchant"
-      ],
-      "summary": "UAE's $400B trade market drives demand for Ripple's faster payments, with 64% of MEA leaders valuing blockchain efficiency. Ripple's SEC lawsuit may resolve soon, as Trump's administration shifts to a pro-crypto stance, aiding global expansion.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/13/7--XRP_1.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.684621"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.838487"
-        }
-      ],
-      "overall_sentiment_score": 0.369313,
-      "overall_sentiment_label": "Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.05833",
-          "ticker_sentiment_score": "0.126372",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "XRP, Ripple이 두바이에서 암호화폐 결제를 제공하도록 승인받으면서 4% 급등"
     }
   ]
 }
