@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>광고 테스트 페이지</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #121212;
+      color: white;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    .ad-container {
+      width: 160px;
+      height: 600px;
+      margin: 20px auto;
+      background-color: rgba(255,255,255,0.05);
+      border-radius: 4px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .back {
+      display: block;
+      margin: 20px 0;
+      color: lightblue;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="/" class="back">← 메인으로 돌아가기</a>
+    <h1>광고 테스트 페이지</h1>
+    <p>아래는 광고 테스트 영역입니다:</p>
+    
+    <div class="ad-container">
+      <ins class="kakao_ad_area" style="display:none;" 
+           data-ad-unit="YOUR_AD_UNIT_ID_HERE"
+           data-ad-width="160" 
+           data-ad-height="600"></ins>
+      <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js"></script>
+    </div>
+  </div>
+  
+  <script>
+    // 페이지가 완전히 로드된 후 실행
+    window.addEventListener('load', function() {
+      // AdFit 렌더링 시도
+      if (window.adfit) {
+        setTimeout(function() {
+          window.adfit.render();
+        }, 100);
+      }
+    });
+  </script>
+</body>
+</html>
