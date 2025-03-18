@@ -747,6 +747,76 @@
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
     },
     {
+      "title": "80 global executives to gather in Beijing for key annual summit",
+      "url": "https://www.scmp.com/economy/china-economy/article/3302871/80-global-executives-gather-beijing-key-annual-summit",
+      "time_published": "20250318T220022",
+      "authors": [
+        "Kandy Wong"
+      ],
+      "summary": "The attendees include leaders of more than a dozen US corporations, including Apple CEO Tim Cook.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/18/df7f83e4-ca61-4a98-828d-ae230d5d25a3_afcb9baf.jpg?itok=KZqUmLs-&v=1742295849",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990999"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.091675,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RIO",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBGSF",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SCBFF",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AZN",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.103757",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNXYF",
+          "relevance_score": "0.054114",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "80명의 글로벌 임원이 베이징에서 연례 주요 정상회담을 위해 모인다"
+    },
+    {
       "title": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results - Waldencast  ( NASDAQ:WALD ) ",
       "url": "https://www.benzinga.com/pressreleases/25/03/g44385268/waldencast-reports-q4-2024-and-fiscal-year-2024-financial-results",
       "time_published": "20250318T201500",
@@ -1408,7 +1478,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2443,48 +2513,6 @@
         }
       ],
       "translatedTitle": "황소와 곰: DocuSign, Magnificent 7, Palantir - 그리고 관세는 시장을 계속 흔들고 있습니다 - DocuSign (NASDAQ:DOCU), Trump Media & Technology (NASDAQ:DJT)"
-    },
-    {
-      "title": "Prediction: President Trump's Tariffs Won't Cause a Stock Market Crash for 1 Simple Reason",
-      "url": "https://www.fool.com/investing/2025/03/15/prediction-president-trumps-tariffs-wont-cause-a-s/",
-      "time_published": "20250315T084700",
-      "authors": [
-        "Keith Speights"
-      ],
-      "summary": "The Tonight Show host Jimmy Fallon joked this week, \"It's not great when the summary of Trump's first two months in office is: stocks down, measles up.\"President Trump doesn't deserve blame for the recent measles outbreak.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810765%2Ftariffs-money.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.196601,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.108712",
-          "ticker_sentiment_score": "0.071266",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "예측: 트럼프 대통령의 관세가 주식 시장 폭락을 일으키지 않을 것, 그 이유는 간단합니다."
     }
   ]
 }
