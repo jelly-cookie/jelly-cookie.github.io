@@ -62,6 +62,37 @@
       "translatedTitle": "단독 | 경제학자 로빈 싱이 말하는 중국의 동물적 정신과 트럼프 2.0의 영향"
     },
     {
+      "title": "Consumer Confidence Dips But Spending On Home Improvements And Family Planning Sees Uptick: Analyst Survey - SPDR S&P 500  ( ARCA:SPY ) ",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44383156/consumer-confidence-dips-but-spending-on-home-improvements-and-family-planning-sees",
+      "time_published": "20250318T183042",
+      "authors": [
+        "Vandana Singh"
+      ],
+      "summary": "Home improvement spending plans rose to 31% in March, up from 27% last year, the highest since May 2024. The Consumer Confidence Index dropped 7 points to 98.3 in February, the sharpest fall since August 2021.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/18/Retail-Sales-Hit-by-Consumer-Spending-Pr.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.060848,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "소비자 신뢰도 하락, 주택 개선 및 가족 계획 지출 증가: 분석가 설문 조사 - SPDR S&P 500 ( ARCA:SPY )"
+    },
+    {
       "title": "CNH announces Global Leadership Team appointment",
       "url": "https://www.globenewswire.com/news-release/2025/03/17/3044106/0/en/CNH-announces-Global-Leadership-Team-appointment.html",
       "time_published": "20250317T203000",
@@ -1788,7 +1819,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2310,44 +2341,6 @@
         }
       ],
       "translatedTitle": "안전한 손에: 홍콩에 1조 달러 규모의 준비금을 위한 중국의 비밀 계획"
-    },
-    {
-      "title": "Opinion | Hong Kong must ensure it won't lose control of Northern Metropolis",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3302181/hong-kong-must-ensure-it-wont-lose-control-northern-metropolis",
-      "time_published": "20250315T013008",
-      "authors": [
-        "Andy Cheng"
-      ],
-      "summary": "As the city moves away from conventional development models, risks and rewards with the private sector should still be distributed fairly.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/13/3e11d0c7-fd2b-4dad-bea4-ac8e999998c1_629284a6.jpg?itok=lvmqXOox&v=1741841050",
-      "source": "South China Morning Post",
-      "category_within_source": "Companies",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.205123,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.19231",
-          "ticker_sentiment_score": "0.050048",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "의견 | 홍콩은 북부 대도시에 대한 통제력을 잃지 않도록 해야 합니다."
     }
   ]
 }
