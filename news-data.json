@@ -217,27 +217,156 @@
       "translatedTitle": "데카르트 연구: 고성장 기업의 39%가 무역 준수를 경쟁 우위로 활용"
     },
     {
-      "title": "Ray Dalio Has A Chilling Warning For President Trump: Debt Crisis Is Imminent, And An Issue Of 'Paramount Importance'",
-      "url": "https://www.benzinga.com/25/03/44345022/ray-dalio-has-a-chilling-warning-for-president-trump-debt-crisis-is-imminent-and-an-issue-of-paramount-importance",
-      "time_published": "20250315T040151",
+      "title": "The Uncertainty-Fueled Market Correction",
+      "url": "https://www.fool.com/investing/2025/03/18/the-uncertainty-fueled-market-correction/",
+      "time_published": "20250318T190300",
       "authors": [
-        "Rounak Jain"
+        "Motley Fool Staff"
       ],
-      "summary": "Ray Dalio, founder of Bridgewater Associates, has raised alarms about the United States' national debt, predicting an imminent crisis. What Happened: According to a report by Fortune, Dalio expressed his concerns during his speech at the CONVERGE LIVE event in Singapore on Thursday.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/15/Ray-Dalio-Says-China-Is-Way-Ahead-Of-US-.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
+      "summary": "Companies, investors, and countries are all having a hard time knowing what the future holds. And that makes forecasting hard.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/811406/the-uncertainty-fueled-market-correction.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
       "topics": [
         {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.451494"
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
         }
       ],
-      "overall_sentiment_score": -0.25709,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [],
-      "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
+      "overall_sentiment_score": 0.088882,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "0.032411",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DG",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "-0.135584",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "0.068211",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDNDF",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "-0.135584",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MTN",
+          "relevance_score": "0.011995",
+          "ticker_sentiment_score": "-0.026146",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPQ",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "0.032411",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "0.047089",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.011995",
+          "ticker_sentiment_score": "-0.14123",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANSS",
+          "relevance_score": "0.035974",
+          "ticker_sentiment_score": "0.07722",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.041964",
+          "ticker_sentiment_score": "-0.018785",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PZZA",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "-0.005137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.035974",
+          "ticker_sentiment_score": "0.18184",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "-0.015388",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.029981",
+          "ticker_sentiment_score": "0.076662",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DOCU",
+          "relevance_score": "0.017991",
+          "ticker_sentiment_score": "0.150041",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.005998",
+          "ticker_sentiment_score": "-0.135584",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "불확실성으로 인한 시장 수정"
     },
     {
       "title": "Is JPMorgan Stock Viable Investment After 11.6% Decline in March?",
@@ -525,7 +654,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -582,6 +711,142 @@
         }
       ],
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
+    },
+    {
+      "title": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results - Waldencast  ( NASDAQ:WALD ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44385268/waldencast-reports-q4-2024-and-fiscal-year-2024-financial-results",
+      "time_published": "20250318T201500",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Q4 Net Revenue of $72.1 million, 29.4% Comparable Net Revenue Growth and $11.2 million of Adjusted EBITDA, doubling from Q4 2023 FY 2024 Net Revenue of $273.9 million, 27.5% Comparable Net Revenue Growth and $40.3 million of Adjusted EBITDA",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.306978,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.011867",
+          "ticker_sentiment_score": "0.025187",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WALD",
+          "relevance_score": "0.164951",
+          "ticker_sentiment_score": "0.126379",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.059282",
+          "ticker_sentiment_score": "0.191074",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DRVN",
+          "relevance_score": "0.023731",
+          "ticker_sentiment_score": "0.202428",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Waldencast, 2024년 4분기 및 2024 회계연도 재무 결과 보고 - Waldencast ( NASDAQ:WALD )"
+    },
+    {
+      "title": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044990/0/en/Waldencast-Reports-Q4-2024-and-Fiscal-Year-2024-Financial-Results.html",
+      "time_published": "20250318T201500",
+      "authors": [
+        "Waldencast plc."
+      ],
+      "summary": "Q4 Net Revenue of $72.1 million, 29.4% Comparable Net Revenue Growth and $11.2 million of Adjusted EBITDA, doubling from ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/2c0d9a32-cc92-4a48-9725-33c9b7e64c3f",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999966"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.305011,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CURN",
+          "relevance_score": "0.012287",
+          "ticker_sentiment_score": "0.027162",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WALD",
+          "relevance_score": "0.170705",
+          "ticker_sentiment_score": "0.133818",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.04912",
+          "ticker_sentiment_score": "0.178801",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DRVN",
+          "relevance_score": "0.024572",
+          "ticker_sentiment_score": "0.203193",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Waldencast, 2024년 4분기 및 2024 회계연도 재무 결과 보고"
     },
     {
       "title": "How Should Investors Play UPS Stock Amid Tariff Risks?",
@@ -1819,7 +2084,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2248,99 +2513,6 @@
         }
       ],
       "translatedTitle": "매크로스코프 | 트럼프가 주도한 무장 투쟁에 대한 대가는 어떻게 각국에서 치러질까?"
-    },
-    {
-      "title": "End of 'blank cheque' era for outside consultants in Saudi Arabia",
-      "url": "https://www.ft.com/content/d3999d9a-4173-4543-886d-9ede0eaa5b35",
-      "time_published": "20250315T050028",
-      "authors": [
-        "Ellesheva Kissin",
-        "Andrew England",
-        "Chloe Cornish"
-      ],
-      "summary": "Western firms profited as kingdom launched 'giga-projects' but market is slowing as Riyadh reins in spending ...",
-      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd90cf404-2c7d-4da2-8223-13776d608364.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source": "Financial Times",
-      "category_within_source": "Companies",
-      "source_domain": "www.ft.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.214378"
-        }
-      ],
-      "overall_sentiment_score": 0.040753,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "사우디아라비아 외부 컨설턴트의 '공란수표' 시대 종식"
-    },
-    {
-      "title": "In SAFE hands: China's secret plan for US$1 trillion reserves fund in Hong Kong",
-      "url": "https://www.scmp.com/business/banking-finance/article/3302431/safe-hands-chinas-secret-plan-us1-trillion-reserves-fund-hong-kong",
-      "time_published": "20250315T020013",
-      "authors": [
-        "Cao Li"
-      ],
-      "summary": "Cheng Hao, the man involved in the rescue of China's 2015 market crash, runs what is the world's third largest wealth fund in Hong Kong.",
-      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/14/6ea117c4-c83d-4475-aed4-3d83566e3151_a56d9be1.jpg",
-      "source": "South China Morning Post",
-      "category_within_source": "Money",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.310843"
-        }
-      ],
-      "overall_sentiment_score": 0.14628,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BACHY",
-          "relevance_score": "0.023441",
-          "ticker_sentiment_score": "0.006328",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TJIPF",
-          "relevance_score": "0.023441",
-          "ticker_sentiment_score": "0.081649",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:HKD",
-          "relevance_score": "0.023441",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.070242",
-          "ticker_sentiment_score": "0.039138",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "안전한 손에: 홍콩에 1조 달러 규모의 준비금을 위한 중국의 비밀 계획"
     }
   ]
 }
