@@ -426,7 +426,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -584,7 +584,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매 열기 고조 - Green Dot (NYSE:GDOT), Archer-Daniels Midland (NYSE:ADM)"
+      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
     },
     {
       "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
@@ -665,6 +665,74 @@
       "translatedTitle": "관세로 인해 인플레이션과 경기 침체 우려가 커지면서 미국 소비자들이 균열을 느끼기 시작했습니다."
     },
     {
+      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044199/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+      "time_published": "20250318T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
+    },
+    {
+      "title": "NBPE Announces February Monthly NAV Estimate",
+      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044200/0/en/NBPE-Announces-February-Monthly-NAV-Estimate.html",
+      "time_published": "20250318T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.202202,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.091162",
+          "ticker_sentiment_score": "0.092775",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "NBPE, 2월 월간 NAV 추정치 발표"
+    },
+    {
       "title": "Bitcoin sees 30% retracement as selling pressure increases - Bitfinex",
       "url": "https://cointelegraph.com/news/bitcoin-30-retracement-selling-pressure-bitfinex",
       "time_published": "20250317T210000",
@@ -727,7 +795,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
+      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -1437,7 +1505,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2456,128 +2524,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "미국-캐나다 무역전쟁, 경제적 관계 변화 신호 될 수 있다고 전문가들 밝혀"
-    },
-    {
-      "title": "Oil & Gas Stock Roundup: Shell Malaysia Startup, Chevron Venezuela Woes",
-      "url": "https://www.zacks.com/stock/news/2430292/oil-gas-stock-roundup-shell-malaysia-startup-chevron-venezuela-woes",
-      "time_published": "20250314T151000",
-      "authors": [
-        "Nilanjan Choudhury"
-      ],
-      "summary": "SHEL, CVX, WMB, LBRT and EGY emerge as the energy headline makers during the week.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/41/1886.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.265887,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CVX",
-          "relevance_score": "0.17868",
-          "ticker_sentiment_score": "-0.05127",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "EGY",
-          "relevance_score": "0.119681",
-          "ticker_sentiment_score": "0.017651",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PSIX",
-          "relevance_score": "0.030026",
-          "ticker_sentiment_score": "0.451532",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "USEG",
-          "relevance_score": "0.030026",
-          "ticker_sentiment_score": "-0.041508",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BKR",
-          "relevance_score": "0.030026",
-          "ticker_sentiment_score": "0.054684",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SLB",
-          "relevance_score": "0.030026",
-          "ticker_sentiment_score": "-0.073307",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "LBRT",
-          "relevance_score": "0.207826",
-          "ticker_sentiment_score": "0.435661",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "석유 및 가스 주식 요약: Shell Malaysia Startup, Chevron Venezuela Woes"
-    },
-    {
-      "title": "Comcast Brings Day of Giving to Augusta Communities - Comcast  ( NASDAQ:CMCSA ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/n44329510/comcast-brings-day-of-giving-to-augusta-communities",
-      "time_published": "20250314T140000",
-      "authors": [
-        "PRNewswire"
-      ],
-      "summary": "Following ongoing restoration efforts post-Hurricane Helene, Comcast and local community leaders return to provide critical digital literacy resources to demonstrate commitment to the city's recovery",
-      "banner_image": "https://mma.prnewswire.com/media/2641569/Comcast_Event_8121.jpg",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.316726"
-        }
-      ],
-      "overall_sentiment_score": 0.339527,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BATRA",
-          "relevance_score": "0.03804",
-          "ticker_sentiment_score": "0.187326",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "CCZ",
-          "relevance_score": "0.525651",
-          "ticker_sentiment_score": "0.438888",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "Comcast가 Augusta 커뮤니티에 기부의 날을 가져왔습니다 - Comcast ( NASDAQ:CMCSA )"
     }
   ]
 }
