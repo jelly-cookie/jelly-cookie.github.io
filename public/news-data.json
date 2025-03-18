@@ -209,6 +209,74 @@
       "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
     },
     {
+      "title": "Is JPMorgan Stock Viable Investment After 11.6% Decline in March?",
+      "url": "https://www.zacks.com/stock/news/2431340/is-jpmorgan-stock-viable-investment-after-116-decline-in-march",
+      "time_published": "20250318T122400",
+      "authors": [
+        "Swayta Shah"
+      ],
+      "summary": "Does the recent sell-off in JPM stock present a compelling buying opportunity? Let's analyze the key factors and determine whether it's a smart investment.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/82.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.9545"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.067614,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.026981",
+          "ticker_sentiment_score": "0.09343",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.107615",
+          "ticker_sentiment_score": "-0.057653",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.053931",
+          "ticker_sentiment_score": "-0.134185",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FRC",
+          "relevance_score": "0.053931",
+          "ticker_sentiment_score": "0.190993",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "3월 11.6% 하락 후 JPMorgan 주식은 실행 가능한 투자일까?"
+    },
+    {
       "title": "Russian Oil Firms Using Bitcoin, Ethereum to Dodge Sanctions",
       "url": "https://decrypt.co/310380/russian-oil-firms-using-bitcoin-ethereum-to-dodge-sanctions",
       "time_published": "20250318T114603",
@@ -426,7 +494,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -958,7 +1026,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
+      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -1668,7 +1736,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2324,40 +2392,6 @@
         }
       ],
       "translatedTitle": "1분기 실적 발표 시즌을 기대하며"
-    },
-    {
-      "title": "$125MM Construction Loan in DUMBO Financed by Bravo Property Trust and Integritas Capital",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44343079/125mm-construction-loan-in-dumbo-financed-by-bravo-property-trust-and-integritas-capital",
-      "time_published": "20250314T212454",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "NEW YORK, March 14, 2025 ( GLOBE NEWSWIRE ) -- Bravo Property Trust, in partnership with Integritas Capital, closed a $125M million senior construction loan in Dumbo for an office-to-residential conversion.",
-      "banner_image": "https://ml.globenewswire.com/media/a7b724b0-b84c-4169-a9ba-395cad118a1d/small/bpt-logo-png.png",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.998356"
-        }
-      ],
-      "overall_sentiment_score": 0.377346,
-      "overall_sentiment_label": "Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "MNGPF",
-          "relevance_score": "0.076358",
-          "ticker_sentiment_score": "0.248785",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Bravo Property Trust와 Integritas Capital이 자금 지원하는 DUMBO의 1억 2,500만 달러 건설 대출"
     }
   ]
 }
