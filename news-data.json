@@ -217,6 +217,40 @@
       "translatedTitle": "데카르트 연구: 고성장 기업의 39%가 무역 준수를 경쟁 우위로 활용"
     },
     {
+      "title": "Germany's Debt Reform Plans Push European Markets Higher",
+      "url": "https://www.benzinga.com/markets/eurozone/25/03/44387976/german-parliament-backs-changes-to-constitutional-debt-brake",
+      "time_published": "20250318T220258",
+      "authors": [
+        "European Capital Insights"
+      ],
+      "summary": "Germany's parliament backed on Tuesday a plan to increase government borrowing limits as the largest economy in Europe looks to bolster its defense and infrastructure spending. The Bundestag approved several amendments to the country's constitution, allowing future federal and state governments ...",
+      "banner_image": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4695a40-182f-47ee-a596-893066a6c178_622x387.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        }
+      ],
+      "overall_sentiment_score": 0.155001,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.108794",
+          "ticker_sentiment_score": "0.044874",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "독일의 부채 개혁 계획으로 유럽 시장이 상승세를 보이다"
+    },
+    {
       "title": "The Uncertainty-Fueled Market Correction",
       "url": "https://www.fool.com/investing/2025/03/18/the-uncertainty-fueled-market-correction/",
       "time_published": "20250318T190300",
@@ -1374,7 +1408,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2084,7 +2118,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2451,68 +2485,6 @@
         }
       ],
       "translatedTitle": "예측: 트럼프 대통령의 관세가 주식 시장 폭락을 일으키지 않을 것, 그 이유는 간단합니다."
-    },
-    {
-      "title": "Macroscope | How will nations pay for a Trump-induced rush to arms?",
-      "url": "https://www.scmp.com/opinion/world-opinion/article/3302237/how-will-nations-pay-trump-induced-rush-arms",
-      "time_published": "20250315T083008",
-      "authors": [
-        "Anthony Rowley"
-      ],
-      "summary": "Those aiming to raise defence spending should ask where the money will come from and remember needs like infrastructure and climate change.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/02/27/oi.00_00_09_20.Still003.jpg?itok=lnEo-R0h",
-      "source": "South China Morning Post",
-      "category_within_source": "Economy",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.955357"
-        }
-      ],
-      "overall_sentiment_score": 0.048223,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BAESF",
-          "relevance_score": "0.045482",
-          "ticker_sentiment_score": "0.045085",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "EADSF",
-          "relevance_score": "0.045482",
-          "ticker_sentiment_score": "0.045085",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MSBHF",
-          "relevance_score": "0.045482",
-          "ticker_sentiment_score": "0.045085",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FNCNF",
-          "relevance_score": "0.045482",
-          "ticker_sentiment_score": "0.045085",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MHVYF",
-          "relevance_score": "0.045482",
-          "ticker_sentiment_score": "0.045085",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "매크로스코프 | 트럼프가 주도한 무장 투쟁에 대한 대가는 어떻게 각국에서 치러질까?"
     }
   ]
 }
