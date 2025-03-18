@@ -148,68 +148,6 @@
       "translatedTitle": "CNH, 글로벌 리더십 팀 임명 발표"
     },
     {
-      "title": "'Horrific Report': Economists Warn Consumer Confidence Collapse Signals Economic Trouble - Kohl's  ( NYSE:KSS ) ",
-      "url": "https://www.benzinga.com/25/03/44337983/economists-react-to-march-consumer-confidence-plunge-this-is-a-horrific-report",
-      "time_published": "20250314T180741",
-      "authors": [
-        "Hayden Buckfire"
-      ],
-      "summary": "The University of Michigan's March consumer confidence survey came in worse than expected. Economists say there are several warning signs for staglation and prolonged high interest rates. Find out which stock just plummeted to the bottom of the new Benzinga Rankings.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/14/untitled_1.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "News",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.769861"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.214378"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.333333"
-        }
-      ],
-      "overall_sentiment_score": -0.202586,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NYT",
-          "relevance_score": "0.079392",
-          "ticker_sentiment_score": "-0.216252",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "CMA",
-          "relevance_score": "0.079392",
-          "ticker_sentiment_score": "-0.123451",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KSS",
-          "relevance_score": "0.235062",
-          "ticker_sentiment_score": "-0.132755",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "'끔찍한 보고서': 경제학자들은 소비자 신뢰 붕괴가 경제적 문제를 나타낸다고 경고 - Kohl's ( NYSE:KSS )"
-    },
-    {
       "title": "Descartes Study: 39% of High-growth Companies Leverage Trade Compliance as Competitive Advantage",
       "url": "https://www.globenewswire.com/news-release/2025/03/17/3043547/0/en/Descartes-Study-39-of-High-growth-Companies-Leverage-Trade-Compliance-as-Competitive-Advantage.html",
       "time_published": "20250317T104500",
@@ -269,6 +207,68 @@
       "overall_sentiment_label": "Somewhat-Bearish",
       "ticker_sentiment": [],
       "translatedTitle": "레이 달리오, 트럼프 대통령에게 섬뜩한 경고: 부채 위기가 임박했으며 '가장 중요한' 문제"
+    },
+    {
+      "title": "Russian Oil Firms Using Bitcoin, Ethereum to Dodge Sanctions",
+      "url": "https://decrypt.co/310380/russian-oil-firms-using-bitcoin-ethereum-to-dodge-sanctions",
+      "time_published": "20250318T114603",
+      "authors": [
+        "Simon Chandler"
+      ],
+      "summary": "Sanctions evasion is proving increasingly \"challenging\" at scale for Russian firms, blockchain analytics firm Chainalysis told Decrypt.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/03/siberia-oil-gID_7.jpg",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.9545"
+        }
+      ],
+      "overall_sentiment_score": 0.049753,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOREX:AED",
+          "relevance_score": "0.053153",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.053153",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.053153",
+          "ticker_sentiment_score": "0.038002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.053153",
+          "ticker_sentiment_score": "0.038002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:USDT",
+          "relevance_score": "0.053153",
+          "ticker_sentiment_score": "0.038002",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "러시아 석유 회사, 비트코인, 이더리움을 이용해 제재 회피"
     },
     {
       "title": "My Take | Will AI and robots drive China's next consumer spending spree?",
@@ -426,7 +426,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -485,184 +485,347 @@
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
     },
     {
-      "title": "Deal Dispatch: Trump M&A Boom Is A Bust, Purple Mattress Considers Sale, Celtics Auction Heats Up - Green Dot  ( NYSE:GDOT ) , Archer-Daniels Midland  ( NYSE:ADM ) ",
-      "url": "https://www.benzinga.com/personal-finance/financial-advisors/25/03/44342234/deal-dispatch-trump-ma-boom-is-a-bust-purple-mattress-considers-sale-celtics-",
-      "time_published": "20250314T204728",
+      "title": "The Eurozone's moment of truth",
+      "url": "https://www.ft.com/content/8f0eec36-efcf-4f17-ab39-33fad571fd25",
+      "time_published": "20250318T123050",
       "authors": [
-        "Anthony Noto"
+        "Chris Giles"
       ],
-      "summary": "Trump celebrated 50 days in office by claiming: \"The winning never stops.\" But the losses are piling up across the deal landscape. Survey results show a decrease in consumer confidence as economists use words like \"horrific\" and \"scary\" to describe the numbers.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/14/benzinga-deal-dispatch2.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Mergers",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.214378"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.904684"
-        }
-      ],
-      "overall_sentiment_score": 0.101094,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "MSFT",
-          "relevance_score": "0.132611",
-          "ticker_sentiment_score": "0.17115",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "C",
-          "relevance_score": "0.044386",
-          "ticker_sentiment_score": "0.134891",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GDOT",
-          "relevance_score": "0.088635",
-          "ticker_sentiment_score": "0.141806",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.132611",
-          "ticker_sentiment_score": "0.032559",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BRK-A",
-          "relevance_score": "0.044386",
-          "ticker_sentiment_score": "-0.042007",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NOVA",
-          "relevance_score": "0.044386",
-          "ticker_sentiment_score": "-0.133831",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ADM",
-          "relevance_score": "0.088635",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SRGRF",
-          "relevance_score": "0.044386",
-          "ticker_sentiment_score": "-0.133831",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GS",
-          "relevance_score": "0.132611",
-          "ticker_sentiment_score": "0.032559",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "Deal Dispatch: 트럼프 M&A 붐은 실패, 퍼플 매트리스 매각 고려, 셀틱스 경매가 뜨거워짐 - Green Dot ( NYSE:GDOT ) , Archer-Daniels Midland ( NYSE:ADM )"
-    },
-    {
-      "title": "U.S. consumers are starting to crack as tariffs add to inflation, recession concerns",
-      "url": "https://www.cnbc.com/2025/03/14/delta-walmart-warn-about-consumer-spending-amid-tariffs-inflation.html",
-      "time_published": "20250314T154116",
-      "authors": [],
-      "summary": "Airline and retail executives are bracing for a slowdown in demand amid concerns tariffs will cut down consumer spending.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Business",
-      "source_domain": "www.cnbc.com",
+      "summary": "Its strengths and weaknesses are well known, but the Trump administration is creating new opportunities and threats ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fpublic.flourish.studio%2Fvisualisation%2F22141763%2Fthumbnail%3FcacheBuster%3D967945?source=cp-content-pipeline&fit=scale-down&quality=highest&width=2626&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Economy",
+      "source_domain": "www.ft.com",
       "topics": [
         {
           "topic": "Economy - Monetary",
-          "relevance_score": "0.838487"
+          "relevance_score": "0.999973"
         },
         {
           "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Blockchain",
           "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.684621"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.795202"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.5"
         }
       ],
-      "overall_sentiment_score": -0.02447,
+      "overall_sentiment_score": -0.007339,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [
         {
-          "ticker": "ANF",
-          "relevance_score": "0.02866",
-          "ticker_sentiment_score": "0.220481",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "DG",
-          "relevance_score": "0.02866",
-          "ticker_sentiment_score": "-0.0124",
+          "ticker": "BKCYF",
+          "relevance_score": "0.028903",
+          "ticker_sentiment_score": "0.041526",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "AAL",
-          "relevance_score": "0.02866",
-          "ticker_sentiment_score": "-0.333365",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "DKS",
-          "relevance_score": "0.057284",
-          "ticker_sentiment_score": "0.088053",
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.172097",
+          "ticker_sentiment_score": "0.08518",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "DAL",
-          "relevance_score": "0.02866",
-          "ticker_sentiment_score": "0.059005",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.085833",
-          "ticker_sentiment_score": "-0.005336",
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.057767",
+          "ticker_sentiment_score": "0.122407",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세로 인해 인플레이션과 경기 침체 우려가 커지면서 미국 소비자들이 균열을 느끼기 시작했습니다."
+      "translatedTitle": "유로존의 진실의 순간"
+    },
+    {
+      "title": "Billionaires Ray Dalio and Paul Tudor Jones Are Piling Into a Hard Asset That Has Trounced Nvidia This Year",
+      "url": "https://www.fool.com/investing/2025/03/18/ray-dalio-and-paul-tudor-jones-are-piling-into/",
+      "time_published": "20250318T120000",
+      "authors": [
+        "Bram Berkowitz"
+      ],
+      "summary": "Billionaires Ray Dalio and Paul Tudor Jones are in an elite group of investors. Dalio founded Bridgewater Associates in 1975 and has grown the hedge fund into one of the largest in the world. His net worth is an estimated $14 billion, according to Forbes.Jones founded his fund, Tudor Investment, ...",
+      "banner_image": "https://media.ycharts.com/charts/a19d9ce466edb396c34c2320ad105070.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.976913"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.078021,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.123526",
+          "ticker_sentiment_score": "0.147734",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.184363",
+          "ticker_sentiment_score": "0.006244",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "억만장자 레이 달리오와 폴 튜더 존스는 올해 엔비디아를 무너뜨린 하드 자산에 몰두하고 있다"
+    },
+    {
+      "title": "Carnival Stock Has a Lot to Prove in 2025",
+      "url": "https://www.fool.com/investing/2025/03/18/carnival-stock-has-a-lot-to-prove-in-2025/",
+      "time_published": "20250318T113000",
+      "authors": [
+        "Rick Munarriz"
+      ],
+      "summary": "The leading cruise line will need to come through with a strong financial update this week to reverse this year's slide.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F811549%2Fgettyimages-487190592.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.113271,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NCLH",
+          "relevance_score": "0.132368",
+          "ticker_sentiment_score": "-0.037549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RCL",
+          "relevance_score": "0.261117",
+          "ticker_sentiment_score": "0.056156",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "카니발 주식은 2025년에 많은 것을 증명할 것입니다"
+    },
+    {
+      "title": "SIGA Appoints Retired General John M. Keane to its Board of Directors",
+      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044373/9738/en/SIGA-Appoints-Retired-General-John-M-Keane-to-its-Board-of-Directors.html",
+      "time_published": "20250318T113000",
+      "authors": [
+        "SIGA Technologies Inc."
+      ],
+      "summary": "General Keane brings significant expertise in national security and biodefense preparedness General Keane brings significant expertise in national security and biodefense preparedness ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/93028aa6-8191-4392-a7b1-447b046cd93b",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.074898,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SIGA",
+          "relevance_score": "0.479333",
+          "ticker_sentiment_score": "0.003154",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "SIGA, 은퇴한 John M. Keane 장군을 이사회에 임명"
+    },
+    {
+      "title": "SIGA Appoints Retired General John M. Keane to its Board of Directors - SIGA Technologies  ( NASDAQ:SIGA ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44373573/siga-appoints-retired-general-john-m-keane-to-its-board-of-directors",
+      "time_published": "20250318T113000",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, March 18, 2025 ( GLOBE NEWSWIRE ) -- SIGA Technologies, Inc. ( SIGA ) SIGA, a commercial-stage pharmaceutical company, announced today the appointment of Retired United States Army General John \"Jack\" Keane to its Board of Directors, effective immediately.",
+      "banner_image": "https://ml.globenewswire.com/media/93028aa6-8191-4392-a7b1-447b046cd93b/small/siga-logo-blue-png.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.08436,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SIGA",
+          "relevance_score": "0.465031",
+          "ticker_sentiment_score": "0.006177",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "SIGA, 은퇴한 John M. Keane 장군을 이사회에 임명 - SIGA Technologies ( NASDAQ:SIGA )"
+    },
+    {
+      "title": "Opinion: President Donald Trump Is Overlooking the Biggest Risk to the Stock Market  ( Hint: It's Not a Recession ) ",
+      "url": "https://www.fool.com/investing/2025/03/18/opinion-president-donald-trump-is-overlooking-the/",
+      "time_published": "20250318T111500",
+      "authors": [
+        "Bram Berkowitz"
+      ],
+      "summary": "Heading into his second presidential term, many investors assumed that President Donald Trump's bark would be a lot worse than his bite on trade and other policies, primarily because the stock market was doing well and investors assumed that Trump wouldn't want to see the market get hurt on his ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/810942/trump-official-wh-photo-by-joyce-n-boghosian.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.997902"
+        }
+      ],
+      "overall_sentiment_score": -0.112648,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "의견: 도널드 트럼프 대통령은 주식 시장의 가장 큰 위험을 간과하고 있다(힌트: 경기 침체가 아니다)"
+    },
+    {
+      "title": "5 Stocks With Recent Price Strength Amid Extreme Volatility",
+      "url": "https://www.zacks.com/stock/news/2431204/5-stocks-with-recent-price-strength-amid-extreme-volatility",
+      "time_published": "20250318T094800",
+      "authors": [
+        "Nalak Das"
+      ],
+      "summary": "Investors target stocks that are witnessing a bullish run. Some of the stocks seeing price strength are DRD, WGS, EVER, HCI, BABA.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3c/1948.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999993"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.99998"
+        }
+      ],
+      "overall_sentiment_score": 0.24968,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.158103",
+          "ticker_sentiment_score": "0.139418",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WGS",
+          "relevance_score": "0.158103",
+          "ticker_sentiment_score": "0.198021",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DRD",
+          "relevance_score": "0.219951",
+          "ticker_sentiment_score": "0.249964",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "III",
+          "relevance_score": "0.031822",
+          "ticker_sentiment_score": "0.187318",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EVER",
+          "relevance_score": "0.189175",
+          "ticker_sentiment_score": "0.165124",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BNXYF",
+          "relevance_score": "0.031822",
+          "ticker_sentiment_score": "0.117565",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HCI",
+          "relevance_score": "0.126784",
+          "ticker_sentiment_score": "0.123052",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "극심한 변동성 속에서 최근 가격 강세를 보인 5개 주식"
     },
     {
       "title": "NB Private Equity Partners Announces Transaction in Own Shares",
@@ -795,7 +958,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -1505,7 +1668,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까요?"
+      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
     },
     {
       "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
@@ -2195,335 +2358,6 @@
         }
       ],
       "translatedTitle": "Bravo Property Trust와 Integritas Capital이 자금 지원하는 DUMBO의 1억 2,500만 달러 건설 대출"
-    },
-    {
-      "title": "Should Investors Prepare for a Recession?",
-      "url": "https://www.fool.com/investing/2025/03/14/should-investors-prepare-for-a-recession/",
-      "time_published": "20250314T211500",
-      "authors": [
-        "Motley Fool Staff"
-      ],
-      "summary": "In this podcast, Motley Fool analyst Asit Sharma and host Ricky Mulvey discuss:Then, Motley Fool host Alison Southwick and personal finance expert Robert Brokamp discuss Social Security's funding challenges and how investors should prepare.To catch full episodes of all The Motley Fool's free ...",
-      "banner_image": "https://g.foolcdn.com/editorial/images/811126/should-investors-prepare-for-a-recession.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999491"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.333333"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.161647"
-        }
-      ],
-      "overall_sentiment_score": 0.055217,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.165826",
-          "ticker_sentiment_score": "0.022273",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "LUV",
-          "relevance_score": "0.008352",
-          "ticker_sentiment_score": "-0.24805",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "RDDT",
-          "relevance_score": "0.008352",
-          "ticker_sentiment_score": "0.040792",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BA",
-          "relevance_score": "0.008352",
-          "ticker_sentiment_score": "0.032293",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NOW",
-          "relevance_score": "0.016703",
-          "ticker_sentiment_score": "0.13427",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "투자자들은 경기 침체에 대비해야 할까?"
-    },
-    {
-      "title": "Growth in Bitcoin and stablecoin adoption could accelerate dedollarization",
-      "url": "https://cointelegraph.com/news/growth-in-bitcoin-and-stablecoin-adoption-could-accelerate-dedollarization",
-      "time_published": "20250314T183000",
-      "authors": [
-        "David Feliba"
-      ],
-      "summary": "The US dollar has long reigned as the world's primary reserve currency and the default choice for global trade and international transactions. But its dominance is now facing growing scrutiny as shifting geopolitical and economic forces-and concerns over the potential weaponization of the ...",
-      "banner_image": "https://s3.cointelegraph.com/uploads/2025-03/01957207-99fa-77cc-be75-34eea44e127b",
-      "source": "Cointelegraph",
-      "category_within_source": "n/a",
-      "source_domain": "cointelegraph.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.928139"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.614606"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.998626"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.112482,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.072",
-          "ticker_sentiment_score": "0.019135",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.502045",
-          "ticker_sentiment_score": "0.149762",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.315718",
-          "ticker_sentiment_score": "0.096185",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "비트코인과 스테이블코인 채택 증가로 달러화 탈피 가속화 가능"
-    },
-    {
-      "title": "Kroger CEO Shake-Up",
-      "url": "https://www.fool.com/investing/2025/03/14/kroger-ceo-shake-up/",
-      "time_published": "20250314T165500",
-      "authors": [
-        "Motley Fool Staff"
-      ],
-      "summary": "In this podcast, Motley Fool analysts Nick Sciple and Karl Theil join hosts Ricky Mulvey and Mary Long to discuss:To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center. To get started investing, check out our beginner's guide to investing in stocks.",
-      "banner_image": "https://g.foolcdn.com/editorial/images/810459/kroger-ceo-out.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999967"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999687"
-        }
-      ],
-      "overall_sentiment_score": 0.175937,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "SHOP",
-          "relevance_score": "0.007784",
-          "ticker_sentiment_score": "0.154551",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "TGT",
-          "relevance_score": "0.007784",
-          "ticker_sentiment_score": "0.010929",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.007784",
-          "ticker_sentiment_score": "0.028088",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "KR",
-          "relevance_score": "0.085463",
-          "ticker_sentiment_score": "0.04976",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TPB",
-          "relevance_score": "0.046679",
-          "ticker_sentiment_score": "0.130888",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ANF",
-          "relevance_score": "0.054447",
-          "ticker_sentiment_score": "0.049993",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MDT",
-          "relevance_score": "0.015567",
-          "ticker_sentiment_score": "0.096996",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ISRG",
-          "relevance_score": "0.046679",
-          "ticker_sentiment_score": "0.083411",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BNXYF",
-          "relevance_score": "0.015567",
-          "ticker_sentiment_score": "0.112404",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.015567",
-          "ticker_sentiment_score": "0.04433",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "크로거 CEO 개편"
-    },
-    {
-      "title": "Vacation Planning Hits 15-Year Low In Latest Sign Of Cash-Strapped US Consumers - Delta Air Lines  ( NYSE:DAL ) ",
-      "url": "https://www.benzinga.com/25/03/44335131/vacation-planning-hits-15-year-low-in-latest-sign-of-cash-strapped-us-consumer",
-      "time_published": "20250314T163040",
-      "authors": [
-        "Erica Kollmann"
-      ],
-      "summary": "The number of Americans planning to take vacations in the upcoming six months has hit a 15-year low. Find out which stock just plummeted to the bottom of the new Benzinga Rankings. Updated daily-spot the biggest red flags before it's too late.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/14/You-havent-taken-a-vacation-for-a-long-t.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.858979"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": -0.183706,
-      "overall_sentiment_label": "Somewhat-Bearish",
-      "ticker_sentiment": [
-        {
-          "ticker": "ABNB",
-          "relevance_score": "0.16171",
-          "ticker_sentiment_score": "-0.293639",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "GS",
-          "relevance_score": "0.081276",
-          "ticker_sentiment_score": "-0.145926",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BKNG",
-          "relevance_score": "0.16171",
-          "ticker_sentiment_score": "-0.293639",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        },
-        {
-          "ticker": "DAL",
-          "relevance_score": "0.16171",
-          "ticker_sentiment_score": "-0.12704",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "휴가 계획, 현금난에 시달리는 미국 소비자들의 최근 징후로 15년 만에 최저치 기록 - Delta Air Lines (NYSE:DAL)"
-    },
-    {
-      "title": "The U.S.-Canada trade war could signal a shift in economic ties, experts say",
-      "url": "https://www.cnbc.com/2025/03/14/the-future-of-us-canada-trade-after-tariff-escalation.html",
-      "time_published": "20250314T160340",
-      "authors": [],
-      "summary": "The U.S.-Canada trade war could shift economic ties as tariffs rise and tensions grow, raising concerns about future trade stability, experts say.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Top News",
-      "source_domain": "www.cnbc.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.161647"
-        }
-      ],
-      "overall_sentiment_score": 0.069603,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "미국-캐나다 무역전쟁, 경제적 관계 변화 신호 될 수 있다고 전문가들 밝혀"
     }
   ]
 }
