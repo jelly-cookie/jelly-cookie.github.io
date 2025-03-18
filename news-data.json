@@ -553,6 +553,58 @@
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
     },
     {
+      "title": "How Should Investors Play UPS Stock Amid Tariff Risks?",
+      "url": "https://www.zacks.com/stock/news/2431679/how-should-investors-play-ups-stock-amid-tariff-risks",
+      "time_published": "20250318T153800",
+      "authors": [
+        "Maharathi Basu"
+      ],
+      "summary": "With EPS estimates for United Parcel Service moving south, we assess the investment worthiness of the stock currently.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/518.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.714479"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.044337,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UPS",
+          "relevance_score": "0.829865",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.09495",
+          "ticker_sentiment_score": "-0.226395",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "관세 위험 가운데 투자자들은 UPS 주식을 어떻게 투자해야 할까?"
+    },
+    {
       "title": "The Eurozone's moment of truth",
       "url": "https://www.ft.com/content/8f0eec36-efcf-4f17-ab39-33fad571fd25",
       "time_published": "20250318T123050",
@@ -2296,102 +2348,6 @@
         }
       ],
       "translatedTitle": "의견 | 홍콩은 북부 대도시에 대한 통제력을 잃지 않도록 해야 합니다."
-    },
-    {
-      "title": "Looking Ahead to the Q1 Earnings Season",
-      "url": "https://www.zacks.com/commentary/2430426/looking-ahead-to-the-q1-earnings-season",
-      "time_published": "20250314T230100",
-      "authors": [
-        "Sheraz Mian"
-      ],
-      "summary": "The Q1 reporting cycle will really get going when the big banks come out with their March-quarter results on April 11th. What should investors know heading into the period?",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/11/14587.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.25"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.110259,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "COST",
-          "relevance_score": "0.098524",
-          "ticker_sentiment_score": "0.065714",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ADBE",
-          "relevance_score": "0.131105",
-          "ticker_sentiment_score": "0.06052",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NKE",
-          "relevance_score": "0.195551",
-          "ticker_sentiment_score": "0.115905",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ORCL",
-          "relevance_score": "0.131105",
-          "ticker_sentiment_score": "0.06052",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FDX",
-          "relevance_score": "0.098524",
-          "ticker_sentiment_score": "0.031633",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ACN",
-          "relevance_score": "0.098524",
-          "ticker_sentiment_score": "0.031633",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DAL",
-          "relevance_score": "0.032916",
-          "ticker_sentiment_score": "0.206805",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.032916",
-          "ticker_sentiment_score": "0.206805",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "1분기 실적 발표 시즌을 기대하며"
     }
   ]
 }
