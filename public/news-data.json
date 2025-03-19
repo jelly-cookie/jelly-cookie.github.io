@@ -4,64 +4,6 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
-      "title": "Exclusive | Economist Robin Xing on China's animal spirits and the impact of Trump 2.0",
-      "url": "https://www.scmp.com/economy/china-economy/article/3302415/economist-robin-xing-revival-chinas-animal-spirits-and-surviving-trump-20",
-      "time_published": "20250316T220025",
-      "authors": [
-        "Frank Chen"
-      ],
-      "summary": "Morgan Stanley's chief China economist sees green shoots in China thanks to innovation, but highlights need for social security reform.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/14/79b0673a-22d7-4f68-8bff-ac2ff1b3493a_c777f8c5.jpg?itok=Qn0u_Pnc&v=1741944549",
-      "source": "South China Morning Post",
-      "category_within_source": "Economy",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.999989"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.769861"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.576289"
-        }
-      ],
-      "overall_sentiment_score": 0.176337,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "BABA",
-          "relevance_score": "0.011558",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BACHY",
-          "relevance_score": "0.011558",
-          "ticker_sentiment_score": "0.093213",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MS",
-          "relevance_score": "0.011558",
-          "ticker_sentiment_score": "0.092391",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "단독 | 경제학자 로빈 싱이 말하는 중국의 동물적 정신과 트럼프 2.0의 영향"
-    },
-    {
       "title": "Consumer Confidence Dips But Spending On Home Improvements And Family Planning Sees Uptick: Analyst Survey - SPDR S&P 500  ( ARCA:SPY ) ",
       "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44383156/consumer-confidence-dips-but-spending-on-home-improvements-and-family-planning-sees",
       "time_published": "20250318T183042",
@@ -740,6 +682,216 @@
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
+    },
+    {
+      "title": "Where's the Housing Market Heading? ETFs to Consider",
+      "url": "https://www.zacks.com/stock/news/2432339/wheres-the-housing-market-heading-etfs-to-consider",
+      "time_published": "20250319T163100",
+      "authors": [
+        "Yashwardhan Jain"
+      ],
+      "summary": "Look at ETFs as the 30-year mortgage rate drops to its lowest level since early December, marking its sixth consecutive weekly decline.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/84/124.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.071284,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.041682",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.041682",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.041682",
+          "ticker_sentiment_score": "-0.021799",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "주택 시장은 어디로 향하고 있을까? 고려해야 할 ETF"
+    },
+    {
+      "title": "Is LDOS Stock Well-Insulated From Trade-War Induced Uncertainty?",
+      "url": "https://www.zacks.com/stock/news/2432338/is-ldos-stock-well-insulated-from-trade-war-induced-uncertainty",
+      "time_published": "20250319T163100",
+      "authors": [
+        "Nilanjan Banerjee"
+      ],
+      "summary": "Amid escalating global trade tensions and their impact on financial markets, Leidos stands out as a resilient investment due to its stable government contracts.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b2/40448.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.875462"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.158281,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.108222",
+          "ticker_sentiment_score": "0.043392",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LDOS",
+          "relevance_score": "0.659096",
+          "ticker_sentiment_score": "0.325243",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NOC",
+          "relevance_score": "0.108222",
+          "ticker_sentiment_score": "0.043392",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "LDOS 주식은 무역전쟁으로 인한 불확실성으로부터 잘 보호받고 있을까?"
+    },
+    {
+      "title": "ACM Research Gains 13% in a Month: Should You Buy the Stock?",
+      "url": "https://www.zacks.com/stock/news/2432365/acm-research-gains-13-in-a-month-should-you-buy-the-stock",
+      "time_published": "20250319T160400",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "ACMR is gaining momentum with a growing portfolio, continuous product innovation and a rich customer base, positioning itself for long-term success.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/cf/212.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.993856"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.306684,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ATNI",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.067342",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACMR",
+          "relevance_score": "0.554751",
+          "ticker_sentiment_score": "0.377572",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DBX",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.067342",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "ACM Research가 한 달 만에 13% 상승: 이 주식을 매수해야 할까?"
+    },
+    {
+      "title": "What's Going on With These Popular Stocks? BABA, VRT, PLTR",
+      "url": "https://www.zacks.com/commentary/2431844/whats-going-on-with-these-popular-stocks-baba-vrt-pltr",
+      "time_published": "20250319T160000",
+      "authors": [
+        "Derek Lewis"
+      ],
+      "summary": "Several stocks have been gaining big attention among investors as of late, a list that includes Alibaba, Palantir, and Vertiv. But how do they currently stack up?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fc/93047.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.428339,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.587278",
+          "ticker_sentiment_score": "0.551396",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "VRT",
+          "relevance_score": "0.526455",
+          "ticker_sentiment_score": "0.391986",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ],
+      "translatedTitle": "인기 있는 이 주식들에는 무슨 일이 일어나고 있나요? BABA, VRT, PLTR"
     },
     {
       "title": "'12 Million Households Will Save $38,000 A Year'-Grant Cardone Calls Trump's Plan To Waive Tax Under $150K 'Brilliant, Practical And Viable'",
@@ -1856,7 +2008,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2405,105 +2557,6 @@
         }
       ],
       "translatedTitle": "Nike, FedEx, Costco, Oracle 및 Adobe는 Zacks Earnings Preview에 포함됩니다."
-    },
-    {
-      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
-      "url": "https://www.globenewswire.com/news-release/2025/03/17/3043390/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
-      "time_published": "20250317T070000",
-      "authors": [
-        "NB Private Equity Partners Limited"
-      ],
-      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
-      "banner_image": "",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.803643"
-        }
-      ],
-      "overall_sentiment_score": 0.236207,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "NBPVF",
-          "relevance_score": "0.136499",
-          "ticker_sentiment_score": "0.192875",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "NB Private Equity Partners, 자사 주식 거래 발표"
-    },
-    {
-      "title": "Hong Kong's flourishing global financial centre a draw for investors",
-      "url": "https://www.scmp.com/native/business/topics/citys-global-appeal-investors/article/3302401/hong-kongs-flourishing-global-financial-centre-draw-investors",
-      "time_published": "20250317T040011",
-      "authors": [
-        "Morning Studio editors"
-      ],
-      "summary": "New Capital Investment Entrant Scheme underpins opportunities for global investors, with enhancements taking effect this month.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/14/a86224c5-82ad-43bb-b9bf-ce445b17be3b_c476ee96.jpg?itok=YZDRnqY4&v=1741942871",
-      "source": "South China Morning Post",
-      "category_within_source": "Business",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999993"
-        }
-      ],
-      "overall_sentiment_score": 0.36948,
-      "overall_sentiment_label": "Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "홍콩의 번영하는 글로벌 금융 센터는 투자자들에게 매력적입니다."
-    },
-    {
-      "title": "Standard Chartered sees key role for Hong Kong amid evolving global trade",
-      "url": "https://www.scmp.com/business/banking-finance/article/3302468/trumps-tariffs-reshape-global-trade-key-role-hong-kong-stanchart-chairman",
-      "time_published": "20250316T233011",
-      "authors": [
-        "Enoch Yiu"
-      ],
-      "summary": "Jose Vinals to bid adieu at the bank's annual general meeting in May after nine years at the helm.",
-      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/03/13/clean.jpg?itok=TQ_a0waT",
-      "source": "South China Morning Post",
-      "category_within_source": "Companies",
-      "source_domain": "www.scmp.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.210144,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "SCBFF",
-          "relevance_score": "0.127119",
-          "ticker_sentiment_score": "0.244172",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Standard Chartered, 진화하는 글로벌 무역 속에서 홍콩의 핵심 역할을 기대"
     }
   ]
 }
