@@ -747,6 +747,66 @@
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
     },
     {
+      "title": "Where Will Dogecoin Be in 1 Year?",
+      "url": "https://www.fool.com/investing/2025/03/19/where-will-dogecoin-be-in-1-year/",
+      "time_published": "20250319T105100",
+      "authors": [
+        "Adam Spatacco"
+      ],
+      "summary": "The price of the crypto is down 64% from all-time highs seen during late 2024.",
+      "banner_image": "https://media.ycharts.com/charts/78196c9fc963227860185761d529f931.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.839681"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": 0.140148,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.067402",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.374312",
+          "ticker_sentiment_score": "0.31691",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.249694",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:DOGE",
+          "relevance_score": "0.806678",
+          "ticker_sentiment_score": "0.298565",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
+    },
+    {
       "title": "Transaction in Own Shares",
       "url": "https://www.globenewswire.com/news-release/2025/03/19/3045121/0/en/Transaction-in-Own-Shares.html",
       "time_published": "20250319T070000",
@@ -1512,7 +1572,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2433,44 +2493,6 @@
         }
       ],
       "translatedTitle": "트럼프 대통령의 관세 폭풍을 견뎌낼 수 있는 인공지능(AI) 주식 3개"
-    },
-    {
-      "title": "President Donald Trump Is Now Caught Between a Rock and a Hard Place on Medicaid",
-      "url": "https://www.fool.com/retirement/2025/03/15/president-donald-trump-is-now-caught-between-a-roc/",
-      "time_published": "20250315T134500",
-      "authors": [
-        "Bram Berkowitz"
-      ],
-      "summary": "Since being sworn into office on Jan. 20, President Donald Trump has walked a fine line when discussing the country's largest social programs such as Medicare, Medicaid, and Social Security. Trump has gone on Fox News and said he has no plans to touch any of these programs.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810240%2Ftrump-2-official-wh-photo-by-tia-dufour.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.012125,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "FOX",
-          "relevance_score": "0.054607",
-          "ticker_sentiment_score": "0.012053",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "도널드 트럼프 대통령은 이제 메디케이드에 대해 난처한 입장에 처해 있습니다."
     }
   ]
 }
