@@ -217,6 +217,57 @@
       "translatedTitle": "데카르트 연구: 고성장 기업의 39%가 무역 준수를 경쟁 우위로 활용"
     },
     {
+      "title": "Ollie's Bargain Outlet Holdings, Inc. Reports Fourth Quarter and Fiscal 2024 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/03/19/3045275/36273/en/Ollie-s-Bargain-Outlet-Holdings-Inc-Reports-Fourth-Quarter-and-Fiscal-2024-Financial-Results.html",
+      "time_published": "20250319T113000",
+      "authors": [
+        "Ollie's Bargain Outlet Holdings",
+        "Inc."
+      ],
+      "summary": "~ Q4 Comparable Store Sales increased ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/188af6b4-92ab-496a-b2dd-3bc783e2f543",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.796627"
+        }
+      ],
+      "overall_sentiment_score": 0.204253,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OLLI",
+          "relevance_score": "0.025514",
+          "ticker_sentiment_score": "0.058891",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Ollie's Bargain Outlet Holdings, Inc. 4분기 및 2024 회계연도 재무 결과 보고"
+    },
+    {
       "title": "Germany's Debt Reform Plans Push European Markets Higher",
       "url": "https://www.benzinga.com/markets/eurozone/25/03/44387976/german-parliament-backs-changes-to-constitutional-debt-brake",
       "time_published": "20250318T220258",
@@ -688,7 +739,7 @@
       "overall_sentiment_score": 0.207741,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
     },
     {
       "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
@@ -745,6 +796,112 @@
         }
       ],
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
+    },
+    {
+      "title": "Beyond The Exchange: How BNB Chain Is Helping Reshape The Crypto Landscape",
+      "url": "https://www.benzinga.com/partner/cryptocurrency/25/03/44395136/beyond-the-exchange-how-bnb-chain-is-helping-reshape-the-crypto-landscape",
+      "time_published": "20250319T115559",
+      "authors": [
+        "JE Insights"
+      ],
+      "summary": "Binance commands a stage presence in the blockchain sphere thanks to its status as the world's largest cryptocurrency exchange. In terms of scale, Binance's spot trading volume clocks in at seven times that of the largest crypto exchange in the U.S.; Coinbase Global Inc. COIN.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/19/Screenshot-2025-03-19-at-5-21-00PM.png?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999696"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.999855"
+        }
+      ],
+      "overall_sentiment_score": 0.247887,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.050519",
+          "ticker_sentiment_score": "0.064475",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.075715",
+          "ticker_sentiment_score": "0.114762",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.319534",
+          "ticker_sentiment_score": "0.236239",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "거래소 너머: BNB 체인이 암호화폐 환경을 재편하는 데 어떻게 도움이 되는가"
+    },
+    {
+      "title": "Down More Than 30% From Its 52-Week High, Is Palantir Technologies Stock a Buy?",
+      "url": "https://www.fool.com/investing/2025/03/19/down-more-than-35-from-its-52-week-high-is-palanti/",
+      "time_published": "20250319T110000",
+      "authors": [
+        "David Jagielski"
+      ],
+      "summary": "Palantir Technologies ( NASDAQ: PLTR ) has been a darling for tech and artificial intelligence ( AI ) investors over the past year, as it has continually hit new heights despite concerns about its soaring valuation. Lately, however, it has been falling sharply in value, along with the market as a ...",
+      "banner_image": "https://media.ycharts.com/charts/5e4a61ba52d4a1cf5278eac148801833.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.623304"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.271415,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.072655",
+          "ticker_sentiment_score": "-0.038575",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.144708",
+          "ticker_sentiment_score": "0.066346",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "52주 최고가에서 30% 이상 하락한 Palantir Technologies 주식을 매수해야 할까?"
     },
     {
       "title": "Where Will Dogecoin Be in 1 Year?",
@@ -804,7 +961,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
+      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -1572,7 +1729,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
+      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2323,176 +2480,6 @@
         }
       ],
       "translatedTitle": "XRP의 최신 촉매제는 큰 거래입니다. 그 이유는 다음과 같습니다."
-    },
-    {
-      "title": "Will President Trump Cause Social Security to Run Out of Money Sooner Than Expected? 4 Things to Know.",
-      "url": "https://www.fool.com/retirement/2025/03/16/will-president-trump-cause-social-security-to-run/",
-      "time_published": "20250316T084500",
-      "authors": [
-        "Keith Speights"
-      ],
-      "summary": "Some things are worth worrying about, but others aren't. Recent comments made by Elon Musk, Tesla CEO, tech billionaire, and Trump administration advisor, saying that Social Security is \"the biggest Ponzi scheme of all time\" is an example of the latter category.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F810829%2Fgetty-curious-person-wondering-interested.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.538269"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.048336,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "GS",
-          "relevance_score": "0.130217",
-          "ticker_sentiment_score": "-0.132857",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.065327",
-          "ticker_sentiment_score": "-0.00402",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프 대통령이 예상보다 일찍 사회보장금이 고갈되게 할까? 알아야 할 4가지"
-    },
-    {
-      "title": "These 3 Artificial Intelligence  ( AI )  Chip Stocks Tumbled During the Nasdaq Sell-Off, Losing $1.16 Trillion in Market Cap. Here's the 1 Worth Buying Right Now.",
-      "url": "https://www.fool.com/investing/2025/03/16/these-3-ai-chip-stocks-tumbled-1-worth-buying/",
-      "time_published": "20250316T081500",
-      "authors": [
-        "Adam Levy"
-      ],
-      "summary": "The fears driving the market lower won't have as big of a long-term impact on this chipmaker.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F811068%2Fgettyimages-ai-chip-on-a-circuit-board.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.962106"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.360215"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.108533,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "META",
-          "relevance_score": "0.037271",
-          "ticker_sentiment_score": "0.10098",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.25641",
-          "ticker_sentiment_score": "0.033374",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "AVGO",
-          "relevance_score": "0.220809",
-          "ticker_sentiment_score": "0.022547",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSM",
-          "relevance_score": "0.111488",
-          "ticker_sentiment_score": "0.003395",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "이 3개의 인공지능(AI) 칩 주식은 나스닥 매도 중에 폭락하여 시가총액이 1조 1,600억 달러를 잃었습니다. 지금 당장 살 가치가 있는 주식은 다음과 같습니다."
-    },
-    {
-      "title": "3 Artificial Intelligence  ( AI )  Stocks That Can Weather President Trump's Tariff Storm",
-      "url": "https://www.fool.com/investing/2025/03/15/x-artificial-intelligence-ai-stocks-that-can-weath/",
-      "time_published": "20250315T183000",
-      "authors": [
-        "Keithen Drury"
-      ],
-      "summary": "The threat of tariffs looms over many companies because they make anything imported more expensive. If that is the only source for products, then consumers or businesses may hold out on purchasing them to wait out tariffs in the hope that they will be reduced.Furthermore, if products become more ...",
-      "banner_image": "https://media.ycharts.com/charts/898269ae442bcd5edc285fccfc95b335.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.796627"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.495866"
-        }
-      ],
-      "overall_sentiment_score": 0.093903,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.342939",
-          "ticker_sentiment_score": "0.192573",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "AVGO",
-          "relevance_score": "0.296463",
-          "ticker_sentiment_score": "0.109219",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSM",
-          "relevance_score": "0.100941",
-          "ticker_sentiment_score": "0.02264",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "트럼프 대통령의 관세 폭풍을 견뎌낼 수 있는 인공지능(AI) 주식 3개"
     }
   ]
 }
