@@ -1,0 +1,167 @@
+{
+  "items": "5",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "한국은행, 기준금리 3.5% 유지... '현재 금리 수준이 적절'",
+      "url": "https://example.com/news1",
+      "time_published": "20240316T220025",
+      "authors": ["김기자", "이기자"],
+      "summary": "한국은행이 기준금리를 3.5%로 유지하면서 현재 금리 수준이 적절하다고 판단했다. 인플레이션 압력이 완화되고 있으나, 가계부채 관리와 금융안정성 확보를 위해 현행 금리 유지가 필요하다고 밝혔다.",
+      "banner_image": "https://picsum.photos/800/400",
+      "source": "경제일보",
+      "category_within_source": "금융",
+      "source_domain": "www.economynews.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.999989"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.176337,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "005930",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "한국은행, 기준금리 3.5% 유지... '현재 금리 수준이 적절'"
+    },
+    {
+      "title": "미국 연준, 금리 인하 시그널... 시장 긍정적 반응",
+      "url": "https://example.com/news2",
+      "time_published": "20240316T210025",
+      "authors": ["박기자"],
+      "summary": "미국 연방준비제도(연준)가 올해 3차례의 금리 인하를 예고하면서 글로벌 금융시장이 긍정적으로 반응했다. 시장 전문가들은 이번 금리 인하가 경제의 소프트랜딩을 위한 적절한 시점이라고 평가했다.",
+      "banner_image": "https://picsum.photos/800/401",
+      "source": "글로벌경제",
+      "category_within_source": "국제금융",
+      "source_domain": "www.globaleconomy.com",
+      "topics": [
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.999989"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.356337,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "0.2",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "미국 연준, 금리 인하 시그널... 시장 긍정적 반응"
+    },
+    {
+      "title": "중국 경제 성장률 목표 5% 설정... 부동산 위기 극복 노력",
+      "url": "https://example.com/news3",
+      "time_published": "20240316T200025",
+      "authors": ["최기자"],
+      "summary": "중국이 올해 경제성장률 목표를 5%로 설정하고 부동산 시장 안정화를 위한 종합적인 대책을 발표했다. 전문가들은 중국의 부동산 위기가 점진적으로 완화될 것으로 전망했다.",
+      "banner_image": "https://picsum.photos/800/402",
+      "source": "아시아경제",
+      "category_within_source": "국제경제",
+      "source_domain": "www.asiaeconomy.com",
+      "topics": [
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.999989"
+        },
+        {
+          "topic": "Real Estate",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": -0.156337,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "-0.1",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "중국 경제 성장률 목표 5% 설정... 부동산 위기 극복 노력"
+    },
+    {
+      "title": "일본은행, 통화정책 전환... 엔화 약세 대응",
+      "url": "https://example.com/news4",
+      "time_published": "20240316T190025",
+      "authors": ["정기자"],
+      "summary": "일본은행이 장기간의 초저금리 정책에서 벗어나 통화정책 전환을 선언했다. 엔화 약세에 대한 우려가 커지면서 시장의 관심이 집중되고 있다.",
+      "banner_image": "https://picsum.photos/800/403",
+      "source": "일본경제",
+      "category_within_source": "국제금융",
+      "source_domain": "www.japaneconomy.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.999989"
+        },
+        {
+          "topic": "Currency",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.056337,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "7203.T",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "일본은행, 통화정책 전환... 엔화 약세 대응"
+    },
+    {
+      "title": "유럽중앙은행, 금리 동결 결정... 인플레이션 우려",
+      "url": "https://example.com/news5",
+      "time_published": "20240316T180025",
+      "authors": ["유기자"],
+      "summary": "유럽중앙은행(ECB)이 기준금리를 현재 수준으로 유지하기로 결정했다. 인플레이션 압력이 지속되면서 시장의 관심이 집중되고 있다.",
+      "banner_image": "https://picsum.photos/800/404",
+      "source": "유럽경제",
+      "category_within_source": "국제금융",
+      "source_domain": "www.europeeconomy.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.999989"
+        },
+        {
+          "topic": "Inflation",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": -0.256337,
+      "overall_sentiment_label": "Somewhat-Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SAP",
+          "relevance_score": "0.011558",
+          "ticker_sentiment_score": "-0.2",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ],
+      "translatedTitle": "유럽중앙은행, 금리 동결 결정... 인플레이션 우려"
+    }
+  ]
+} 

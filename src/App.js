@@ -6,6 +6,7 @@ import NewsList from './components/NewsList';
 import Header from './components/Header';
 import EconomicTerms from './components/EconomicTerms';
 import { fetchNews } from './services/api';
+import sampleNews from './data/sample-news.json';
 import './components/EconomicTerms.css';
 
 const darkTheme = createTheme({
@@ -80,9 +81,14 @@ function App() {
   useEffect(() => {
     const loadNews = async () => {
       try {
-        const data = await fetchNews();
-        setNews(data.feed || []);
-        setFilteredNews(data.feed || []);
+        if (process.env.NODE_ENV === 'development') {
+          setNews(sampleNews.feed || []);
+          setFilteredNews(sampleNews.feed || []);
+        } else {
+          const data = await fetchNews();
+          setNews(data.feed || []);
+          setFilteredNews(data.feed || []);
+        }
       } catch (err) {
         setError('Failed to load news');
         console.error(err);
