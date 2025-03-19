@@ -747,6 +747,40 @@
       "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
     },
     {
+      "title": "Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/19/3045121/0/en/Transaction-in-Own-Shares.html",
+      "time_published": "20250319T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "자사주 거래"
+    },
+    {
       "title": "80 global executives to gather in Beijing for key annual summit",
       "url": "https://www.scmp.com/economy/china-economy/article/3302871/80-global-executives-gather-beijing-key-annual-summit",
       "time_published": "20250318T220022",
@@ -2437,82 +2471,6 @@
         }
       ],
       "translatedTitle": "도널드 트럼프 대통령은 이제 메디케이드에 대해 난처한 입장에 처해 있습니다."
-    },
-    {
-      "title": "Bulls And Bears: DocuSign, Magnificent 7, Palantir - And Tariffs Keep Roiling Markets - DocuSign  ( NASDAQ:DOCU ) , Trump Media & Technology  ( NASDAQ:DJT ) ",
-      "url": "https://www.benzinga.com/25/03/44345850/benzinga-bulls-and-bears-docusign-magnificent-7-palantir-and-tariffs-keep-roiling-markets",
-      "time_published": "20250315T120046",
-      "authors": [
-        "Benzinga Senior Editor"
-      ],
-      "summary": "Benzinga examined the prospects for many investors' favorite stocks over the last week - here's a look at some of our top stories. This week, U.S. stock markets tumbled into correction territory, with the S&P 500 dropping over 10% from February highs.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/15/bulls-and-bears-22ai.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "Markets",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.990999"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.938793"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.146301,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.121343",
-          "ticker_sentiment_score": "-0.008476",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TYHOF",
-          "relevance_score": "0.060848",
-          "ticker_sentiment_score": "0.098004",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DOCU",
-          "relevance_score": "0.181137",
-          "ticker_sentiment_score": "0.052981",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "QBTS",
-          "relevance_score": "0.181137",
-          "ticker_sentiment_score": "0.44993",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "DJT",
-          "relevance_score": "0.121343",
-          "ticker_sentiment_score": "-0.080802",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PLTR",
-          "relevance_score": "0.121343",
-          "ticker_sentiment_score": "0.083359",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "황소와 곰: DocuSign, Magnificent 7, Palantir - 그리고 관세는 시장을 계속 흔들고 있습니다 - DocuSign (NASDAQ:DOCU), Trump Media & Technology (NASDAQ:DJT)"
     }
   ]
 }
