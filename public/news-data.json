@@ -742,60 +742,127 @@
       "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영 - Cibus ( NASDAQ:CBUS )"
     },
     {
-      "title": "'See you in four years': Canada flexes economic muscle as tariff negotiations continue",
-      "url": "https://www.cnbc.com/2025/03/16/see-you-in-four-years-canada-flexes-economic-muscle-as-tariff-negotiations-continue.html",
-      "time_published": "20250316T111242",
-      "authors": [],
-      "summary": "Trump's plans for tariffs and comments about Canada becoming a state has enraged the country's consumers and politicians.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Economy",
-      "source_domain": "www.cnbc.com",
+      "title": "'12 Million Households Will Save $38,000 A Year'-Grant Cardone Calls Trump's Plan To Waive Tax Under $150K 'Brilliant, Practical And Viable'",
+      "url": "https://www.benzinga.com/news/25/03/44400602/12-million-households-will-save-38000-a-year-grant-cardone-calls-trumps-plan-to-waive-tax-under-150k-brillia",
+      "time_published": "20250319T153936",
+      "authors": [
+        "Adrian Volenik"
+      ],
+      "summary": "President Donald Trump wants to eliminate federal income taxes for Americans earning less than $150,000 a year, a move that could put thousands of extra dollars back into middle-class households.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/19/Tax-Contributions-And-Financial-Discipli.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
       "topics": [
         {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "topic": "IPO",
+          "relevance_score": "0.158519"
         },
         {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
         },
         {
           "topic": "Earnings",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
+          "relevance_score": "0.108179"
         }
       ],
-      "overall_sentiment_score": 0.064447,
+      "overall_sentiment_score": 0.149774,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [
         {
-          "ticker": "META",
-          "relevance_score": "0.0367",
-          "ticker_sentiment_score": "0.228104",
+          "ticker": "UBER",
+          "relevance_score": "0.062271",
+          "ticker_sentiment_score": "0.286492",
           "ticker_sentiment_label": "Somewhat-Bullish"
         },
         {
-          "ticker": "BF-A",
-          "relevance_score": "0.073321",
-          "ticker_sentiment_score": "-0.052531",
-          "ticker_sentiment_label": "Neutral"
+          "ticker": "ABNB",
+          "relevance_score": "0.062271",
+          "ticker_sentiment_score": "0.286492",
+          "ticker_sentiment_label": "Somewhat-Bullish"
         },
         {
-          "ticker": "TSLA",
-          "relevance_score": "0.073321",
-          "ticker_sentiment_score": "-0.061303",
+          "ticker": "WMT",
+          "relevance_score": "0.062271",
+          "ticker_sentiment_score": "0.281469",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "'1,200만 가구가 연간 3만8,000달러를 절약할 수 있을 것'-그랜트 카도네, 트럼프의 15만 달러 이하 세금 면제 계획을 '훌륭하고 실용적이며 실행 가능하다'고 주장"
+    },
+    {
+      "title": "Canadian Companies Look to Diversify at Hannover Messe",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44399718/canadian-companies-look-to-diversify-at-hannover-messe",
+      "time_published": "20250319T150054",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "Canada has the spotlight as partner country at Hannover Messe 2025, the world's largest industrial technology show. Over 1,000 Canadians are planning to attend the fair which runs from March 30th to April 4th in Germany.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.330515,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CETY",
+          "relevance_score": "0.066598",
+          "ticker_sentiment_score": "0.058343",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "'4년 후에 만나요': 관세 협상이 계속되면서 캐나다가 경제적 근력을 과시하다"
+      "translatedTitle": "캐나다 기업들, 하노버 메세에서 다각화 모색"
+    },
+    {
+      "title": "5 International ETFs Beating the S&P 500 in 2025",
+      "url": "https://www.zacks.com/stock/news/2432124/5-international-etfs-beating-the-sp-500-in-2025",
+      "time_published": "20250319T140000",
+      "authors": [
+        "Sweta Killa"
+      ],
+      "summary": "After years of underperformance, international ETFs are crushing their U.S. counterparts and having the best start to a year in a century.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ff/944.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999999"
+        }
+      ],
+      "overall_sentiment_score": 0.173509,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [],
+      "translatedTitle": "2025년 S&P 500을 앞지르는 5개 국제 ETF"
     },
     {
       "title": "Beyond The Exchange: How BNB Chain Is Helping Reshape The Crypto Landscape",
@@ -2402,84 +2469,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "재무부 장관 베센트, 백악관이 '보장된' 금융 위기를 막고 있다고 밝혀"
-    },
-    {
-      "title": "Is BigBear.ai Stock a Buy Now?",
-      "url": "https://www.fool.com/investing/2025/03/16/is-bigbearai-stock-a-buy-now/",
-      "time_published": "20250316T151600",
-      "authors": [
-        "Robert Izquierdo"
-      ],
-      "summary": "Artificial intelligence ( AI ) stocks have been battered along with the broader stock market recently as worries about the near-term outlook weigh on the minds of investors. Their fears have largely been prompted by concerns about how President Donald Trump's tariff and trade war plans will ...",
-      "banner_image": "https://media.ycharts.com/charts/5f3eaeea9fdf4312b5aaef41e9941043.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.938793"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.990999"
-        }
-      ],
-      "overall_sentiment_score": 0.056402,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "SFTBF",
-          "relevance_score": "0.060236",
-          "ticker_sentiment_score": "0.055093",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "BigBear.ai 주식을 지금 매수해야 할까?"
-    },
-    {
-      "title": "XRP's Latest Catalyst Is a Big Deal. Here's Why.",
-      "url": "https://www.fool.com/investing/2025/03/16/xrps-latest-catalyst-is-a-big-deal-heres-why/",
-      "time_published": "20250316T090000",
-      "authors": [
-        "Alex Carchidi"
-      ],
-      "summary": "XRP ( CRYPTO: XRP ) just experienced a catalyst that is likely to give it a new and enduring tailwind. Unlike tech upgrades or adding new users , the coin now has its foot in the door of a key location in the cryptocurrency industry.",
-      "banner_image": "https://g.foolcdn.com/editorial/images/811111/investors-celebrate-around-laptop.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.972193"
-        }
-      ],
-      "overall_sentiment_score": 0.146315,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "CURN",
-          "relevance_score": "0.065506",
-          "ticker_sentiment_score": "0.027128",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:XRP",
-          "relevance_score": "0.540534",
-          "ticker_sentiment_score": "0.063341",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "XRP의 최신 촉매제는 큰 거래입니다. 그 이유는 다음과 같습니다."
     }
   ]
 }
