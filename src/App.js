@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
-import { Container, CircularProgress, Box, useMediaQuery } from '@mui/material';
+import { Container, CircularProgress, Box, useMediaQuery, Tabs, Tab } from '@mui/material';
 import NewsList from './components/NewsList';
 import Header from './components/Header';
+import EconomicTerms from './components/EconomicTerms';
 import { fetchNews } from './services/api';
+import './components/EconomicTerms.css';
 
 const darkTheme = createTheme({
   palette: {
@@ -72,6 +74,7 @@ function App() {
   const [filteredNews, setFilteredNews] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [activeTab, setActiveTab] = useState(0);
   const isMobile = useMediaQuery(darkTheme.breakpoints.down('sm'));
 
   useEffect(() => {
@@ -119,6 +122,10 @@ function App() {
     setFilteredNews(filtered);
   };
 
+  const handleTabChange = (event, newValue) => {
+    setActiveTab(newValue);
+  };
+
   return (
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
@@ -141,23 +148,38 @@ function App() {
             position: 'relative'
           }}>
             <Box sx={{ flex: 1 }}>
-              {loading ? (
-                <Box display="flex" justifyContent="center" mt={4}>
-                  <CircularProgress />
-                </Box>
-              ) : error ? (
-                <Box sx={{ 
-                  color: 'error.main', 
-                  textAlign: 'center', 
-                  mt: 4,
-                  p: 3,
-                  bgcolor: 'rgba(244, 67, 54, 0.1)',
-                  borderRadius: 2,
-                }}>
-                  {error}
-                </Box>
+              <Tabs
+                value={activeTab}
+                onChange={handleTabChange}
+                sx={{ mb: 3 }}
+                indicatorColor="primary"
+                textColor="primary"
+              >
+                <Tab label="뉴스" />
+                <Tab label="경제 용어" />
+              </Tabs>
+              
+              {activeTab === 0 ? (
+                loading ? (
+                  <Box display="flex" justifyContent="center" mt={4}>
+                    <CircularProgress />
+                  </Box>
+                ) : error ? (
+                  <Box sx={{ 
+                    color: 'error.main', 
+                    textAlign: 'center', 
+                    mt: 4,
+                    p: 3,
+                    bgcolor: 'rgba(244, 67, 54, 0.1)',
+                    borderRadius: 2,
+                  }}>
+                    {error}
+                  </Box>
+                ) : (
+                  <NewsList news={filteredNews} />
+                )
               ) : (
-                <NewsList news={filteredNews} />
+                <EconomicTerms />
               )}
             </Box>
             {!isMobile && <AdFitPC />}
