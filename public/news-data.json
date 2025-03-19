@@ -121,6 +121,96 @@
       "translatedTitle": "CNH, 글로벌 리더십 팀 임명 발표"
     },
     {
+      "title": "General Mills  ( GIS )  Q3 2025 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/03/19/general-mills-gis-q3-2025-earnings-call-transcript/",
+      "time_published": "20250319T214516",
+      "authors": [
+        "Motley Fool Transcribing"
+      ],
+      "summary": "GIS earnings call for the period ending December 31, 2024.",
+      "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999897"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.307746,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EVR",
+          "relevance_score": "0.007417",
+          "ticker_sentiment_score": "0.102076",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GIS",
+          "relevance_score": "0.007417",
+          "ticker_sentiment_score": "0.108986",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BCS",
+          "relevance_score": "0.007417",
+          "ticker_sentiment_score": "0.090951",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.007417",
+          "ticker_sentiment_score": "0.108119",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.007417",
+          "ticker_sentiment_score": "0.108119",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.007417",
+          "ticker_sentiment_score": "0.108119",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FPH",
+          "relevance_score": "0.02225",
+          "ticker_sentiment_score": "0.029078",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "General Mills(GIS) 2025년 3분기 실적 발표 전화 회의록"
+    },
+    {
       "title": "Descartes Study: 39% of High-growth Companies Leverage Trade Compliance as Competitive Advantage",
       "url": "https://www.globenewswire.com/news-release/2025/03/17/3043547/0/en/Descartes-Study-39-of-High-growth-Companies-Leverage-Trade-Compliance-as-Competitive-Advantage.html",
       "time_published": "20250317T104500",
@@ -1344,7 +1434,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
+      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -2451,48 +2541,6 @@
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
       "translatedTitle": "Castellum, Inc.의 자회사 GTMR, CMMI 레벨 3 평가 달성 - Castellum (AMEX:CTM)"
-    },
-    {
-      "title": "Nasdaq Sell-Off: Buy This Unstoppable Stock at a Discount",
-      "url": "https://www.fool.com/investing/2025/03/17/sell-off-buy-this-unstoppable-stock-at-a-discount/",
-      "time_published": "20250317T103000",
-      "authors": [
-        "Manali Pradhan"
-      ],
-      "summary": "This tech giant remains a compelling pick despite heightened market uncertainty.",
-      "banner_image": "https://g.foolcdn.com/editorial/images/811035/analyst_studying_stock_chart_on_a-desktop_screen.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999967"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.744043"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.203778,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "GOOG",
-          "relevance_score": "0.326129",
-          "ticker_sentiment_score": "0.275365",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "나스닥 매도: 이 멈출 수 없는 주식을 할인된 가격에 매수하세요"
     }
   ]
 }
