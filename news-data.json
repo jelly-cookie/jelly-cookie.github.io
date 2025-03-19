@@ -796,6 +796,66 @@
       "translatedTitle": "'1,200만 가구가 연간 3만8,000달러를 절약할 수 있을 것'-그랜트 카도네, 트럼프의 15만 달러 이하 세금 면제 계획을 '훌륭하고 실용적이며 실행 가능하다'고 주장"
     },
     {
+      "title": "3 Tariff-Proof Medical Device Stocks to Watch Amid Trump's MAGA Slogan",
+      "url": "https://www.zacks.com/stock/news/2432210/3-tariff-proof-medical-device-stocks-to-watch-amid-trumps-maga-slogan",
+      "time_published": "20250319T150300",
+      "authors": [
+        "Indrajit Bandyopadhyay"
+      ],
+      "summary": "Tariffs are shaking up the Medical Device industry, but SYK, MDT & PODD are poised to thrive. Here's why three key players remain strong despite rising trade tensions.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/df/2372.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.87644"
+        }
+      ],
+      "overall_sentiment_score": 0.17652,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PODD",
+          "relevance_score": "0.302802",
+          "ticker_sentiment_score": "0.088956",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.244415",
+          "ticker_sentiment_score": "0.1554",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SYK",
+          "relevance_score": "0.214665",
+          "ticker_sentiment_score": "0.122927",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BDX",
+          "relevance_score": "0.031038",
+          "ticker_sentiment_score": "-0.058407",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "트럼프의 MAGA 슬로건에 주목해야 할 관세 면제 의료 기기 주식 3종"
+    },
+    {
       "title": "Canadian Companies Look to Diversify at Hannover Messe",
       "url": "https://www.benzinga.com/pressreleases/25/03/g44399718/canadian-companies-look-to-diversify-at-hannover-messe",
       "time_published": "20250319T150054",
@@ -2444,31 +2504,6 @@
         }
       ],
       "translatedTitle": "Standard Chartered, 진화하는 글로벌 무역 속에서 홍콩의 핵심 역할을 기대"
-    },
-    {
-      "title": "Treasury Secretary Bessent says White House is heading off a 'guaranteed' financial crisis",
-      "url": "https://www.cnbc.com/2025/03/16/treasury-secretary-bessent-says-white-house-is-heading-off-financial-crisis.html",
-      "time_published": "20250316T153522",
-      "authors": [],
-      "summary": "Bessent believes market pullbacks are benign, and Trump's pro-business policies will boost the economy in the long run.",
-      "banner_image": null,
-      "source": "CNBC",
-      "category_within_source": "Finance",
-      "source_domain": "www.cnbc.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.014836,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "재무부 장관 베센트, 백악관이 '보장된' 금융 위기를 막고 있다고 밝혀"
     }
   ]
 }
