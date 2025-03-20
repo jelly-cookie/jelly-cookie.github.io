@@ -125,6 +125,48 @@
       "translatedTitle": "General Mills(GIS) 2025년 3분기 실적 발표 전화 회의록"
     },
     {
+      "title": "Kodak's Earnings Skyrocket 420% Y/Y in Q4, Revenues Decline 3%",
+      "url": "https://www.zacks.com/stock/news/2433033/kodaks-earnings-skyrocket-420-yy-in-q4-revenues-decline-3",
+      "time_published": "20250320T162400",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "Kodak's Q4 earnings skyrocket 420% y/y, but revenues drop 3% as the company restructures and invests in growth initiatives.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/charts/fa/1742486198.png",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        }
+      ],
+      "overall_sentiment_score": 0.146533,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "KODK",
+          "relevance_score": "0.09186",
+          "ticker_sentiment_score": "0.03656",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "코닥, 4분기 수익 전년 대비 420% 급증, 매출 3% 감소"
+    },
+    {
       "title": "Ollie's Bargain Outlet Holdings, Inc. Reports Fourth Quarter and Fiscal 2024 Financial Results",
       "url": "https://www.globenewswire.com/news-release/2025/03/19/3045275/36273/en/Ollie-s-Bargain-Outlet-Holdings-Inc-Reports-Fourth-Quarter-and-Fiscal-2024-Financial-Results.html",
       "time_published": "20250319T113000",
@@ -430,17 +472,17 @@
       "translatedTitle": "3월 11.6% 하락 후 JPMorgan 주식은 실행 가능한 투자일까?"
     },
     {
-      "title": "Russian Oil Firms Using Bitcoin, Ethereum to Dodge Sanctions",
-      "url": "https://decrypt.co/310380/russian-oil-firms-using-bitcoin-ethereum-to-dodge-sanctions",
-      "time_published": "20250318T114603",
+      "title": "ClimateTech Connect Announces Next Wave of Headline Speakers for the Inaugural Conference",
+      "url": "https://www.benzinga.com/pressreleases/25/03/g44422929/climatetech-connect-announces-next-wave-of-headline-speakers-for-the-inaugural-conference",
+      "time_published": "20250320T180829",
       "authors": [
-        "Simon Chandler"
+        "Globe Newswire"
       ],
-      "summary": "Sanctions evasion is proving increasingly \"challenging\" at scale for Russian firms, blockchain analytics firm Chainalysis told Decrypt.",
-      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/03/siberia-oil-gID_7.jpg",
-      "source": "Decrypt.co",
-      "category_within_source": "n/a",
-      "source_domain": "decrypt.co",
+      "summary": "WASHINGTON, March 20, 2025 ( GLOBE NEWSWIRE ) -- Momentum continues to build around the Inaugural ClimateTech Connect Conference, which will be held in Washington, DC from April 15th to 16th. The next wave of speakers has just been announced.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
       "topics": [
         {
           "topic": "Economy - Monetary",
@@ -448,48 +490,72 @@
         },
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
-          "topic": "Blockchain",
-          "relevance_score": "0.9545"
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
         }
       ],
-      "overall_sentiment_score": 0.049753,
-      "overall_sentiment_label": "Neutral",
+      "overall_sentiment_score": 0.239151,
+      "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "FOREX:AED",
-          "relevance_score": "0.053153",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:CNY",
-          "relevance_score": "0.053153",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:BTC",
-          "relevance_score": "0.053153",
-          "ticker_sentiment_score": "0.038002",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:ETH",
-          "relevance_score": "0.053153",
-          "ticker_sentiment_score": "0.038002",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "CRYPTO:USDT",
-          "relevance_score": "0.053153",
-          "ticker_sentiment_score": "0.038002",
+          "ticker": "SSREF",
+          "relevance_score": "0.043738",
+          "ticker_sentiment_score": "-0.095",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "러시아 석유 회사, 비트코인, 이더리움을 이용해 제재 회피"
+      "translatedTitle": "ClimateTech Connect, 창립 컨퍼런스의 다음 헤드라인 연사 발표"
+    },
+    {
+      "title": "JPMorgan Backs CAVA's Expansion Potential As Yum! Brands Plans Major Taco Bell, KFC Growth - Yum Brands  ( NYSE:YUM ) , Cava Group  ( NYSE:CAVA ) ",
+      "url": "https://www.benzinga.com/general/restaurants/25/03/44422119/jpmorgan-backs-cavas-expansion-potential-as-yum-brands-plans-major-taco-bell-kfc-growth",
+      "time_published": "20250320T172228",
+      "authors": [
+        "Priya Nigam"
+      ],
+      "summary": "CAVA Group upgraded to Overweight, a stock to \"buy now and own for the long-term.\" Neutral rating on YUM! Brands after stock climbed ~10% on quarterly earnings release. Next: Get access to a new market-moving chart every day featuring a stock flashing clear technical signals. See today's pick now.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/20/Woman-Getting-Fast-Food-At-Drive-thru.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.312932,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "YUM",
+          "relevance_score": "0.461283",
+          "ticker_sentiment_score": "0.111801",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CAVA",
+          "relevance_score": "0.539306",
+          "ticker_sentiment_score": "0.334207",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "JPMorgan, Yum! Brands가 Taco Bell, KFC의 주요 성장을 계획함에 따라 CAVA의 확장 잠재력 지원 - Yum Brands(NYSE:YUM), Cava Group(NYSE:CAVA)"
     },
     {
       "title": "Period Panties  ( Menstrual Underwear )  Market Size is Expected to Reach USD 577.89 million by 2033, Growing at a CAGR of 15.64% : Market Strides",
@@ -562,7 +628,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "JP3E Holdings Inc는 China Datang Holdings Group Corp. Ltd와 합작법인으로 한국에 Datang International Trading Co. Ltd를 설립하고 JP3E 우선주를 인수하여 2,800,000,000달러 규모의 구리 및 금 판매를 촉진하기 위한 자금을 제공하고 전 세계 LNG 거래로 확장하기로 합의"
+      "translatedTitle": "JP3E Holdings Inc는 중국 Datang Holdings Group Corp. Ltd와 합작법인으로 한국에 Datang International Trading Co. Ltd를 설립하고 JP3E 우선주를 인수하고 2,800,000,000달러 규모의 구리 및 금 판매를 촉진하기 위한 자금을 제공하며 전 세계 LNG 거래로 확장하기로 합의"
     },
     {
       "title": "UK Green Transition Pushes Investment Costs, Energy Prices Higher",
@@ -2234,7 +2300,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
+      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -2577,102 +2643,6 @@
         }
       ],
       "translatedTitle": "유로존의 진실의 순간"
-    },
-    {
-      "title": "Billionaires Ray Dalio and Paul Tudor Jones Are Piling Into a Hard Asset That Has Trounced Nvidia This Year",
-      "url": "https://www.fool.com/investing/2025/03/18/ray-dalio-and-paul-tudor-jones-are-piling-into/",
-      "time_published": "20250318T120000",
-      "authors": [
-        "Bram Berkowitz"
-      ],
-      "summary": "Billionaires Ray Dalio and Paul Tudor Jones are in an elite group of investors. Dalio founded Bridgewater Associates in 1975 and has grown the hedge fund into one of the largest in the world. His net worth is an estimated $14 billion, according to Forbes.Jones founded his fund, Tudor Investment, ...",
-      "banner_image": "https://media.ycharts.com/charts/a19d9ce466edb396c34c2320ad105070.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.576289"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.976913"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.078021,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "NVDA",
-          "relevance_score": "0.123526",
-          "ticker_sentiment_score": "0.147734",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.184363",
-          "ticker_sentiment_score": "0.006244",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "억만장자 레이 달리오와 폴 튜더 존스는 올해 엔비디아를 무너뜨린 하드 자산에 몰두하고 있다"
-    },
-    {
-      "title": "Carnival Stock Has a Lot to Prove in 2025",
-      "url": "https://www.fool.com/investing/2025/03/18/carnival-stock-has-a-lot-to-prove-in-2025/",
-      "time_published": "20250318T113000",
-      "authors": [
-        "Rick Munarriz"
-      ],
-      "summary": "The leading cruise line will need to come through with a strong financial update this week to reverse this year's slide.",
-      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F811549%2Fgettyimages-487190592.jpg&op=resize&w=700",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.538269"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.113271,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "NCLH",
-          "relevance_score": "0.132368",
-          "ticker_sentiment_score": "-0.037549",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "RCL",
-          "relevance_score": "0.261117",
-          "ticker_sentiment_score": "0.056156",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "카니발 주식은 2025년에 많은 것을 증명할 것입니다"
     }
   ]
 }
