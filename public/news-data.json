@@ -492,27 +492,54 @@
       "translatedTitle": "러시아 석유 회사, 비트코인, 이더리움을 이용해 제재 회피"
     },
     {
-      "title": "My Take | Will AI and robots drive China's next consumer spending spree?",
-      "url": "https://www.scmp.com/opinion/china-opinion/article/3302709/will-ai-and-robots-drive-chinas-next-consumer-spending-spree",
-      "time_published": "20250317T230009",
+      "title": "Nintendo Stock Is Soaring: Should You Buy Before the Switch 2 Release?",
+      "url": "https://www.fool.com/investing/2025/03/20/nintendo-stock-is-soaring-should-you-buy-before/",
+      "time_published": "20250320T111500",
       "authors": [
-        "Zhou Xin"
+        "Brett Schafer"
       ],
-      "summary": "China is seeking the next 'big items' to encourage consumers to open their wallets. Technology looks to be a key.",
-      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/17/3e590d0e-ecde-47e8-94cc-eba4e02830d2_96a1700c.jpg",
-      "source": "South China Morning Post",
-      "category_within_source": "Money",
-      "source_domain": "www.scmp.com",
+      "summary": "Nintendo ( OTC: NTDOY ) stock has gone on quite a run in the last few months. Even with a recent drop in price due to tariff concerns, the stock is up 30% in the last six months in anticipation of the upcoming release of the Nintendo Switch 2.",
+      "banner_image": "https://media.ycharts.com/charts/96f1725ffea5923610b9a30ef9bfe181.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
       "topics": [
         {
+          "topic": "Earnings",
+          "relevance_score": "0.904684"
+        },
+        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
         }
       ],
-      "overall_sentiment_score": 0.31244,
+      "overall_sentiment_score": 0.23819,
       "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "내 생각 | AI와 로봇이 중국의 다음 소비 지출을 주도할 것인가?"
+      "ticker_sentiment": [
+        {
+          "ticker": "NTDOF",
+          "relevance_score": "0.784481",
+          "ticker_sentiment_score": "0.436206",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FOREX:JPY",
+          "relevance_score": "0.054857",
+          "ticker_sentiment_score": "0.012002",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.109455",
+          "ticker_sentiment_score": "0.013467",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "닌텐도 주가가 급등하고 있습니다. 스위치 2 출시 전에 매수해야 할까요?"
     },
     {
       "title": "Lands' End Announces Fourth Quarter and Full Year Fiscal 2024 Results",
@@ -697,7 +724,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "연방준비제도이사회가 관세로 인한 인플레이션이 '일시적'일 것이라고 말하면서 미국 주식이 상승할 가능성이 높다: 전문가가 주식의 하락은 '기회를 제공한다'고 말하다 - Accenture ( NYSE: ACN ) , AGM Gr Hldgs ( NASDAQ: AGMH )"
+      "translatedTitle": "연방준비제도가 관세로 인한 인플레이션이 '일시적'일 것이라고 말하면서 미국 주식이 상승할 가능성이 높다: 전문가가 주식 하락은 '기회를 제공한다'고 말하다 - Accenture(NYSE:ACN), AGM Gr Hldgs(NASDAQ:AGMH)"
     },
     {
       "title": "Zacks Investment Ideas feature highlights: Alibaba, Palantir and Vertiv",
