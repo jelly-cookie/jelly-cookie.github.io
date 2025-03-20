@@ -404,72 +404,56 @@
       "translatedTitle": "불확실성으로 인한 시장 수정"
     },
     {
-      "title": "Is JPMorgan Stock Viable Investment After 11.6% Decline in March?",
-      "url": "https://www.zacks.com/stock/news/2431340/is-jpmorgan-stock-viable-investment-after-116-decline-in-march",
-      "time_published": "20250318T122400",
+      "title": "Holley May Bear The Brunt Of Ongoing Macroeconomic Challenges, Analyst Highlights Softer Top-line Outlook - Holley  ( NYSE:HLLY ) ",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44423259/holley-may-bear-the-brunt-of-ongoing-macroeconomic-challenges-analyst-highlights-so",
+      "time_published": "20250320T183044",
       "authors": [
-        "Swayta Shah"
+        "Nabaparna Bhattacharya"
       ],
-      "summary": "Does the recent sell-off in JPM stock present a compelling buying opportunity? Let's analyze the key factors and determine whether it's a smart investment.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/82.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
+      "summary": "Holley faces macroeconomic challenges, with softer sales outlook despite 20% EBITDA margin target for 2025. Analyst forecasts 2% organic decline in Q1 sales, with full-year sales down 2%, but 2.5% organic growth expected. Feel unsure about the market's next move?",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/20/Analyst-sees-stock-go-up.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
       "topics": [
         {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.682689"
-        },
-        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "relevance_score": "0.158519"
         },
         {
           "topic": "Financial Markets",
-          "relevance_score": "1.0"
+          "relevance_score": "0.214378"
         },
         {
           "topic": "Earnings",
-          "relevance_score": "0.9545"
+          "relevance_score": "0.360215"
         },
         {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.161647"
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
         },
         {
-          "topic": "Finance",
-          "relevance_score": "1.0"
+          "topic": "Technology",
+          "relevance_score": "0.5"
         }
       ],
-      "overall_sentiment_score": 0.067614,
-      "overall_sentiment_label": "Neutral",
+      "overall_sentiment_score": 0.347208,
+      "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "MCO",
-          "relevance_score": "0.026981",
-          "ticker_sentiment_score": "0.09343",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BAC",
-          "relevance_score": "0.107615",
-          "ticker_sentiment_score": "-0.057653",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WFC",
-          "relevance_score": "0.053931",
-          "ticker_sentiment_score": "-0.134185",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FRC",
-          "relevance_score": "0.053931",
-          "ticker_sentiment_score": "0.190993",
+          "ticker": "HLLY",
+          "relevance_score": "0.464633",
+          "ticker_sentiment_score": "0.338803",
           "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SSTK",
+          "relevance_score": "0.098659",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "3월 11.6% 하락 후 JPMorgan 주식은 실행 가능한 투자일까?"
+      "translatedTitle": "Holley는 지속적인 거시경제적 도전의 여파를 가장 많이 받을 수 있다고 분석가가 강조, 더욱 부진한 최고 라인 전망 - Holley (NYSE:HLLY)"
     },
     {
       "title": "ClimateTech Connect Announces Next Wave of Headline Speakers for the Inaugural Conference",
@@ -2300,7 +2284,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
+      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
