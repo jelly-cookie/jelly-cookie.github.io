@@ -705,6 +705,68 @@
       "translatedTitle": "Greystone Housing Impact Investors LP, 정기 분기별 현금 분배 발표"
     },
     {
+      "title": "Is this the start of a period of European exceptionalism in markets?",
+      "url": "https://www.ft.com/content/012a0231-27ba-4b68-b0d4-38c6eacd7192",
+      "time_published": "20250320T050013",
+      "authors": [
+        "Karen Ward"
+      ],
+      "summary": "The very tight rein in all aspects of policy - fiscal, monetary and regulatory - is easing ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fpublic.flourish.studio%2Fvisualisation%2F22200638%2Fthumbnail%3FcacheBuster%3D968026?source=cp-content-pipeline&fit=scale-down&quality=highest&width=1020&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Markets",
+      "source_domain": "www.ft.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.890401"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.992549"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.002422,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "이것이 시장에서 유럽의 예외주의가 시작되는 것인가?"
+    },
+    {
+      "title": "Ontario Teachers' move to close office is Hong Kong's loss, Singapore's gain",
+      "url": "https://www.scmp.com/business/banking-finance/article/3303112/ontario-teachers-close-hong-kong-office-amid-geopolitical-risks-and-shift-singapore",
+      "time_published": "20250320T044322",
+      "authors": [
+        "Cao Li"
+      ],
+      "summary": "Canada's third-largest pension fund will wind down its operations over the next 18 months, spokesman says.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/03/20/c91e50d3-5693-4b57-bd48-d1fc06fe0583_8f89c1fb.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.031068,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "온타리오 교사들의 사무실 폐쇄 결정은 홍콩의 손실이자 싱가포르의 이득이다"
+    },
+    {
       "title": "CEO of ThyssenKrupp's warship division says attainable market could triple as defense spending surges",
       "url": "https://www.cnbc.com/2025/03/20/defense-spending-thyssenkrupp-warship-division-ceo-sees-market-boom.html",
       "time_published": "20250320T033248",
@@ -2314,7 +2376,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2438,105 +2500,6 @@
         }
       ],
       "translatedTitle": "4분기 실적 발표 전 윌리엄스 소노마 주식: 살까 말까?"
-    },
-    {
-      "title": "Intesa Sanpaolo has partnered with the EIB to provide nearly €660m to promote economic growth in the CEE region since 2020",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44359230/intesa-sanpaolo-has-partnered-with-the-eib-to-provide-nearly-660m-to-promote-economic-growth-in-th",
-      "time_published": "20250317T154245",
-      "authors": [
-        "Globe Newswire"
-      ],
-      "summary": "Paola Papanicolaou, Head of Intesa Sanpaolo's International Banks Division",
-      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b9897a34-ccf2-4423-8cc4-3d0427433a18/picture1.jpg",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.266143"
-        }
-      ],
-      "overall_sentiment_score": 0.341977,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "Intesa Sanpaolo는 2020년부터 CEE 지역의 경제 성장을 촉진하기 위해 EIB와 협력하여 약 6억 6천만 유로를 제공했습니다."
-    },
-    {
-      "title": "Enova Stock Falls 15.6% in a Month: Should You Buy Now or Wait?",
-      "url": "https://www.zacks.com/stock/news/2431012/enova-stock-falls-156-in-a-month-should-you-buy-now-or-wait",
-      "time_published": "20250317T153300",
-      "authors": [
-        "Ronit Masi"
-      ],
-      "summary": "ENVA shares slide 15.6% in the past month. Let us find out whether its technology-driven loan growth and product diversification moves make it a lucrative bet.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/98/53604.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999346"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Economy - Macro",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.2757,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CACC",
-          "relevance_score": "0.097589",
-          "ticker_sentiment_score": "0.036355",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ENVA",
-          "relevance_score": "0.460176",
-          "ticker_sentiment_score": "0.256205",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "ALLY",
-          "relevance_score": "0.097589",
-          "ticker_sentiment_score": "0.036355",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FICO",
-          "relevance_score": "0.032602",
-          "ticker_sentiment_score": "0.20979",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "에노바 주가가 한 달 만에 15.6% 하락: 지금 사야 할까, 아니면 기다려야 할까?"
     }
   ]
 }
