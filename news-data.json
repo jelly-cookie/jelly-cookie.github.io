@@ -705,35 +705,91 @@
       "translatedTitle": "Greystone Housing Impact Investors LP, 정기 분기별 현금 분배 발표"
     },
     {
-      "title": "Cibus Welcomes the European Union's Progress as Legislation for New Genomic Techniques to Boost Innovation and Sustainability Moves Forward - Cibus  ( NASDAQ:CBUS ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44352726/cibus-welcomes-the-european-unions-progress-as-legislation-for-new-genomic-techniques-to-boost-inn",
-      "time_published": "20250317T110000",
-      "authors": [
-        "Globe Newswire"
+      "title": "CEO of ThyssenKrupp's warship division says attainable market could triple as defense spending surges",
+      "url": "https://www.cnbc.com/2025/03/20/defense-spending-thyssenkrupp-warship-division-ceo-sees-market-boom.html",
+      "time_published": "20250320T033248",
+      "authors": [],
+      "summary": "That comes on the back of the German parliament voting in favor of a major fiscal package, which includes changes to debt policies for higher defense spending.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
       ],
-      "summary": "Legislation aims to adapt EU law to reflect scientific and technological progress, enabling the products of New Genomic Techniques ( NGTs ) , such as gene editing, to contribute to more sustainable agriculture, climate resilience, and food security",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
+      "overall_sentiment_score": 0.099767,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "티센크루프 군함 부문 CEO, 국방비 지출 급증으로 시장이 3배로 확대될 수 있다고 밝혀"
+    },
+    {
+      "title": "Fitch Retains India's GDP Forecast at 6.5% for FY26 - ETCFO",
+      "url": "https://cfo.economictimes.indiatimes.com/news/economy/fitch-retains-indias-gdp-forecast-at-6-5-for-fy26/119236630",
+      "time_published": "20250320T030634",
+      "authors": [
+        "ETCFO"
+      ],
+      "summary": "Fitch Ratings has maintained India's GDP forecast for FY26 at 6.5%, with anticipated growth driven by increased consumer spending and government expenditure. Business confidence remains strong, and inflation is expected to decline to 4% by the end of December.",
+      "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+      "source": "Economic Times",
+      "category_within_source": "Economy",
+      "source_domain": "cfo.economictimes.indiatimes.com",
       "topics": [
         {
           "topic": "Economy - Monetary",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.026908,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "Fitch, FY26 인도 GDP 예측치를 6.5%로 유지 - ETCFO"
+    },
+    {
+      "title": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO",
+      "url": "https://cfo.economictimes.indiatimes.com/news/economy/household-savings-flow-to-financial-market-could-pose-risks-says-finance-ministry/119236579",
+      "time_published": "20250320T030457",
+      "authors": [
+        "ETCFO"
+      ],
+      "summary": "The finance ministry has informed the Parliament about the risks households face when shifting deposits from banks to market-linked products in search of higher returns. The committee also discussed liquidity concerns, FDI in insurance, grievance redressal, and the activation of Jan Dhan accounts.",
+      "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+      "source": "Economic Times",
+      "category_within_source": "Economy",
+      "source_domain": "cfo.economictimes.indiatimes.com",
+      "topics": [
+        {
+          "topic": "Earnings",
           "relevance_score": "0.158519"
         },
         {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.858979"
+          "relevance_score": "0.158519"
         }
       ],
-      "overall_sentiment_score": 0.207741,
-      "overall_sentiment_label": "Somewhat-Bullish",
+      "overall_sentiment_score": -0.051489,
+      "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "Cibus, 혁신과 지속 가능성을 촉진하는 새로운 게놈 기술에 대한 법안이 진전됨에 따라 유럽 연합의 진전을 환영합니다 - Cibus ( NASDAQ:CBUS )"
+      "translatedTitle": "재정부, 가계 저축 금융시장 유입 위험 가능성 - ETCFO"
     },
     {
       "title": "Bitcoin Surges Amid Eased Financial Conditions, Analyst Predicts All-Time High in Q2",
@@ -1490,7 +1546,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
+      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -2258,7 +2314,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2481,91 +2537,6 @@
         }
       ],
       "translatedTitle": "에노바 주가가 한 달 만에 15.6% 하락: 지금 사야 할까, 아니면 기다려야 할까?"
-    },
-    {
-      "title": "Sprott Physical Gold Trust Net Asset Value Reaches $10 Billion",
-      "url": "https://www.globenewswire.com/news-release/2025/03/17/3043561/35318/en/Sprott-Physical-Gold-Trust-Net-Asset-Value-Reaches-10-Billion.html",
-      "time_published": "20250317T110000",
-      "authors": [
-        "Sprott",
-        "Inc."
-      ],
-      "summary": "TORONTO, March 17, 2025 ( GLOBE NEWSWIRE ) -- Sprott Inc. ( NYSE/TSX: SII ) ( \"Sprott\" ) on behalf of the Sprott Physical Gold Trust ( NYSE Arca/TSX: PHYS ) ( \"PHYS\" or \"the Trust ) today announced that PHYS's net asset value ( \"NAV\" ) has surpassed US$10 billion.",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/fad10bcd-5c9b-4e30-a7e7-76966ac7cda6",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999966"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.398457,
-      "overall_sentiment_label": "Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "SII",
-          "relevance_score": "0.562529",
-          "ticker_sentiment_score": "0.639368",
-          "ticker_sentiment_label": "Bullish"
-        }
-      ],
-      "translatedTitle": "Sprott Physical Gold Trust 순자산가치가 100억 달러에 도달"
-    },
-    {
-      "title": "Could Palantir's Stock Plummet Even Further if Elon Musk's DOGE Cuts Spending?",
-      "url": "https://www.fool.com/investing/2025/03/17/could-palantirs-stock-plummet-even-further-if-pres/",
-      "time_published": "20250317T110000",
-      "authors": [
-        "Keithen Drury"
-      ],
-      "summary": "Palantir Technologies ( NASDAQ: PLTR ) was one of the hottest artificial intelligence ( AI ) stocks in 2024 but has seen heavy selling pressure alongside its AI peers so far in 2025. While the prevailing fear driving the markets lower right now is centered around the effects of tariffs and a ...",
-      "banner_image": "https://media.ycharts.com/charts/7c34a0456f07e32eca6d9cbf0550620d.png",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.316726"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.905476"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": 0.051118,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "PLTR",
-          "relevance_score": "0.197413",
-          "ticker_sentiment_score": "0.011845",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "일론 머스크의 DOGE가 지출을 줄이면 Palantir의 주가가 더 폭락할 수 있을까?"
     }
   ]
 }
