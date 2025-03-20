@@ -705,6 +705,33 @@
       "translatedTitle": "Greystone Housing Impact Investors LP, 정기 분기별 현금 분배 발표"
     },
     {
+      "title": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO",
+      "url": "https://cfo.economictimes.indiatimes.com/news/economy/household-savings-flow-to-financial-market-could-pose-risks-says-finance-ministry/119241401",
+      "time_published": "20250320T055000",
+      "authors": [
+        "ETCFO"
+      ],
+      "summary": "The finance ministry has informed the Parliament about the risks households face when shifting deposits from banks to market-linked products in search of higher returns. The committee also discussed liquidity concerns, FDI in insurance, grievance redressal, and the activation of Jan Dhan accounts.",
+      "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+      "source": "Economic Times",
+      "category_within_source": "Economy",
+      "source_domain": "cfo.economictimes.indiatimes.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": -0.036823,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [],
+      "translatedTitle": "재정부, 가계 저축 금융시장 유입 위험 가능성 - ETCFO"
+    },
+    {
       "title": "Is this the start of a period of European exceptionalism in markets?",
       "url": "https://www.ft.com/content/012a0231-27ba-4b68-b0d4-38c6eacd7192",
       "time_published": "20250320T050013",
@@ -737,7 +764,7 @@
       "overall_sentiment_score": 0.002422,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "이것이 시장에서 유럽의 예외주의가 시작되는 것인가?"
+      "translatedTitle": "이것이 시장에서 유럽 예외주의의 시작인가?"
     },
     {
       "title": "Ontario Teachers' move to close office is Hong Kong's loss, Singapore's gain",
@@ -1608,7 +1635,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
+      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -2376,7 +2403,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "그렇다면 중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2442,64 +2469,6 @@
         }
       ],
       "translatedTitle": "Urban One, Inc. 2024년 4분기 실적 컨퍼런스 콜 - Urban One ( NASDAQ:UONE ), Urban One ( NASDAQ:UONEK )"
-    },
-    {
-      "title": "Williams-Sonoma Stock Before Q4 Earnings: To Buy or Not to Buy?",
-      "url": "https://www.zacks.com/stock/news/2431010/williams-sonoma-stock-before-q4-earnings-to-buy-or-not-to-buy",
-      "time_published": "20250317T162500",
-      "authors": [
-        "Shrabana Mukherjee"
-      ],
-      "summary": "WSM's Q4 results are likely to reflect improved furniture demand (despite high mortgage rates), enhanced operational efficiency and strategic expansion efforts amid challenges.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ec/1104.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.990999"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.999986"
-        }
-      ],
-      "overall_sentiment_score": 0.258131,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "ETD",
-          "relevance_score": "0.102595",
-          "ticker_sentiment_score": "0.109222",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WSM",
-          "relevance_score": "0.332658",
-          "ticker_sentiment_score": "0.367437",
-          "ticker_sentiment_label": "Bullish"
-        },
-        {
-          "ticker": "W",
-          "relevance_score": "0.102595",
-          "ticker_sentiment_score": "0.109222",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "4분기 실적 발표 전 윌리엄스 소노마 주식: 살까 말까?"
     }
   ]
 }
