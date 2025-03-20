@@ -404,6 +404,148 @@
       "translatedTitle": "불확실성으로 인한 시장 수정"
     },
     {
+      "title": "Is Tariff An Issue For Restaurant Sector? J.P. Morgan Highlights Winners & Losers - Yum Brands  ( NYSE:YUM ) , Bloomin Brands  ( NASDAQ:BLMN ) , Starbucks  ( NASDAQ:SBUX ) , Cava Group  ( NYSE:CAVA ) ",
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44423826/is-tariff-an-issue-for-restaurant-sector-j-p-morgan-highlights-winners-losers",
+      "time_published": "20250320T190826",
+      "authors": [
+        "Shivani Kumaresan"
+      ],
+      "summary": "Analyst upgraded CAVA to Overweight from Neutral. Analyst retained Neutral rating on CMG and EAT given valuations. Tariffs are less of an issue for restaurant sector than other industries, analyst says. Pelosi's latest AI pick skyrocketed 169% in just one month.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/20/10-Hacks-To-Make-Gordon-Ramsays-Restaura.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.288644,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MDNDF",
+          "relevance_score": "0.046363",
+          "ticker_sentiment_score": "0.394007",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "DNUT",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "0.315139",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BROS",
+          "relevance_score": "0.138464",
+          "ticker_sentiment_score": "0.117625",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DPZ",
+          "relevance_score": "0.183895",
+          "ticker_sentiment_score": "0.161082",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCD",
+          "relevance_score": "0.183895",
+          "ticker_sentiment_score": "0.201971",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "YUM",
+          "relevance_score": "0.228717",
+          "ticker_sentiment_score": "0.124299",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DMPZF",
+          "relevance_score": "0.046363",
+          "ticker_sentiment_score": "0.189687",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "QSR",
+          "relevance_score": "0.315975",
+          "ticker_sentiment_score": "0.298024",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BLMN",
+          "relevance_score": "0.138464",
+          "ticker_sentiment_score": "-0.007337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.138464",
+          "ticker_sentiment_score": "0.117625",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SG",
+          "relevance_score": "0.228717",
+          "ticker_sentiment_score": "0.171485",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CAVA",
+          "relevance_score": "0.358152",
+          "ticker_sentiment_score": "0.32508",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "EAT",
+          "relevance_score": "0.183895",
+          "ticker_sentiment_score": "0.034157",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SHAK",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "-0.009465",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DRI",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "-0.009465",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMG",
+          "relevance_score": "0.183895",
+          "ticker_sentiment_score": "0.019491",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TXRH",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "-0.009465",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "관세가 레스토랑 부문의 문제인가? J.P. Morgan이 승자와 패자를 강조 - Yum Brands(NYSE:YUM), Bloomin Brands(NASDAQ:BLMN), Starbucks(NASDAQ:SBUX), Cava Group(NYSE:CAVA)"
+    },
+    {
       "title": "Holley May Bear The Brunt Of Ongoing Macroeconomic Challenges, Analyst Highlights Softer Top-line Outlook - Holley  ( NYSE:HLLY ) ",
       "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44423259/holley-may-bear-the-brunt-of-ongoing-macroeconomic-challenges-analyst-highlights-so",
       "time_published": "20250320T183044",
@@ -2577,56 +2719,6 @@
         }
       ],
       "translatedTitle": "관세 위험 가운데 투자자들은 UPS 주식을 어떻게 투자해야 할까?"
-    },
-    {
-      "title": "The Eurozone's moment of truth",
-      "url": "https://www.ft.com/content/8f0eec36-efcf-4f17-ab39-33fad571fd25",
-      "time_published": "20250318T123050",
-      "authors": [
-        "Chris Giles"
-      ],
-      "summary": "Its strengths and weaknesses are well known, but the Trump administration is creating new opportunities and threats ...",
-      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fpublic.flourish.studio%2Fvisualisation%2F22141763%2Fthumbnail%3FcacheBuster%3D967945?source=cp-content-pipeline&fit=scale-down&quality=highest&width=2626&dpr=1",
-      "source": "Financial Times",
-      "category_within_source": "Economy",
-      "source_domain": "www.ft.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.999973"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Blockchain",
-          "relevance_score": "0.310843"
-        }
-      ],
-      "overall_sentiment_score": -0.007339,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "BKCYF",
-          "relevance_score": "0.028903",
-          "ticker_sentiment_score": "0.041526",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:EUR",
-          "relevance_score": "0.172097",
-          "ticker_sentiment_score": "0.08518",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FOREX:USD",
-          "relevance_score": "0.057767",
-          "ticker_sentiment_score": "0.122407",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "유로존의 진실의 순간"
     }
   ]
 }
