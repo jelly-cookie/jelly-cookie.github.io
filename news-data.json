@@ -651,6 +651,62 @@
       "translatedTitle": "정치적 자유낙하: 터키, 야당 지도자 체포 후 시위와 투자자 유출 직면"
     },
     {
+      "title": "Fed Keeps Rates Steady, Ups Inflation Target: How are Banks Affected?",
+      "url": "https://www.zacks.com/stock/news/2432814/fed-keeps-rates-steady-ups-inflation-target-how-are-banks-affected",
+      "time_published": "20250320T132500",
+      "authors": [
+        "Swayta Shah"
+      ],
+      "summary": "The Fed raises the inflation target and cuts growth projections due to Trump's tariffs, dimming the outlook for banks like JPM, BAC, C, CMA and KEY.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f1/39131.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.990678"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.062357,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "C",
+          "relevance_score": "0.179788",
+          "ticker_sentiment_score": "0.164982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.179788",
+          "ticker_sentiment_score": "0.164982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CMA",
+          "relevance_score": "0.179788",
+          "ticker_sentiment_score": "0.164982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "KEY",
+          "relevance_score": "0.179788",
+          "ticker_sentiment_score": "0.164982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "연준이 금리를 안정적으로 유지하고 인플레이션 목표를 상향 조정했습니다. 은행은 어떤 영향을 받을까요?"
+    },
+    {
       "title": "LendingTree and AMC Networks have been highlighted as Zacks Bull and Bear of the Day",
       "url": "https://www.zacks.com/stock/news/2432593/lendingtree-and-amc-networks-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
       "time_published": "20250320T122300",
@@ -2617,44 +2673,6 @@
         }
       ],
       "translatedTitle": "카니발 주식은 2025년에 많은 것을 증명할 것입니다"
-    },
-    {
-      "title": "SIGA Appoints Retired General John M. Keane to its Board of Directors",
-      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044373/9738/en/SIGA-Appoints-Retired-General-John-M-Keane-to-its-Board-of-Directors.html",
-      "time_published": "20250318T113000",
-      "authors": [
-        "SIGA Technologies Inc."
-      ],
-      "summary": "General Keane brings significant expertise in national security and biodefense preparedness General Keane brings significant expertise in national security and biodefense preparedness ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/93028aa6-8191-4392-a7b1-447b046cd93b",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Life Sciences",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.310843"
-        }
-      ],
-      "overall_sentiment_score": 0.074898,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "SIGA",
-          "relevance_score": "0.479333",
-          "ticker_sentiment_score": "0.003154",
-          "ticker_sentiment_label": "Neutral"
-        }
-      ],
-      "translatedTitle": "SIGA, 은퇴한 John M. Keane 장군을 이사회에 임명"
     }
   ]
 }
