@@ -601,108 +601,180 @@
       "translatedTitle": "내 생각 | AI와 로봇이 중국의 다음 소비 지출을 주도할 것인가?"
     },
     {
-      "title": "Greystone Housing Impact Investors LP Announces Regular Quarterly Cash Distribution - Greystone Housing Impact  ( NYSE:GHI ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/g44364425/greystone-housing-impact-investors-lp-announces-regular-quarterly-cash-distribution",
-      "time_published": "20250317T201500",
+      "title": "US Stocks Likely To Open Higher As Fed Says Tariff-Induced Inflation Will Be 'Transitory:' Any Pullback In Equities 'Offers An Opportunity,' Says Expert - Accenture  ( NYSE:ACN ) , AGM Gr Hldgs  ( NASDAQ:AGMH ) ",
+      "url": "https://www.benzinga.com/general/market-summary/25/03/44412128/us-stocks-likely-to-open-higher-as-fed-says-tariff-induced-inflation-will-be-transitory-an",
+      "time_published": "20250320T095333",
       "authors": [
-        "Globe Newswire"
+        "Rishabh Mishra"
       ],
-      "summary": "OMAHA, Neb., March 17, 2025 ( GLOBE NEWSWIRE ) -- On March 17, 2025, Greystone Housing Impact Investors LP GHI ( the \"Partnership\" ) announced that the Board of Managers of Greystone AF Manager LLC ( \"Greystone Manager\" ) declared a cash distribution to the Partnership's Beneficial Unit ...",
-      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "summary": "U.S. stock futures rose on Thursday following the Federal Open Market Committee's ( FOMC ) decision on Wednesday. Futures of all four benchmark indices were higher in premarket trading.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/20/Wall-Street-Braces-for-More-Uncertainty.jpeg?width=1200&height=800&fit=crop",
       "source": "Benzinga",
-      "category_within_source": "News",
+      "category_within_source": "Markets",
       "source_domain": "www.benzinga.com",
       "topics": [
         {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.928139"
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
         },
         {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
         },
         {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999999"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.316726"
+          "topic": "Technology",
+          "relevance_score": "0.2"
         },
         {
           "topic": "Finance",
-          "relevance_score": "1.0"
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999996"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.993856"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
         }
       ],
-      "overall_sentiment_score": 0.10311,
+      "overall_sentiment_score": 0.002432,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [
         {
-          "ticker": "FCAP",
-          "relevance_score": "0.035293",
-          "ticker_sentiment_score": "0.095354",
+          "ticker": "NVDA",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.16403",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ZCAR",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "-0.140814",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "GHI",
-          "relevance_score": "0.140485",
-          "ticker_sentiment_score": "0.128389",
+          "ticker": "JBL",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.150987",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MU",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.084963",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MCHP",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.146917",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.071788",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.073814",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.038407",
+          "ticker_sentiment_score": "0.227069",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VRPX",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "-0.058509",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OPTN",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.153022",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AGMH",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BA",
+          "relevance_score": "0.076724",
+          "ticker_sentiment_score": "0.16403",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.038407",
+          "ticker_sentiment_score": "0.059516",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Greystone Housing Impact Investors LP가 정기 분기별 현금 분배를 발표 - Greystone Housing Impact (NYSE:GHI)"
+      "translatedTitle": "연방준비제도이사회가 관세로 인한 인플레이션이 '일시적'일 것이라고 말하면서 미국 주식이 상승할 가능성이 높다: 전문가가 주식의 하락은 '기회를 제공한다'고 말하다 - Accenture ( NYSE: ACN ) , AGM Gr Hldgs ( NASDAQ: AGMH )"
     },
     {
-      "title": "Greystone Housing Impact Investors LP Announces Regular Quarterly Cash Distribution",
-      "url": "https://www.globenewswire.com/news-release/2025/03/17/3044094/10410/en/Greystone-Housing-Impact-Investors-LP-Announces-Regular-Quarterly-Cash-Distribution.html",
-      "time_published": "20250317T201500",
+      "title": "2 New Possibilities That Could Send Bitcoin to $200,000 and Beyond",
+      "url": "https://www.fool.com/investing/2025/03/20/2-new-possibilities-that-could-send-bitcoin-to-200/",
+      "time_published": "20250320T090000",
       "authors": [
-        "Greystone Housing Impact Investors LP"
+        "Alex Carchidi"
       ],
-      "summary": "OMAHA, Neb., March 17, 2025 ( GLOBE NEWSWIRE ) -- On March 17, 2025, Greystone Housing Impact Investors LP ( NYSE: GHI ) ( the \"Partnership\" ) announced that the Board of Managers of Greystone AF Manager LLC ( \"Greystone Manager\" ) declared a cash distribution to the Partnership's Beneficial ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/c0022022-fa02-4cfc-865c-7aafb5d8fea3",
-      "source": "GlobeNewswire",
+      "summary": "Bitcoin ( CRYPTO: BTC ) now trades at about around $82,000, but under the right conditions, it could fly to $200,000 or more, if given enough time.There are a pair of new possibilities in particular that could be responsible for driving a large part of that move.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/811506/investors-pay-attention-at-a-presentation.jpg",
+      "source": "Motley Fool",
       "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
+      "source_domain": "www.fool.com",
       "topics": [
         {
           "topic": "Economy - Monetary",
-          "relevance_score": "0.928139"
-        },
-        {
-          "topic": "Economy - Fiscal",
           "relevance_score": "0.310843"
         },
         {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999975"
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
         },
         {
-          "topic": "Earnings",
-          "relevance_score": "0.316726"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "1.0"
+          "topic": "Blockchain",
+          "relevance_score": "0.310843"
         }
       ],
-      "overall_sentiment_score": 0.084122,
-      "overall_sentiment_label": "Neutral",
+      "overall_sentiment_score": 0.181667,
+      "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "FCAP",
-          "relevance_score": "0.037387",
-          "ticker_sentiment_score": "0.096024",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "GHI",
-          "relevance_score": "0.148731",
-          "ticker_sentiment_score": "0.138214",
-          "ticker_sentiment_label": "Neutral"
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.658003",
+          "ticker_sentiment_score": "0.367557",
+          "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "Greystone Housing Impact Investors LP, 정기 분기별 현금 분배 발표"
+      "translatedTitle": "비트코인을 20만 달러 이상으로 끌어올릴 수 있는 2가지 새로운 가능성"
     },
     {
       "title": "Warren Buffett Just Increased Berkshire Hathaway's Investment in These 5 Stocks He Plans to Hold Forever",
@@ -781,6 +853,62 @@
         }
       ],
       "translatedTitle": "워렌 버핏, 버크셔 해서웨이의 이 5개 주식에 대한 투자를 늘렸다. 그는 이 5개 주식을 영원히 보유할 계획이다."
+    },
+    {
+      "title": "CNBC's Inside India newsletter: Elon Musk's Starlink gets access to India, but its success rests on two billionaires",
+      "url": "https://www.cnbc.com/2025/03/20/elon-musks-starlink-india-ambani-jio-airtel-partnership.html",
+      "time_published": "20250320T073729",
+      "authors": [],
+      "summary": "Elon Musk's Starlink is entering the Indian market. Analysts see it as a breakthrough for a U.S. firm, but navigating the Indian market will still prove tough.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.989041"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.214624,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.023838",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.047654",
+          "ticker_sentiment_score": "-0.017916",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.023838",
+          "ticker_sentiment_score": "-0.040303",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "CNBC의 Inside India 뉴스레터: Elon Musk의 Starlink가 인도에 진출했지만 성공은 두 억만장자에게 달려 있다"
     },
     {
       "title": "Notice convening the Annual General Meeting in BioPorto A/S",
@@ -2521,29 +2649,6 @@
         }
       ],
       "translatedTitle": "비트코인, 매도 압력 증가로 30% 반등 - Bitfinex"
-    },
-    {
-      "title": "Can anything get China's shoppers to spend?",
-      "url": "https://www.economist.com/finance-and-economics/2025/03/17/can-anything-get-chinas-shoppers-to-spend",
-      "time_published": "20250317T192503",
-      "authors": [
-        "The Economist"
-      ],
-      "summary": "An economic recovery depends on it. Yet a new action plan may not do the job ...",
-      "banner_image": "https://www.economist.com/content-assets/images/20250322_FNP501.jpg",
-      "source": "The Economist",
-      "category_within_source": "Finance",
-      "source_domain": "www.economist.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        }
-      ],
-      "overall_sentiment_score": 0.252583,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
     }
   ]
 }
