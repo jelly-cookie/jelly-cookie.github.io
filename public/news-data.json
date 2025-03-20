@@ -705,6 +705,68 @@
       "translatedTitle": "Greystone Housing Impact Investors LP, 정기 분기별 현금 분배 발표"
     },
     {
+      "title": "Notice convening the Annual General Meeting in BioPorto A/S",
+      "url": "https://www.globenewswire.com/news-release/2025/03/20/3045976/0/en/Notice-convening-the-Annual-General-Meeting-in-BioPorto-A-S.html",
+      "time_published": "20250320T071500",
+      "authors": [
+        "BioPorto A/S"
+      ],
+      "summary": "20 March 2025Announcement no. ...",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b9686d8c-3706-4a6c-b22a-ae722c122c21",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.11202,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NIPNF",
+          "relevance_score": "0.014515",
+          "ticker_sentiment_score": "-0.004236",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMSQF",
+          "relevance_score": "0.172816",
+          "ticker_sentiment_score": "0.019633",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MDT",
+          "relevance_score": "0.014515",
+          "ticker_sentiment_score": "0.040282",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STE",
+          "relevance_score": "0.014515",
+          "ticker_sentiment_score": "0.040282",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVO",
+          "relevance_score": "0.014515",
+          "ticker_sentiment_score": "0.013376",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "BioPorto A/S에서 연차 총회 소집 공지"
+    },
+    {
       "title": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO",
       "url": "https://cfo.economictimes.indiatimes.com/news/economy/household-savings-flow-to-financial-market-could-pose-risks-says-finance-ministry/119241401",
       "time_published": "20250320T055000",
@@ -764,7 +826,7 @@
       "overall_sentiment_score": 0.002422,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "이것이 시장에서 유럽 예외주의의 시작인가?"
+      "translatedTitle": "이것이 시장에서 유럽의 예외주의가 시작되는 것인가?"
     },
     {
       "title": "Ontario Teachers' move to close office is Hong Kong's loss, Singapore's gain",
@@ -1635,7 +1697,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "도지코인은 1년 후에 어떻게 될까?"
+      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -2403,7 +2465,7 @@
       "overall_sentiment_score": 0.252583,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 것은 무엇일까?"
+      "translatedTitle": "중국의 쇼핑객을 소비하게 만드는 방법은 무엇일까?"
     },
     {
       "title": "Will Trump's tariffs turbocharge foreign investment in America?",
@@ -2431,44 +2493,6 @@
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
       "translatedTitle": "트럼프의 관세로 인해 미국에 대한 외국인 투자가 급증할 것인가?"
-    },
-    {
-      "title": "Urban One, Inc. Fourth Quarter 2024 Results Conference Call - Urban One  ( NASDAQ:UONE ) , Urban One  ( NASDAQ:UONEK ) ",
-      "url": "https://www.benzinga.com/pressreleases/25/03/n44361785/urban-one-inc-fourth-quarter-2024-results-conference-call",
-      "time_published": "20250317T180000",
-      "authors": [
-        "PRNewswire"
-      ],
-      "summary": "SILVER SPRING, Md., March 17, 2025 /PRNewswire/ -- Urban One, Inc. UONEK UONE ) ) will be holding a conference call for investors, analysts and other interested parties to discuss its results for the fourth fiscal quarter of 2024. The conference call is scheduled for Thursday, March 27, 2025, at ...",
-      "banner_image": "https://mma.prnewswire.com/media/509218/Urban_One_Logo.jpg",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.77141"
-        }
-      ],
-      "overall_sentiment_score": 0.227179,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "UONE",
-          "relevance_score": "0.288214",
-          "ticker_sentiment_score": "0.259335",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Urban One, Inc. 2024년 4분기 실적 컨퍼런스 콜 - Urban One ( NASDAQ:UONE ), Urban One ( NASDAQ:UONEK )"
     }
   ]
 }
