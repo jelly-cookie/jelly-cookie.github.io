@@ -32,7 +32,7 @@
       "overall_sentiment_score": 0.060848,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "소비자 신뢰도 하락, 주택 개선 및 가족 계획 지출 증가: 분석가 설문 조사 - SPDR S&P 500 ( ARCA:SPY )"
+      "translatedTitle": "Consumer Confidence Dips But Spending On Home Improvements And Family Planning Sees Uptick: Analyst Survey - SPDR S&P 500  ( ARCA:SPY ) "
     },
     {
       "title": "General Mills  ( GIS )  Q3 2025 Earnings Call Transcript",
@@ -122,7 +122,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "General Mills(GIS) 2025년 3분기 실적 발표 전화 회의록"
+      "translatedTitle": "General Mills  ( GIS )  Q3 2025 Earnings Call Transcript"
     },
     {
       "title": "Kodak's Earnings Skyrocket 420% Y/Y in Q4, Revenues Decline 3%",
@@ -164,7 +164,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "코닥, 4분기 수익 전년 대비 420% 급증, 매출 3% 감소"
+      "translatedTitle": "Kodak's Earnings Skyrocket 420% Y/Y in Q4, Revenues Decline 3%"
     },
     {
       "title": "Ollie's Bargain Outlet Holdings, Inc. Reports Fourth Quarter and Fiscal 2024 Financial Results",
@@ -215,7 +215,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Ollie's Bargain Outlet Holdings, Inc. 4분기 및 2024 회계연도 재무 결과 보고"
+      "translatedTitle": "Ollie's Bargain Outlet Holdings, Inc. Reports Fourth Quarter and Fiscal 2024 Financial Results"
     },
     {
       "title": "Germany's Debt Reform Plans Push European Markets Higher",
@@ -249,7 +249,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "독일의 부채 개혁 계획으로 유럽 시장이 상승세를 보이다"
+      "translatedTitle": "Germany's Debt Reform Plans Push European Markets Higher"
     },
     {
       "title": "The Uncertainty-Fueled Market Correction",
@@ -401,7 +401,99 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "불확실성으로 인한 시장 수정"
+      "translatedTitle": "The Uncertainty-Fueled Market Correction"
+    },
+    {
+      "title": "Nike  ( NKE )  Q3 2025 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/03/20/nike-nke-q3-2025-earnings-call-transcript/",
+      "time_published": "20250321T020013",
+      "authors": [
+        "Motley Fool Transcribing"
+      ],
+      "summary": "NKE earnings call for the period ending December 31, 2024.",
+      "banner_image": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999864"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.303233,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.004611",
+          "ticker_sentiment_score": "0.063285",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FL",
+          "relevance_score": "0.004611",
+          "ticker_sentiment_score": "0.166996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.004611",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VPGLF",
+          "relevance_score": "0.004611",
+          "ticker_sentiment_score": "0.078436",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NKE",
+          "relevance_score": "0.023053",
+          "ticker_sentiment_score": "0.195968",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.004611",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ICNB",
+          "relevance_score": "0.009222",
+          "ticker_sentiment_score": "0.088638",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNXYF",
+          "relevance_score": "0.004611",
+          "ticker_sentiment_score": "0.164289",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "Nike  ( NKE )  Q3 2025 Earnings Call Transcript"
     },
     {
       "title": "Is Tariff An Issue For Restaurant Sector? J.P. Morgan Highlights Winners & Losers - Yum Brands  ( NYSE:YUM ) , Bloomin Brands  ( NASDAQ:BLMN ) , Starbucks  ( NASDAQ:SBUX ) , Cava Group  ( NYSE:CAVA ) ",
@@ -543,7 +635,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "관세가 레스토랑 부문의 문제인가? J.P. Morgan이 승자와 패자를 강조 - Yum Brands(NYSE:YUM), Bloomin Brands(NASDAQ:BLMN), Starbucks(NASDAQ:SBUX), Cava Group(NYSE:CAVA)"
+      "translatedTitle": "Is Tariff An Issue For Restaurant Sector? J.P. Morgan Highlights Winners & Losers - Yum Brands  ( NYSE:YUM ) , Bloomin Brands  ( NASDAQ:BLMN ) , Starbucks  ( NASDAQ:SBUX ) , Cava Group  ( NYSE:CAVA ) "
     },
     {
       "title": "Holley May Bear The Brunt Of Ongoing Macroeconomic Challenges, Analyst Highlights Softer Top-line Outlook - Holley  ( NYSE:HLLY ) ",
@@ -595,7 +687,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Holley는 지속적인 거시경제적 도전의 여파를 가장 많이 받을 수 있다고 분석가가 강조, 더욱 부진한 최고 라인 전망 - Holley (NYSE:HLLY)"
+      "translatedTitle": "Holley May Bear The Brunt Of Ongoing Macroeconomic Challenges, Analyst Highlights Softer Top-line Outlook - Holley  ( NYSE:HLLY ) "
     },
     {
       "title": "ClimateTech Connect Announces Next Wave of Headline Speakers for the Inaugural Conference",
@@ -633,7 +725,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "ClimateTech Connect, 창립 컨퍼런스의 다음 헤드라인 연사 발표"
+      "translatedTitle": "ClimateTech Connect Announces Next Wave of Headline Speakers for the Inaugural Conference"
     },
     {
       "title": "JPMorgan Backs CAVA's Expansion Potential As Yum! Brands Plans Major Taco Bell, KFC Growth - Yum Brands  ( NYSE:YUM ) , Cava Group  ( NYSE:CAVA ) ",
@@ -681,7 +773,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "JPMorgan, Yum! Brands가 Taco Bell, KFC의 주요 성장을 계획함에 따라 CAVA의 확장 잠재력 지원 - Yum Brands(NYSE:YUM), Cava Group(NYSE:CAVA)"
+      "translatedTitle": "JPMorgan Backs CAVA's Expansion Potential As Yum! Brands Plans Major Taco Bell, KFC Growth - Yum Brands  ( NYSE:YUM ) , Cava Group  ( NYSE:CAVA ) "
     },
     {
       "title": "Period Panties  ( Menstrual Underwear )  Market Size is Expected to Reach USD 577.89 million by 2033, Growing at a CAGR of 15.64% : Market Strides",
@@ -715,7 +807,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "월경 팬티(월경 속옷) 시장 규모는 2033년까지 5억 7,789만 달러에 도달할 것으로 예상되며 연평균 성장률은 15.64%입니다. : Market Strides"
+      "translatedTitle": "Period Panties  ( Menstrual Underwear )  Market Size is Expected to Reach USD 577.89 million by 2033, Growing at a CAGR of 15.64% : Market Strides"
     },
     {
       "title": "JP3E Holdings Inc establishes Datang International Trading Co. Ltd as Joint Venture in South Korea with China Datang Holdings Group Corp. Ltd, Acquiring JP3E Preferred Shares, Providing Funding to Facilitate $2,800,000,000 in Copper and Gold Sales, agreeing to extend to LNG trading worldwide",
@@ -754,7 +846,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "JP3E Holdings Inc는 중국 Datang Holdings Group Corp. Ltd와 합작법인으로 한국에 Datang International Trading Co. Ltd를 설립하고 JP3E 우선주를 인수하고 2,800,000,000달러 규모의 구리 및 금 판매를 촉진하기 위한 자금을 제공하며 전 세계 LNG 거래로 확장하기로 합의"
+      "translatedTitle": "JP3E Holdings Inc establishes Datang International Trading Co. Ltd as Joint Venture in South Korea with China Datang Holdings Group Corp. Ltd, Acquiring JP3E Preferred Shares, Providing Funding to Facilitate $2,800,000,000 in Copper and Gold Sales, agreeing to extend to LNG trading worldwide"
     },
     {
       "title": "UK Green Transition Pushes Investment Costs, Energy Prices Higher",
@@ -792,7 +884,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "영국 녹색 전환, 투자 비용과 에너지 가격 상승"
+      "translatedTitle": "UK Green Transition Pushes Investment Costs, Energy Prices Higher"
     },
     {
       "title": "Political free fall: Turkey faces protests, investor flight after opposition leader's arrest",
@@ -840,7 +932,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "정치적 자유낙하: 터키, 야당 지도자 체포 후 시위와 투자자 유출 직면"
+      "translatedTitle": "Political free fall: Turkey faces protests, investor flight after opposition leader's arrest"
     },
     {
       "title": "Fed Keeps Rates Steady, Ups Inflation Target: How are Banks Affected?",
@@ -896,7 +988,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "연준이 금리를 안정적으로 유지하고 인플레이션 목표를 상향 조정했습니다. 은행은 어떤 영향을 받을까요?"
+      "translatedTitle": "Fed Keeps Rates Steady, Ups Inflation Target: How are Banks Affected?"
     },
     {
       "title": "LendingTree and AMC Networks have been highlighted as Zacks Bull and Bear of the Day",
@@ -976,7 +1068,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "LendingTree와 AMC Networks가 Zacks Bull and Bear of the Day로 선정되었습니다."
+      "translatedTitle": "LendingTree and AMC Networks have been highlighted as Zacks Bull and Bear of the Day"
     },
     {
       "title": "Nintendo Stock Is Soaring: Should You Buy Before the Switch 2 Release?",
@@ -1026,7 +1118,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "닌텐도 주가가 급등하고 있습니다. 스위치 2 출시 전에 매수해야 할까요?"
+      "translatedTitle": "Nintendo Stock Is Soaring: Should You Buy Before the Switch 2 Release?"
     },
     {
       "title": "Lands' End Announces Fourth Quarter and Full Year Fiscal 2024 Results",
@@ -1073,7 +1165,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "Lands' End, 2024 회계연도 4분기 및 연간 실적 발표"
+      "translatedTitle": "Lands' End Announces Fourth Quarter and Full Year Fiscal 2024 Results"
     },
     {
       "title": "US Stocks Likely To Open Higher As Fed Says Tariff-Induced Inflation Will Be 'Transitory:' Any Pullback In Equities 'Offers An Opportunity,' Says Expert - Accenture  ( NYSE:ACN ) , AGM Gr Hldgs  ( NASDAQ:AGMH ) ",
@@ -1211,7 +1303,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "연방준비제도가 관세로 인한 인플레이션이 '일시적'일 것이라고 말하면서 미국 주식이 상승할 가능성이 높다: 전문가가 주식 하락은 '기회를 제공한다'고 말하다 - Accenture(NYSE:ACN), AGM Gr Hldgs(NASDAQ:AGMH)"
+      "translatedTitle": "US Stocks Likely To Open Higher As Fed Says Tariff-Induced Inflation Will Be 'Transitory:' Any Pullback In Equities 'Offers An Opportunity,' Says Expert - Accenture  ( NYSE:ACN ) , AGM Gr Hldgs  ( NASDAQ:AGMH ) "
     },
     {
       "title": "Zacks Investment Ideas feature highlights: Alibaba, Palantir and Vertiv",
@@ -1259,7 +1351,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "Zacks 투자 아이디어의 주요 특징: Alibaba, Palantir 및 Vertiv"
+      "translatedTitle": "Zacks Investment Ideas feature highlights: Alibaba, Palantir and Vertiv"
     },
     {
       "title": "2 New Possibilities That Could Send Bitcoin to $200,000 and Beyond",
@@ -1297,7 +1389,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "비트코인을 20만 달러 이상으로 끌어올릴 수 있는 2가지 새로운 가능성"
+      "translatedTitle": "2 New Possibilities That Could Send Bitcoin to $200,000 and Beyond"
     },
     {
       "title": "Warren Buffett Just Increased Berkshire Hathaway's Investment in These 5 Stocks He Plans to Hold Forever",
@@ -1375,7 +1467,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "워렌 버핏, 버크셔 해서웨이의 이 5개 주식에 대한 투자를 늘렸다. 그는 이 5개 주식을 영원히 보유할 계획이다."
+      "translatedTitle": "Warren Buffett Just Increased Berkshire Hathaway's Investment in These 5 Stocks He Plans to Hold Forever"
     },
     {
       "title": "CNBC's Inside India newsletter: Elon Musk's Starlink gets access to India, but its success rests on two billionaires",
@@ -1431,7 +1523,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "CNBC의 Inside India 뉴스레터: Elon Musk의 Starlink가 인도에 진출했지만 성공은 두 억만장자에게 달려 있다"
+      "translatedTitle": "CNBC's Inside India newsletter: Elon Musk's Starlink gets access to India, but its success rests on two billionaires"
     },
     {
       "title": "Notice convening the Annual General Meeting in BioPorto A/S",
@@ -1493,7 +1585,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "BioPorto A/S에서 연차 총회 소집 공지"
+      "translatedTitle": "Notice convening the Annual General Meeting in BioPorto A/S"
     },
     {
       "title": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO",
@@ -1520,7 +1612,7 @@
       "overall_sentiment_score": -0.036823,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "재정부, 가계 저축 금융시장 유입 위험 가능성 - ETCFO"
+      "translatedTitle": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO"
     },
     {
       "title": "Is this the start of a period of European exceptionalism in markets?",
@@ -1555,7 +1647,7 @@
       "overall_sentiment_score": 0.002422,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "이것이 시장에서 유럽의 예외주의가 시작되는 것인가?"
+      "translatedTitle": "Is this the start of a period of European exceptionalism in markets?"
     },
     {
       "title": "Ontario Teachers' move to close office is Hong Kong's loss, Singapore's gain",
@@ -1582,7 +1674,7 @@
       "overall_sentiment_score": 0.031068,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "온타리오 교사들의 사무실 폐쇄 결정은 홍콩의 손실이자 싱가포르의 이득이다"
+      "translatedTitle": "Ontario Teachers' move to close office is Hong Kong's loss, Singapore's gain"
     },
     {
       "title": "CEO of ThyssenKrupp's warship division says attainable market could triple as defense spending surges",
@@ -1611,7 +1703,7 @@
       "overall_sentiment_score": 0.099767,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "티센크루프 군함 부문 CEO, 국방비 지출 급증으로 시장이 3배로 확대될 수 있다고 밝혀"
+      "translatedTitle": "CEO of ThyssenKrupp's warship division says attainable market could triple as defense spending surges"
     },
     {
       "title": "Fitch Retains India's GDP Forecast at 6.5% for FY26 - ETCFO",
@@ -1642,7 +1734,7 @@
       "overall_sentiment_score": 0.026908,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "Fitch, FY26 인도 GDP 예측치를 6.5%로 유지 - ETCFO"
+      "translatedTitle": "Fitch Retains India's GDP Forecast at 6.5% for FY26 - ETCFO"
     },
     {
       "title": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO",
@@ -1669,7 +1761,7 @@
       "overall_sentiment_score": -0.051489,
       "overall_sentiment_label": "Neutral",
       "ticker_sentiment": [],
-      "translatedTitle": "재정부, 가계 저축 금융시장 유입 위험 가능성 - ETCFO"
+      "translatedTitle": "Household savings flow to financial market could pose risks, says finance ministry - ETCFO"
     },
     {
       "title": "Bitcoin Surges Amid Eased Financial Conditions, Analyst Predicts All-Time High in Q2",
@@ -1719,7 +1811,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "금융 상황 완화로 비트코인 급등, 분석가 2분기 사상 최고치 예측"
+      "translatedTitle": "Bitcoin Surges Amid Eased Financial Conditions, Analyst Predicts All-Time High in Q2"
     },
     {
       "title": "What's behind the pro-Beijing camp's criticism of the Panama ports deal?",
@@ -1763,7 +1855,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "친베이징 진영이 파나마 항구 협정을 비판하는 이유는 무엇인가?"
+      "translatedTitle": "What's behind the pro-Beijing camp's criticism of the Panama ports deal?"
     },
     {
       "title": "THOR Announces Strategic Realignment of Heartland Recreational Vehicle Company - Thor Industries  ( NYSE:THO ) ",
@@ -1815,7 +1907,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "THOR, Heartland Recreational Vehicle Company의 전략적 재편 발표 - Thor Industries ( NYSE:THO )"
+      "translatedTitle": "THOR Announces Strategic Realignment of Heartland Recreational Vehicle Company - Thor Industries  ( NYSE:THO ) "
     },
     {
       "title": "THOR Announces Strategic Realignment of Heartland Recreational Vehicle Company",
@@ -1867,7 +1959,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "THOR, Heartland Recreational Vehicle Company의 전략적 재조정 발표"
+      "translatedTitle": "THOR Announces Strategic Realignment of Heartland Recreational Vehicle Company"
     },
     {
       "title": "Where's the Housing Market Heading? ETFs to Consider",
@@ -1921,7 +2013,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "주택 시장은 어디로 향하고 있을까? 고려해야 할 ETF"
+      "translatedTitle": "Where's the Housing Market Heading? ETFs to Consider"
     },
     {
       "title": "Is LDOS Stock Well-Insulated From Trade-War Induced Uncertainty?",
@@ -1979,7 +2071,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "LDOS 주식은 무역전쟁으로 인한 불확실성으로부터 잘 보호받고 있을까?"
+      "translatedTitle": "Is LDOS Stock Well-Insulated From Trade-War Induced Uncertainty?"
     },
     {
       "title": "ACM Research Gains 13% in a Month: Should You Buy the Stock?",
@@ -2033,7 +2125,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "ACM Research가 한 달 만에 13% 상승: 이 주식을 매수해야 할까?"
+      "translatedTitle": "ACM Research Gains 13% in a Month: Should You Buy the Stock?"
     },
     {
       "title": "What's Going on With These Popular Stocks? BABA, VRT, PLTR",
@@ -2077,7 +2169,7 @@
           "ticker_sentiment_label": "Bullish"
         }
       ],
-      "translatedTitle": "인기 있는 이 주식들에는 무슨 일이 일어나고 있나요? BABA, VRT, PLTR"
+      "translatedTitle": "What's Going on With These Popular Stocks? BABA, VRT, PLTR"
     },
     {
       "title": "'12 Million Households Will Save $38,000 A Year'-Grant Cardone Calls Trump's Plan To Waive Tax Under $150K 'Brilliant, Practical And Viable'",
@@ -2131,7 +2223,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "'1,200만 가구가 연간 3만8,000달러를 절약할 수 있을 것'-그랜트 카도네, 트럼프의 15만 달러 이하 세금 면제 계획을 '훌륭하고 실용적이며 실행 가능하다'고 주장"
+      "translatedTitle": "'12 Million Households Will Save $38,000 A Year'-Grant Cardone Calls Trump's Plan To Waive Tax Under $150K 'Brilliant, Practical And Viable'"
     },
     {
       "title": "3 Tariff-Proof Medical Device Stocks to Watch Amid Trump's MAGA Slogan",
@@ -2191,7 +2283,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "트럼프의 MAGA 슬로건에 주목해야 할 관세 면제 의료 기기 주식 3종"
+      "translatedTitle": "3 Tariff-Proof Medical Device Stocks to Watch Amid Trump's MAGA Slogan"
     },
     {
       "title": "Canadian Companies Look to Diversify at Hannover Messe",
@@ -2229,7 +2321,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "캐나다 기업들, 하노버 메세에서 다각화 모색"
+      "translatedTitle": "Canadian Companies Look to Diversify at Hannover Messe"
     },
     {
       "title": "5 International ETFs Beating the S&P 500 in 2025",
@@ -2260,7 +2352,7 @@
       "overall_sentiment_score": 0.173509,
       "overall_sentiment_label": "Somewhat-Bullish",
       "ticker_sentiment": [],
-      "translatedTitle": "2025년 S&P 500을 앞지르는 5개 국제 ETF"
+      "translatedTitle": "5 International ETFs Beating the S&P 500 in 2025"
     },
     {
       "title": "Beyond The Exchange: How BNB Chain Is Helping Reshape The Crypto Landscape",
@@ -2314,7 +2406,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "거래소 너머: BNB 체인이 암호화폐 환경을 재편하는 데 어떻게 도움이 되는가"
+      "translatedTitle": "Beyond The Exchange: How BNB Chain Is Helping Reshape The Crypto Landscape"
     },
     {
       "title": "Down More Than 30% From Its 52-Week High, Is Palantir Technologies Stock a Buy?",
@@ -2366,7 +2458,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "52주 최고가에서 30% 이상 하락한 Palantir Technologies 주식을 매수해야 할까?"
+      "translatedTitle": "Down More Than 30% From Its 52-Week High, Is Palantir Technologies Stock a Buy?"
     },
     {
       "title": "Where Will Dogecoin Be in 1 Year?",
@@ -2426,7 +2518,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "1년 후 도지코인은 어떻게 될까?"
+      "translatedTitle": "Where Will Dogecoin Be in 1 Year?"
     },
     {
       "title": "Transaction in Own Shares",
@@ -2460,7 +2552,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "자사주 거래"
+      "translatedTitle": "Transaction in Own Shares"
     },
     {
       "title": "80 global executives to gather in Beijing for key annual summit",
@@ -2530,7 +2622,7 @@
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "80명의 글로벌 임원이 베이징에서 연례 주요 정상회담을 위해 모인다"
+      "translatedTitle": "80 global executives to gather in Beijing for key annual summit"
     },
     {
       "title": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results - Waldencast  ( NASDAQ:WALD ) ",
@@ -2598,7 +2690,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Waldencast, 2024년 4분기 및 2024 회계연도 재무 결과 보고 - Waldencast ( NASDAQ:WALD )"
+      "translatedTitle": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results - Waldencast  ( NASDAQ:WALD ) "
     },
     {
       "title": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results",
@@ -2666,59 +2758,7 @@
           "ticker_sentiment_label": "Somewhat-Bullish"
         }
       ],
-      "translatedTitle": "Waldencast, 2024년 4분기 및 2024 회계연도 재무 결과 보고"
-    },
-    {
-      "title": "How Should Investors Play UPS Stock Amid Tariff Risks?",
-      "url": "https://www.zacks.com/stock/news/2431679/how-should-investors-play-ups-stock-amid-tariff-risks",
-      "time_published": "20250318T153800",
-      "authors": [
-        "Maharathi Basu"
-      ],
-      "summary": "With EPS estimates for United Parcel Service moving south, we assess the investment worthiness of the stock currently.",
-      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/518.jpg",
-      "source": "Zacks Commentary",
-      "category_within_source": "n/a",
-      "source_domain": "www.zacks.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.929393"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "0.714479"
-        },
-        {
-          "topic": "Energy & Transportation",
-          "relevance_score": "1.0"
-        }
-      ],
-      "overall_sentiment_score": -0.044337,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [
-        {
-          "ticker": "UPS",
-          "relevance_score": "0.829865",
-          "ticker_sentiment_score": "0.0",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "FDX",
-          "relevance_score": "0.09495",
-          "ticker_sentiment_score": "-0.226395",
-          "ticker_sentiment_label": "Somewhat-Bearish"
-        }
-      ],
-      "translatedTitle": "관세 위험 가운데 투자자들은 UPS 주식을 어떻게 투자해야 할까?"
+      "translatedTitle": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results"
     }
   ]
 }
