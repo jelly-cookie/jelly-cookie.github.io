@@ -221,6 +221,40 @@
       "translatedTitle": "Germany's Debt Reform Plans Push European Markets Higher"
     },
     {
+      "title": "NB Private Equity Partners Announces Transaction in Own Shares",
+      "url": "https://www.globenewswire.com/news-release/2025/03/21/3046854/0/en/NB-Private-Equity-Partners-Announces-Transaction-in-Own-Shares.html",
+      "time_published": "20250321T070000",
+      "authors": [
+        "NB Private Equity Partners Limited"
+      ],
+      "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.803643"
+        }
+      ],
+      "overall_sentiment_score": 0.236207,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NBPVF",
+          "relevance_score": "0.136499",
+          "ticker_sentiment_score": "0.192875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ],
+      "translatedTitle": "NB Private Equity Partners Announces Transaction in Own Shares"
+    },
+    {
       "title": "Prepare to 'combat storms', China's premier tells foreign trade enterprises",
       "url": "https://www.scmp.com/economy/china-economy/article/3303305/chinas-premier-tells-foreign-trade-enterprises-be-ready-combat-storms",
       "time_published": "20250321T062005",
@@ -2594,74 +2628,6 @@
         }
       ],
       "translatedTitle": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results - Waldencast  ( NASDAQ:WALD ) "
-    },
-    {
-      "title": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results",
-      "url": "https://www.globenewswire.com/news-release/2025/03/18/3044990/0/en/Waldencast-Reports-Q4-2024-and-Fiscal-Year-2024-Financial-Results.html",
-      "time_published": "20250318T201500",
-      "authors": [
-        "Waldencast plc."
-      ],
-      "summary": "Q4 Net Revenue of $72.1 million, 29.4% Comparable Net Revenue Growth and $11.2 million of Adjusted EBITDA, doubling from ...",
-      "banner_image": "https://ml.globenewswire.com/Resource/Download/2c0d9a32-cc92-4a48-9725-33c9b7e64c3f",
-      "source": "GlobeNewswire",
-      "category_within_source": "n/a",
-      "source_domain": "www.globenewswire.com",
-      "topics": [
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.158519"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.5"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.999966"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Mergers & Acquisitions",
-          "relevance_score": "0.108179"
-        },
-        {
-          "topic": "Real Estate & Construction",
-          "relevance_score": "0.5"
-        }
-      ],
-      "overall_sentiment_score": 0.305011,
-      "overall_sentiment_label": "Somewhat-Bullish",
-      "ticker_sentiment": [
-        {
-          "ticker": "CURN",
-          "relevance_score": "0.012287",
-          "ticker_sentiment_score": "0.027162",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "WALD",
-          "relevance_score": "0.170705",
-          "ticker_sentiment_score": "0.133818",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ULTA",
-          "relevance_score": "0.04912",
-          "ticker_sentiment_score": "0.178801",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "DRVN",
-          "relevance_score": "0.024572",
-          "ticker_sentiment_score": "0.203193",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        }
-      ],
-      "translatedTitle": "Waldencast Reports Q4 2024 and Fiscal Year 2024 Financial Results"
     }
   ]
 }
