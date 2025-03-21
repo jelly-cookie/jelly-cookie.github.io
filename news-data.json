@@ -4,37 +4,6 @@
   "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
   "feed": [
     {
-      "title": "Consumer Confidence Dips But Spending On Home Improvements And Family Planning Sees Uptick: Analyst Survey - SPDR S&P 500  ( ARCA:SPY ) ",
-      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/03/44383156/consumer-confidence-dips-but-spending-on-home-improvements-and-family-planning-sees",
-      "time_published": "20250318T183042",
-      "authors": [
-        "Vandana Singh"
-      ],
-      "summary": "Home improvement spending plans rose to 31% in March, up from 27% last year, the highest since May 2024. The Consumer Confidence Index dropped 7 points to 98.3 in February, the sharpest fall since August 2021.",
-      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/03/18/Retail-Sales-Hit-by-Consumer-Spending-Pr.jpeg?width=1200&height=800&fit=crop",
-      "source": "Benzinga",
-      "category_within_source": "General",
-      "source_domain": "www.benzinga.com",
-      "topics": [
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Economy - Fiscal",
-          "relevance_score": "0.682689"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "0.538269"
-        }
-      ],
-      "overall_sentiment_score": 0.060848,
-      "overall_sentiment_label": "Neutral",
-      "ticker_sentiment": [],
-      "translatedTitle": "Consumer Confidence Dips But Spending On Home Improvements And Family Planning Sees Uptick: Analyst Survey - SPDR S&P 500  ( ARCA:SPY ) "
-    },
-    {
       "title": "General Mills  ( GIS )  Q3 2025 Earnings Call Transcript",
       "url": "https://www.fool.com/earnings/call-transcripts/2025/03/19/general-mills-gis-q3-2025-earnings-call-transcript/",
       "time_published": "20250319T214516",
@@ -402,6 +371,56 @@
         }
       ],
       "translatedTitle": "The Uncertainty-Fueled Market Correction"
+    },
+    {
+      "title": "Big Tech under pressure to act on data centres' thirst for water",
+      "url": "https://www.ft.com/content/65fff689-bd47-4c15-bdb8-083e5ccd84dc",
+      "time_published": "20250321T043024",
+      "authors": [
+        "Patrick Temple-West"
+      ],
+      "summary": "Calls for a rethink on taking a scarce resource to cool overheated facilities are growing in the US ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7b4e2bf-0909-4b2d-8da7-a2926ea9e68f.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Companies",
+      "source_domain": "www.ft.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.033345,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.094204",
+          "ticker_sentiment_score": "0.021204",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.047185",
+          "ticker_sentiment_score": "0.061095",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EQIX",
+          "relevance_score": "0.140896",
+          "ticker_sentiment_score": "-0.021476",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ],
+      "translatedTitle": "Big Tech under pressure to act on data centres' thirst for water"
     },
     {
       "title": "Nike  ( NKE )  Q3 2025 Earnings Call Transcript",
