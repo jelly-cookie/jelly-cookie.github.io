@@ -22,9 +22,9 @@ title_separator          : "|"
 subtitle                 : "AI 프롬프트 공유 및 검색 플랫폼"
 name                     : "AI Promport"
 description              : "다양한 AI 모델을 위한 프롬프트 라이브러리. ChatGPT, DALL-E, Midjourney 등의 프롬프트를 공유하고 검색해보세요."
-url                      : "https://jelly-cookie.github.io" # 실제 GitHub 사용자명으로 변경하세요
-baseurl                  : "/jelly-cookie.github.io" # 저장소 이름과 일치하게 설정
-repository               : "jelly-cookie/jelly-cookie.github.io" # 실제 GitHub 사용자명으로 변경하세요
+url                      : "https://jelly-cookie.github.io" 
+baseurl                  : "" # GitHub Pages 사용자 사이트인 경우 빈 문자열로 설정
+repository               : "jelly-cookie/jelly-cookie.github.io"
 teaser                   : "/assets/images/default-teaser.jpg"
 logo                     : "/assets/images/logo.png"
 masthead_title           : "AI Promport"
