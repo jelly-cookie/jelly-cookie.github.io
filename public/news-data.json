@@ -221,156 +221,40 @@
       "translatedTitle": "Germany's Debt Reform Plans Push European Markets Higher"
     },
     {
-      "title": "The Uncertainty-Fueled Market Correction",
-      "url": "https://www.fool.com/investing/2025/03/18/the-uncertainty-fueled-market-correction/",
-      "time_published": "20250318T190300",
+      "title": "Prepare to 'combat storms', China's premier tells foreign trade enterprises",
+      "url": "https://www.scmp.com/economy/china-economy/article/3303305/chinas-premier-tells-foreign-trade-enterprises-be-ready-combat-storms",
+      "time_published": "20250321T062005",
       "authors": [
-        "Motley Fool Staff"
+        "Sylvia Ma"
       ],
-      "summary": "Companies, investors, and countries are all having a hard time knowing what the future holds. And that makes forecasting hard.",
-      "banner_image": "https://g.foolcdn.com/editorial/images/811406/the-uncertainty-fueled-market-correction.jpg",
-      "source": "Motley Fool",
-      "category_within_source": "n/a",
-      "source_domain": "www.fool.com",
+      "summary": "Premier Li Qiang also pledges more government support for private sector during inspection tour of Fujian province.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/03/21/dc725744-5223-4a79-8c47-12293059b748_cdaa7d8a.jpg?itok=YkRvdzBT&v=1742538005",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
       "topics": [
         {
-          "topic": "Energy & Transportation",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Technology",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Finance",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Economy - Monetary",
-          "relevance_score": "0.158519"
-        },
-        {
           "topic": "Economy - Fiscal",
-          "relevance_score": "0.310843"
-        },
-        {
-          "topic": "Retail & Wholesale",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Financial Markets",
-          "relevance_score": "1.0"
-        },
-        {
-          "topic": "Manufacturing",
-          "relevance_score": "0.2"
-        },
-        {
-          "topic": "Earnings",
-          "relevance_score": "1.0"
+          "relevance_score": "0.158519"
         }
       ],
-      "overall_sentiment_score": 0.088882,
-      "overall_sentiment_label": "Neutral",
+      "overall_sentiment_score": 0.376997,
+      "overall_sentiment_label": "Bullish",
       "ticker_sentiment": [
         {
-          "ticker": "CSCO",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "0.032411",
+          "ticker": "BNXYF",
+          "relevance_score": "0.070725",
+          "ticker_sentiment_score": "0.135776",
           "ticker_sentiment_label": "Neutral"
         },
         {
-          "ticker": "DG",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "-0.135584",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "BAC",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "0.068211",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MDNDF",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "-0.135584",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "MTN",
-          "relevance_score": "0.011995",
-          "ticker_sentiment_score": "-0.026146",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "HPQ",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "0.032411",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DAL",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "0.047089",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "COST",
-          "relevance_score": "0.011995",
-          "ticker_sentiment_score": "-0.14123",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ANSS",
-          "relevance_score": "0.035974",
-          "ticker_sentiment_score": "0.07722",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "TSLA",
-          "relevance_score": "0.041964",
-          "ticker_sentiment_score": "-0.018785",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "PZZA",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "-0.005137",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "SBUX",
-          "relevance_score": "0.035974",
-          "ticker_sentiment_score": "0.18184",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "WFC",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "-0.015388",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "ADBE",
-          "relevance_score": "0.029981",
-          "ticker_sentiment_score": "0.076662",
-          "ticker_sentiment_label": "Neutral"
-        },
-        {
-          "ticker": "DOCU",
-          "relevance_score": "0.017991",
-          "ticker_sentiment_score": "0.150041",
-          "ticker_sentiment_label": "Somewhat-Bullish"
-        },
-        {
-          "ticker": "WMT",
-          "relevance_score": "0.005998",
-          "ticker_sentiment_score": "-0.135584",
+          "ticker": "MEIUF",
+          "relevance_score": "0.070725",
+          "ticker_sentiment_score": "0.07635",
           "ticker_sentiment_label": "Neutral"
         }
       ],
-      "translatedTitle": "The Uncertainty-Fueled Market Correction"
+      "translatedTitle": "Prepare to 'combat storms', China's premier tells foreign trade enterprises"
     },
     {
       "title": "Big Tech under pressure to act on data centres' thirst for water",
