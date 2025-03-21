@@ -1,0 +1,97 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<div class="prompt-library">
+  <!-- 히어로 섹션 -->
+  <div class="hero-section">
+    <h1 class="site-title">AI 프롬프트 라이브러리</h1>
+    <p class="site-description">{{ site.description }}</p>
+    
+    <div class="search-section">
+      <div class="search-box">
+        <input type="text" placeholder="프롬프트 검색..." id="prompt-search">
+        <button type="button"><i class="fas fa-search"></i></button>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <!-- 사이드바 -->
+    <aside class="sidebar">
+      <h2>카테고리</h2>
+      <nav class="category-nav">
+        {% for category in site.data.categories %}
+        <div class="category-group">
+          <h3>{{ category.name }}</h3>
+          <ul>
+            {% for subcategory in category.subcategories %}
+            <li>
+              <a href="#{{ subcategory.id }}" class="category-link">{{ subcategory.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </nav>
+    </aside>
+
+    <!-- 메인 콘텐츠 -->
+    <main class="main-content">
+      <div class="prompt-grid">
+        {% assign prompts = site.prompts | sort: 'date' | reverse %}
+        {% for prompt in prompts %}
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">{{ prompt.title }}</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">{{ prompt.category }}</span>
+              {% if prompt.subcategory %}
+              <span class="prompt-card__subcategory">{{ prompt.subcategory }}</span>
+              {% endif %}
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">{{ prompt.excerpt }}</p>
+            {% if prompt.variables %}
+            <div class="prompt-card__variables">
+              {% for variable in prompt.variables %}
+              <div class="variable-input">
+                <label>{{ variable.name }}</label>
+                <input type="text" 
+                       placeholder="{{ variable.desc }}"
+                       data-required="{{ variable.required }}"
+                       data-var-name="{{ variable.name }}">
+              </div>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>{{ prompt.likes | default: 0 }}</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>{{ prompt.usage_count | default: 0 }}</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="{{ prompt.url | relative_url }}" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </main>
+  </div>
+</div>
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">

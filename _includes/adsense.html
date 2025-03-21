@@ -1,0 +1,75 @@
+{% if site.adsense.enabled %}
+  {% if include.type == "header" %}
+  <!-- 헤더 광고 (728x90) -->
+  <div class="ad-container ad-header">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ site.adsense.client_id }}"
+         data-ad-slot="{{ site.adsense.header_slot }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  {% elsif include.type == "content" %}
+  <!-- 컨텐츠 사이 광고 (피드형) -->
+  <div class="ad-container ad-content">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ site.adsense.client_id }}"
+         data-ad-slot="{{ site.adsense.content_slot }}"
+         data-ad-format="fluid"
+         data-ad-layout-key="-fb+5w+4e-db+86"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  {% elsif include.type == "sidebar" %}
+  <!-- 사이드바 광고 (300x250) -->
+  <div class="ad-container ad-sidebar">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ site.adsense.client_id }}"
+         data-ad-slot="{{ site.adsense.sidebar_slot }}"
+         data-ad-format="rectangle"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  {% endif %}
+{% endif %}
+
+<style>
+  .ad-container {
+    text-align: center;
+    margin: 30px 0;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .ad-header {
+    max-width: 728px;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .ad-content {
+    max-width: 100%;
+    margin: 30px 0;
+  }
+  
+  .ad-sidebar {
+    max-width: 300px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* 광고와 다른 요소 간 간격 확보 */
+  .ad-container + .cta,
+  .cta + .ad-container {
+    margin-top: 30px;
+  }
+</style> 

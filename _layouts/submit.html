@@ -1,0 +1,389 @@
+---
+layout: default
+---
+
+<div class="prompt-submission">
+  <h1 class="page__title">프롬프트 제출</h1>
+  
+  <form id="prompt-form" class="prompt-form">
+    <div class="form-group">
+      <label for="prompt-title">제목 *</label>
+      <input type="text" id="prompt-title" name="title" required>
+      <div class="error-message" id="title-error"></div>
+    </div>
+    
+    <div class="form-group">
+      <label for="prompt-category">카테고리 *</label>
+      <select id="prompt-category" name="category" required>
+        <option value="">카테고리 선택</option>
+        {% for category in site.data.prompts.categories %}
+          <option value="{{ category.id }}">{{ category.name }}</option>
+        {% endfor %}
+      </select>
+      <div class="error-message" id="category-error"></div>
+    </div>
+    
+    <div class="form-group" id="subcategory-group" style="display: none;">
+      <label for="prompt-subcategory">하위 카테고리 *</label>
+      <select id="prompt-subcategory" name="subcategory">
+        <option value="">하위 카테고리 선택</option>
+      </select>
+      <div class="error-message" id="subcategory-error"></div>
+    </div>
+    
+    <div class="form-group" id="sub-subcategory-group" style="display: none;">
+      <label for="prompt-sub-subcategory">세부 카테고리 *</label>
+      <select id="prompt-sub-subcategory" name="sub_subcategory">
+        <option value="">세부 카테고리 선택</option>
+      </select>
+      <div class="error-message" id="sub-subcategory-error"></div>
+    </div>
+    
+    <div class="form-group">
+      <label for="prompt-content">프롬프트 내용 *</label>
+      <textarea id="prompt-content" name="content" rows="8" required></textarea>
+      <div class="error-message" id="content-error"></div>
+      <div class="word-count">단어 수: <span id="word-count">0</span> / 최소 20</div>
+    </div>
+    
+    <div class="form-group">
+      <label>변수 추가</label>
+      <div id="variables-container">
+        <!-- 변수 입력 필드가 여기에 동적으로 추가됩니다 -->
+      </div>
+      <button type="button" id="add-variable" class="btn btn--primary">변수 추가 +</button>
+    </div>
+    
+    <div class="form-group">
+      <label for="prompt-preview">미리보기</label>
+      <div id="prompt-preview" class="prompt-preview markdown-preview"></div>
+    </div>
+    
+    <div class="form-actions">
+      <button type="submit" class="btn btn--success btn--large">제출하기</button>
+      <button type="reset" class="btn btn--danger">초기화</button>
+    </div>
+  </form>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('prompt-form');
+    const titleInput = document.getElementById('prompt-title');
+    const contentInput = document.getElementById('prompt-content');
+    const categorySelect = document.getElementById('prompt-category');
+    const subcategoryGroup = document.getElementById('subcategory-group');
+    const subcategorySelect = document.getElementById('prompt-subcategory');
+    const subSubcategoryGroup = document.getElementById('sub-subcategory-group');
+    const subSubcategorySelect = document.getElementById('prompt-sub-subcategory');
+    const previewDiv = document.getElementById('prompt-preview');
+    const wordCountSpan = document.getElementById('word-count');
+    const addVariableBtn = document.getElementById('add-variable');
+    const variablesContainer = document.getElementById('variables-container');
+    
+    // 단어 수 계산
+    contentInput.addEventListener('input', function() {
+      const text = this.value.trim();
+      const wordCount = text === '' ? 0 : text.split(/\s+/).length;
+      wordCountSpan.textContent = wordCount;
+      
+      // 미리보기 업데이트
+      updatePreview();
+    });
+    
+    // 변수 추가 버튼
+    addVariableBtn.addEventListener('click', function() {
+      const varIndex = variablesContainer.children.length;
+      const varGroup = document.createElement('div');
+      varGroup.className = 'variable-group';
+      varGroup.innerHTML = `
+        <div class="variable-row">
+          <div class="variable-field">
+            <label for="var-name-${varIndex}">변수명</label>
+            <input type="text" id="var-name-${varIndex}" name="var_name[]" placeholder="변수명">
+          </div>
+          <div class="variable-field">
+            <label for="var-desc-${varIndex}">설명</label>
+            <input type="text" id="var-desc-${varIndex}" name="var_desc[]" placeholder="변수 설명">
+          </div>
+          <button type="button" class="btn btn--danger remove-variable">삭제</button>
+        </div>
+      `;
+      variablesContainer.appendChild(varGroup);
+      
+      // 변수 삭제 버튼 이벤트
+      varGroup.querySelector('.remove-variable').addEventListener('click', function() {
+        variablesContainer.removeChild(varGroup);
+        updatePreview();
+      });
+      
+      // 변수 입력 이벤트
+      const varNameInput = varGroup.querySelector(`#var-name-${varIndex}`);
+      const varDescInput = varGroup.querySelector(`#var-desc-${varIndex}`);
+      
+      varNameInput.addEventListener('input', updatePreview);
+      varDescInput.addEventListener('input', updatePreview);
+    });
+    
+    // 카테고리 변경 이벤트
+    categorySelect.addEventListener('change', function() {
+      const categoryId = this.value;
+      if (categoryId) {
+        const category = findCategory(categoryId);
+        if (category && category.subcategories && category.subcategories.length > 0) {
+          subcategorySelect.innerHTML = '<option value="">하위 카테고리 선택</option>';
+          category.subcategories.forEach(subcategory => {
+            const option = document.createElement('option');
+            option.value = subcategory.id;
+            option.textContent = subcategory.name;
+            subcategorySelect.appendChild(option);
+          });
+          subcategoryGroup.style.display = 'block';
+        } else {
+          subcategoryGroup.style.display = 'none';
+          subSubcategoryGroup.style.display = 'none';
+        }
+      } else {
+        subcategoryGroup.style.display = 'none';
+        subSubcategoryGroup.style.display = 'none';
+      }
+    });
+    
+    // 하위 카테고리 변경 이벤트
+    subcategorySelect.addEventListener('change', function() {
+      const categoryId = categorySelect.value;
+      const subcategoryId = this.value;
+      
+      if (subcategoryId) {
+        const category = findCategory(categoryId);
+        const subcategory = findSubcategory(category, subcategoryId);
+        
+        if (subcategory && subcategory.subcategories && subcategory.subcategories.length > 0) {
+          subSubcategorySelect.innerHTML = '<option value="">세부 카테고리 선택</option>';
+          subcategory.subcategories.forEach(subSubcategory => {
+            const option = document.createElement('option');
+            option.value = subSubcategory.id;
+            option.textContent = subSubcategory.name;
+            subSubcategorySelect.appendChild(option);
+          });
+          subSubcategoryGroup.style.display = 'block';
+        } else {
+          subSubcategoryGroup.style.display = 'none';
+        }
+      } else {
+        subSubcategoryGroup.style.display = 'none';
+      }
+    });
+    
+    // 카테고리 조회 함수
+    function findCategory(categoryId) {
+      return {{ site.data.prompts.categories | jsonify }}.find(cat => cat.id === categoryId);
+    }
+    
+    // 하위 카테고리 조회 함수
+    function findSubcategory(category, subcategoryId) {
+      if (category && category.subcategories) {
+        return category.subcategories.find(subcat => subcat.id === subcategoryId);
+      }
+      return null;
+    }
+    
+    // 미리보기 업데이트 함수
+    function updatePreview() {
+      let content = contentInput.value;
+      
+      // 변수 치환
+      const varGroups = variablesContainer.querySelectorAll('.variable-group');
+      varGroups.forEach((varGroup, index) => {
+        const varName = varGroup.querySelector(`#var-name-${index}`).value;
+        if (varName) {
+          const regex = new RegExp(`{${varName}}`, 'g');
+          content = content.replace(regex, `<span class="variable-highlight">{${varName}}</span>`);
+        }
+      });
+      
+      // 마크다운 변환 (간단한 구현)
+      content = content
+        .replace(/\n/g, '<br>')
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        .replace(/\`(.*?)\`/g, '<code>$1</code>');
+      
+      previewDiv.innerHTML = content;
+    }
+    
+    // 폼 제출 검증
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      let valid = true;
+      
+      // 제목 검증
+      if (!titleInput.value.trim()) {
+        document.getElementById('title-error').textContent = '제목을 입력하세요.';
+        valid = false;
+      } else {
+        document.getElementById('title-error').textContent = '';
+      }
+      
+      // 카테고리 검증
+      if (!categorySelect.value) {
+        document.getElementById('category-error').textContent = '카테고리를 선택하세요.';
+        valid = false;
+      } else {
+        document.getElementById('category-error').textContent = '';
+      }
+      
+      // 내용 검증
+      const contentText = contentInput.value.trim();
+      if (!contentText) {
+        document.getElementById('content-error').textContent = '내용을 입력하세요.';
+        valid = false;
+      } else if (contentText.split(/\s+/).length < 20) {
+        document.getElementById('content-error').textContent = '내용은 최소 20단어 이상이어야 합니다.';
+        valid = false;
+      } else {
+        document.getElementById('content-error').textContent = '';
+      }
+      
+      // 금지어 필터링 (예시)
+      const blocklist = ['부적절한단어', '욕설', '비속어'];
+      const containsBlockedWord = blocklist.some(word => contentText.includes(word));
+      if (containsBlockedWord) {
+        document.getElementById('content-error').textContent = '부적절한 내용이 포함되어 있습니다.';
+        valid = false;
+      }
+      
+      if (valid) {
+        // 실제 데이터 제출 로직은 여기에 구현
+        alert('프롬프트가 성공적으로 제출되었습니다!');
+        form.reset();
+        variablesContainer.innerHTML = '';
+        previewDiv.innerHTML = '';
+        wordCountSpan.textContent = '0';
+      }
+    });
+  });
+</script>
+
+<style>
+  .prompt-submission {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .prompt-form {
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+  
+  input[type="text"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .error-message {
+    color: #e74c3c;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+  }
+  
+  .word-count {
+    color: #666;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    text-align: right;
+  }
+  
+  .variable-group {
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .variable-row {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-end;
+  }
+  
+  .variable-field {
+    flex: 1;
+  }
+  
+  .remove-variable {
+    flex-shrink: 0;
+    padding: 0.5rem;
+    margin-bottom: 1px;
+  }
+  
+  .prompt-preview {
+    min-height: 100px;
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+  }
+  
+  .variable-highlight {
+    background-color: #e9f5fe;
+    color: #3498db;
+    padding: 0.125rem 0.25rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  
+  .form-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    margin-top: 2rem;
+  }
+  
+  /* 다크 테마 */
+  .dark-theme .prompt-form {
+    background-color: #2c2c2c;
+  }
+  
+  .dark-theme input[type="text"],
+  .dark-theme textarea,
+  .dark-theme select {
+    background-color: #383838;
+    border-color: #555;
+    color: #eaeaea;
+  }
+  
+  .dark-theme .variable-group {
+    background-color: #383838;
+  }
+  
+  .dark-theme .prompt-preview {
+    background-color: #2c2c2c;
+    border-color: #555;
+  }
+  
+  .dark-theme .variable-highlight {
+    background-color: #1a3a5a;
+    color: #61afef;
+  }
+</style> 

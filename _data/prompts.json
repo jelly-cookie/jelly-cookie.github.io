@@ -1,0 +1,344 @@
+{
+  "categories": [
+    {
+      "id": "web-development",
+      "name": "웹 개발",
+      "subcategories": [
+        {
+          "id": "frontend",
+          "name": "프론트엔드",
+          "subcategories": [
+            {
+              "id": "html-css",
+              "name": "HTML/CSS"
+            },
+            {
+              "id": "javascript",
+              "name": "JavaScript"
+            }
+          ]
+        },
+        {
+          "id": "backend",
+          "name": "백엔드",
+          "subcategories": [
+            {
+              "id": "nodejs",
+              "name": "Node.js"
+            },
+            {
+              "id": "databases",
+              "name": "데이터베이스"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "디자인",
+      "subcategories": [
+        {
+          "id": "ui",
+          "name": "UI 디자인",
+          "subcategories": [
+            {
+              "id": "wireframes",
+              "name": "와이어프레임"
+            },
+            {
+              "id": "mockups",
+              "name": "목업"
+            }
+          ]
+        },
+        {
+          "id": "ux",
+          "name": "UX 디자인",
+          "subcategories": [
+            {
+              "id": "research",
+              "name": "사용자 리서치"
+            },
+            {
+              "id": "testing",
+              "name": "사용성 테스트"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mobile",
+      "name": "모바일 개발",
+      "subcategories": [
+        {
+          "id": "ios",
+          "name": "iOS 개발",
+          "subcategories": [
+            {
+              "id": "swift",
+              "name": "Swift"
+            },
+            {
+              "id": "swiftui",
+              "name": "SwiftUI"
+            }
+          ]
+        },
+        {
+          "id": "android",
+          "name": "안드로이드 개발",
+          "subcategories": [
+            {
+              "id": "kotlin",
+              "name": "Kotlin"
+            },
+            {
+              "id": "java",
+              "name": "Java"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "data-science",
+      "name": "데이터 사이언스",
+      "subcategories": [
+        {
+          "id": "ml",
+          "name": "머신러닝",
+          "subcategories": [
+            {
+              "id": "supervised",
+              "name": "지도학습"
+            },
+            {
+              "id": "unsupervised",
+              "name": "비지도학습"
+            }
+          ]
+        },
+        {
+          "id": "analytics",
+          "name": "데이터 분석",
+          "subcategories": [
+            {
+              "id": "visualization",
+              "name": "데이터 시각화"
+            },
+            {
+              "id": "prediction",
+              "name": "예측 분석"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devops",
+      "name": "DevOps",
+      "subcategories": [
+        {
+          "id": "ci-cd",
+          "name": "CI/CD",
+          "subcategories": [
+            {
+              "id": "jenkins",
+              "name": "Jenkins"
+            },
+            {
+              "id": "github-actions",
+              "name": "GitHub Actions"
+            }
+          ]
+        },
+        {
+          "id": "cloud",
+          "name": "클라우드",
+          "subcategories": [
+            {
+              "id": "aws",
+              "name": "AWS"
+            },
+            {
+              "id": "azure",
+              "name": "Azure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-ml",
+      "name": "AI/기계학습",
+      "subcategories": [
+        {
+          "id": "nlp",
+          "name": "자연어처리",
+          "subcategories": [
+            {
+              "id": "text-generation",
+              "name": "텍스트 생성"
+            },
+            {
+              "id": "sentiment-analysis",
+              "name": "감정 분석"
+            }
+          ]
+        },
+        {
+          "id": "cv",
+          "name": "컴퓨터 비전",
+          "subcategories": [
+            {
+              "id": "image-recognition",
+              "name": "이미지 인식"
+            },
+            {
+              "id": "object-detection",
+              "name": "객체 탐지"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "보안",
+      "subcategories": [
+        {
+          "id": "web-security",
+          "name": "웹 보안",
+          "subcategories": [
+            {
+              "id": "authentication",
+              "name": "인증"
+            },
+            {
+              "id": "encryption",
+              "name": "암호화"
+            }
+          ]
+        },
+        {
+          "id": "network-security",
+          "name": "네트워크 보안",
+          "subcategories": [
+            {
+              "id": "firewalls",
+              "name": "방화벽"
+            },
+            {
+              "id": "vpn",
+              "name": "VPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "testing",
+      "name": "테스팅",
+      "subcategories": [
+        {
+          "id": "unit-testing",
+          "name": "단위 테스트",
+          "subcategories": [
+            {
+              "id": "jest",
+              "name": "Jest"
+            },
+            {
+              "id": "mocha",
+              "name": "Mocha"
+            }
+          ]
+        },
+        {
+          "id": "e2e-testing",
+          "name": "E2E 테스트",
+          "subcategories": [
+            {
+              "id": "cypress",
+              "name": "Cypress"
+            },
+            {
+              "id": "selenium",
+              "name": "Selenium"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prompts": [
+    {
+      "id": "responsive-layout",
+      "title": "반응형 레이아웃 생성",
+      "category": "web-development",
+      "subcategory": "frontend",
+      "sub_subcategory": "html-css",
+      "author": "김개발",
+      "date": "2023-07-15",
+      "usage_count": 1205,
+      "likes": 342,
+      "variables": [
+        {
+          "name": "width",
+          "desc": "최대 너비(px 단위)"
+        },
+        {
+          "name": "columns",
+          "desc": "그리드 컬럼 수"
+        }
+      ],
+      "content": "다음 조건에 맞는 반응형 그리드 레이아웃을 CSS Grid와 Media Query를 사용하여 작성해주세요:\n1. 최대 너비: {width}px\n2. 기본 컬럼 수: {columns}\n3. 태블릿(768px)에서는 컬럼 수를 절반으로 줄이기\n4. 모바일(480px)에서는 단일 컬럼 사용\n5. 각 아이템에 10px 간격 적용\n6. 그림자 효과와 호버 애니메이션 포함"
+    },
+    {
+      "id": "api-endpoint",
+      "title": "RESTful API 엔드포인트 구현",
+      "category": "web-development",
+      "subcategory": "backend",
+      "sub_subcategory": "nodejs",
+      "author": "박서버",
+      "date": "2023-09-22",
+      "usage_count": 872,
+      "likes": 256,
+      "variables": [
+        {
+          "name": "resource",
+          "desc": "리소스 이름(복수형)"
+        },
+        {
+          "name": "fields",
+          "desc": "필드 목록(쉼표로 구분)"
+        }
+      ],
+      "content": "Express.js를 사용하여 다음 요구사항에 맞는 RESTful API 엔드포인트를 작성해주세요:\n1. 리소스: {resource}\n2. 필드: {fields}\n3. CRUD 작업 모두 구현(GET, POST, PUT, DELETE)\n4. 입력 유효성 검사 포함\n5. 에러 처리 및 적절한 HTTP 상태 코드 반환\n6. JWT 인증 미들웨어 적용\n7. 페이지네이션 구현(기본 페이지 크기: 10)"
+    },
+    {
+      "id": "data-visualization",
+      "title": "인터랙티브 데이터 시각화",
+      "category": "data-science",
+      "subcategory": "analytics",
+      "sub_subcategory": "visualization",
+      "author": "이차트",
+      "date": "2023-11-08",
+      "usage_count": 635,
+      "likes": 189,
+      "variables": [
+        {
+          "name": "chart_type",
+          "desc": "차트 유형(bar, line, pie 등)"
+        },
+        {
+          "name": "data_source",
+          "desc": "데이터 소스 URL 또는 설명"
+        }
+      ],
+      "content": "D3.js를 사용하여 다음 요구사항에 맞는 인터랙티브 {chart_type} 차트를 구현해주세요:\n1. 데이터 소스: {data_source}\n2. 툴팁 표시(마우스 오버 시)\n3. 애니메이션 효과 추가(로딩 및 데이터 변경 시)\n4. 반응형 레이아웃(다양한 화면 크기 지원)\n5. 색상 테마 사용자 정의 옵션\n6. 데이터 필터링 컨트롤 추가\n7. SVG 요소 최적화로 성능 향상"
+    }
+  ]
+} 

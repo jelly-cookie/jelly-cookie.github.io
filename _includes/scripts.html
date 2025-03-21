@@ -1,0 +1,154 @@
+{% if site.footer_scripts %}
+  {% for script in site.footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% else %}
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% endif %}
+
+{% if site.search == true or page.layout == "search" %}
+  {%- assign search_provider = site.search_provider | default: "lunr" -%}
+  {%- case search_provider -%}
+    {%- when "lunr" -%}
+      {% include_cached search/lunr-search-scripts.html %}
+    {%- when "google" -%}
+      {% include_cached search/google-search-scripts.html %}
+    {%- when "algolia" -%}
+      {% include_cached search/algolia-search-scripts.html %}
+  {%- endcase -%}
+{% endif %}
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
+
+<!-- 다크 모드 토글 스크립트 -->
+<script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script>
+
+<!-- 클립보드 복사 기능 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const copyButtons = document.querySelectorAll('.prompt-card__copy');
+  
+  copyButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const promptCard = this.closest('.prompt-card');
+      const promptContent = promptCard.querySelector('.prompt-card__content').textContent;
+      
+      // 변수 값을 포함한 완성된 프롬프트 생성
+      let finalPrompt = promptContent;
+      const variables = promptCard.querySelectorAll('.variable input');
+      variables.forEach(variable => {
+        const varName = variable.getAttribute('data-var-name');
+        finalPrompt = finalPrompt.replace(new RegExp(`{${varName}}`, 'g'), variable.value);
+      });
+      
+      // 클립보드에 복사
+      navigator.clipboard.writeText(finalPrompt).then(() => {
+        this.classList.add('copied');
+        this.textContent = '복사됨!';
+        
+        setTimeout(() => {
+          this.classList.remove('copied');
+          this.textContent = '복사';
+        }, 2000);
+      });
+    });
+  });
+});
+</script>
+
+<!-- InstantSearch.js 초기화 -->
+{% if page.layout == "search" or page.layout == "home" %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchClient = algoliasearch('YOUR_APP_ID', 'YOUR_SEARCH_API_KEY');
+  
+  const search = instantsearch({
+    indexName: 'prompts',
+    searchClient,
+    routing: true
+  });
+  
+  // 검색 상자 위젯
+  search.addWidgets([
+    instantsearch.widgets.searchBox({
+      container: '#searchbox',
+      placeholder: '프롬프트 검색...'
+    }),
+    
+    // 카테고리 필터 위젯
+    instantsearch.widgets.refinementList({
+      container: '#category-filter',
+      attribute: 'category',
+      operator: 'or',
+      limit: 10,
+      sortBy: ['count:desc', 'name:asc']
+    }),
+    
+    // 정렬 위젯
+    instantsearch.widgets.sortBy({
+      container: '#sort-by',
+      items: [
+        { label: '인기순', value: 'prompts_popularity_desc' },
+        { label: '최신순', value: 'prompts_date_desc' }
+      ]
+    }),
+    
+    // 프롬프트 히트(결과) 위젯
+    instantsearch.widgets.hits({
+      container: '#prompt-hits',
+      templates: {
+        item: (hit) => `
+          <div class="prompt-card">
+            <div class="prompt-card__header">
+              <h3 class="prompt-card__title">${hit.title}</h3>
+              <span class="prompt-card__category">${hit.category}</span>
+            </div>
+            <div class="prompt-card__content">${hit._highlightResult.content.value}</div>
+            <div class="prompt-card__variables">
+              ${hit.variables ? hit.variables.map(v => `
+                <div class="variable">
+                  <label for="var-${v.name}">${v.desc}</label>
+                  <input type="text" id="var-${v.name}" data-var-name="${v.name}" placeholder="${v.name}">
+                </div>
+              `).join('') : ''}
+            </div>
+            <div class="prompt-card__footer">
+              <div class="prompt-card__stats">
+                <div class="likes"><i class="fas fa-heart icon"></i> ${hit.likes || 0}</div>
+                <div class="usage"><i class="fas fa-bolt icon"></i> ${hit.usage_count || 0}</div>
+              </div>
+              <button class="prompt-card__copy">복사</button>
+            </div>
+          </div>
+        `,
+        empty: `
+          <div class="no-results">
+            <p>검색 결과가 없습니다.</p>
+            <p>다른 키워드로 검색해보시거나 다음 추천 프롬프트를 시도해보세요:</p>
+            <ul>
+              <li>웹 개발 기초 프롬프트</li>
+              <li>코드 리뷰 프롬프트</li>
+              <li>디자인 아이디어 프롬프트</li>
+            </ul>
+          </div>
+        `
+      }
+    }),
+    
+    // 페이지네이션 위젯
+    instantsearch.widgets.pagination({
+      container: '#pagination'
+    })
+  ]);
+  
+  search.start();
+});
+</script>
+{% endif %}
+
+{% if site.after_footer_scripts %}
+  {% for script in site.after_footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}

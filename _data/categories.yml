@@ -1,0 +1,49 @@
+- name: "웹 개발"
+  id: web-dev
+  subcategories:
+    - name: "프론트엔드"
+      id: frontend
+    - name: "백엔드"
+      id: backend
+    - name: "데이터베이스"
+      id: database
+
+- name: "디자인"
+  id: design
+  subcategories:
+    - name: "UI 디자인"
+      id: ui-design
+    - name: "UX 디자인"
+      id: ux-design
+    - name: "그래픽 디자인"
+      id: graphic-design
+
+- name: "DevOps"
+  id: devops
+  subcategories:
+    - name: "CI/CD"
+      id: cicd
+    - name: "AWS"
+      id: aws
+    - name: "Docker"
+      id: docker
+
+- name: "테스팅"
+  id: testing
+  subcategories:
+    - name: "단위 테스트"
+      id: unit-test
+    - name: "E2E 테스트"
+      id: e2e-test
+    - name: "성능 테스트"
+      id: performance-test
+
+- name: "데이터 사이언스"
+  id: data-science
+  subcategories:
+    - name: "머신러닝"
+      id: machine-learning
+    - name: "딥러닝"
+      id: deep-learning
+    - name: "데이터 분석"
+      id: data-analysis 

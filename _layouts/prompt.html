@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/prompt.css' | relative_url }}">
+
+<div class="prompt">
+  <header class="prompt-header">
+    <h1 class="prompt-title">{{ page.title }}</h1>
+    <p class="prompt-meta">
+      {% if page.date %}
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+      {% endif %}
+      {% if page.category %}
+      <span class="prompt-category">{{ page.category }}</span>
+      {% endif %}
+      {% if page.subcategory %}
+      <span class="prompt-subcategory">{{ page.subcategory }}</span>
+      {% endif %}
+    </p>
+    {% if page.tags %}
+    <div class="prompt-tags">
+      {% for tag in page.tags %}
+      <span class="prompt-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="prompt-content">
+    {{ content }}
+  </div>
+
+  {% if page.variables %}
+  <div class="prompt-variables">
+    <h2>변수 목록</h2>
+    <ul>
+      {% for var in page.variables %}
+      <li>
+        <strong>{{ var.name }}</strong>
+        {% if var.required %}
+        <span class="required">*</span>
+        {% endif %}
+        <br>
+        {{ var.desc }}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</div> 

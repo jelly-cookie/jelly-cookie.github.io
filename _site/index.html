@@ -1,0 +1,1294 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="ko-KR" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>AI 프롬프트 라이브러리</title>
+<meta name="description" content="다양한 AI 모델을 위한 프롬프트 라이브러리. ChatGPT, DALL-E, Midjourney 등의 프롬프트를 공유하고 검색해보세요.">
+
+
+  <meta name="author" content="AI Promport Team">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:site_name" content="AI 프롬프트 라이브러리">
+<meta property="og:title" content="AI 프롬프트 라이브러리">
+<meta property="og:url" content="http://localhost:4000/">
+
+
+  <meta property="og:description" content="다양한 AI 모델을 위한 프롬프트 라이브러리. ChatGPT, DALL-E, Midjourney 등의 프롬프트를 공유하고 검색해보세요.">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/">
+
+
+
+
+
+  
+<!-- 기본 페이지 스키마 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "",
+  "description": "다양한 AI 모델을 위한 프롬프트 라이브러리. ChatGPT, DALL-E, Midjourney 등의 프롬프트를 공유하고 검색해보세요.",
+  "url": "http://localhost:4000/"
+}
+</script>
+
+
+<!-- 조직 정보 스키마 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AI 프롬프트 라이브러리",
+  "url": "http://localhost:4000",
+  "logo": "http://localhost:4000/assets/images/logo.png",
+  "sameAs": [
+    
+      
+        "",
+      
+        "",
+      
+        "https://twitter.com/ai_promport",
+      
+        "",
+      
+        "https://github.com/username/ai-promport",
+      
+        ""
+      
+    
+  ]
+}
+</script>
+
+<!-- 브레드크럼 스키마 -->
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="AI 프롬프트 라이브러리 Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+<!-- InstantSearch.js -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css">
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.49.1/dist/instantsearch.production.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--default" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo.png" alt="AI Promport"></a>
+        
+        <a class="site-title" href="/">
+          AI Promport
+          <span class="site-subtitle">AI 프롬프트 공유 및 검색 플랫폼</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+                
+                
+              >Quick-Start Guide</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">토글 메뉴</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <link rel="stylesheet" href="/assets/css/main.css">
+
+<div class="prompt-library">
+  <!-- 히어로 섹션 -->
+  <div class="hero-section">
+    <h1 class="site-title">AI 프롬프트 라이브러리</h1>
+    <p class="site-description">다양한 AI 모델을 위한 프롬프트 라이브러리. ChatGPT, DALL-E, Midjourney 등의 프롬프트를 공유하고 검색해보세요.</p>
+    
+    <div class="search-section">
+      <div class="search-box">
+        <input type="text" placeholder="프롬프트 검색..." id="prompt-search">
+        <button type="button"><i class="fas fa-search"></i></button>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <!-- 사이드바 -->
+    <aside class="sidebar">
+      <h2>카테고리</h2>
+      <nav class="category-nav">
+        
+        <div class="category-group">
+          <h3>웹 개발</h3>
+          <ul>
+            
+            <li>
+              <a href="#frontend" class="category-link">프론트엔드</a>
+            </li>
+            
+            <li>
+              <a href="#backend" class="category-link">백엔드</a>
+            </li>
+            
+            <li>
+              <a href="#database" class="category-link">데이터베이스</a>
+            </li>
+            
+          </ul>
+        </div>
+        
+        <div class="category-group">
+          <h3>디자인</h3>
+          <ul>
+            
+            <li>
+              <a href="#ui-design" class="category-link">UI 디자인</a>
+            </li>
+            
+            <li>
+              <a href="#ux-design" class="category-link">UX 디자인</a>
+            </li>
+            
+            <li>
+              <a href="#graphic-design" class="category-link">그래픽 디자인</a>
+            </li>
+            
+          </ul>
+        </div>
+        
+        <div class="category-group">
+          <h3>DevOps</h3>
+          <ul>
+            
+            <li>
+              <a href="#cicd" class="category-link">CI/CD</a>
+            </li>
+            
+            <li>
+              <a href="#aws" class="category-link">AWS</a>
+            </li>
+            
+            <li>
+              <a href="#docker" class="category-link">Docker</a>
+            </li>
+            
+          </ul>
+        </div>
+        
+        <div class="category-group">
+          <h3>테스팅</h3>
+          <ul>
+            
+            <li>
+              <a href="#unit-test" class="category-link">단위 테스트</a>
+            </li>
+            
+            <li>
+              <a href="#e2e-test" class="category-link">E2E 테스트</a>
+            </li>
+            
+            <li>
+              <a href="#performance-test" class="category-link">성능 테스트</a>
+            </li>
+            
+          </ul>
+        </div>
+        
+        <div class="category-group">
+          <h3>데이터 사이언스</h3>
+          <ul>
+            
+            <li>
+              <a href="#machine-learning" class="category-link">머신러닝</a>
+            </li>
+            
+            <li>
+              <a href="#deep-learning" class="category-link">딥러닝</a>
+            </li>
+            
+            <li>
+              <a href="#data-analysis" class="category-link">데이터 분석</a>
+            </li>
+            
+          </ul>
+        </div>
+        
+      </nav>
+    </aside>
+
+    <!-- 메인 콘텐츠 -->
+    <main class="main-content">
+      <div class="prompt-grid">
+        
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">AWS 아키텍처 설계 검토</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">DevOps</span>
+              
+              <span class="prompt-card__subcategory">AWS</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">클라우드 인프라 보안과 확장성 평가</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>서비스유형</label>
+                <input type="text" 
+                       placeholder="아키텍처 유형 (서버리스/컨테이너/하이브리드)"
+                       data-required="true"
+                       data-var-name="서비스유형">
+              </div>
+              
+              <div class="variable-input">
+                <label>규모</label>
+                <input type="text" 
+                       placeholder="예상 트래픽/사용자 규모"
+                       data-required="false"
+                       data-var-name="규모">
+              </div>
+              
+              <div class="variable-input">
+                <label>예산</label>
+                <input type="text" 
+                       placeholder="월간 예상 비용 범위"
+                       data-required="false"
+                       data-var-name="예산">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/aws-architecture-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">현대적인 제품 디자인 생성 프롬프트</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">dalle</span>
+              
+              <span class="prompt-card__subcategory">product-design</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">DALL-E를 사용하여 혁신적이고 현대적인 제품 디자인을 생성하세요.</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>product_type</label>
+                <input type="text" 
+                       placeholder="제품 종류 (예: 스마트워치, 블루투스 스피커)"
+                       data-required=""
+                       data-var-name="product_type">
+              </div>
+              
+              <div class="variable-input">
+                <label>style</label>
+                <input type="text" 
+                       placeholder="디자인 스타일 (예: 미니멀리즘, 바이오모픽)"
+                       data-required=""
+                       data-var-name="style">
+              </div>
+              
+              <div class="variable-input">
+                <label>color_scheme</label>
+                <input type="text" 
+                       placeholder="주요 색상 구성 (예: 모노크롬, 파스텔)"
+                       data-required=""
+                       data-var-name="color_scheme">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>89</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>234</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/dalle/product-design/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">단위 테스트 케이스 생성</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">테스팅</span>
+              
+              <span class="prompt-card__subcategory">단위 테스트</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">Jest를 이용한 테스트 커버리지 확보</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>테스트대상</label>
+                <input type="text" 
+                       placeholder="테스트할 대상 유형 (함수/컴포넌트/API)"
+                       data-required="true"
+                       data-var-name="테스트대상">
+              </div>
+              
+              <div class="variable-input">
+                <label>프레임워크</label>
+                <input type="text" 
+                       placeholder="사용중인 테스트 프레임워크 (Jest/Mocha/Vitest)"
+                       data-required="true"
+                       data-var-name="프레임워크">
+              </div>
+              
+              <div class="variable-input">
+                <label>커버리지목표</label>
+                <input type="text" 
+                       placeholder="목표 테스트 커버리지 비율"
+                       data-required="false"
+                       data-var-name="커버리지목표">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/unit-test-generation/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">UI 디자인 시스템 검증</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">디자인</span>
+              
+              <span class="prompt-card__subcategory">UI 디자인</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">디자인 토큰과 컴포넌트 일관성 평가</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>디자인툴</label>
+                <input type="text" 
+                       placeholder="사용중인 디자인 도구 (Figma/Adobe XD/Sketch)"
+                       data-required="true"
+                       data-var-name="디자인툴">
+              </div>
+              
+              <div class="variable-input">
+                <label>브랜드가이드</label>
+                <input type="text" 
+                       placeholder="브랜드 가이드라인 문서 URL"
+                       data-required="false"
+                       data-var-name="브랜드가이드">
+              </div>
+              
+              <div class="variable-input">
+                <label>컴포넌트범위</label>
+                <input type="text" 
+                       placeholder="검토가 필요한 컴포넌트 범위"
+                       data-required="false"
+                       data-var-name="컴포넌트범위">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/ui-design-system-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">Node.js API 설계 검토</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">백엔드</span>
+              
+              <span class="prompt-card__subcategory">Node.js</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">REST/GraphQL API 아키텍처 분석</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>프레임워크</label>
+                <input type="text" 
+                       placeholder="사용한 Node.js 프레임워크 (Express/NestJS/Fastify)"
+                       data-required="true"
+                       data-var-name="프레임워크">
+              </div>
+              
+              <div class="variable-input">
+                <label>API유형</label>
+                <input type="text" 
+                       placeholder="API 아키텍처 유형 (REST/GraphQL)"
+                       data-required="true"
+                       data-var-name="API유형">
+              </div>
+              
+              <div class="variable-input">
+                <label>인증방식</label>
+                <input type="text" 
+                       placeholder="사용중인 인증 방식 (JWT/Session/OAuth)"
+                       data-required="false"
+                       data-var-name="인증방식">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/nodejs-api-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">머신러닝 모델 검증</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">데이터 사이언스</span>
+              
+              <span class="prompt-card__subcategory">머신러닝</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">학습 데이터와 모델 성능 평가</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>모델유형</label>
+                <input type="text" 
+                       placeholder="모델 아키텍처 유형 (CNN/RNN/Transformer)"
+                       data-required="true"
+                       data-var-name="모델유형">
+              </div>
+              
+              <div class="variable-input">
+                <label>데이터셋크기</label>
+                <input type="text" 
+                       placeholder="학습/검증/테스트 데이터 크기"
+                       data-required="false"
+                       data-var-name="데이터셋크기">
+              </div>
+              
+              <div class="variable-input">
+                <label>목표성능</label>
+                <input type="text" 
+                       placeholder="달성하고자 하는 성능 지표"
+                       data-required="false"
+                       data-var-name="목표성능">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/ml-model-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">HTML/CSS 구조 검증</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">프론트엔드</span>
+              
+              <span class="prompt-card__subcategory">HTML/CSS</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">시맨틱 마크업과 반응형 디자인 검토</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>레이아웃 유형</label>
+                <input type="text" 
+                       placeholder="그리드/플렉스/CSS 커스텀 속성"
+                       data-required="true"
+                       data-var-name="레이아웃 유형">
+              </div>
+              
+              <div class="variable-input">
+                <label>브레이크포인트</label>
+                <input type="text" 
+                       placeholder="반응형 디자인 중단점 (예: 768px, 1024px)"
+                       data-required="false"
+                       data-var-name="브레이크포인트">
+              </div>
+              
+              <div class="variable-input">
+                <label>지원브라우저</label>
+                <input type="text" 
+                       placeholder="호환성 보장이 필요한 브라우저 목록"
+                       data-required="false"
+                       data-var-name="지원브라우저">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/html-css-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">전문적인 프론트엔드 코드 리뷰</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">웹 개발</span>
+              
+              <span class="prompt-card__subcategory">프론트엔드</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">React/Vue 컴포넌트의 아키텍처와 성능을 분석합니다</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>프레임워크</label>
+                <input type="text" 
+                       placeholder="사용한 프레임워크 (React/Vue/Svelte)"
+                       data-required="true"
+                       data-var-name="프레임워크">
+              </div>
+              
+              <div class="variable-input">
+                <label>상태관리도구</label>
+                <input type="text" 
+                       placeholder="사용중인 상태관리 라이브러리 (Redux/Vuex/Pinia 등)"
+                       data-required="false"
+                       data-var-name="상태관리도구">
+              </div>
+              
+              <div class="variable-input">
+                <label>타겟브라우저</label>
+                <input type="text" 
+                       placeholder="지원해야 하는 브라우저 목록"
+                       data-required="false"
+                       data-var-name="타겟브라우저">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/frontend-code-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">E2E 테스트 시나리오 개발</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">테스팅</span>
+              
+              <span class="prompt-card__subcategory">E2E 테스트</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">Cypress를 활용한 사용자 플로우 검증</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>테스트범위</label>
+                <input type="text" 
+                       placeholder="테스트 대상 범위 (크로스브라우징/모바일/전체기능)"
+                       data-required="true"
+                       data-var-name="테스트범위">
+              </div>
+              
+              <div class="variable-input">
+                <label>도구</label>
+                <input type="text" 
+                       placeholder="사용할 E2E 테스트 도구 (Cypress/Playwright/TestCafe)"
+                       data-required="true"
+                       data-var-name="도구">
+              </div>
+              
+              <div class="variable-input">
+                <label>환경</label>
+                <input type="text" 
+                       placeholder="테스트 실행 환경 (로컬/CI/클라우드)"
+                       data-required="false"
+                       data-var-name="환경">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/e2e-test-scenario/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">데이터베이스 쿼리 최적화</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">백엔드</span>
+              
+              <span class="prompt-card__subcategory">데이터베이스</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">SQL/NoSQL 쿼리 실행 계획 분석</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>DB유형</label>
+                <input type="text" 
+                       placeholder="데이터베이스 유형 (MySQL/PostgreSQL/MongoDB)"
+                       data-required="true"
+                       data-var-name="DB유형">
+              </div>
+              
+              <div class="variable-input">
+                <label>데이터크기</label>
+                <input type="text" 
+                       placeholder="처리해야 할 데이터 규모 (레코드 수)"
+                       data-required="false"
+                       data-var-name="데이터크기">
+              </div>
+              
+              <div class="variable-input">
+                <label>처리유형</label>
+                <input type="text" 
+                       placeholder="주요 처리 유형 (OLTP/OLAP)"
+                       data-required="false"
+                       data-var-name="처리유형">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/database-query-optimization/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">전문적인 코드 리뷰 프롬프트</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">chatgpt</span>
+              
+              <span class="prompt-card__subcategory">development</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">ChatGPT를 사용하여 상세하고 전문적인 코드 리뷰를 받아보세요.</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>language</label>
+                <input type="text" 
+                       placeholder="프로그래밍 언어 (예: Python, JavaScript)"
+                       data-required=""
+                       data-var-name="language">
+              </div>
+              
+              <div class="variable-input">
+                <label>focus_areas</label>
+                <input type="text" 
+                       placeholder="중점적으로 리뷰받고 싶은 영역 (예: 성능, 보안, 가독성)"
+                       data-required=""
+                       data-var-name="focus_areas">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>128</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>456</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/code-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">CI/CD 파이프라인 검증</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">DevOps</span>
+              
+              <span class="prompt-card__subcategory">CI/CD</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">자동화 배포 프로세스 최적화</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>환경</label>
+                <input type="text" 
+                       placeholder="배포 환경 유형 (온프레미스/클라우드)"
+                       data-required="true"
+                       data-var-name="환경">
+              </div>
+              
+              <div class="variable-input">
+                <label>도구</label>
+                <input type="text" 
+                       placeholder="사용중인 CI/CD 도구 (Jenkins/GitHub Actions/GitLab CI)"
+                       data-required="true"
+                       data-var-name="도구">
+              </div>
+              
+              <div class="variable-input">
+                <label>배포주기</label>
+                <input type="text" 
+                       placeholder="현재 배포 주기 (일/주/월)"
+                       data-required="false"
+                       data-var-name="배포주기">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>0</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>0</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/chatgpt/cicd-pipeline-review/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+        <article class="prompt-card">
+          <div class="prompt-card__header">
+            <h3 class="prompt-card__title">스타일라이즈드 캐릭터 디자인 프롬프트</h3>
+            <div class="prompt-card__meta">
+              <span class="prompt-card__category">midjourney</span>
+              
+              <span class="prompt-card__subcategory">character</span>
+              
+            </div>
+          </div>
+
+          <div class="prompt-card__body">
+            <p class="prompt-card__excerpt">Midjourney를 사용하여 독특하고 매력적인 캐릭터를 디자인하세요.</p>
+            
+            <div class="prompt-card__variables">
+              
+              <div class="variable-input">
+                <label>character_type</label>
+                <input type="text" 
+                       placeholder="캐릭터 유형 (예: 마법사, 사이버펑크 전사)"
+                       data-required=""
+                       data-var-name="character_type">
+              </div>
+              
+              <div class="variable-input">
+                <label>art_style</label>
+                <input type="text" 
+                       placeholder="아트 스타일 (예: 애니메이션, 세미리얼리즘)"
+                       data-required=""
+                       data-var-name="art_style">
+              </div>
+              
+              <div class="variable-input">
+                <label>mood</label>
+                <input type="text" 
+                       placeholder="캐릭터의 분위기 (예: 신비로운, 활기찬)"
+                       data-required=""
+                       data-var-name="mood">
+              </div>
+              
+            </div>
+            
+          </div>
+
+          <div class="prompt-card__footer">
+            <div class="prompt-card__stats">
+              <button class="stat-btn likes" title="좋아요">
+                <i class="fas fa-heart"></i>
+                <span>156</span>
+              </button>
+              <button class="stat-btn usage" title="사용 횟수">
+                <i class="fas fa-bolt"></i>
+                <span>378</span>
+              </button>
+            </div>
+            <div class="prompt-card__actions">
+              <button class="btn btn-copy" onclick="copyPrompt(this)">복사하기</button>
+              <a href="/prompts/midjourney/character-design/" class="btn btn-details">자세히</a>
+            </div>
+          </div>
+        </article>
+        
+      </div>
+    </main>
+  </div>
+</div>
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>팔로우:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://github.com/username/ai-promport" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/ai_promport" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> 피드</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 <a href="http://localhost:4000">AI 프롬프트 라이브러리</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'YOUR_APPLICATION_ID',
+      apiKey: 'YOUR_SEARCH_ONLY_API_KEY',
+      indexName: 'YOUR_INDEX_NAME',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: '검색어를 입력하세요...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+<!-- 다크 모드 토글 스크립트 -->
+<script src="/assets/js/dark-mode.js"></script>
+
+<!-- 클립보드 복사 기능 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const copyButtons = document.querySelectorAll('.prompt-card__copy');
+  
+  copyButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      const promptCard = this.closest('.prompt-card');
+      const promptContent = promptCard.querySelector('.prompt-card__content').textContent;
+      
+      // 변수 값을 포함한 완성된 프롬프트 생성
+      let finalPrompt = promptContent;
+      const variables = promptCard.querySelectorAll('.variable input');
+      variables.forEach(variable => {
+        const varName = variable.getAttribute('data-var-name');
+        finalPrompt = finalPrompt.replace(new RegExp(`{${varName}}`, 'g'), variable.value);
+      });
+      
+      // 클립보드에 복사
+      navigator.clipboard.writeText(finalPrompt).then(() => {
+        this.classList.add('copied');
+        this.textContent = '복사됨!';
+        
+        setTimeout(() => {
+          this.classList.remove('copied');
+          this.textContent = '복사';
+        }, 2000);
+      });
+    });
+  });
+});
+</script>
+
+<!-- InstantSearch.js 초기화 -->
+
+
+
+
+  </body>
+</html>
